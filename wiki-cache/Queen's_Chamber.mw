@@ -1,0 +1,15 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Queen's Chamber]] is found underneath [[The Organic Orchard]], on [[The Mysterious Island of Mystery (Wartime)]].
+
+If you attempt to enter without being covered in [[Filthworm Guard Stench]], you will receive the following message:
+:You try to enter the filthworm queen's chamber, but the guards outside the door block the entrance. You must not smell right to 'em.
+Once you smell like a Guard, you may enter to fight the [[queen filthworm]].
+
+Once the queen has been killed, returning will give the following message:
+:The filthworm queen has been slain, and the hive lays empty 'neath the orchard.
+
+==Combat Adventures==
+{{Combat|name=queen filthworm}}
+
+[[Category:Locations|Filthworm Queen's Chamber, The]]

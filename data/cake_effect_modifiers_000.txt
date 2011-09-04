@@ -1,0 +1,5 @@
+Aspect of the Twinklefairy	Muscle	muscle 0.1 *
+Aspect of the Twinklefairy	Moxie	moxie 0.1 *
+Aspect of the Twinklefairy	Mysticality	mysticality 0.1 *
+Aspect of the Twinklefairy	Weapon Damage	5
+Aspect of the Twinklefairy	Spell Damage	5

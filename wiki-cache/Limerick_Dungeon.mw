@@ -1,0 +1,58 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+One of the dungeons in [[The Dungeon Full Of Dungeons]].  If your main stat isn't high enough, you'll see the following message:
+
+At the entrance, you're stopped by a crone<br>
+Who smiles and says "My, how you've grown!"<br>
+"But you'll need to be tougher<br>
+Lest ye surely shall suffer<br>
+A most terrible fate in this zone."
+
+<center>(You must have at least 21 in your primary stat to adventure here.)</center>
+
+{{Adventure|name=The Apathetic Lizardman|stat=10 {{Mysticality}}|image=lizardman.gif}}
+
+{{Adventure|name=The Crass Goblin|stat=10 {{Moxie}}|image=goblinaxe.gif}}
+
+{{Adventure|name=The Crotchety Wizard|stat=12 {{Mysticality}}|image=haiku11.gif}}
+
+{{Adventure|name=The Dumb Minotaur|stat=14 {{Muscle}}|image=minotaur.gif}}
+
+{{Adventure|name=The Fierce-Looking Giant|stat=11 {{Mysticality}}|image=boozegiant.gif}}
+
+{{Adventure|name=The Gelatinous Cube|stat=12 {{Muscle}}|image=haiku3.gif}}
+
+{{Adventure|name=The Gnome with a Truncheon|stat=11 {{Muscle}}|image=clubgnome.gif}}
+
+{{Adventure|name=The Goblin King's Vassal|drops=[[tassel]]|image=vassal.gif}}
+
+{{Adventure|name=The Insatiable Maiden|stat=11 {{Moxie}}|image=lady.gif}}
+
+{{Adventure|name=The One-Legged Trouser|drops=[[dungeoneer's dungarees]]|image=pant.gif}}
+
+{{Adventure|name=The Orc With a Spork|drops=[[spork]]|image=sporkorc.gif}}
+
+{{Adventure|name=The Slime Puddle|stat=10 {{Moxie}}|image=puddle.gif}}
+
+{{Adventure|name=The Sozzled Old Dragon|stat=10 {{Muscle}}|image=haiku9.gif}}
+
+{{Adventure|name=The Unguarded Chest|meat=30|image=chest.gif}}
+
+{{Adventure|name=The Unpleasant Satyr|stat=12 {{Moxie}}|image=satyr.gif}}
+
+{{Adventure|name=The Vampire Buffer|stat=14 {{Mysticality}}|image=vampire.gif}}
+
+{{Adventure|name=The Witch|stat=14 {{Moxie}}|image=limwitch.gif}}
+
+{{Adventure|name=The Bleary-Eyed Cyclops|drops=[[cyclops eyedrops]]|image=eyedrops2.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Adventure|name=The Weathered Old Chap|drops=[[foon]]|image=hoonfoon.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Nantucket Snapper|drops=[[ancient turtle shell]]|note1=This adventure is triggered only with the [[Eau de Tortue]] effect.|note2=Does not cost an adventure.|image=Oldturtle.gif}}
+
+{{Adventure|name=Thud|image=glyphs4.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+==References==
+*The mainstat warning message, and all other messages in this zone, are in [[wikipedia:limerick (poetry)|limerick]] poem form.
+
+[[Category:Locations|Limerick Dungeon, The]]

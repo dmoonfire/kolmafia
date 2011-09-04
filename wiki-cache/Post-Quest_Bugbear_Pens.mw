@@ -1,0 +1,35 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_DualLocation}}
+
+[[The Bugbear Pens]] are located in [[The Distant Woods]], but are only accessable to characters with a [[Muscle]] [[zodiac sign]]. The Bugbear Pens only become visible once you have been assigned the [[Tame the Bugbears]] quest by  [[Mayor Zapruder]].  Adventures change here after you [[Defeat Felonia]]. You must have at least 13 (main stat) to adventure here, otherwise it will say this:
+:You near the Bugbear Pen, but the sound of the angry Bugbears makes you really nervous.
+:Too nervous to adventure here, in fact.
+
+==Pre-Felonia==
+===Combat Adventures===
+{{Combat|name=angry bugbear}}
+{{Combat|name=annoying spooky gravy fairy}}
+{{Combat|name=bugged bugbear}}
+{{Combat|name=mad bugbears}}
+{{Combat|name=revolting bugbear}}
+{{Combat|name=revolving bugbear}}
+
+===Non-combat Adventures===
+{{Adventure|name=Bacon Bacon Bacon|image=glyphs2.gif|note1=Only occurs with a [[hobo code binder]] equipped.}}
+
+==Post-Felonia==
+{{Adventure|name=The Animal Instinct|meat=50|image=haiku2.gif}}
+{{Adventure|name=Beauty is only fur deep|stat=10 {{Mysticality}}|image=penbears.gif}}
+{{Adventure|name=The Bugbear Baker|drops=[[gingerbread bugbear]]|note1=A [[Ascension#One Time|one time]] adventure.|note2=Will not occur if you've received [[One Day in the Life]].|image=haiku2.gif}}
+{{Adventure|name=Deuces Wild|stat=10 {{Moxie}}|image=cards1.gif}}
+{{Adventure|name=It doesn't grow on trees, you know!|meat=75|image=wagon.gif}}
+{{Adventure|name=Ma Cherie|stat=10 {{Moxie}}|image=penbears.gif}}
+{{Adventure|name=Nothing Up My Sleeve|stat=10 {{Mysticality}}|image=haiku2.gif}}
+{{Adventure|name=The Right To Bugbear Arms|stat=10 {{Muscle}}|image=penbears.gif}}
+{{Adventure|name=Wrasslin'|stat=10 {{Muscle}}|image=haiku2.gif}}
+{{Adventure|name=One Day in the Life|note1=<font color=red>Lose</font> 10 Adventures|note2=A [[Ascension#One Time|one time]] adventure.|note3=Only occurs in the [[Bugbear Costume]].|note4=Does not occur if you've received [[The Bugbear Baker]].|image=penbears.gif}}
+{{Adventure|name=Faux Fur Pas|drops=[[bugbear bungguard]], [[bugbear beanie]]|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.|image=madbugbear.gif}}
+
+==Notes==
+*The many bugbears in the game serve as a model for the [[giant stuffed bugbear]].
+
+[[Category:Locations|Bugbear Pens, The]]

@@ -1,0 +1,61 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[A Battlefield]] (a.k.a. The Cola Wars Battlefield) is located in the [[The Nearby Plains in the Distant Past|Nearby Plains in the Distant Past]].
+
+On November 21, 2005, the rift to the Nearby Plains in the Distant Past, and thus the Battlefield, were made unavailable to characters at levels other than level 4 or 5.  Additionally, since August 8, 2006, the rift is only available to characters which have [[ascension|ascended]].  Also additionally, since January 24, 2007, the rift is only available to characters who have completed the first step of the [[The Wizard of Ego|Wizard of Ego]] quest (acquiring [[Fernswarthy's key]]).
+
+If you attempt to adventure in this area via the "adventure again" or "last adventure" links after attaining level 6, you receive the message:
+:The temporal rift in the plains has closed.
+
+__TOC__
+
+==Undisguised==
+{{choice|name=The Effervescent Fray|image=colaoff1.gif
+|choice1name=Listen to the red leader|choice1=[[Cloaca-Cola fatigues]]
+|choice2name=Listen to the blue leader|choice2=[[Dyspepsi-Cola shield]]
+|choice3name=Don't get involved|choice3=Gain 15 {{Mysticality}}.}}
+
+{{choice|name=Smells Like Team Spirit|image=colaoff2.gif
+|choice1name=Dyspepsi-Cola|choice1=[[Dyspepsi-Cola fatigues]]
+|choice2name=Cloaca-Cola|choice2=[[Cloaca-Cola helmet]]
+|choice3name=Don't get involved|choice3=Gain 15 {{Muscle}}.}}
+
+{{choice|name=What is it Good For?|image=colasol2.gif
+|choice1name=Help the Dyspepsi soldier|choice1=[[Dyspepsi-Cola helmet]]
+|choice2name=Help the Cloaca soldier|choice2=[[Cloaca-Cola shield]]
+|choice3name=Don't get involved|choice3=Gain 15 {{Moxie}}.}}
+
+{{Adventure|name=A Turn of the Coat|stat=Mysticality*2 in {{Mysticality}} (max 50)|image=colasol2.gif}}
+
+{{Adventure|name=Confusing the Issue|stat=Moxie*2 in {{Moxie}} (max 50)|image=colasol1.gif}}
+{{Adventure|name=The Real Thing|stat=Muscle*2 in {{Muscle}} (max 50)|image=colasol1.gif}}
+
+{{Adventure|name=A Funny Thing Happened On the Way|image=glyphs3.gif|note1= Only occurs when adventuring with a [[hobo code binder]] equipped.}}
+
+==In [[Cloaca-Cola Uniform]]==
+===Combat Adventures===
+{{Combat|name=Dyspepsi-Cola General}}
+{{Combat|name=Dyspepsi-Cola Knight}}
+{{Combat|name=Dyspepsi-Cola Soldier}}
+===Non-combat Adventures===
+{{Adventure|name=Kneatly Knicking the Knapsack (Cloaca-Cola)|drops=[[Cloaca-Cola knapsack]]|image=wounded.gif}}
+
+==In [[Dyspepsi-Cola Uniform]]==
+===Combat Adventures===
+{{Combat|name=Cloaca-Cola Catapult Engineer}}
+{{Combat|name=Cloaca-Cola Footsoldier}}
+{{Combat|name=Cloaca-Cola Soldier}}
+===Non-combat Adventures===
+{{Adventure|name=Kneatly Knicking the Knapsack (Dyspepsi-Cola)|drops=[[Dyspepsi-Cola knapsack]]|image=wounded2.gif}}
+
+==Special, Uniform-Independent Adventures==
+===Combat Adventures===
+{{Combat|name=The Temporal Bandit|note1=An [[Ultra Rares|ultra rare]] adventure.|note2=Occurs both in uniform and undisguised.}}
+
+===Non-combat Adventures===
+{{Adventure|name=Prior to Always|drops=[[Six-pack of New Cloaca-Cola]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|note2=Occurs both in uniform and undisguised.|image=2craters.gif}}
+{{Adventure|name=Capital!|drops=[[bottlecap turtle]]|note1=This adventure is triggered only with the [[Eau de Tortue]] effect.|note2=Does not cost an adventure.|note3=Occurs in either uniform, or neither.|image=turtgrass.gif}}
+
+==References==
+*This area refers to the so-called "[[Wikipedia:Cola wars|Cola Wars]]" of the 1980s, in which the degree of competitive advertising between rivals Coca-Cola and Pepsi-Cola reached previously unheard-of heights.
+[[Category:Locations|Battlefield, A]]

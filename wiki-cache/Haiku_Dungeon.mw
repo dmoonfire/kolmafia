@@ -1,0 +1,114 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+The Haiku Dungeon is one of the dungeons in [[The Dungeon Full Of Dungeons]].
+
+All messages in the dungeon are in [[haiku]]. See [[Haiku Dungeon combat]] for generic combat messages.
+
+If your main stat isn't high enough, you'll see the following message:
+
+:Darkened corridors<br />filled with all manner of threats.<br />Spring rain in your pants.
+
+<center>(You must have at least 5 <stat> to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=amateur ninja}}
+
+{{Combat|name=ancient insane monk}}
+
+{{Combat|name=Ferocious bugbear}}
+
+{{Combat|name=gelatinous cube}}
+
+{{Combat|name=Knob Goblin poseur}}
+
+==Non-combat Adventures==
+{{Choice|name=Gravy Fairy Ring|image=mushring.gif|choice1name=Gaffle some mushrooms|choice1=Obtain 2-3 mushrooms|choice2name=Take some gravy instead, or|choice2=Obtain a [[fairy gravy boat]]|choice3name=Leave the ring alone|choice3=Ends adventure}}
+
+{{Adventure|name=Haiku Dungeon in the It's About Damn Time|image=dungdoor.gif|drops=[[red paperclip]]|note1=A [[Ascension#One_Time|one time]] adventure.|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Choice|name=The Haiku Dungeon 1|image=fatninja.gif |choice1name=Beat him with your weapon|choice1=Fail the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]]
+|choice2name=Kick him in the junk
+|choice3name=Try to bribe him with some Meat
+|note1=Part of the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]], and will not occur once it is complete.}}
+
+{{Choice|name=The Haiku Dungeon 2|image=drunkenm.gif |choice1name=Try a roundhouse kick
+|choice2name=Offer the guy some more booze
+|choice3name=Focus your chi and Hadoken|choice3=Fail the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]]
+|note1=Part of the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]], and will not occur once it is complete.}}
+
+{{Choice|name=The Haiku Dungeon 3|image=3ninjas.gif |choice1name=Give Hung Lo a shot
+|choice2name=Large Wang's the one you want|choice2=Fail the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]]
+|choice3name=Try Enormous Genitals
+|note1=Part of the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]], and will not occur once it is complete.}}
+
+{{Choice|name=The Haiku Dungeon 4|image=Vending.gif |choice1name=Push the button for ramen
+|choice2name=Get a tiny plastic zmobie|choice2=Fail the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]]
+|choice3name=Buy the boxer shorts
+|note1=Part of the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]], and will not occur once it is complete.}}
+
+{{Choice|name=The Haiku Dungeon 5|image=pebbleman.gif |choice1name=Distract him and sneak away
+|choice2name=Quickly grab the stone
+|choice3name=Kick him square in the shins|choice3=Fail the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]]
+|note1=Part of the [[Most_Extreme_Haiku_Challenge|Haiku Challenge]], and will not occur once it is complete.}}
+
+==Retired Adventures==
+
+{{Adventure|name=Haiku Dungeon in the Summer (Xtreme Mage)|stat=2 {{Mysticality}}|image=haiku11.gif|note1=This adventure was removed on January 24th, 2007, when [[The Wizard of Ego]] quest rolled out.}}
+
+{{Adventure|name=Haiku Dungeon Ruck|drops=[[dope gangsta bling-bling]]|image=chest.gif|note1=This adventure used to be triggered whenever you adventured here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Haiku Dungeon Craziness|drops=[[rusty metal ring]]|image=haiku15.gif}}
+
+{{Adventure|name=Haiku Dungeon Debauchery|stat=2 {{Muscle}}|image=haiku20.gif}}
+
+{{Adventure|name=Haiku Dungeon Depravity|stat=2 {{Mysticality}}|image=haiku22.gif}}
+
+{{Adventure|name=Haiku Dungeon Excitement (Bugbear)|drops=[[bugbear bungguard]]|image=haiku2.gif}}
+
+{{Adventure|name=Haiku Dungeon Excitement (Gelatinous Cube)|meat=15|image=haiku3.gif}}
+
+{{Adventure|name=Haiku Dungeon Excitement (Torch)|stat=1 {{Mysticality}}|image=haiku1.gif}}
+
+{{Adventure|name=Haiku Dungeon Extravaganza|stat=1 {{Moxie}}|image=haiku19.gif}}
+
+{{Adventure|name=Haiku Dungeon Hooray!|stat=2 {{Muscle}}|image=haiku17.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Fall (Start Flexing)|stat=2 {{Muscle}}|image=haiku12.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Fall (Treasure Chest)|meat=20|image=chest.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Spring (Get Real Drunk)|stat=1 {{Muscle}}|image=haiku4.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Spring (Question Every Goblin)|drops=[[meat from yesterday]]|image=haiku5.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Summer (Gold Cojones)|stat=1 {{Moxie}}|image=haiku8.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Summer (Knocked Dafuggout)|stat=3 {{Moxie}}|image=haiku9.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Winter (Gravy)|drops=[[fairy gravy boat]]|image=haiku6.gif}}
+
+{{Adventure|name=Haiku Dungeon in the Winter (Spoon and Bowl)|meat=20|image=haiku6.gif}}
+
+{{Adventure|name=Haiku Dungeon Insanity|stat=2-3 {{Moxie}}|image=haiku13.gif}}
+
+{{Adventure|name=Haiku Dungeon Loot|drops=[[Orcish meat locker]]|image=haiku18.gif}}
+
+{{Adventure|name=Haiku Dungeon Lunch Break|meat=30|image=haiku25.gif}}
+
+{{Adventure|name=Haiku Dungeon Monotony|drops=[[rusty metal shaft]]|meat=15|image=haiku16.gif}}
+
+{{Adventure|name=Haiku Dungeon Relaxation|drops=[[ice-cold Willer]]|image=haiku14.gif}}
+
+{{Adventure|name=Haiku Dungeon Romance|stat=2 {{Moxie}}|image=haiku24.gif}}
+
+{{Adventure|name=Haiku Dungeon Self-Destruction|stat=3 {{Mysticality}}|image=haiku21.gif}}
+
+{{Adventure|name=Haiku Dungeon Skullduggery|meat=25|image=chest.gif}}
+
+==Notes==
+*[[Mr Skullhead]] mentioned on [[Radio KoL]] on July 23, 2007 that the Haiku Dungeon was being worked on and revamped, as it was originally created before Asymmetric was formed, by a person who is no longer with the company. On [[History of Loathing (2008)#August 29|August 29, 2008]], the revamp went into effect.
+*The Most Extreme Haiku Challenges don't appear in any particular order.
+
+==References==
+*The various "Haiku Dungeon in the <season>" adventures may allude to most Japanese [[wikipedia:haiku|haiku]] being about seasons and nature.
+
+[[Category:Locations|Haiku Dungeon, The]]

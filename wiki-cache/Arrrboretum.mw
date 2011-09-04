@@ -1,0 +1,112 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Arrrboretum is available for adventuring on [[Arrrbor Day]].
+
+{{Choice|
+  name=Timbarrrr!|
+  image=piratem.gif|
+  choice1name=The mighty, towering, irritable Crotchety Pine?|
+  choice1=Get [[bag of Crotchety Pine saplings]]|
+  choice2name=The sweet, low-calorie Saccharine Maple?|
+  choice2=Get [[bag of Saccharine Maple saplings]]|
+  choice3name=The weird, psychedelic, quite-frankly disturbing Laughing Willow?|
+  choice3=Get [[bag of Laughing Willow saplings]]|
+  note1=First adventure encountered. Occurs even if a bag of saplings is equipped.}}
+
+{{Adventure|
+  name=Plant a Tree, Plant a Tree!|
+  image=tree.gif|
+  note1=Encountered after [[Timbarrrr!]] when no bag of saplings is equipped|
+  note2=Does not consume an adventure}}
+
+{{Adventure|
+  name=Run, Rabbit, Run|
+  image=fbunny.gif}}
+
+{{Adventure|
+  name=The Raven Haven|
+  image=blackbirds.gif}}
+
+{{Adventure|
+  name=A Squirrely Encounter|
+  note1=<font color=red>Lose</font> 2 HP|
+  image=tree.gif}}
+
+{{Adventure|
+  name=Sheer Comedy Gold|
+  note1=<font color=red>Lose</font> 3 HP|
+  image=tree.gif}}
+
+{{Adventure|
+  name=Upping the Ant-e|
+  image=ants.gif|
+  note1=<font color=red>Lose</font> 3 HP}}
+
+{{Adventure|
+  name=A Foxy Proposal|
+  image=mralarm.gif|
+  note1=<font color=red>Lose</font> 3 HP}}
+
+{{Adventure|
+  name=Which Craft?|
+  note1=<font color=red>Lose</font> 4 HP|
+  image=crygirl.gif}}
+
+{{Adventure|
+  name=Celebrate the Love, Nub Nub!|
+  note1=<font color=red>Lose</font> 5 HP|
+  image=haiku2.gif}}
+
+{{Adventure|
+  name=How Do You Like Them Apples?|
+  note1=<font color=red>Lose</font> 5 HP|
+  image=tree.gif}}
+
+{{Adventure|
+  name=The Bar Facts|
+  stat=5 {{Muscle}}|
+  image=bar.gif}}
+
+{{Adventure|
+  name=The Submissive Tree|
+  stat=5 {{Muscle}}|
+  image=tree.gif}}
+
+{{Adventure|
+  name=The Wolf at Your Door|
+  stat=5 {{Muscle}}|
+  image=cottage2.gif}}
+
+{{Adventure|
+  name=Rabbit Reducks|
+  stat=5 {{Mysticality}}|
+  image=fbunny.gif}}
+
+{{Adventure|
+  name=The Fellowship of the Fudge|
+  image=elf.gif|
+  stat=5 {{Mysticality}}}}
+
+{{Adventure|
+  name=A Public Service Announcement|
+  stat=5 {{Moxie}}|
+  image=boygirl.gif}}
+
+{{Adventure|
+  name=A Hare-Raising Tale|
+  stat=5 {{Moxie}}|
+  image=fbunny.gif}}
+
+{{Choice|
+   image=piratem.gif|
+   name=Stumped (Arrrbor Day)|
+   choice1name=Dig through the detritus|
+   choice1=Get reward depending on number of saplings planted on previous [[Arrrbor Day]].}}
+
+==Notes==
+*Attempting to adventure here after [[Arrrbor Day]] yields the following message:
+:It's not Arrrbor Day.
+
+*One cannot adventure in the Arrrboretum to plant saplings while falling-down drunk; normal Drunken Stupor adventures will result.
+
+[[Category:Locations|Arrrboretum, The]]

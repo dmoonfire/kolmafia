@@ -1,0 +1,27 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+[[The Marinara Trench]] is located on [[The Sea Floor]].
+
+==Combat Adventures==
+{{combat|name=diving belle|note1=The [[water-polo mitt]] drops only after asking [[Grandpa]] about Belle and is a [[Ascension#One Time|one-time drop]].}}
+{{combat|name=fisherfish|note1=The [[halibut]] drops only after asking [[Grandpa]] about fisherfish.}}
+{{combat|name=giant squid}}
+{{combat|name=Mer-kin diver}}
+
+==Non-combat Adventures==
+{{adventure|name=Lost and Found and Lost Again (Trench)|image=sm_grandpa.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs for [[Sauceror]]s and [[Pastamancer]]s.}}
+
+{{adventure|name=Respect Your Elders|image=sm_grandpa.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[Lost and Found and Lost Again]].}}
+{{adventure|name=You've Hit Bottom|image=sm_grandpa.gif|drops=[[globe of Deep Sauce]] ([[Sauceror]]) ''or'' [[bubbling tempura batter]] ([[Pastamancer]])|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[Respect Your Elders]].|note3=[[Sauceror]]s learn [[Deep Saucery]], [[Pastamancer]]s learn [[Tempuramancy]].}}
+{{choice|name=There is Sauce at the Bottom of the Ocean|image=deepsauce.gif|choice1name=Get some|choice1=Acquire [[globe of Deep Sauce]] if you have a [[Mer-kin pressureglobe]].|choice2name=Leave|choice2=Leaves|note1=Occurs only if you have [[Deep Saucery]].}}
+{{choice|name=A Vent Horizon|image=Thermalvent.gif‎
+|choice1name=Conjure some batter (200 mp)|choice1=Trade 200 MP for [[bubbling tempura batter]] (three times per day)
+|choice2name=Leave|choice2=Skip adventure
+|note1=Occurs if you have [[Tempuramancy]].}}
+
+==Notes==
+*This zone has all of the mechanics for [[underwater adventuring]].  Amongst other things, this means this zone has a <font color=red>-200%</font> penalty to [[Meat from Monsters|meat drops]] and [[Items from Monsters|item drops]].
+
+==References==
+*The name of this zone is either a reference to the [[wikipedia:Mariana Trench|Mariana Trench]], the deepest ocean trench in the world or [[wikipedia:Marianas Trench (band)|Marianas Trench]], the band.
+
+[[Category:Locations|Marinara Trench,The]]

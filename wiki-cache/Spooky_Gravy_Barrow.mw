@@ -1,0 +1,43 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Spooky Gravy Barrow]] is located in [[The Distant Woods]], but is only accessible to characters with a Muscle [[zodiac sign]].  The Barrow only becomes visible once you have an elemental Gravy Fairy familiar (either flaming, frozen, stinky, sleazy or spooky) as your active familiar. Some of these familiars (flaming, frozen and stinky) are obtained from [[Mayor Zapruder]] as a reward for the [[Summon a Mushroom Familiar]] quest. The others (spooky and sleazy) are obtained through other means. Equipping an elemental Gravy Fairy from a previous ascension will not give non-muscle sign characters access to this area, but once the Mayor gives you access to the barrow, you can then go in with a different elemental fairy equipped.  
+
+If you don't have 40 in your main stat, you will see:
+:Your mushroom familiar leads you to the entrance of the Spooky Gravy Barrow, but as you draw nearer, the spooky aura surrounding it spooks you out to the point where you can't move any closer.
+
+:You'll have to come back when you scare a little less easily.
+
+==Combat Adventures==
+{{Combat|name=spooky gravy fairy guard}}
+{{Combat|name=spooky gravy fairy ninja}}
+{{Combat|name=spooky gravy fairy warlock}}
+
+==Non-combat Adventures==
+{{Adventure|name=Finding Neverevereverland|stat=5 {{muscle}}, 5 {{mysticality}}, 5 {{moxie}}|image=Gothpan.gif}}
+
+{{Adventure|name=Luminosity|drops=[[inexplicably glowing rock]]|image=adv_glowrock.gif|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Spooky Wheelbarrow|drops=[[spooky fairy gravy]], [[spooky fairy gravy]]|image=wagon.gif|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{choice|name=Heart of Very, Very Dark Darkness|image=darkness.gif
+|choice1name=Enter the cave|choice1=With [[inexplicably glowing rock]], [[How Depressing]], else [[Darker Than Dark]].
+|choice2name=Don't enter the cave|note1=Does not appear once you defeat [[Felonia, Queen of the Spooky Gravy Fairies]] (becomes a [[Ascension#One Time|one-time]] adventure).}}
+
+{{choice|name=Darker Than Dark|image=darkness.gif
+|choice1name=Stumble around blindly|choice1=Lose all [[HP]], get [[Beaten Up]]
+|choice2name=Leave the cave|note1=Only occurs as a choice of [[Heart of Very, Very Dark Darkness]].}}
+
+{{choice|name=How Depressing|image=handdoor1.gif|
+|choice1name=Put your hand in the depression|choice1=With [[spooky glove]] equipped: [[On the Verge of a Dirge]], without a [[spooky glove]] nothing happens.|
+|choice2name=Leave|note1=Only occurs as a choice of [[Heart of Very, Very Dark Darkness]].}}
+
+{{choice|name=On the Verge of a Dirge|image=handdoor2.gif
+|choice1name=Enter the chamber|choice1=Fight [[Felonia, Queen of the Spooky Gravy Fairies]]
+|choice2name=Enter the chamber (No Other Possibility)|choice2=Fight [[Felonia, Queen of the Spooky Gravy Fairies]]
+|choice3name=Enter the chamber (Seriously).|choice3=Fight [[Felonia, Queen of the Spooky Gravy Fairies]]|note1=Only occurs as a choice of [[How Depressing]].}}
+
+{{Combat|name=Felonia, Queen of the Spooky Gravy Fairies|note1=Only occurs as a choice of [[On the Verge of a Dirge]].}}
+
+{{Adventure|name=Stage Fright|drops=[[spooky lipstick]]|image=plainsgf.gif|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+[[Category:Locations|Spooky Gravy Barrow, The]]

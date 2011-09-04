@@ -1,0 +1,24 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Dark Neck of the Woods is in [[The Distant Woods]] inside the [[Copse of the Deep Fat Friars]]. The Dark Neck of the woods becomes available (as do [[The Dark Elbow of the Woods]] and [[The Dark Heart of the Woods]]) once you have been given the [[Deep Fat Friars' Gate Quest]] quest. Upon completion of the quest, the Elbow, Neck, and Heart of the Woods disappear and all of their monsters move to [[The Deep Fat Friars' Gate]].
+
+All monsters here have {{element|hot|resistance}}.
+
+(You must have at least 29 $stat to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=Hellion}}
+
+{{Combat|name=P imp}}
+
+{{Combat|name=W imp}}
+
+==Non-combat Adventures==
+{{Adventure|name=Friar No More|meat=150|image=corpse.gif}}
+
+{{Adventure|name=It's The Only Way To Be Sure|drops=[[SPF 451 lip balm]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=wimp.gif}}
+
+{{Adventure|name=Dodecahedrariffic!|drops=[[dodecagram]]|note1=A [[Ascension#One Time|one time]] adventure.|image=dodecagram2.gif}}
+==Notes==
+*Trying to adventure here after the quest is finished yields the message "You shouldn't be here."
+[[Category:Locations|Dark Neck of the Woods]]

@@ -1,0 +1,49 @@
+{{NeedsConfirm|comment=Has the combat frequency been changed since the removal of some adventures?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[Degrassi Knoll]] is located in [[the Nearby Plains]]. The Knoll appears once the [[Bitchin' Meatcar Quest]] begins.  
+
+Adventurers born under a [[Muscle]] [[moon sign]], however, can instead go [[inside Degrassi Knoll]] as soon as they [[ascension|ascend]]. In this case, the Knoll is not an adventurable location.
+
+If your main stat isn't high enough, you'll see the following message:
+:You should not be here.
+
+<center>(You must have at least 10 <stat> to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=Gnollish Crossdresser|note1=The [[frilly shirt]] will not drop unless you have the [[Torso Awaregness]] skill.}}
+{{Combat|name=Gnollish Flyslayer}}
+{{Combat|name=Gnollish Gearhead}}
+{{Combat|name=Gnollish Piebaker}}
+{{Combat|name=Gnollish Plungermaster}}
+{{Combat|name=Gnollish Tirejuggler}}
+{{Combat|name=Gnollish War Chef}}
+{{Combat|name=Guard Bugbear}}
+{{Combat|name=One-eyed Gnoll}}
+
+==Non-combat Adventures==
+{{Adventure|name=Gnollish Toga Party|drops=2 [[ice-cold Willer]]s|image=Gnoll.gif}}
+
+{{Adventure|name=Gnollish Workshop|drops=[[cog]], [[spring]], [[sprocket]]|image=chest.gif}}
+
+{{Adventure|name=A Rolling Turtle Gathers No Moss|drops=[[furry green turtle]]|note1=This adventure is triggered only with the [[Eau de Tortue]] effect.|note2=Does not cost an adventure.|image=knosign.gif}}
+
+{{Adventure|name=Screwdriver, wider than a mile.|drops=[[rusty screwdriver]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=A [[Combat_Frequency#Superlikely|superlikely]] adventure|image=Screwtable.gif}}
+
+{{Adventure|name=That's Amore| drops=[[goat cheese pizza]], [[mushroom pizza]], [[sausage pizza]]|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory. 
+|image=gnollchef.gif}}
+
+{{Adventure|name=Flowers For (Familiar Name)|meat=2000|image=Gnoll.gif|note1=Gives 10 turns of [[Duhhh]].|note2=Lose 16 MP.|note3=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+{{Adventure|name=A clue! A clue!|drops=[[Degrassi Knoll shopping list]]|meat=50|image=chest.gif|note1=This adventure was available before the [[Bitchin' Meatcar Quest]] was moved from the [[The Council of Loathing|council]] to your guild trainer, and occurred only once per player.}}
+{{Adventure|name=Gnollish Frat Party|drops=2 [[ice-cold Willer]]s|image=Gnoll.gif}}
+
+These adventures were removed around May 29, 2006:
+{{Combat|name=Gnollish Bodybuilder}}
+{{Combat|name=Gnollish Sorceress}}
+
+==References==
+*Degrassi Knoll is a play on "the grassy knoll" of [[Wikipedia:Dealey Plaza|Dealey Plaza]], west and north of the location where [[Wikipedia:John F. Kennedy|John F. Kennedy]] was assassinated on November 22, 1963, in Dallas, Texas. The [[Wikipedia:Warren Commission|Warren Commission]] concluded that [[Wikipedia:Lee Harvey Oswald|Lee Harvey Oswald]], acting alone, fired a rifle from the [[Wikipedia:Texas School Book Depository|Texas School Book Depository]] that killed the president. However, the [[Wikipedia:United States House Select Committee on Assassinations|United States House Select Committee on Assassinations]] concluded from acoustical evidence that a second gunman (who missed) also fired on the Presidential motorcade from the "grassy knoll."
+
+[[Category:Locations]]

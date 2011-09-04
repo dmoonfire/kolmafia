@@ -1,0 +1,48 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Haunted Ballroom]] is located in [[Spookyraven Manor, Second Floor]] and can only be accessed after the [[Spookyraven ballroom key|key]] is obtained in the [[The Haunted Bedroom]].
+
+If you try to enter without the [[Spookyraven ballroom key|key]], you will receive the following message:
+:The Ballroom door is locked. Hopefully Katie didn't bar it.
+
+If you do not have at least 68 main stat, you will receive the following message:
+:As you approach the door to the Ballroom, you hear strains of ghostly organ music. Your heart pounds, your hair stands on end, and your tizzy gets all in a twist. You're too scared to go any further.
+
+:(You must have at least 68 $stat to adventure here.)
+
+
+==Combat Adventures==
+{{Combat|name=floating platter of hors d'oeuvres}}
+
+{{Combat|name=tapdancing skeleton}}
+
+{{Combat|name=zombie waltzers}}
+
+{{combat|name=ghastly organist|note1=Only occurs as choice in [[Curtains]].}}
+
+==Non-combat Adventures==
+{{Choice|name=Curtains|image=Curtains.gif
+|choice1name=Investigate the organ|choice1=Fight a [[ghastly organist]] or, if you have the [[bizarre illegible sheet music]], finish the [[Spookyraven Manor Quest]].
+|choice2name=Watch the dancers|choice2=Gain approximately <mainstat> in {{moxie}} (max 150).
+|choice3name=Pay no attention to the stuff in front of the curtain|choice3=Nothing. (Does not cost an adventure.)}}
+
+{{Choice|name=Strung-Up Quartet|image=Violinguy.gif
+|choice1name="Play 'Provare Compasione Per El Sciocco'"|choice1=Increases [[Monster Level]] by 5
+|choice2name="Play 'Sono Un Amanten Non Un Combattente'"|choice2=Decreases [[Combat Frequency]] by 5%
+|choice3name="Play 'Le Mie Cose Favorite'"|choice3=Increases [[Items from Monsters|Item Drops]] by 5%
+|choice4name="Play nothing, please."|choice4=Nothing, or cancels current song effects.
+|note1=Choosing to play the same song as the quartet had been playing does not cost an adventure.
+|note2=Can be encountered at most once every 20 turns.}}
+
+{{Adventure|name=Rotting Matilda|stat=Approximately 2*<mainstat> in {{moxie}} (max 300)|note1=Occurs four turns after using a [[dance card]].|note2=Can be overridden by [[Forward to the Past]] if you have a [[ten-leaf clover]] in your inventory on the fourth turn, or by [[We'll All Be Flat]] when opening the [[Spookyraven Manor Wine Cellar|cellar]].|image=zomgirl.gif}}
+
+{{Adventure|name=We'll All Be Flat|note1=Opens the [[Spookyraven Manor Wine Cellar]].|note2=Only occurs during the [[Quest for the Holy MacGuffin]].|note3=A [[Ascension#One Time|one-time]] adventure.|image=Organ.gif}}
+
+{{Adventure|name=Forward to the Past|stat=Approximately 2*<mainstat> in {{moxie}} (max 330)|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.|image=keaton.gif}}
+
+{{Adventure|name=Party Crasher|image=Slimer.gif|note1=Gives 10 turns of [[Slimed]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*"Hopefully Katie didn't bar it" in the message for not having the key comes from a phrase of unknown origins in the vernacular of the American South, with "Katie bar the door!" implying that disaster is impending.
+
+[[Category:Locations|Haunted Ballroom, The]]

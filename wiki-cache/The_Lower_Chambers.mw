@@ -1,0 +1,109 @@
+The Lower Chambers are located in [[The Ancient Buried Pyramid]]. They are the last step of the [[Quest for the Holy MacGuffin]].
+
+===Before opening the secret chamber===
+The Lower Chambers can take the following forms, which are changed by the [[carved wooden wheel]]/[[Wheel in the Pyramid, Keep on Turning]] in [[The Middle Chamber]]. Using a [[tomb ratchet]] has the same effect as turning the wheel directly.
+
+[[Image:pyramid4_1.gif|center]]
+
+''Without the [[ancient bomb]] in your inventory (regardless of the [[ancient bronze token]]):''
+[[image:bigbomb2.gif|center]]
+You enter the first chamber, and find it empty. You continue down a damp, slightly curved corridor, and find rubble piled all the way ito the ceiling in the second chamber. You spend some time trying to clear it away, but you don't really make any progress.
+
+''With the [[ancient bomb]] in your inventory:''
+[[Image:bigbomb2.gif|center]]
+You head through the first chamber, down the curved corridor, to the pile of rubble. You take the ancient bomb, light it, and place it at the bottom of the pile.
+
+You run back to the first chamber, fingers in your ears, and wait until the bomb goes off.
+ 
+When you return to the far chamber, you see an opening in the ceiling that looks just low enough for you to reach.
+ 
+*Opens up the lower chamber.
+----
+[[Image:pyramid4_2.gif|center]]
+''Without the [[ancient bronze token]] in inventory (regardless of the [[ancient bomb]]):''
+[[Image:tombrat.gif|center]]
+You enter the first chamber -- the walls are riddle{{typo}} with small holes, and you hear rustlings and twitterings from within them. Nervously, you proceed down a damp, curved corridor to the second room, where you find a stone basket suspended from the ceiling by a rusty chain.
+
+You look into the basket, and see that it's filled with bronze coins! You help yourself to one, but no sooner have you grasped it than a rat runs in from the other chamber, knocks you out, and steals it from you. Dangit!
+
+{{HP|type=lose|amount=~30-33}}
+
+''With the [[ancient bronze token]] in inventory:''
+[[Image:tombrat.gif|center]]
+As soon as you enter the first chamber, a rat runs out of one of the small holes in the wall, knocks you out, and steals your bronze token. Damn those rats!
+
+{{HP|type=lose|amount=~30-33}}
+----
+[[Image:pyramid4_3.gif|center]]
+
+''With neither the [[ancient bomb]] nor the [[ancient bronze token]] in inventory:''
+[[image:nopic.gif|center]]
+You enter the first chamber, and find it empty save for a pile of rubble reaching all the way to the ceiling. You skirt the pile, and head down a damp, curving corridor into the second chamber. It contains what appears to be a vending machine full of bombs. It only takes tokens, though, and you don't have any. Tough luck.
+
+''With the [[ancient bronze token]] in inventory:''
+[[Image:bigbomb2.gif|center]]
+You enter the first chamber, and find it empty save for a pile of rubble reaching all the way to the ceiling. You skirt the pile, and head down a damp, curving corridor into the second chamber. It contains what appears to be a vending machine full of bombs.
+
+You fish out your bronze token, drop it into the slot, and collect your bomb. Score!
+{{acquire|item=ancient bomb}}
+
+''With the [[ancient bomb]] in inventory:'' 
+[[Image:bigbomb2.gif|center]]
+You enter the first chamber, and find it empty save for a pile of rubble reaching all the way to the ceiling. You take the ancient bomb, light it, and place it at the bottom of the pile.
+
+You run into the second chamber and hide behind the vending machine until the bomb goes off. When you return to the first chamber, however, the pile of rubble is just as big as it always was. More rubble must've poured in from the ceiling after you blew up the first pile.
+----
+[[Image:pyramid4_4.gif|center]]
+''With neither the [[ancient bomb]] nor the [[ancient bronze token]] in inventory:''
+[[image:nopic.gif|center]]
+You enter the first chamber, and find a stone basket of tokens hanging from the ceiling. You reach in and grab yourself a token. Huzzah!
+{{acquire|item=ancient bronze token}}
+
+''With the [[ancient bronze token]] in inventory:''
+[[image:nopic.gif|center]]
+You enter the first chamber, and find a stone basket of tokens hanging from the ceiling. You've already got a bronze token, though, so there's no need to mess around in here any more right now.
+
+''With the [[ancient bomb]] in inventory:''
+[[image:nopic.gif|center]]
+You enter the first chamber, and find a stone basket of tokens hanging from the ceiling. You've already got a bomb, though, so you don't really need another token. You wander back upstairs.
+----
+[[Image:pyramid4_5.gif|center]]
+''With neither the [[ancient bomb]] nor the [[ancient bronze token]] in inventory:''
+[[Image:nopic.gif|center]]
+You enter the first chamber, and see what appears to be a vending machine full of bombs. Unfortunately, it looks like it only accepts tokens, and you don't have any, so you can't buy a bomb. You wander off.
+
+''With the [[ancient bronze token]] in inventory:''
+[[Image:bigbomb2.gif|center]]
+You enter the first chamber, and see what appears to be a vending machine full of bombs. You fish your bronze token out of your pocket, and drop it into the slot.
+
+There's a rattle from the machine, and a bomb falls out into the bottom slot. Before you can grab it, though, a rat rushes in from the second chamber, steals it, and disappears down the corridor. Dag nabbit!
+{{HP|type=lose|amount=~30-33}}
+
+''With the [[ancient bomb]] in inventory:''
+[[Image:nopic.gif|center]]
+As soon as you enter the first chamber, a rat runs out of one of the small holes in the wall, knocks you out, and steals your bomb. Damn those rats!
+
+{{HP|type=lose|amount=~30-33}}
+----
+
+===After successfully using the [[ancient bomb]]===
+
+[[Image:pyramid4_1b.gif|center]]
+
+{{Combat|name=Ed the Undying|MoxieNoHit=~187}}
+
+*Doesn't occur once defeated, attempting to adventure there again instead gives
+::"The chamber is empty now. Ed the Undying sleeps once again."
+
+==Notes==
+*To complete this quest, you must go through at least 10 rotations or 2 complete cycles:
+**3 to get the token
+**4 to get the bomb
+**3 to get to the pile of stones again
+***Note that if [[tomb ratchet|tomb ratchets]] are used, [[11]] will be needed, as the first use replaces [[It's In the Post]] with [[Wheel in the Pyramid, Keep on Turning]].
+***In Hardcore, or if you do not already have tomb ratchets, nine are needed. This is because ratchets will not start dropping until you have placed the wooden wheel in the middle chamber, which also gives you the occasion to turn it a first time.
+*If you continue turning the wheel after completing the quest, the rubble reappears and the way to Ed's chamber becomes blocked once more. You can blow up the rubble a second time, but this only reveals Ed's already emptied chamber.
+*If you blow up the rubble, then turn the wheel again, the rubble reappears and you must go through the entire process again.
+*If you try to take the token when you already have an ancient bomb, the ancient bomb in your inventory is replaced with the ancient token.
+
+[[Category:Locations|Lower Chambers, The]]

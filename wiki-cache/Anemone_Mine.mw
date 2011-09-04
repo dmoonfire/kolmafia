@@ -1,0 +1,24 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+[[Anemone Mine]] is located on [[The Sea Floor]].
+
+==Combat Adventures==
+{{combat|name=Anemone combatant|note1=Can give you 10 turns of [[Majorly Poisoned]].}}
+{{combat|name=Killer clownfish|note1=The [[midget clownfish]] only drops if you have asked [[Grandpa]] about clownfish.}}
+{{combat|name=Mer-kin miner}}
+
+==Non-combat Adventures==
+{{adventure|name=Lost and Found and Lost Again (Mine)|image=sm_grandpa.gif|note1=Occurs only for [[Seal Clubber]]s and [[Turtle Tamer]]s.|note2=A [[Ascension#One Time|one-time]] adventure.}}
+{{adventure|name=Kids Today|image=sm_grandpa.gif|note1=Occurs after you have encountered [[Lost and Found and Lost Again (Mine)]].|note2=A [[Ascension#One Time|one-time]] adventure.}}
+{{choice|name=Grandpa Mine Choice|image=sm_grandpa.gif|choice1name=Watch in horror|choice1=Learn the skill [[Summon Leviatuga]] if a [[Turtle Tamer]].  Learn [[Harpoon!]] if a [[Seal Clubber]].|note2=A [[Ascension#One Time|one-time]] adventure.|note1=Occurs only after you have encountered [[Kids Today]].}}
+
+==Wielding [[Mer-kin digpick]]==
+{{Adventure|name=Anemone Mine (Mining)|drops=[[marine aquamarine]], [[teflon ore]], [[velcro ore]], [[vinyl ore]], 3 {{plural|dense meat stack}}|image=mattock.gif|note1=The inside of the mine is a 6x6 grid, with access only to the bottom row, or subsequently exposed tiles, just like [[Itznotyerzitz Mine]].|note2=You can potentially lose HP, or get nothing, instead of getting items.|note3=If you click on the last adventure link you may not encounter this adventure. Only enter it from the map unless your last adventure says '''Anemone Mine (Mining)'''.|note4=The [[marine aquamarine]] only drops if you have asked [[Grandpa]] about the mine.}}
+
+==Notes==
+*This zone has all of the mechanics for [[underwater adventuring]].  Amongst other things, this means this zone has a <font color=red>-200%</font> penalty to [[Meat from Monsters|meat drops]] and [[Items from Monsters|item drops]].
+
+==References==
+*The name of this zone is a reference to the movie ''[[wikipedia:Enemy Mine (film)|Enemy Mine]]'' or the novella on which it is based.
+*When mine is split into two syllables and the pause for the space is removed, it becomes An-em-o-ne-mi-ne, a common mispronunciation of the word by children.
+
+[[Category:Locations]]

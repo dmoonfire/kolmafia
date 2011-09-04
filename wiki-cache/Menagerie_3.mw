@@ -1,0 +1,18 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The '''Menagerie Level 3''' is located in the [[Cobb's Knob Laboratory]]. To reach it, you will need the [[Cobb's Knob lab key]].
+
+If you don't have 45 in your main stat, you will see (even if you've completed the [[Deep Fat Friars' Gate Quest|Deep Fat Friars' Gate]] quest):
+
+:As you descend the steps, you hear the moaning and wailing of trapped creatures that sound MUCH tougher than you. It's gonna be a little while before you're strong enough to adventure down there.
+
+:(You must have at least 45 $Stat to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=Booze Giant}}
+{{Combat|name=Portly Abomination}}
+{{Combat|name=Spectral Jellyfish|note1=Potential Effect: [[Somewhat Poisoned]] (10 Adventures)}}
+
+==Non-combat Adventures==
+{{Adventure|name=He's a Melancholy Drunk|image=glyphs3.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+[[Category:Locations]]

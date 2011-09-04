@@ -1,0 +1,89 @@
+{{NeedsSpading|comment=Post-level 9 combat frequency.}}
+{{Data:{{PAGENAME}}|format=INFOBOX_DualLocation}}
+
+The [[Orcish Frat House]] on [[the Mysterious Island of Mystery]] is inhabited by Orcish frat boys.  If your main stat isn't high enough, you'll see the following message:
+
+"Dude, we could get in SO much trouble if the cops found out we were letting underage kids drink here... Piss off."
+
+<center>(You must have at least 30 <stat> to adventure here.)</center>
+
+If you're [[Frat Boy Ensemble|disguised as one of them]], you get a different set of adventures. Although all non-disguised adventures have the same name, there appear to be three different ones, which can be distinguished by adventure text and monster drops.
+
+Once you start the [[Mysterious Island Quest]], you will get a different set of adventures. See the [[Orcish Frat House (Verge of War)]] or [[The Orcish Frat House (Wartime)]]. If the Frats lose that war, this location will be replaced with [[The Orcish Frat House (Bombed Back to the Stone Age)]].
+<!-- "May be's" are better limited to the discussion until they are confirmed. There may actually be more than three (non-disguised) adventures, but two of them may have the exact same monster description text. They can be differentiated by combat text. It's one of those confusing things.-->
+
+==Undisguised==
+===Combat Adventures===
+{{Combat|name=Orcish Frat Boy (Music Lover)}}
+
+{{Combat|name=Orcish Frat Boy (Paddler)}}
+
+{{Combat|name=Orcish Frat Boy (Pledge)}}
+
+===Non-combat Adventures===
+{{choice|name=Lording Over The Flies|image=fratboy.gif
+|choice1name=Give Him The Flies|choice1=Trade 5 [[spanish fly|spanish flies]] for an [[around the world]].
+|choice2name=Keep 'Em|note1=Occurs when adventuring with 5 or more [[spanish fly|spanish flies]].}}
+
+{{choice|name=Purple Hazers|image=corpse.gif
+|choice1name=Search the Pledge|choice1=[[Orcish cargo shorts]]
+|choice2name=Examine the hazers|choice2=[[Orcish baseball cap]]
+|choice3name=Leave the whole disturbing scene|choice3=[[homoerotic frat-paddle]]
+|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=From Stoked to Smoked|drops=[[Orcish cargo shorts]]|image=warhipgr.gif|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=I Just Wanna Fly|image=fratboy.gif|note1=Starts the [[Around the World Quest]].|note2=Unlocks the [[Remembarrr the Main]] adventure at the [[Obligatory Pirate's Cove]].}}
+
+{{Adventure|name=Murder by Death|drops=[[homoerotic frat-paddle]]|image=corpse.gif|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=Sing This Explosion to Me|drops=[[Orcish baseball cap]]|image=2craters.gif|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=Sand in the Vaseline|drops=[[bottle of rhinoceros hormones]]|image=barbells.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=Lambda Upsilon Chi Kappa|drops=[[handful of drink tickets]]|image=fratboy.gif|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=In Over His Head|drops=[[figurine of a slippery seal]]|image=nightstand.gif|note1=Occurs only for [[Seal Clubber]]s.}}
+
+{{Adventure|name=The Horror...|image=Beerturtle.gif|drops=[[grinning turtle]]|note1=This adventure is triggered only with the [[Eau de Tortue]] effect and a [[turtling rod]] equipped.|note2=Does not cost an adventure.}}
+
+{{Adventure|name=It's All The Rage|image=Fratboy.gif|note1=Gives 10 turns of [[The Rage]].|note2=[[Bad Moon]] only.}}
+
+==In Disguise==
+{{Adventure|name=7 High|drops=[[loathing eagle baby-doll shirt]]|image=Sorority.gif|note1=Does not occur unless you have the [[Torso Awaregness]] skill.}}
+
+{{Adventure|name=And Justice for All|stat=15 {{muscle}}|image=cabinet.gif}}
+
+{{Adventure|name=Beeeeeeeer!|drops=[[ice-cold six-pack]]|image=fratboy.gif}}
+
+{{Adventure|name=Bench Warmer|stat=16 {{muscle}}|image=haiku12.gif}}
+
+{{Adventure|name=The Big Frat House in the Sky|meat=50|image=corpse.gif}}
+
+{{Adventure|name=Frat-Gang Warfare|stat=17 {{muscle}}|image=fratboy.gif|note1=<span style="color:red">Lose</span> 5 HP.}}
+
+{{Adventure|name=Fratlifting|stat=16 {{muscle}}|image=haiku12.gif}}
+
+{{Adventure|name=Get The Windex!|drops=[[soggy wofl t-shirt]]|image=fratboy.gif|note1=Does not occur unless you have the [[Torso Awaregness]] skill.}}
+
+{{Adventure|name=The Hazer Becomes the Hazed|drops=[[bottle of whiskey]]|stat=15 {{muscle}}|image=fratboy.gif}}
+
+{{Adventure|name=It's Not Really Stealing|meat=100|image=chest.gif}}
+
+{{Adventure|name=Kegstand! Kegstand! Kegstand!|stat=20 {{muscle}}|image=haiku4.gif|note1= You gain 3 [[drunkenness]].}}
+
+{{Adventure|name=Naughty Pledge|stat=18 {{muscle}}|image=fratboy.gif|note1=<span style="color:red">Lose</span> 10 HP.}}
+
+{{Adventure|name=Roll out the Barrels|stat=16 {{muscle}}|image=barrel.gif}}
+
+{{Adventure|name=White Men Shouldn't Drink|drops=[[ice-cold Willer]]|image=fratboy.gif}}
+
+{{Adventure|name=Lambda Upsilon Chi Kappa|drops=[[roll of drink tickets]]|image=fratboy.gif|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Double-Secret Initiation|image=Fratboy.gif|note1=Gives 10 turns of [[Shamed & Manipulated]].|note2=[[Bad Moon]] only.}}
+
+==Notes==
+*Against the male Frat boys here, [[Zombo's skull ring]] will damage the monster:
+*:<center>The frat boy glances at your ring, says "Master." and immediately paddles himself for 300-350 damage.</center>
+
+[[Category:Locations|Orcish Frat House, The]]

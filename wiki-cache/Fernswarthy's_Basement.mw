@@ -1,0 +1,165 @@
+{{NeedsSpading|comment=Relative frequency of encounters (see [[#Notes]]).}}
+
+[[Image:ruins_1b.gif|Fernswarthy's Basement|center]]
+
+'''Fernswarthy's Basement''', located in [[The Ruins of Fernswarthy's Tower]], is just that. A basement. Except that it's a basement without any apparent bottom. The obstacles you must overcome to continue downwards become progressively harder as you go. Some rooms contain a monster to fight, and some contain tests of your [[Muscle]], [[Mysticality]], [[Moxie]] or endurance. Every fifth room, however, gives you the chance to boost one of your stats. Additionally, every hundredth room, you will receive rare and powerful consumable items (or other useful items, if you descend far enough). Fernswarthy's Basement becomes available once you [[Into the Maw of Deepness|find the trap-door]] during [[The Wizard of Ego]] quest.
+__TOC__
+==Level Progression==
+In most cases, the stat requirements to pass a floor are directly stated. For example, if you are required to dispel 468 mops, you will succeed with 468 mysticality and higher. Some monsters will display their strength as well. "The Beast with 468 eyes" will [[Weapon Damage|attack]] and [[Hit Chance|defend]] as a level 468 monster. Some obstacles do not show their requirements, but simply increment each time you encounter them. These adventures will still scale according to the floor normally.
+
+The stat requirements on any given floor are roughly equal to (floor)<sup>1.4</sup>, and the levels of the monsters can scale up to 2*(floor)<sup>1.4</sup>. The following table lists the approximate buffed stat required to reach each stat-boost floor. According to the [[Dressing For Success]] model, any player can achieve at least a 500% buff for each stat, the third column gives an approximate minimum unbuffed stat. A player with a main stat of 126 can use commonly-available equalizing potions, clothes, and stat-boosting potions to reach the 100th floor of the basement; advanced players and those with nice toys can obviously get by at a comparatively lower main stat.
+
+{| style="text-align:center" align="center" style="border: 1px solid" cellpadding="4" cellspacing="0"
+|-
+! style="border-bottom: 3px solid" | Floor of Basement
+! style="border-bottom: 3px solid" | Stat Level
+! style="border-bottom: 3px solid" | Main Stat (at 500% Buff)
+!                                  |
+! style="border-bottom: 3px solid" | Floor of Basement
+! style="border-bottom: 3px solid" | Stat Level
+! style="border-bottom: 3px solid" | Main Stat (at 500% Buff)
+!                                  |
+! style="border-bottom: 3px solid" | Floor of Basement
+! style="border-bottom: 3px solid" | Stat Level
+! style="border-bottom: 3px solid" | Main Stat (at 500% Buff)
+|- style="text-align:center"
+|5	||10	||2	||	||55	||273	||55	||	||105	||676	||135
+|- style="text-align:center"
+|10	||25	||5	||	||60	||309	||62	||	||110	||721	||144
+|- style="text-align:center"
+|15	||44	||9	||	||65	||345	||69	||	||115	||767	||153
+|- style="text-align:center"
+|20	||66	||13	||	||70	||383	||77	||	||120	||814	||163
+|- style="text-align:center"
+|25	||91	||18	||	||75	||422	||84	||	||125	||862	||172
+|- style="text-align:center"
+|30	||117	||23	||	||80	||462	||92	||	||130	||911	||182
+|- style="text-align:center"
+|35	||145	||29	||	||85	||503	||101	||	||135	||960	||192
+|- style="text-align:center"
+|40	||175	||35	||	||90	||544	||109	||	||140	||1011	||202
+|- style="text-align:center"
+|45	||206	||41	||	||95	||587	||117	||	||145	||1061	||212
+|- style="text-align:center"
+|50	||239	||48	||	||100	||631	||126	||	||150	||1113	||223
+|- style="text-align:center"
+|}
+
+{| style="text-align:center" align="center" style="border: 1px solid" cellpadding="4" cellspacing="0"
+|-
+! style="border-bottom: 3px solid" | Floor of Basement
+! style="border-bottom: 3px solid" | Stat Level
+! style="border-bottom: 3px solid" | Main Stat (at 500% Buff)
+!                                  |
+! style="border-bottom: 3px solid" | Floor of Basement
+! style="border-bottom: 3px solid" | Stat Level
+! style="border-bottom: 3px solid" | Main Stat (at 500% Buff)
+!                                  |
+! style="border-bottom: 3px solid" | Floor of Basement
+! style="border-bottom: 3px solid" | Stat Level
+! style="border-bottom: 3px solid" | Main Stat (at 500% Buff)
+|- style="text-align:center"
+|200	||1665	||333	||	||1100	||18111	||3622	||	||1900	||38927	||7786
+|- style="text-align:center"
+|300	||2937	||587	||	||1200	||20458	||4092	||	||2000	||41826	||8365
+|- style="text-align:center"
+|400	||4395	||879	||	||1300	||22884	||4577	||	||2100	||44783	||8957
+|- style="text-align:center"
+|500	||6006	||1201	||	||1400	||25385	||5077	||	||2200	||47796	||9559
+|- style="text-align:center"
+|600	||7752	||1551	||	||1500	||27960	||5592	||	||2300	||50865	||10173
+|- style="text-align:center"
+|700	||9620	||1924	||	||1600	||30603	||6121	||	||2400	||53988	||10798
+|- style="text-align:center"
+|800	||11597	||2320	||	||1700	||33314	||6663	||	||2500	||57163	||11433
+|- style="text-align:center"
+|900	||13676	||2735	||	||1800	||30690	||7218	||	||3000	||73785	||14757
+|- style="text-align:center"
+|1000	||15849	||3170
+|- style="text-align:center"
+|}
+
+==Monsters==
+{{combat|name=The Beast with n Ears|MoxieNoHit=(Scales with floor)}}
+{{combat|name=The Beast with n Eyes|MoxieNoHit=(Scales with floor)|note1=Very high combat initiative.}}
+{{combat|name=A n Stone Golem|MoxieNoHit=(Scales with floor)}}
+{{combat|name=A n-Headed Hydra|MoxieNoHit=(Scales with floor)}}
+{{combat|name=The Ghost of Fernswarthy's n great-grandfather|MoxieNoHit=(Scales with floor)}}
+{{combat|name=n Bottles of Beer on a Golem|MoxieNoHit=(Scales with floor)|note1=Blocks most spells.}}
+{{combat|name=A n-Dimensional Horror|MoxieNoHit=(Scales with floor)|note1=Blocks most physical attacks.}}
+
+==Skill Tests==
+===Muscle Tests===
+See [[Maximizing Your Muscle]] for a guide to obtain the highest muscle, or refer to [[Muscle Modifiers]] for a comprehensive list of all muscle modifiers in the game.
+{{Adventure|name=Lift 'em!|image=Typewriters.gif}}
+{{Adventure|name=Push it Real Good|image=bigstatue.gif}}
+{{Adventure|name=Ring that Bell|image=bigmallet.gif}}
+===Mysticality Tests===
+See [[Maximizing Your Mysticality]] for a guide to obtain the highest mysticality, or refer to [[Mysticality Modifiers]] for a comprehensive list of all mysticality modifiers in the game.
+{{Adventure|name=Gathering: The Magic|image=Darkshards.gif}}
+{{Adventure|name=Mop the Floor with the Mops|image=Mops.gif}}
+{{Adventure|name=Do away with the 'doo|image=Voodoo.gif}}
+===Moxie Tests===
+See [[Maximizing Your Moxie]] for a guide to obtain the highest moxie, or refer to [[Moxie Modifiers]] for a comprehensive list of all moxie modifiers in the game.
+{{Adventure|name=Don't Wake the Baby|image=Bigbaby.gif}}
+{{Adventure|name=Grab a cue|image=Pooltable.gif}}
+{{Adventure|name=Put on the Smooth Moves|note1=Male characters only.|image=Sorority.gif}}
+{{Adventure|name=Put on the Smooth Moves|note1=Female characters only.|image=Goblinaxe.gif}}
+===Elemental Damage Tests===
+The basement's elemental damage tests each inflict two types of elemental damage. The amount of damage you'll take from each element is roughly 4.5*(floor)<sup>1.4</sup>, so without being in an elemental form, you should expect roughly 9*(floor)<sup>1.4</sup> total damage, before elemental resistance. A single damage value is calculated (including random variance), and each of the two elemental attacks has this same power level. Resistance is applied separately to each attack.
+
+See [[Elemental Resistance]] for a comprehensive list of all elemental resistance increasers in the game. Being in the appropriate elemental form will reduce one of the damage types to 1, but make sure that you do not use the form that doubles the other elemental damage type. For example, using [[sleazeform]] against Singled Out will reduce sleaze damage to 1 but double cold damage.
+{{choice|name=Singled Out|choice1name=Drink the Drunk's Drink!|choice1=Tests {{element|cold|resistance}} and {{element|sleaze|resistance}}. [[Coldform]] reduces cold to 1.|image=coldmarg.gif}}
+{{choice|name=Peace, Bra!|choice1name=Hold your nose and watch your back|choice1=Tests {{element|sleaze|resistance}} and {{element|stench|resistance}}. [[Sleazeform]] reduces sleaze to 1|image=fratbong.gif}}
+{{choice|name=Still Better Than Pistachio|choice1name=Pwn the Cone|choice1=Tests {{element|stench|resistance}} and {{element|hot|resistance}}. [[Stenchform]] reduces stench to 1|image=onnastick.gif}}
+{{choice|name=Unholy Writes|choice1name=What's a Typewriter, Again?|choice1=Tests {{element|hot|resistance}} and {{element|spooky|resistance}}. [[Hotform]] reduces hot to 1|image=document.gif}}
+{{choice|name=The Unthawed|choice1name=Evade the Vampsicle|choice1=Tests {{element|spooky|resistance}} and {{element|cold|resistance}}. [[Spookyform]] reduces spooky to 1|image=snowballbat.gif}}
+
+===MP Drainage Test===
+See [[Maximizing Your MP]] for a guide to obtain the highest MP, or refer to [[MP Increasers]] for a comprehensive list of all MP modifiers in the game.
+{{Adventure|name=A Festering Powder|image=powderbox.gif}}
+===HP Drainage Test===
+See [[Maximizing Your HP]] for a guide to obtain the highest HP, or refer to [[HP Increasers]] for a comprehensive list of all HP modifiers in the game. Additionally, [[Damage Absorption]] affects the amount of damage taken. See [[Maximizing Your Damage Absorption]] for a guide on obtaining the highest damage absorption.
+{{Adventure|name=Throwin' Down the Gauntlet|image=Haiku11.gif}}
+==Reward Rooms==
+One of the stat gain rewards will appear on every floor that is a multiple of five. The only exceptions are the one-time reward rooms which occur on the first five multiples of 100.
+
+{{choice|name=Got Silk?/Leather is Betther|choice1name=Got Silk?|choice1=Gain {{moxie}} (Gains roughly equal to your mainstat.)|choice2name=Leather is Betther|choice2=Gain {{muscle}} (Gains roughly equal to your mainstat.)|image=Twojackets.gif}}
+
+{{choice|name=Save the Dolls/Save the Cardboard|choice1name=Save the Dolls|choice1=Gain {{mysticality}} (Gains roughly equal to your mainstat.)|choice2name=Save the Cardboard|choice2=Gain {{moxie}} (Gains roughly equal to your mainstat.)|image=Figurecard.gif}}
+
+{{choice|name=Take the Red Pill/Take the Blue Pill|choice1name=Take the Red Pill|choice1=Gain {{muscle}} (Gains roughly equal to your mainstat.)|choice2name=Take the Blue Pill|choice2=Gain {{mysticality}} (Gains roughly equal to your mainstat.)|image=twopills.gif}}
+
+{{Adventure|name=De Los Dioses|drops=[[sandwich of the gods]]|note1=100th floor only.|image=angel.gif}}
+
+{{Adventure|name=The Dusk Zone|drops=[[Pan-Dimensional Gargle Blaster]]|note1=200th floor only.|image=duskdoor.gif}}
+
+{{Adventure|name=Giggity Bobbity Boo!|drops=[[enchanted leopard-print barbell]]|note1=300th floor only.|image=lepbell2.gif}}
+
+{{Adventure|name=No Good Deed|drops=[[sandwich of the gods]], [[Pan-Dimensional Gargle Blaster]], [[enchanted leopard-print barbell]]|note1=400th floor only.|image=corpse.gif}}
+
+{{Adventure|name=Fernswarthy's Basement, Level 500|drops=[[Discount Telescope Warehouse gift certificate]]|note1=500th floor only.|image=Chest.gif}}
+
+==Basement-diving Miniguide==
+* Stat tests at floor N require about N<sup>1.4</sup> buffed stat.
+* To get to floor 400 at level 30 (845 mainstat), all that's really needed is a 420% boost to all stats, easily attainable from reagent potions alone, and an equalizer potion.
+*To get to Floor 500 at level 30 requires about a 610% boost to all stats and an equalizer reagent potion.
+*Clever use of Elemental Phials will greatly help with the elemental tests. Mysticality classes will generally have a much easier time with these tests (especially when otherwise capped at 89%, they'll take roughly half the damage of other classes at that point), and also with the MP drain test.
+* Muscle classes will have an easier time at the Gauntlet and Elemental tests because of their natural HP bonus. 
+*Moxie classes will have the hardest time in the basement because they lack neither the HP or MP bonus the other two classes have.
+*Stat tests are not necessarily the limiting factor for everyone. Players without [[Torso Awaregness]] or [[Tao of the Terrapin]] may find themselves stopped at the Gauntlet; without [[Wisdom of the Elder Tortoises]], at the Festering Powder test; without an uncapped Myst damage spell, at high-HP monsters.
+* If you lack an uncapped Myst spell, Divine Party Favors or Love Songs can be substituted, and you might want to anyway against Beer golems.
+*A not-so-mini guide for diving in the basement is [[Basement Diving Guide|available]].
+
+==Notes==
+*Prior to January 23rd, 2007 the Basement was located in [[The Dungeon Full Of Dungeons]]:
+*:[[Image:Basement.gif]]
+*Once you ascend, you will need to find the basement again and begin at floor 1.
+*You cannot [[CLEESH]] the monsters in the basement.
+*When beaten up you get the message "You're too beaten up to accomplish anything in the basement. Unless bleeding counts as an accomplishment."
+*When falling down drunk, the following message appears: "I know you've got fond memories of stumbling around your parents' basement in a drunken stupor, but this isn't that kind of basement."
+*When out of adventures you get the message "You don't have time to screw around in Fernswarthy's Basement."
+*There isn't any special adventure on 600th floor.
+*[http://hardcoreoxygenation.com/forums/viewtopic.php?p=69300 Records of encounter rates] suggest that there are 30 possible basement encounters - 1 each of MP, HP, and each resistance test; 3 each of Moxie, Myst, and Muscle stat tests; and 2 copies of each monster in the basement.
+
+[[Category:Locations]]

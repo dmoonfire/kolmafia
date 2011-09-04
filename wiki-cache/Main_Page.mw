@@ -1,0 +1,129 @@
+__NOTOC__ __NOEDITSECTION__
+<table style="width:100%;background-color:#fcfcfc;border:1px solid #cccccc">
+  <tr>
+    <td style="text-align:center;white-space:nowrap;color:#000">
+      <h1 style="font-size:100%;border:none;margin:0;padding:.1em;color:#000">
+        <div style="font-size:large;">'''Welcome to The KoL wiKi'''</div>
+        <div style="font-size:small; color:blue;">'''SPLAT! WHACK! BARF!'''</div>
+        <div style="font-size:small;">{{meat|amount=[[Special:Statistics|{{NUMBEROFARTICLES}}]]}}</div>
+       </h1>
+     </td>
+     <td style="width:100%;">{{moons}}</td>
+   </tr>
+</table>
+{{Announcement}}
+<table style="width:100%;margin-top:+.7em;background-color:#F3DFFB;border:1px solid #8663A8">
+  <tr>
+    <td class="box_tgen" style="text-align:center;color:#000;font-size:90%;border:none;margin: 0;padding:.1em;">
+'''Quick Links:''' [[Ascension]] | [[:Category:Booze|Booze]] | [[Clan]]s | [[Class]]es | [[Elements]] | [[:Category:Familiars|Familiars]] | [[:Category:Food|Food]] | [[:Category:Items|Items]] | [[Locations]] | [[Game Mechanics|Mechanics]] | [[Monster Compendium|Monsters]] | [[Naughty Sorceress Quest|Naughty Sorceress]] | [[Quest Spoilers|Quests]] | [[Safe Adventuring]] | [[Skills By MP Cost|Skills]] | [[Tattoo]]s | [[Trophy|Trophies]] | [[Zapping]]</td>
+  </tr>
+</table>
+
+<table style="border-spacing:8px;margin:0px -8px;">
+  <tr>
+    <td class="MainPageBG" style="width:60%;border:1px solid #63A886;background-color:#F5FFFA;vertical-align:top;color:#000">
+      <table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#F5FFFA;">
+        <tr>
+          <td>
+            <h2 style="margin:0;background-color:#CFFBE3;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #63A886;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">
+              News of the Kingdom from [http://kol.coldfront.net/ Coldfront]:
+            </h2>
+          </td>
+        </tr>
+        <tr>
+          <td style="color:#000;">
+<ColdFrontNews></ColdFrontNews>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table cellpadding="0" cellspacing="0" width="100%" style="background:#CFFBE3;border:1px solid #63A886;">
+              <tr>
+                <td>
+                  <h2 style="border:none;margin:0;font-family:sans-serif;font-size:120%;font-weight:bold;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">
+              Today's Featured Article:
+                  </h2>
+                </td>
+                <td style="text-align:right;margin-left:5px;margin-right:5px;" class="plainlinks">''[{{fullurle:Template:FEATURE {{featuredarticle}}|action=edit}} edit]''&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="color:#000;">{{FEATURE {{featuredarticle}}}}<br />
+[[:Category:Featured Articles|'''Featured Article Archive''']]</td>
+        </tr>
+        <tr>
+          <td>
+            <table cellpadding="0" cellspacing="0" width="100%" style="background:#CFFBE3;border:1px solid #63A886;">
+              <tr>
+                <td>
+                  <h2 style="border:none;margin:0;font-family:sans-serif;font-size:120%;font-weight:bold;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">
+                    Today in KoL History:
+                  </h2>
+                </td>
+                <td style="text-align:right;margin-left:5px;margin-right:5px;" class="plainlinks">''[{{fullurle:Template:DATE {{CURRENTMONTHNAME}} {{CURRENTDAY}}|action=edit}} edit]''&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="color:#000;">
+{{DATE {{CURRENTMONTHNAME}} {{CURRENTDAY}}}}
+          </td>
+        </tr>
+      </table>
+    </td>
+<!-- Start of right-column -->
+    <td class="MainPageBG" style="width:45%;border:1px solid #6386A8;background-color:#f5faff;vertical-align:top">
+      <table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff;">
+        <tr>
+          <td>
+            <table cellpadding="0" cellspacing="0" width="100%" style="background:#CFE3FB;border:1px solid #6386A8;">
+              <tr>
+                <td>
+                  <h2 style="border:none;margin:0;font-family:sans-serif;font-size:120%;font-weight:bold;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">
+                    So You'd Like To:
+                  </h2>
+                </td>
+                <td style="text-align:right;margin-left:5px;margin-right:5px;" class="plainlinks">''[{{fullurle:Template:Quicklinks|action=edit}} edit]''&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="color:#000;">{{quicklinks}}</td>
+        </tr>
+        <tr>
+          <td>
+            <table cellpadding="0" cellspacing="0" width="100%" style="background:#CFE3FB;border:1px solid #6386A8;">
+              <tr>
+                <td>
+                  <h2 style="border:none;margin:0;font-family:sans-serif;font-size:120%;font-weight:bold;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">
+                    Editors:
+                  </h2>
+                </td>
+                <td style="text-align:right;margin-left:5px;margin-right:5px;" class="plainlinks">''[{{fullurle:Template:Editlinks|action=edit}} edit]''&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="color:#000;">{{editlinks}}</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table style="width:100%;background-color:#F3DFFB;border:1px solid #8663A8">
+  <tr>
+    <td style="text-align:center;color:#000;padding:.1em;font-size:90%;margin: 0;">'''[http://www.kingdomofloathing.com Kingdom of Loathing]'''  &nbsp; • &nbsp; '''[http://forums.kingdomofloathing.com/ KoL Official Forum]''' &nbsp; • &nbsp; '''[http://forums.coldfront.net/kingdom-loathing/ Coldfront Forum]'''<br />'''[http://kol.coldfront.net/ Coldfront Fan Site]''' &nbsp; • &nbsp; '''[http://kol.thraeryn.org/ Visual KoL]'''</td>
+  </tr>
+</table>
+
+<table style="width:100%;">
+  <tr>
+    <td style="text-align:left;">Leave suggestions for this page [[Talk:Main Page|here]].</td>
+    <td style="text-align:right;" class="plainlinks">[{{fullurle:{{PAGENAME}}|action=purge}} Refresh] this page.</td>
+  </tr>
+</table>

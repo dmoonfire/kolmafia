@@ -1,0 +1,22 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+This is the logging camp in [[Little Canadia]], an area only accessible to players who have [[ascension|ascended]] with a Mysticality [[zodiac sign]]. You must have 30 main stat to adventure here, if you don't, you see this message:
+
+:As you near Camp Logging Camp, you're suddenly overwhelmed by a sense of powerlessness.
+
+:You'll have to come back when you're less powerlessnessful.
+
+==Combat Adventures==
+{{Combat|name=decent lumberjack}}
+{{Combat|name=lumberjack supervisor}}
+{{Combat|name=lumberjill|note1=The [[supportive bra]] will not drop unless you have the [[Torso Awaregness]] skill.}}
+{{Combat|name=lumberjuan}}
+{{Combat|name=hockey elemental|note1=An [[Ultra Rares|Ultra-rare]] adventure.}}
+==Noncombat Adventures==
+{{adventure|name=Rock and Roll, eh?|meat=100|stat=15 {{moxie}}|image=logroll.gif}}
+{{adventure|name=Time to Split||meat=100|stat=15 {{mysticality}}|image=woodpile.gif}}
+{{adventure|name=What a Tosser!|meat=100|stat=15 {{muscle}}|image=axethrow.gif}}
+{{Adventure|name=Oot to Lunch|drops=[[balaclava baklava]], [[Blatantly Canadian]], [[poutine]]|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.|image=jacknjill.gif}}
+{{Adventure|name=Stumped (Camp Logging Camp)|image=glyphs1.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+[[Category:Locations]]

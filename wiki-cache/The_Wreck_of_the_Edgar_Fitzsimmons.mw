@@ -1,0 +1,26 @@
+{{NeedsContent|Combat Frequency?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Wreck of the Edgar Fitzsimmons]] is located on [[The Sea Floor]].
+
+
+==Combat Adventures==
+{{combat|name=cargo crab}}
+{{combat|name=drowned sailor}}
+{{combat|name=Mer-kin scavenger}}
+{{combat|name=mine crab|note1=Explodes for massive damage if it takes too much damage at once.}}
+{{combat|name=unholy diver|note1=The [[glowing syringe]] will only drop if you have asked [[Grandpa]] about divers.}}
+
+==Non-combat Adventures==
+
+{{choice|name=Down at the Hatch|image=metaldoor.gif
+|choice1name=Open the bulkhead|choice1=First time, free [[Big Brother]].  Each subsequent time, replace all [[cargo crab]]s with [[mine crab]]s and [[drowned sailor]]s with [[unholy diver]]s for the next 20? turns.
+|choice2name=Head out
+|choice2=Skip adventure}}
+
+==Notes==
+*This is an underwater zone. It features all the restrictions and special mechanics of [[underwater adventuring]].  Amongst other things, this means this zone has a <font color=red>-100%</font> penalty to [[Meat from Monsters|meat drops]] and [[Items from Monsters|item drops]].
+
+==References==
+*This zone is a reference to [[Wikipedia:SS Edmund Fitzgerald|SS Edmund Fitzgerald]] a freighter on the Great Lakes that sunk suddenly during a storm in 1975. The ship's story was popularized in [[Wikipedia:Gordon Lightfoot|Gordon Lightfoot]]'s song "[[Wikipedia:The Wreck of the Edmund Fitzgerald|The Wreck of the Edmund Fitzgerald]]".
+[[Category:Locations|Wreck of the Edgar Fitzsimmons, The]]

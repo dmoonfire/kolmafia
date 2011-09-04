@@ -1,0 +1,18 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The [[Batrat and Ratbat Burrow]] is located in [[The Bat Hole]], which is in turn located in [[The Nearby Plains]]. To unlock this location, you must use a [[sonar-in-a-biscuit]], obtainable in [[Guano Junction]].
+
+If your main stat isn't high enough, you will see the following message:
+
+:You should not be here.
+
+:(You must have at least 13 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=batrat}}
+{{Combat|name=ratbat}}
+
+==Non-combat Adventures==
+{{Adventure|name=How Does He Smell?|drops=[[Dogsgotnonoz pills]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=skelremains.gif}}
+
+[[Category:Locations]]

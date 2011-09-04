@@ -1,0 +1,32 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[An Oasis]] is located in the [[Desert Beach]]. It is unlocked after passing the [[Let's Make a Deal!]] adventure in [[The Arid, Extra-Dry Desert]] (see the [[Quest for the Holy MacGuffin]]), although a direct link will let you adventure without unlocking the area. This is probably a bug.
+
+:(You must have at least ? <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=blur}}
+{{Combat|name=oasis monster}}
+{{Combat|name=rolling stone}}
+{{Combat|name=swarm of scarab beatles}}
+
+==Non-combat Adventures==
+
+{{Adventure|name=Glug, Glug, Glug|note1=Gives 5 turns of [[Ultrahydrated]].|note2=Will always occur if you are not currently [[Ultrahydrated]], unless overridden by one of the one-time adventures below.|image=oasis.gif}}
+
+{{Adventure|name=All Across the Sands|image=oasis.gif|drops=[[stone rose]]|note1=Unlocks [[No Colors Anymore]] in [[The Arid, Extra-Dry Desert]]|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Blowin' in the Wind (page 1)|image=oasis.gif|drops=[[worm-riding manual page 1]]|note1=Unlocks [[Blowin' in the Wind (page 2)]]|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Blowin' in the Wind (page 2)|image=oasis.gif|drops=[[worm-riding manual page 2]]|note1=Unlocks [[Blowin' in the Wind (pages 3-15)]]|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Blowin' in the Wind (pages 3-15)|image=oasis.gif|drops=[[worm-riding manual pages 3-15]]|note1=Unlocks [[The Sleeper Has Awakened]] in [[The Arid, Extra-Dry Desert]]|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Some Things Never Change|image=oasis.gif|note1=Gives 20 turns of [[Ultrahydrated]]|note2=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Mr. Sun Is Not Your Friend|image=Sun.gif|note1=Gives 10 turns of [[Solar Flair]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*The name of this zone refers to the English rock band [[wikipedia:Oasis (band)|Oasis]] and all of the combat adventures refer to other British musical artists.
+
+[[Category:Locations|Oasis, An]]

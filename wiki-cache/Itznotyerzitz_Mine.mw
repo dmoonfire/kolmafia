@@ -1,0 +1,65 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[Itznotyerzitz Mine]] is in [[Mt. McLargeHuge]]. If you had some [[Mining Gear]], you could do some mining here. If your main stat isn't high enough, you will see the following message, unless you are wearing Mining Gear:
+
+<center>
+As you near the Mine, your knees get weak -- you appear to have developed a sudden fear of depths.
+
+(You must have at least 53 <Stat> to adventure here.)</center>
+__TOC__
+
+==Undisguised==
+===Combat Adventures===
+{{Combat|name=7-Foot Dwarf (Moiling)}}
+{{Combat|name=7-Foot Dwarf (Royale)}}
+{{Combat|name=7-Foot Dwarf Foreman|note1=Potential Effect: [[Grilled]] (5 Adventures)}}
+
+===Non-combat Adventures===
+{{choice|name=100% Legal|image=Poundsign.gif
+|choice1name=Demand loot|choice1=[[miner's helmet]]
+|choice2name=Ask for ore|choice2=[[miner's pants]]
+|choice3name=Say you'll keep quiet for free|choice3=Gain 100 Meat.}}
+
+{{choice|name=A Flat Miner|image=deaddwarf.gif
+|choice1name=Loot the dwarf's belongings|choice1=[[miner's pants]]
+|choice2name=Hijack the meat vein|choice2=[[7-Foot Dwarven mattock]]
+|choice3name=Help the dwarf|choice3=Gain 100 Meat.}}
+
+{{choice|name=See You Next Fall|image=Axehandle.gif
+|choice1name=Give 'im the stick|choice1=[[miner's helmet]]
+|choice2name=DOOOOON'T GIVE 'IM THE STICK!|choice2=[[7-Foot Dwarven mattock]]
+|choice3name=Negotiate for a reward|choice3=Gain 100 Meat.}}
+
+{{Adventure|name=A Girl's Best Friend|meat=100|stat=10 {{Moxie}}|image=diamonds.gif}}
+
+{{Adventure|name=Grilling the Foreman|meat=100|stat=10 {{Mysticality}}|image=crushmeat.gif}}
+
+{{Adventure|name=Right in the Vestibule!|drops=[[safety vest]]|image=deaddwarf.gif|note1=Must have [[Torso Awaregness]] skill, [[Mining Gear]], and ''no'' safety vest in inventory for this adventure to occur.}}
+
+{{Adventure|name=Speak, Frat Boy, and Enter|meat=100|stat=10 {{Muscle}}|image=fratboy.gif}}
+
+{{Adventure|name=Either Ore|drops=[[asbestos ore]], [[chrome ore]], [[linoleum ore]]|image=geopardy.gif|note1=This adventure is sometimes triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=A Real Gem|drops=[[stone of eXtreme power]]|image=geopardy.gif|note1=This adventure is sometimes triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+==In Disguise==
+[[Image:bottomright outfit.gif|center|Enter Itznotyerzitz Mine]]
+
+"Dressed in your Mining Gear, you stride past the 7-Foot Dwarves who guard Itznotyerzitz Mine. You walk deep into one of the shafts, and find a nice, quiet place to mine."
+
+*If you have been given the [[Dwarven Factory Quest]] (first time only):
+
+"Off to one side of the work face, you spot a tunnel entrance that looks like it might lead to the Dwarves' factory complex."
+
+{{Adventure|name=Inside of Itznotyerzitz Mine|drops=[[asbestos ore]], [[chrome ore]], [[linoleum ore]], 3 {{plural|meat stack}}, [[stone of eXtreme power]], [[baconstone]], [[hamethyst]], [[porquoise]], [[lump of diamond]]|image=mattock.gif|note1=Not all the items drop at once, and there is some patterning involved in the drops; see the adventure page for details.|note2=You can potentially lose HP, or get nothing, instead of getting items.}}
+
+==Retired Adventures==
+{{Adventure|name=Mining the Mines (like a Miner)|drops=[[asbestos ore]], [[chrome ore]], [[linoleum ore]] or [[meat stack]]|image=miner.gif}}
+
+==Notes==
+*Adventuring here with a [[ten-leaf clover]] (when not in disguise) will give you either the [[Either Ore]] adventure (less likely) or the [[A Real Gem]] adventure (more likely).
+*Itznotyerzitz Mine, when pronounced, sounds like, "It's not yours, it's mine."
+*Mining [[Inside of Itznotyerzitz Mine]] replaced the Itznotyerzitz Mine (In Disguise) adventure, [[Mining the Mines (like a Miner)]].
+*The 7-foot dwarves are no doubt partly a play on the [[Wikipedia:Snow White|seven dwarfs]]. It is '''not''' a reference to the movie ''Happily Never After'', which actually came out after their insertion into the game. Furthermore, it is simply quite ironic to have a 7-foot tall "dwarf," when the word typically indicates someone shorter than usual.
+
+[[Category:Locations]]

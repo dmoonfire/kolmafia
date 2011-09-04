@@ -1,0 +1,26 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Dark Elbow of the Woods]] is in [[The Distant Woods]] inside the [[Copse of the Deep Fat Friars]].  The Dark Elbow of the woods becomes available (as do [[The Dark Neck of the Woods]] and [[The Dark Heart of the Woods]]) once you have been given the [[Deep Fat Friars' Gate Quest]] quest. Upon completion of the quest, the Elbow, Neck, and Heart of the Woods disappear and all of their monsters move to [[The Deep Fat Friars' Gate]].
+
+All monsters here have {{element|hot|resistance}}.
+
+(You must have at least 29 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=Demoninja|note1=[[Fraudwort]] will not drop unless you have received [[Doc Galaktik's Quest for Herbs]].}}
+
+{{Combat|name=G imp}}
+
+{{Combat|name=L imp}}
+
+==Non-combat Adventures==
+{{Adventure|name=Der Bierdieb|drops=3 [[Imp Ale]]s|image=wimp.gif}}
+
+{{Adventure|name=It's The Only Way To Be Sure|drops=[[SPF 451 lip balm]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=wimp.gif}}
+
+{{Adventure|name=Like Butter|drops=[[eldritch butterknife]]|note1=A [[Ascension#One Time|one time]] adventure.
+|image=crutch.gif}}
+==Notes==
+*Trying to adventure here after the quest is finished yields the message "You shouldn't be here."
+
+[[Category:Locations|Dark Elbow of the Woods]]

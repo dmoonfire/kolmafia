@@ -1,0 +1,52 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+<center>[[Image:newbeach6.gif|The Border]]<br />[[Image:newbeach9.gif|South of the Border]]</center>
+
+[[South of The Border]] is located in the [[Desert Beach]].
+
+If your main stat isn't high enough, you will see the following message:
+
+:As you near the lands South of the Border, the bumpy roads and scary police presence start to make you nervous.
+
+:You'll have to come back when you're a little less of a wuss.
+
+:(You must have at least 10 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=angry piñata}}
+{{Combat|name=handsome mariachi}}
+{{Combat|name=irate mariachi}}
+{{Combat|name=mariachi calavera}}
+{{Combat|name=raging bull}}
+
+==Non-combat Adventures==
+{{Adventure|name=A Chewy Encounter (Jabañero)|drops=[[jabañero-flavored chewing gum]]|meat=<font color="red">-30</font>|image=chiclekid.gif}}
+
+{{Adventure|name=A Chewy Encounter (Lime)|drops=[[lime-and-chile-flavored chewing gum]]|meat=<font color="red">-30</font>|image=chiclekid.gif}}
+
+{{Adventure|name=A Chewy Encounter (Pickle)|drops=[[pickle-flavored chewing gum]]|image=chiclekid.gif}}
+
+{{Adventure|name=A Chewy Encounter (Tamarind)|drops=[[tamarind-flavored chewing gum]]|meat=<font color="red">-30</font>|image=chiclekid.gif}}
+
+{{Choice|name=Finger-Lickin'... Death.|image=cock.gif
+|choice1name=Bet 500 Meat on Tapajunta Del Maiz|choice1=Gain or <font color="red">Lose</font> 500 Meat.
+|choice2name=Bet 500 Meat on Cuerno De... the other one|choice2=<font color="red">Lose</font> 500 Meat, possibly gain a [[poultrygeist]].
+|choice3name=Walk away in disgust|choice3=(Does not use an adventure)}}
+
+{{Adventure|name=La Farmacia de Sueños|drops=[[Meleegra™ pills]]|image=counter.gif}}
+
+{{Adventure|name=Filth, Filth, and More Filth|drops=[[donkey flipbook]]|image=sewer2.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Adventure|name=Forget Not That I am an Ass|drops=[[pack of chewing gum]]|image=chiclekid.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=The Beaten-Senseless Man's Hand|image=Cards1.gif|meat=4,000|note1=Gives 10 turns of [[Beaten Up]].|note2=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+{{Adventure|name=Questionable Tactics|drops=[[questionable taco]]|meat=<font color="red">-30</font>|image=tacokid.gif|note1=This adventure only occurred during [[The Gray Plague]].}}
+
+==Notes==
+*If you get a gum adventure, you still get the gum, even if you don't have enough Meat to pay for it.
+
+==References==
+*"South of the Border" is a term commonly used in the U.S. to describe [[Wikipedia:Mexico|Mexico]].
+
+[[Category:Locations]]

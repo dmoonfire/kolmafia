@@ -1,0 +1,21 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Wine Racks are located in [[Spookyraven Manor Wine Cellar]].
+
+==Combat Adventures==
+{{Combat|name=possessed wine rack}}
+
+{{Combat|name=skeletal sommelier}}
+
+==Non-combat Adventures==
+{{Adventure|name=Hair of the Hellhound|image=Winerack.gif|note1=Gives 10 turns of [[Cupshotten]].|note2=[[Bad Moon]] only.}}
+
+==Notes==
+*Monsters in each corner normally drop only three different kinds of [[Dusty bottle of wine|dusty bottles of wine]], and each kind of wine drops only from two corners.
+*Furthermore, the corners' drops map one-to-one to these configurations, in some order that changes from Ascension to Ascension:
+**Merlot, Pinot Noir, Port
+**Marsala, Pinot Noir, Zinfandel
+**Muscat, Port, Zinfandel
+**Marsala, Merlot, Muscat
+*All 24 possible permutations of the corner configurations have been observed, and do not appear to have any significant difference in frequency.
+[[Category:Locations]]

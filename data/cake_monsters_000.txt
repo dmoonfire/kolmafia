@@ -1,0 +1,630 @@
+# Monster	HP	Defense	ElementDefense	Attack	ElementDefense	Element	Meat	Stat	Effect"Handyman" Jay Android	0	0		0			0	0	
+1335 HaXx0r	71	81		81			30	20.25	
+7-Foot Dwarf	40	53		53			41.5	13.25	
+7-Foot Dwarf Foreman	50	57		57			62.5	14.25	
+7-Foot Dwarf Replicant	0	0		0			0	0	
+A Bugged Bugbear	14	18		14			0	3.5	
+A Revolting Bugbear	10	13		13		stench	0	3.25	
+A Revolving Bugbear	11	15		14			0	3.5	
+A.M.C. Gremlin	170	170		172			50	43	
+Acid Blob	40	38		38			0	9.5	
+Acoustic Electric Eel	500	400		405			240	101.25	
+Albino Bat	8	14		12			21	3	
+Alphabet Giant	150	145		145			150	36.25	
+Amateur Ninja	5	6		4			20	1	
+An Angry Bugbear	12	15		15			0	3.75	
+An Annoying Spooky Gravy Fairy	20	20		20		spooky	0	5	
+An Usher	0	0		0			0	0	
+Ancient Guardian Statue	0	0		0			0	0	
+Ancient Insane Monk	6	4		4			0	1	
+Ancient Mariner	0	0		0			0	0	
+Ancient Protector Spirit	80	158		158			0	39.5	
+Anemone Combatant	600	650		400			100	100	Majorly Poisoned
+Angels of Avalon	150	145		145	heat		0	36.25	
+Anglerbush	10	9		7			0	1.75	
+Angry Pi&ntilde;ata	20	22		22			0	5.5	
+Angry Poet	0	0		0			0	0	
+Angry Raccoon Puppet	21	35		35			20	8.75	
+Animated Nightstand (Mahogany)	170	162		162			0	40.5	
+Animated Nightstand (White)	180	171		159			0	39.75	
+Anime Smiley	67	77		77			0	19.25	
+Apathetic Lizardman	14	20		20			0	5	
+Axe Handle	3	3		1			0	0.25	
+BASIC Elemental	40	50		50			0	12.5	
+Bad ASCII Art	1	0		0			0	0	
+Bailey's Beetle	215	195		195			0	48.75	
+Baiowulf	40	25		25			0	6.25	
+Bangyomaman Warrior	0	0		0			0	0	
+Banshee Librarian	69	52	spooky	57			0	14.25	
+Bar	5	3		1			16	0.25	
+Baseball Bat	9	15		15			22	3.75	
+Batrat	20	23		23			23	5.75	
+Batwinged Gremlin	170	171		169			0	42.25	
+Bazookafish	500	325		375			220	93.75	
+Beanbat	18	21		21			35.5	5.25	
+Beefy Bodyguard Bat	36	26		26			250	6.5	
+Beer Batter	100000	0		0			0	0	
+Beer Bongadier	210	195		180		sleaze	0	45	
+Bellhop	0	0		0			0	0	
+Best-Selling Novelist	100000	0		0			0	0	
+Big Creepy Spider	1	1		1			5.5	0.25	Hardly Poisoned at All
+Big Meat Golem	100000	0		0			0	0	
+Bizarre Construct	300	300		300			0	75	
+Black Adder	124	127		129			100	32.25	Really Quite Poisoned
+Black Cat	0	0		0			0	0	
+Black Panther	128	125		133			150	33.25	
+Black Pudding	40	50		50			0	12.5	
+Black Widow	120	123		132			50	33	Really Quite Poisoned
+Blackberry Bush	136	127		126			0	31.5	
+Blooper	15	25		25			0	6.25	
+Blur	141	140		127			120.5	31.75	
+Boaraffe	145	145		145			99.5	36.25	
+Bob Racecar	139	145		138			117	34.5	
+Bookbat	55	49		51			0	12.75	
+Booty Crab	69	102		102		sleaze	310	25.5	
+Booze Giant	66	76		76			0	19	
+Bowling Cricket	100000	0		0			0	0	
+Brainsweeper	9	18		18			38	4.5	
+Bread Golem	8	16		24			33.5	6	
+Briefcase Bat	11	17		17			31	4.25	
+Bronze Chef	100000	0		0			0	0	
+Brutus, the Toga-Clad Lout	280	0		0			0	0	
+Bugbear-In-The-Box	11	18		16			15	4	
+Bullet Bill	15	25		25			0	6.25	
+Burly Sidekick	100	100		100			123.5	25	
+Business Hippy	25	38		38			0	9.5	
+Bustle in the Hedgerow	150	145		145			0	36.25	
+Buzzy Beetle	15	20		20			0	5	
+C. H. U. M.	215	260		260			0	65	
+C. H. U. M. Chieftain	0	0		0			0	0	
+C.A.R.N.I.V.O.R.E. Operative	330	220		220			379	55	
+Cactuary	139	140		137			100	34.25	
+Can-can Dancer	0	0		0			0	0	
+Candied Yam Golem	0	0		0			0	0	
+Cargo Crab	500	400		450			200	112.5	
+Carnivorous Dill Plant	180	200		200			0	50	
+Carnivorous Moxie Weed	56	66		66			0	16.5	
+Caveman Frat Boy	320	235		235		sleaze	50	58.75	
+Caveman Frat Pledge	204	255		255		sleaze	40	63.75	
+Caveman Hippy	280	240		240		stench	0	60	
+Caveman Sorority Girl	245	230		230		sleaze	50	57.5	
+Cavewomyn Hippy	260	230		250		stench	0	62.5	
+Centurion of Sparky	201	195		150			0	37.5	
+Chalkdust Wraith	10	20	spooky	20			0	5	
+Chatty Pirate	90	90		100			64	25	
+Chester	8000	0		0		sleaze	0	0	
+Chowder Golem	9	18		18			37.5	4.5	
+Claw-foot Bathtub	100	100		90			0	22.5	
+Cleanly Pirate	90	100		100			60.5	25	
+Clingy Pirate	90	100		100			65	25	
+Cloaca-Cola Catapult Engineer	40	30		30			0	7.5	
+Cloaca-Cola Footsoldier	35	30		30			0	7.5	
+Cloaca-Cola Soldier	30	30		30			0	7.5	
+Cloud of Disembodied Whiskers	3	3		1			0	0.25	
+Clubfish	600	400		350			220	87.5	
+Cluster of Angry Bacteria	0	0		0			0	0	
+Cold Hobo	500	350		350			0	87.5	
+Collapsed Mineshaft Golem	100000	0		0			0	0	
+Completely Different Spider	1	1		1			5.5	0.25	Hardly Poisoned at All
+Concert Pianist	100000	0		0			0	0	
+Confused Goth Music Student	9	9		9			0	2.25	
+Conjoined Zmombie	124	71		79		spooky	281	19.75	
+Corpulent Zobmie	50	55		54		spooky	75	13.5	
+Corrosive Algae	0	0		0			0	0	
+Count Bakula	70	80		80			0	20	
+Courtesan	0	0		0			0	0	
+Crazy Bastard	25	20		20			0	5	
+Creamy Pirate	90	100		100			0	25	
+Creepy Clown	16	20		20		sleaze	30	5	
+Crusty Hippy	30	41		41		stench	0	10.25	
+Crusty Hippy Jewelry Maker	30	41		41		stench	0	10.25	
+Crusty Hippy Vegan Chef	30	41		41		stench	0	10.25	
+Crusty Pirate	90	100	stench	100			0	25	
+Crys-Rock	0	0		0			0	0	
+Cubist Bull	110	105		105			200	26.25	
+Curmudgeonly Pirate	90	100		100			0	25	
+Cyborg Policeman	0	0		0			0	0	
+Cyrus the Virus	100000	10000		10000			0	2500	
+Dairy Goat	50	68		68			52	17	
+Dairy Ooze	8	13		13			13	3.25	
+Danglin' Chad	300	0		0		sleaze	319.5	0	
+Decent Lumberjack	35	35		35			20	8.75	
+Decent White Shark	600	375		425			240	106.25	
+Demonic Icebox	5	5		4			5	1	
+Demoninja	48	30		48		heat	50	12	
+Digital Underground Dweller	0	0		0			0	0	
+Dirty Hippy	30	40		40		stench	0	10	
+Dirty Hippy Jewelry Maker	30	40		40		stench	0	10	
+Dirty Hippy Vegan Chef	30	40		40		stench	0	10	
+Dirty Thieving Brigand	185	171		169			989.5	42.25	
+Disease-In-The-Box	14	18		18			0	4.5	
+Diving Belle	750	500		400		spooky	0	100	
+Dodecapede	8	12		12			0	3	A Little Bit Poisoned
+Doughbat	8	14		14	sleaze		22	3.5	
+Dr. Awkward	200	170		170			0	42.5	
+Drab Bard	170	138		136			44	34	
+Drowned Sailor	700	450		400		spooky	150	100	
+Drunk Duck	173	165		165			202	41.25	
+Drunk Goat	50	68		68			45	17	
+Drunken Half-Orc Hobo	1	1		1		stench	0	0.25	
+Drunken Rat	8	11		9			10	2.25	
+Dwarvish Gnome	0	0		0			0	0	
+Dyspepsi-Cola General	40	30		30			0	7.5	
+Dyspepsi-Cola Knight	35	30		30			0	7.5	
+Dyspepsi-Cola Soldier	30	30		30			0	7.5	
+Ed the Undying	256	180		180			0	45	
+El Diablo	100000	0		0			0	0	
+El Novio Cad&aacute;ver	0	0		0			0	0	
+El Padre Cad&aacute;ver	0	0		0			0	0	
+Elders of the Gentle Race	150	145		145	sleaze		0	36.25	
+Electron Submarine	100000	0		0			0	0	
+Elite Beer Bongadier	230	205		190		sleaze	0	47.5	
+Empty Suit of Armor	120	115	spooky	115			0	28.75	
+Endangered Inflatable White Tiger	100000	0		0			0	0	
+Enraged Cow	100000	0		0			0	0	
+Erudite Gremlin	170	169		171			50	42.75	
+Evil Olive	140	145		145			0	36.25	
+Evil Spaghetti Cult Priest	20	0		0			0	0	
+Evil Spaghetti Cultist	20	0		0			0	0	
+Evil Trumpet-playing Mariachi	20	0		0			0	0	
+Evil Vihuela-playing Mariachi	20	0		0			0	0	
+Fallen Archfiend	50	50		50		heat	45	12.5	
+Fancy Bath Slug	100000	0		0			0	0	
+Feeling That You're Being Watched	50	53		53			0	13.25	
+Felonia, Queen of the Spooky Gravy Fairies	82	75		75		spooky	0	18.75	
+Ferocious Bugbear	5	3		3			20	0.75	
+Fiendish Can of Asparagus	1	1		1		stench	5	0.25	
+Figure-Skating Duck	186	179		179		cold	155	44.75	
+Filthworm Drone	185	167		167		stench	70.5	41.75	
+Filthworm Royal Guard	190	169		169		stench	100	42.25	
+Filthy Hippy	30	39		41		stench	0	10.25	
+Filthy Hippy Jewelry Maker	30	39		39		stench	0	9.75	
+Filthy Hippy Vegan Chef	30	39		39		stench	0	9.75	
+Fire-Breathing Duck	190	177		177		heat	171	44.25	
+Fisherfish	650	475		550			300	137.5	
+Flame-Broiled Meat Blob	2	1		1		heat	5.5	0.25	
+Flaming Samurai	100000	0		0			0	0	
+Flaming Troll	73	83		83			40	20.75	
+Floating Platter of Hors D'Oeuvres	120	110	spooky	110			0	27.5	
+Flock of Stab-Bats	155	148		155			65.5	38.75	
+Fluffy Bunny	1	1		1			0	0.25	
+Forest Spirit	3	2		1			0	0.25	
+Frat Warrior Drill Sergeant	200	175		175			0	43.75	
+Frog	3	3		3			10	0.75	
+Frosty	350	0		0		cold	0	0	
+Frozen Duck	180	170		170		cold	138.5	42.5	
+Fruit Golem	46	56		56			0	14	
+Funk Sole Brother	400	350		300			200	75	
+Furry Giant	150	135		135	sleaze		150	33.75	
+G Imp	46	46		46		heat	30	11.5	
+Gang of Hobo Muggers	3000	800		800			0	200	
+Ganger	800	400		375			240	93.75	
+Gargantulihc	134	73		77		spooky	0	19.25	
+Gathering of Angels?	150	145		145	sleaze		0	36.25	
+Gaudy Pirate	120	140		140			0	35	
+Gaunt Ghuol	50	56		55		spooky	21	13.75	
+Gelatinous Cube	6	3		3			25	0.75	
+Generic Duck	180	166		166			75	41.5	
+Ghastly Organist	120	110		100			0	25	
+Ghost Miner	31	30		30		spooky	0	7.5	
+Ghostly Pickle Factory Worker	180	200		200			0	50	
+Ghuol	10	19		19		spooky	33	4.75	
+Giant Bee	100000	0		0			0	0	
+Giant Desktop Globe	100000	0		0			0	0	
+Giant Fried Egg	100000	0		0			0	0	
+Giant Giant Giant Centipede	142	138		142			150	35.5	
+Giant Giant Moth	11	12		11			0	2.75	
+Giant Octopus	0	0		0			0	0	
+Giant Pair of Tweezers	8	18		16			0	4	
+Giant Sandworm	200	185		175			250	43.75	
+Giant Skeelton	130	73		77		spooky	0	19.25	
+Giant Spider	0	0		0			0	0	
+Giant Squid	800	450		500			300	125	
+Giant Zombie Goldfish	260	0		0			0	0	
+Glass of Orange Juice	330	220		220		stench	413.5	55	
+Gluttonous Ghuol	50	56		55		spooky	31	13.75	
+Gnarly Gnome	35	35		35			0	8.75	
+Gnasty Gnome	35	35		35			0	8.75	
+Gnefarious Gnome	35	35		35			0	8.75	
+Gnollish Bodybuilder	5	10		10	sleaze		21.5	2.5	
+Gnollish Crossdresser	5	11		11	sleaze		23.5	2.75	
+Gnollish Flyslayer	5	10		10			21.5	2.5	
+Gnollish Gearhead	5	10		10			21.5	2.5	
+Gnollish Piebaker	6	13		13			28	3.25	
+Gnollish Plungermaster	6	13		13			28	3.25	
+Gnollish Sorceress	5	11		11			23.5	2.75	
+Gnollish Tirejuggler	6	12		12			25.5	3	
+Gnollish War Chef	9	15		14			25.5	3.5	
+Gnomester Blomester	35	35		35			0	8.75	
+Gnu Jack Gnome	35	35		35			0	8.75	
+Goomba	15	20		20			0	5	
+Goth Giant	150	130		130			150	32.5	
+Grass Elemental	50	60		60			0	15	
+Grassy Pirate	120	140		140			0	35	
+Grave Rober	12	23		18			0	4.5	
+Grave Rober Zmobie	50	59		58		spooky	50	14.5	
+Greasy Duck	185	173		173		sleaze	151	43.25	
+Green Ops Soldier	250	200		200		stench	0	50	Toad In The Hole
+Gritty Pirate	120	140		140			0	35	
+Groovy Pirate	120	140		140			0	35	
+Grungy Pirate	120	140		140			0	35	
+Guard Bugbear	6	12		12			25.5	3	
+Guy with a Pitchfork, and his Wife	120	110		110			100	27.5	
+Handsome Mariachi	15	27		17			5	4.25	
+Haunted Soup Tureen	20	0		0			0	0	
+Heavy Kegtank	300	180		180		sleaze	0	45	
+Hellion	52	52		52		heat	0	13	
+Higher Plane Serpents	150	145		145			0	36.25	
+Hockey Elemental	40	65		65			0	16.25	
+Hodgman, The Hoboverlord	25000	0		0			0	0	
+Hostile Amoeba	0	0		0			0	0	
+Hot Hobo	500	350		350			0	87.5	
+Huge Ghuol	129	71		79		spooky	301	19.75	
+Hulking Construct	100000	0		0			0	0	
+Hung-over Half-Orc Hobo	1	1		1		stench	0	0.25	
+Hustled Spectre	35	25		25			0	6.25	
+Hypnotist of Hey Deze	80	50		50			0	12.5	
+Ice Cube	100000	0		0			0	0	
+Iiti Kitty	150	165		165			0	41.25	
+Industrious Construct	300	350		350			0	87.5	
+Infernal Seal Larva	20	0		0			0	0	
+Infernal Seal Spawn	20	0		0			0	0	
+Infinite Meat Bug	50	45		45			0	11.25	
+Irate Mariachi	17	20		20			5	5	
+Irritating Series of Random Encounters	110	105		105			130	26.25	
+Jamfish	750	400		400			0	100	Majorly Poisoned
+Jungle Baboon	0	0		0			0	0	
+Keese	15	25		25			0	6.25	
+Killer Clownfish	700	500		500		sleaze	300	125	
+Knight (Snake)	130	115		115			0	28.75	
+Knight (Wolf)	130	115		115			0	28.75	
+Knight in White Satin	21	37		38			31.5	9.5	
+Knob Goblin Assistant Chef	1	1		2			8	0.5	
+Knob Goblin Barbecue Team	2	2		2		heat	10	0.5	
+Knob Goblin Bean Counter	20	24		24			60.5	6	
+Knob Goblin Chef	15	20		20			21.5	5	
+Knob Goblin Elite Guard Captain	34	29		29			300	7.25	
+Knob Goblin Elite Guardsman	30	28		30			52.5	7.5	
+Knob Goblin Embezzler	20	24		57			834	14.25	
+Knob Goblin Harem Girl	20	25		25		sleaze	0	6.25	
+Knob Goblin Mad Scientist	25	40		40			41.5	10	
+Knob Goblin Master Chef	20	22		22			0	5.5	
+Knob Goblin Mutant	43	53		53			48	13.25	
+Knob Goblin Poseur	5	4		4			20	1	
+Knob Goblin Very Mad Scientist	30	45		45			46.5	11.25	
+Knott Slanding	0	0		0		cold	1152.5	0	
+Knott Yeti	90	103		105		cold	201	26.25	
+Koopa Troopa	15	20		20			0	5	
+Kubla Khan	0	0		0			0	0	
+L Imp	44	44		44		heat	30	11	
+La Novia Cad&aacute;ver	0	0		0			0	0	
+La Persona Inocente Cad&aacute;ver	0	0		0			0	0	
+Lamz0r N00b	69	79		79			30	19.75	
+Large Kobold	30	35		43			0	10.75	
+Larval Filthworm	180	165		165		stench	50.5	41.25	
+Lemon-In-The-Box	12	17		17			0	4.25	
+Lesser Fruit Golem	9	17		23			0	5.75	
+Lihc	11	20	spooky	20	spooky, sleaze		36	5	
+Liquid Metal Robot	0	0		0			0	0	
+Lobsterfrogman	190	169		171			78	42.75	
+Lonely Construct	350	300		300			0	75	
+Lord Spookyraven	200	170		170			0	42.5	
+Lounge Lizardfish	550	700		400			200	100	
+Lumberjack Supervisor	40	40		40			31.5	10	
+Lumberjill	36	36		36			21.5	9	
+Lumberjuan	35	35		35			21.5	8.75	
+Lumpy, the Sinister Sauceblob	0	0		0			0	0	
+Mad Bugbears	13	17		15			0	3.75	
+Mad Flagellate	0	0		0			0	0	
+MagiMechTech MechaMech	100	120		120			0	30	
+Magic Dragonfish	750	400		500			200	125	
+Malevolent Crop Circle	100000	0		0			0	0	
+Malevolent Hair Clog	85	90	spooky	95			0	23.75	
+Malevolent Tofurkey	0	0		0			0	0	
+Man-Eating Plant	10	9		7			0	1.75	
+Mariachi Calavera	30	22		22			0	5.5	
+Mayonnaise Wasp	11	17		17			0	4.25	A Little Bit Poisoned
+Me4t BegZ0r	77	87		87			0	21.75	
+Mean Drunk Duck	184	180		180			201.5	45	
+Menacing Construct	400	400		400			0	100	
+Mer-kin Burglar	650	800		650			250	162.5	
+Mer-kin Diver	700	475		475			200	118.75	
+Mer-kin Healer	600	650		650			150	162.5	
+Mer-kin Miner	750	450		450			200	112.5	
+Mer-kin Raider	800	650		750			250	187.5	
+Mer-kin Scavenger	600	450		450			200	112.5	
+Mer-kin Tippler	750	400		600			200	150	
+Mimic	50	45		45			0	11.25	
+Mimic (Bottom 2 Rows)	25	15		15			0	3.75	
+Mimic (Middle 2 Rows)	35	25		25			0	6.25	
+Mimic (Top 2 Rows)	45	35		35			0	8.75	
+Mind Flayer	47	40		36			0	9	
+Mine Crab	850	600		700			250	175	
+Mobile Armored Sweat Lodge	300	180		180		stench	0	45	
+Monty Basingstoke-Pratt, IV	240	0		0		sleaze	194.5	0	
+Mother Slime	3000	0		0	slime		0	0	
+Naughty Sorority Nurse	160	185	sleaze	180			0	45	
+Neil	355	0		0			0	0	
+Neptune Flytrap	700	400		450			0	112.5	Really Quite Poisoned
+Newt	3	3		3			10	0.75	
+Next-Generation Frat Boy	200	0		0		sleaze	175	0	
+Ninja Snowman (Chopsticks)	70	85	cold	85			0	21.25	
+Ninja Snowman (Hilt/Mask)	70	85		85		cold	0	21.25	
+Ninja Snowman Janitor	70	90	cold	80			0	20	
+Ninja Snowman Weaponmaster	80	90	cold	90			0	22.5	
+Normal Hobo	400	300		300			0	75	
+Nurse Shark	800	450		450			200	112.5	
+Oasis Monster	139	137		132			100	33	
+Obese Tourist	0	0		0			0	0	
+Octopus Gardener	600	400		425			100	106.25	
+Octorok	15	25		25			0	6.25	
+Ol' Scratch	8000	0		0			0	0	
+One-Eyed Gnoll	5	11		11			23.5	2.75	
+One-Eyed Willie	150	150		150		sleaze	0	37.5	
+Orcish Frat Boy (Music Lover)	30	39		39		sleaze	31.5	9.75	
+Orcish Frat Boy (Paddler)	30	40		40		sleaze	31.5	10	
+Orcish Frat Boy (Pledge)	30	41		41		sleaze	31.5	10.25	
+Orcish Frat Boy Spy	180	165		165		sleaze	0	41.25	
+Oscus	6500	0		0			0	0	
+Ourang-Outang	0	0		0			0	0	
+Overdone Flame-Broiled Meat Blob	2	2		4		heat	20	1	
+P Imp	42	42		42		heat	30	10.5	
+Panty Raider Frat Boy	250	200		200		sleaze	0	50	
+Paper Towelgeist	6	4		4			0	1	
+Pencil Golem	11	15		15			0	3.75	
+Pernicious Puddle of Pesto	20	0		0			0	0	
+Perpendicular Bat	12	18		18			33	4.5	
+Pine Bat	8	12		14	stench		22.5	3.5	
+Plaque of Locusts	140	138		134			0	33.5	
+Pooltergeist	25	20		20			0	5	
+Portly Abomination	63	73		73			76	18.25	
+Possessed Can of Cranberry Sauce	0	0		0			0	0	
+Possessed Can of Tomatoes	1	1		1			3	0.25	
+Possessed Pipe-Organ	100000	0		0			0	0	
+Possessed Silverware Drawer	6	4		5			0	1.25	
+Possessed Wine Rack	165	163		158		spooky	0	39.5	
+Possibility Giant	150	130		130			150	32.5	
+Poutine Ooze	3	3		3			0	0.75	
+Pretty Fly	100000	0		0			0	0	
+Procrastination Giant	150	125		125			150	31.25	
+Protagonist	80	100		100			93.5	25	
+Protector Spectre	116	0		0			0	0	
+Psychedelic Fur	20	0		0			0	0	
+Pufferfish	750	500		400			200	100	
+Pumped-up Bass	500	300		330			200	82.5	
+Pygmy Assault Squad	148	152		152			123.5	38	
+Pygmy Blowgunner	147	156		156			102	39	
+Pygmy Headhunter	151	146		146		sleaze	175	36.5	
+Quantum Mechanic	51	37		37			0	9.25	
+Quiet Healer	90	95		95			104.5	23.75	
+Racecar Bob	139	138		144			55	36	
+Raging Bull	20	25		25			30	6.25	
+Rampaging Adding Machine	70	80		80			0	20	
+Ratbat	22	25		25			23	6.25	
+Rattlin' Duck	203	174		174			146.5	43.5	
+Raven	0	0		0			0	0	
+Raver Giant	150	140		140			150	35	
+Really Interesting Wallpaper	50	53		53	spooky		0	13.25	
+Regular Old Bat	8	13		13			23	3.25	
+Rock Scorpion	145	142		140			201	35	
+Roller-skating Muse	0	0		0			0	0	
+Rolling Stone	135	140		137			0	34.25	
+Rotund Duck	225	175		175			320	43.75	
+Rushing Bum	1	1		1			0	0.25	
+Sabre-Toothed Ferret	200	250		250		stench	200	62.5	
+Sabre-Toothed Goat	50	68		68			55	17	
+Sabre-Toothed Lime	8	14		14			0	3.5	
+Salamander	3	3		3			10	0.75	
+Sassy Pirate	51	61		61			21	15.25	
+Scary Clown	15	19		19		spooky	26	4.75	
+Scary Pirate	200	154		154		spooky	45	38.5	
+School of Wizardfish	400	300		300			200	75	
+Scimitarfish	550	325		400			220	100	
+Scorched Duck	185	170		170		heat	174	42.5	
+Senile Lihc	50	57		56		spooky	0	14	
+Sensitive Poet-type	0	0		0			0	0	
+Servant of Grodstank	201	173		174			0	43.5	
+Sewer Gator	304	0		0			0	0	
+Shady Pirate	57	67		67			30	16.75	
+Shaky Clown	16	19		19		sleaze	20	4.75	
+Shifty Pirate	59	69		69			47	17.25	
+Sk8 Gnome	65	75		75			70	18.75	
+Skeletal Cat	8	9	spooky	9			0	2.25	
+Skeletal Hamster	7	8	spooky	8			0	2	
+Skeletal Monkey	8	9	spooky	9			0	2.25	
+Skeletal Sommelier	162	158		168			100	42	
+Skelter Butleton, the Butler Skeleton	180	0		0			0	0	
+Skleleton	10	18		18		spooky	0	4.5	
+Skullbat	10	16		16	spooky		31	4	
+Skullery Maid	4	4		3			0	0.75	
+Sleaze Hobo	500	350		350			0	87.5	
+Sleeping Knob Goblin Guard	1	1		1			5	0.25	
+Slick Lihc	50	60		59		spooky	0	14.75	
+Slime1	200	100		100	slime		0	25	
+Slime2	200	100		100	slime		0	25	
+Slime3	200	100		100	slime		0	25	
+Slime4	200	100		100	slime		0	25	
+Slime5	200	100		100	slime		0	25	
+Slithering Hollandaise Glob	20	0		0			0	0	
+Slow Talkin' Elliot	200	0		0		stench	142	0	
+Smarmy Pirate	55	65		65		sleaze	28	16.25	
+Smart Skelton	11	20		20		spooky	0	5	
+Snow Queen	70	105		107		cold	0	26.75	
+Some Zombie Waltzers	120	110		110		spooky	100	27.5	
+Somerset Lopez, Dread Mariach	0	0		0			0	0	
+Sorority Nurse	200	175		170		sleaze	0	42.5	
+Sorority Operator	200	180		185		sleaze	0	46.25	
+Space Marine	0	0		0			0	0	
+Spaghetti Elemental	0	0		0			0	0	
+Spam Witch	75	85		85	sleaze		31	21.25	
+Spawn of Wally	15	10		10			0	2.5	
+Spectral Jellyfish	60	70		70			0	17.5	Somewhat Poisoned
+Spelunking Astronaut	0	0		0			0	0	
+Spider Gremlin	170	168		172			50	43	
+Spiny Skelelton	50	54		53		spooky	0	13.25	
+Spirit of New Wave	0	0		0			0	0	
+Sponge	1000	450		350			0	87.5	
+Spooky Gravy Fairy Guard	45	54		56		spooky	0	14	
+Spooky Gravy Fairy Ninja	55	65		65		spooky	0	16.25	
+Spooky Gravy Fairy Warlock	50	60		60		spooky	0	15	
+Spooky Hobo	500	350		350			0	87.5	
+Spooky Mummy	3	4		1		spooky	10.5	0.25	
+Spooky Vampire	2	4		1		spooky	5.5	0.25	
+Spunky Princess	75	90		90			101.5	22.5	
+Stella, the Turtle Poacher	0	0		0			0	0	
+Stench Hobo	500	350		350			0	87.5	
+Stranglin' Algae	600	450		400			0	100	
+Stuffing Golem	0	0		0			0	0	
+Sub-Assistant Knob Mad Scientist	1	2		1			6	0.25	
+Swamp Duck	182	169		169		stench	146	42.25	
+Swarm of Country Bats	20	20		20			0	5	
+Swarm of Fire Ants	135	133		142		heat	0	35.5	
+Swarm of Killer Bees	45	39		41			0	10.25	Somewhat Poisoned
+Swarm of Scarab Beatles	131	131		136		spooky	0	34	
+Swarthy Pirate	53	63		63			26	15.75	
+Taco Cat	145	146		139			40.5	34.75	
+Talking Head	20	0		0			0	0	
+Tan Gnat	128	142		136			0	34	
+Tapdancing Skeleton	120	110	spooky	110			0	27.5	
+Tektite	15	20		20			0	5	
+Terrifying Robot	0	0		0			0	0	
+Tetchy Pirate	72	84		83			40	20.75	
+The Astronomer	150	168		168			0	42	
+The Axe Wound	150	162		162		sleaze	0	40.5	
+The Beaver	150	162		162		sleaze	0	40.5	
+The Best Carpet Ever	50	53		53			0	13.25	
+The Big Wisniewski	2000	0		0			0	0	
+The Black Knight	135	135		123			89	30.75	
+The Bonerdagon	120	90		90		spooky	0	22.5	
+The Boss Bat	40	33		37			0	9.25	
+The Box	150	150		150		sleaze	0	37.5	
+The Burrowing Bishop	150	163		163		sleaze	0	40.75	
+The Bush	150	156		156		sleaze	0	39	
+The Camel's Toe	150	158		158		sleaze	0	39.5	
+The Clownlord Beelzebozo	40	27		28			0	7	
+The Darkness	100000	0		0			0	0	
+The Darkness (blind)	0	0		0			0	0	
+The Family Jewels	150	156		156		sleaze	0	39	
+The Fickle Finger of F8	100000	0		0			0	0	
+The Flange	150	160		160		sleaze	0	40	
+The Guy Made Of Bees	100000	10000		10000			0	2500	
+The Honey Pot	150	152		152		sleaze	0	38	
+The Hooded Warrior	150	165		165		sleaze	0	41.25	
+The Junk	150	159		159		sleaze	0	39.75	
+The Knob Goblin King	50	53		57			0	14.25	
+The Little Man in the Canoe	150	165		165		sleaze	0	41.25	
+The Man	2000	0		0			0	0	
+The Master of Ceremonies	0	0		0			0	0	
+The Muff	150	153		153		sleaze	0	38.25	
+The Pork Sword	150	162		162		sleaze	0	40.5	
+The Queen Filthworm	200	173		173		stench	1000	43.25	
+The Remains of a Jilted Mistress	145	154	spooky	164			0	41	
+The Skinflute	150	158		158		sleaze	0	39.5	
+The Trouser Snake	150	153		153		sleaze	0	38.25	
+The Twig and Berries	150	152		152		sleaze	0	38	
+Tipsy Pirate	70	80		80			45	20	
+Toilet Papergeist	105	100	spooky	88			0	22	
+Tomb Asp	155	162		170			100	42.5	Really Quite Poisoned
+Tomb Bat	180	175		175			50	43.75	
+Tomb Rat	175	165		161			75	40.25	
+Tomb Servant	185	170		160		spooky	50	40	
+Tonic Water Elemental	14	18		18			0	4.5	
+Toothless Mastiff Bitch	0	0		0			0	0	
+Toothy Pirate	75	85		83			45	20.75	
+Toothy Sklelton	50	58		57		spooky	0	14.25	
+Topiary Golem	250	232		232			0	58	
+Towering Construct	450	350		350			0	87.5	
+Tribal Goblin	0	0		0			0	0	
+Triffid	6	5		1			0	0.25	
+Trippy Floating Head (Casey Kasem)	20	20		20			0	5	
+Trippy Floating Head (Grand Moff Tarkin)	20	20		20			0	5	
+Trippy Floating Head (Mona Lisa)	20	20		20			0	5	
+Tyrannosaurus Tex	100000	0		0			0	0	
+Undead Elbow Macaroni	1	2		1		spooky	5	0.25	
+Unholy Diver	1000	600		700			250	175	
+Upgraded Ram	95	105	cold	106			100.5	26.5	
+Urge to Stare at Your Hands	50	53		53			0	13.25	
+Vampire Bat	10	16		17			44	4.25	
+Vampire Clam	14	19		21			0	5.25	
+Vampire Duck	198	175		175		spooky	148	43.75	
+Vegetable Gremlin	170	172		168			50	42	
+Velvet Underground Dweller	0	0		0			0	0	
+Vengeful Turtle Spectre	20	0		0			0	0	
+Vicious Easel	100000	0		0			0	0	
+Vicious Gnauga	40	40		45			0	11.25	
+Vine Gar	180	200		200			0	50	
+Violent Fungus	0	0		0			0	0	
+Visible Music	50	53		53			0	13.25	
+Voyeuristic Artist	0	0		0			0	0	
+W Imp	40	40		40		heat	30	10	
+Wacky Pirate	110	120		120			80	30	
+War Frat 110th Infantryman	185	172		172		sleaze	0	43	
+War Frat 151st Captain	205	175		180		sleaze	0	45	
+War Frat 151st Infantryman	185	175		170		sleaze	0	42.5	
+War Frat 500th Infantrygentleman	185	170		175			0	43.75	
+War Frat Elite 110th Captain	215	190		190		sleaze	0	47.5	
+War Frat Elite 500th Captain	210	190		185		sleaze	0	46.25	
+War Frat Elite Wartender	220	185		195		sleaze	0	48.75	
+War Frat Grill Sergeant	100	165		190		sleaze	0	47.5	
+War Frat Kegrider	300	170		170		sleaze	0	42.5	
+War Frat Mobile Grill Unit	215	195		195		sleaze	0	48.75	
+War Frat Senior Grill Sergeant	120	170		210		sleaze	0	52.5	
+War Frat Streaker	0	0		0		sleaze	409	0	
+War Frat Wartender	200	175		185		sleaze	0	46.25	
+War Hippy (Space) Cadet	180	165		165			0	41.25	
+War Hippy Airborne Commander	220	185		195		stench	0	48.75	
+War Hippy Baker	185	170		175		stench	0	43.75	
+War Hippy Dread Squad	300	170		170		stench	0	42.5	
+War Hippy Drill Sergeant	200	0		0			0	0	
+War Hippy Elder Shaman	120	170		210		stench	0	52.5	
+War Hippy Elite Fire Spinner	220	205		190		stench	0	47.5	
+War Hippy Elite Rigger	220	190		190		stench	0	47.5	
+War Hippy F.R.O.G.	200	185		180		stench	0	45	
+War Hippy Fire Spinner	210	195		180		stench	0	45	
+War Hippy Green Gourmet	215	190		185		stench	0	46.25	
+War Hippy Homeopath	200	175		170		stench	0	42.5	
+War Hippy Infantryman	185	175		170		stench	0	42.5	
+War Hippy Naturopathic Homeopath	250	185		180		stench	0	45	
+War Hippy Rigger	185	172		172		stench	0	43	
+War Hippy Shaman	100	165		190		stench	0	47.5	
+War Hippy Sky Captain	200	175		185		stench	0	46.25	
+War Hippy Spy	180	165		165		stench	0	41.25	
+War Hippy Windtalker	200	180		185		stench	0	46.25	
+War Pledge	180	165		165		sleaze	0	41.25	
+Warty Pirate	110	120		120			80	30	
+Warwelf	2	3		4			12	1	
+Wealthy Pirate	110	120		120			200	30	
+Weather Underground Dweller	0	0		0			0	0	
+Weremoose	53	63		63			65	15.75	
+Weretaco	8	16		16			33.5	4	
+Whiny Pirate	110	120		120			80	30	
+White Chocolate Golem	21	36		37			0	9.25	
+White Lion	21	35		36			30	9	
+Whitesnake	21	34		35			10.5	8.75	A Little Bit Poisoned
+Witty Pirate	110	120		120			80	30	
+Wolfman	2	3		1			11.5	0.25	
+Writing Desk	62	57		53			0	13.25	
+XXX pr0n	68	75		75			30	18.75	
+Yeast Beast	8	17		17	sleaze		0	4.25	
+Zim Merman	0	0		0		stench	267	0	
+Zmobie	10	20		20		spooky	36	5	
+Zobmie	10	19		19		spooky	34	4.75	
+Zol	15	25		25			0	6.25	
+Zombie Baby	20	20		20			0	5	
+Zombie Chef	4	5		5			7	1.25	
+Zombie Duck	191	171		171		spooky	150.5	42.75	
+Zombo	10000	0		0		spooky	0	0	
+broodling seal	95	103		80			0	20	
+clod hopper	0	0		0			0	0	
+eXtreme Cross-Country Hippy	65	73		73		stench	0	18.25	
+eXtreme Orcish Snowboarder	65	74		74		sleaze	40	18.5	
+eXtreme Sports Orcs	30	38		39			0	9.75	
+heat seal	208	176		178			0	44.5	
+hermetic seal	153	200		112			0	28	
+navy seal	200	172		175			0	43.75	
+rock homunculus	42	30		30			0	7.5	
+rock snake	20	0		0			0	0	
+rockfish	0	0		0			0	0	
+shadow of Black Bubbles	208	176		174			0	43.5	
+watertight seal	404	350		351			0	87.75	
+wet seal	201	175		178			0	44.5	

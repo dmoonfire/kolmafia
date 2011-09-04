@@ -1,0 +1,73 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+When you start the [[Mysterious Island Quest]], you will get a different set of adventures from the normal [[Orcish Frat House]]. The Frat Boys will be gearing up for full-scale war against the Filthy Hippies. 
+
+Once the war starts, the [[The Orcish Frat House (Wartime)|Frat House]] will serve as headquarters, where warriors can buy supplies and from which  [[The Man]] directs his influence.
+
+__TOC__
+
+==In the [[Filthy Hippy Disguise]] or [[War Hippy Fatigues]]==
+===Combat Adventures===
+{{Combat|name=Frat Warrior drill sergeant}}
+{{Combat|name=War Pledge}}
+
+===Non-combat Adventures===
+{{choice|name=Catching Some Zetas|image=Zzs.gif
+|choice1name=Take the bombs and wreak some havoc|choice1=Gain 50 {{Muscle}}
+|choice2name=Keep the bombs to use later|choice2=6-7 [[sake bomb|sake bombers]]
+|choice3name=Wake up the pledge and throw down|choice3=Fight a [[War Pledge]]}}
+
+{{choice|name=Fratacombs|image=3corridors.gif
+|choice1name=Wander this way|choice1=gain 50 {{Muscle}}
+|choice2name=Wander that way|choice2=[[brain-meltingly-hot chicken wings]], [[frat brats]], [[knob ka-bobs]], [[can of Swiller]], [[melted Jell-o shot]]
+|choice3name=Wander the other way|choice3=Nothing
+|choice4name=Screw this, head to the roof|choice4=Start the [[Mysterious Island Quest|war]]|note1=In the [[Filthy Hippy Disguise]], the third choice will be Wander the other way. In [[War Hippy Fatigues]], the third choice will be Screw this, head to the roof.|note2=You receive two random items when you choose Wander that way.}}
+
+{{choice|name=One Less Room Than In That Movie|image=3doors.gif
+|choice1name=Supply Room|choice1=gain 50 {{Moxie}}
+|choice2name=Munitions Dump|choice2=2-5 [[beer bomb|beer bombs]]
+|choice3name=Officer's Lounge|choice3=fight a [[Frat Warrior drill sergeant]]}}
+
+==In [[Frat Boy Ensemble]] or [[Frat Warrior Fatigues]]==
+
+===Combat Adventures===
+{{Combat|name=War Hippy Spy}}
+
+===Non-combat Adventures===
+{{Adventure|name=All Alone in My White Boy Pain|stat=100 {{Muscle}}|image=fratboy.gif}}
+
+{{Adventure|name=Dreadlocks and Beer Bongs|stat=100 {{Mysticality}}|image=fratbong.gif}}
+
+{{Adventure|name=Dry Another Day|stat=100 {{Moxie}}|image=fratbong.gif}}
+
+{{Adventure|name=A Farewell to Legs|drops=[[distressed denim pants]]|image=fratsk8.gif|note1=Only occurs if a [[distressed denim pants]] is not in your inventory.}}
+
+{{Adventure|name=Raw Recruiting|drops=[[beer helmet]]|image=deskfrat.gif|note1=Only occurs if a [[beer helmet]] is not in your inventory.}}
+
+{{Adventure|name=Uncle Steve Wants You!|drops=[[bejeweled pledge pin]]|image=fratposter.gif|note1=Only occurs if a [[bejeweled pledge pin]] is not in your inventory.}}
+
+==Undisguised==
+{{Adventure|name=A Good Cause|stat=80 {{Moxie}}|image=sorority.gif}}
+
+{{Adventure|name=Johnny Got His Paddle|stat=80 {{Mysticality}}|image=corpse.gif}}
+
+{{Adventure|name=Know Thine Enemy|stat=70 {{Mysticality}}|image=fratbong.gif}}
+
+{{Adventure|name=Life During Wartime|stat=80 {{Muscle}}|image=sorority.gif}}
+
+{{Adventure|name=Of Human Bondage|meat=<span style="color:red">Lose</span> 10 [[Meat]]|stat=70 {{Moxie}}|image=3corridors.gif}}
+
+{{Adventure|name=V is for Victory|stat=70 {{Muscle}}|image=sorority.gif}}
+
+{{Adventure|name=Busting a Cap|drops=[[Orcish baseball cap]]|image=tombstone.gif|note1=Only occurs if a [[Orcish baseball cap]] is not in your inventory.}}
+
+{{Adventure|name=Room Raider|drops=[[Orcish cargo shorts]]|image=nightstand.gif|note1=Only occurs if a [[Orcish cargo shorts]] is not in your inventory.}}
+
+{{Adventure|name=Rosie the Carpenter|drops=[[homoerotic frat-paddle]]|image=sorority.gif|note1=Only occurs if a [[homoerotic frat-paddle]] is not in your inventory.}}
+
+==Notes==
+*[[Busting a Cap]], [[Room Raider]], and [[Rosie the Carpenter]] will occur if you are undisguised but have a [[Orcish baseball cap]], [[Orcish cargo shorts]], or [[homoerotic frat-paddle]] equipped and you do not have an extra one in your inventory.
+*If you have [[Zombo's skull ring]] equipped during combat adventures you will see the message:
+<center>The frat boy glances at your ring, says "Master." and immediately paddles himself for 300-350 damage.</center>
+
+[[Category:Locations|Orcish Frat House, The]]

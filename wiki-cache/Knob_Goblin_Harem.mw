@@ -1,0 +1,32 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+
+Cobb's Knob Harem is in [[The Nearby Plains]] inside [[Cobb's Knob]]. If you aren't powerful enough to enter, you'll see this message:
+
+<center>The smell of perfume and the sound of music are appealing, but the idea of getting knocked on your ass by harem guards is not. You turn back.
+
+(You must have at least 20 <Stat> to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=Knob Goblin Harem Girl|note1=The [[harem girl t-shirt]] will not drop unless you have the [[Torso Awaregness]] skill.|note2=[[Swindleblossom]]s will not drop unless you have received [[Doc Galaktik's Quest for Herbs]].}}
+
+{{Combat|name=Knob Goblin Elite Guardsman|note1=The [[Knob Goblin elite shirt]] will not drop unless you have the [[Torso Awaregness]] skill.}}
+
+==Non-combat Adventures==
+{{choice|name=A Bard Day's Night|image=goblingirl.gif
+|choice1name=Play the classic rock 'n' roll song "Boozember Rain"|choice1=[[Knob Goblin harem veil]]
+|choice2name=Play the hit crooner tune "It's Completely Ordinary"|choice2=[[Knob Goblin harem pants]]
+|choice3name=Play the smash country hit "Here's 25 Meat."|choice3=Gain 90-110 Meat.}}
+
+{{adventure|name=Harem Scarem|stat=8 {{Mysticality}}|image=goblingirl.gif}}
+{{Adventure|name=Hippo Ballet To You|stat=8 {{Moxie}}|image=hippo.gif}}
+
+{{Adventure|name=You're Gonna Carry That Weight|stat=8 {{Muscle}}|image=goblinaxe.gif}}
+
+{{Adventure|name=Hands On|drops=3 [[scented massage oil]]s|image=bigbasket.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=A Series of Fortunate Events|drops=[[Knob Goblin perfume]]|meat=300|stat=20 {{Muscle}}|image=Cards1.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=On The Whole, the Bark is Better|image=Goblingirl.gif|note1=Grants 10 turns of [[Once Bitten, Twice Shy]].|note2=[[Bad Moon]] only.}}
+
+[[Category:Locations]]

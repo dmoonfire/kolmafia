@@ -1,0 +1,30 @@
+{{NeedsConfirm|comment=Level/moxie for no hit for the Infinite meat bug needs confirmation.}}
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+
+The '''Treasury''' of [[Cobb's Knob]] is a popular place for young'uns as it can be an easy source of much-needed meat. If you aren't powerful enough to enter, you'll see this message:
+
+<center>The nearer you get to the Treasury, the surer you become that you're in no shape to handle the Treasury Guards. Your sense of self-preservation advises you to turn back.
+
+(You must have at least 20 <Stat> to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=Knob Goblin Bean Counter}}
+
+{{Combat|name=Knob Goblin Elite Guardsman|note1=Shirt will not drop unless you have the [[Torso Awaregness]] skill.}}
+
+{{Combat|name=Knob Goblin Embezzler|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Combat|name=infinite meat bug|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{Adventure|name=Meat Score!|meat=500|image=chest.gif}}
+
+{{Adventure|name=Treasury Chest|meat=300|image=chest.gif}}
+
+{{Adventure|name=Primo Meat Stash|drops=[[dense meat stack]]|image=chest.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=It's So Heavy|image=Goblinaxe.gif|note1=Gives 10 turns of [[Animal Exploiter]].|note2=[[Bad Moon]] only.}}
+
+[[Category:Locations]]

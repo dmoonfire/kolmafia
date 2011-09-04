@@ -1,0 +1,14 @@
+(defcustom-c-stylevar c-comment-prefix-regexp
+  '((pike-mode . "//+!?\\|\\**")
+    (awk-mode . "rc/KoL +")
+    (other . "//+\\|\\**"))
+  "*Regexp to match the line prefix inside comments.
+This regexp is used to recognize the fill prefix inside comments for
+correct paragraph filling and other things.
+
+If this variable is a string, it will be used in all CC Mode major
+modes.  It can also be an association list, to associate specific
+regexps to specific major modes.  The symbol for the major mode is
+looked up in the association list, and its value is used as the line
+prefix regexp.  If it's not found, then the symbol `other' is looked
+up and its value is used instead.

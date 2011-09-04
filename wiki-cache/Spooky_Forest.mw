@@ -1,0 +1,104 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Spooky Forest]] is located in [[The Distant Woods]]. It's called the spooky forest because it's spooky and a forest.
+
+==Combat Adventures==
+{{Combat|name=bar}}
+{{Combat|name=spooky mummy}}
+{{Combat|name=spooky vampire|note1=The vampire heart only drops if you have [[wooden stakes]] equipped.|note2=Shirt will not drop unless you have the [[Torso Awaregness]] skill.}}
+{{Combat|name=triffid}}
+{{Combat|name=warwelf}}
+{{Combat|name=wolfman}}
+{{Combat|name=Baiowulf|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{choice|name=A Three-Tined Fork|image=tree.gif
+|choice1name=Take the normal path|choice1=[[Footprints]]|
+|choice2name=Take the scorched path|choice2=[[A Pair of Craters]]
+|choice3name=Take the dark path|choice3=[[The Road Less Visible]]}}
+
+{{choice|name=Footprints|image=footsteps.gif
+|choice1name=Follow the single set to the copse|choice1=[[seal-clubbing club]], [[seal-skull helmet]]
+|choice2name=Follow the double set to the other copse|choice2=[[helmet turtle]], [[turtle totem]]
+|note1=Occurs only as part of [[A Three-Tined Fork]].}}
+
+{{choice|name=A Pair of Craters|image=2craters.gif
+|choice1name=Investigate the smoking crater|choice1=[[pasta spoon]], [[ravioli hat]]
+|choice2name=Investigate the moist crater|choice2=[[saucepan]], [[spices]]
+|note1=Occurs only as part of [[A Three-Tined Fork]].}}
+
+{{choice|name=The Road Less Visible|image=tree.gif
+|choice1name=Continue down the path|choice1=[[disco mask]], [[disco ball]]
+|choice2name=Investigate the Bushes|choice2=[[stolen accordion]], [[mariachi pants]]
+|note1=Occurs only as part of [[A Three-Tined Fork]].}}
+
+{{Adventure|name=Gravy Ring|drops=3 [[spooky mushroom]]s|image=haiku6.gif}}
+
+{{Adventure|name=Radio Decomposer|meat=50|image=wagon.gif}}
+
+{{Adventure|name=Vampire Hunter G|image=vhunter.gif|drops=[[wooden stakes]]|note1=This adventure will not occur with [[wooden stakes]] equipped or in your inventory.}}
+
+{{Choice|name=Have a Heart|image=vhunter.gif
+|choice1name=Give him all your hearts|choice1=Trades each [[vampire heart]] for a [[bottle of used blood]]
+|choice2name="Maybe later."|choice2=(Does not use an adventure)|note1=This adventure only occurs when you have at least one [[vampire heart]] in your inventory.}}
+
+{{Choice|name=An Interesting Choice|image=vampire.gif
+|choice1name=Interview the vampire|choice1=Gain 5-10 {{moxie}}
+|choice2name=Interrogate the vampire|choice2=Gain 5-10 {{muscle}}
+|choice3name=Inter the vampire|choice3=Fight a [[spooky vampire]]}}
+
+{{Adventure|name=O Turtle Were Art Thou|image=Turtlebush.gif|drops=[[sleeping wereturtle]]|note1=This adventure is triggered only with the [[Eau de Tortue]] effect.|note2=Does not cost an adventure.}}
+
+{{Adventure|name=Hoom Hah|image=tree.gif|stat=Gain 30 {{mysticality}}|note1=With [[Lord Spookyraven's ear trumpet]] equipped, a demon name for summoning is gained instead of the Mysticality bonus.}}
+
+{{Adventure|name=Lucky, Lucky!|image=leprechaun.gif|drops=[[bowl of lucky charms]]|note1=This adventures is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Spooky-Gro|image=zombie.gif|drops=[[Spooky-Gro fertilizer]]|note1=This adventure will only occur if the [[Spooky Temple Map Quest]] isn't completed and there are no [[Spooky-Gro fertilizer]]s in your inventory or closet.}}
+
+{{Choice|name=Maps and Legends|image=plinth.gif
+|choice1name=Make a copy of the map|choice1=[[Spooky Temple map]]
+|choice2name=Ignore the monolith|choice2=(Does not use an adventure)
+|choice3name=Hit a monkey with a bone|choice3=(Does not use an adventure)
+|note1=After acquiring the [[Spooky Temple map]], this adventure will not recur.}}
+
+{{Adventure|name=Chester Meatpot|image=corpse.gif|meat=300|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Rock-a-bye Larva|image=larvae.gif|drops=[[mosquito larva]]|note1=This [[Ascension#One Time|one-time]] adventure only occurs during the [[Spooky Forest Quest]].}}
+
+{{Adventure|name=Spooky Sapling|image=tree.gif|drops=[[spooky sapling]]|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Blaaargh! Blaaargh!|image=vampire.gif|drops=[[fake blood]]|note1=A [[Semi-Rare Adventures|Semi-Rare Adventure]]}}
+
+{{Adventure|name=Cindy, the Vampire Slayer|image=vhunter.gif|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Cindy, the Vampire Slayer|image=vhunter.gif|drops=[[marinated stakes]]|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[Curiously Shiny Ancient Evil-Bashing Axe]].}}
+
+{{Adventure|name=This Doesn't Look Like Candy Mountain|image=bathtub.gif|meat=1,000|note1=Gives the intrinsic [[Missing Kidney]] effect.|note2=[[Bad Moon]] only.}}
+
+{{Adventure|name=That's My Favorite Kind of Contraption|image=gnome.gif|note1=Gives 5 turns of [[Dang Near Cut In Half]].|note2=Grants the [[Torso Awaregness]] passive skill.|note3=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+This area underwent a major revision on [[History of Loathing (2006)#April 11, 2006|April 11, 2006]].
+{{Adventure|name=Alas, poor Merchant|meat=25|image=corpse.gif}}
+
+{{Adventure|name=Bar! Bar!|stat=4 {{Moxie}}|image=bar.gif}}
+
+{{Adventure|name=Bugbar|stat=3 {{Muscle}}|image=haiku2.gif}}
+
+{{Adventure|name=Chester Meatpot|drops=[[Spooky Temple map]]|image=corpse.gif|note1=Dropped the map once per ascension, dropping 300 meat after that}}
+
+{{Adventure|name=Corpse in the Copse|drops=[[helmet turtle]], [[scroll of turtle summoning]]|image=corpse.gif|note1=This adventure was replaced by [[A Three-Tined Fork]].}}
+
+{{Adventure|name=Corpse in the Grove|drops=[[saucepan]], [[spices]]|image=corpse.gif|note1=This adventure was replaced by [[A Three-Tined Fork]].}}
+
+{{Adventure|name=Interview with the Vampire|stat=3 {{Moxie}}|image=vampire.gif|note1=This adventure was replaced by [[An Interesting Choice]].}}
+
+{{Adventure|name=Spooky Hoard|meat=20|image=chest.gif}}
+
+{{Adventure|name=Spooky Tree|drops=[[spooky stick]]|image=tree.gif|note1=This adventure was replaced by [[triffid]].}}
+
+{{Adventure|name=A Vampire Slayer is You!|stat=4 {{Muscle}}|image=vhunter.gif|note1=This adventure was replaced by [[Vampire Hunter G]].}}
+
+[[Category:Locations|Spooky Forest, The]]

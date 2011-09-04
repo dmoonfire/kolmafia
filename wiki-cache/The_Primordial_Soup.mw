@@ -1,0 +1,46 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+This is one of the adventure zones accessed from [[Memories, in the Corners of your Mind]] after gazing into an [[empty agua de vida bottle]]. It is only available with a bottle in inventory.
+
+The [[Primordial Fear]] quest takes place solely in this zone.
+
+==Combat Adventures==
+{{combat|name=corrosive algae}}
+
+{{combat|name=cluster of angry bacteria}}
+
+{{combat|name=hostile amoeba}}
+
+{{combat|name=mad flagellate}}
+
+{{Combat|name=violent fungus}}
+
+==Non-Combat Adventures==
+{{Choice|name=Soup For You|image=prim_dark.gif
+|choice1name=You floated aimlessly|choice1=Gain 10 {{Muscle}}
+|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Choice|name=Yes, Soup For You...|image=prim_dark.gif
+|choice1name=You continued to drift about|choice1=Gain 10 {{Mysticality}}
+|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Choice|name=Souped Up|image=prim_mix1.gif
+|choice1name=You let the currents carry you|choice1=Gain 10 {{Moxie}}
+|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Choice|name=The Primordial Directive|image=prim_mix2.gif
+|choice1name=You swam upwards|choice1=Allows you to access combats after using a [[memory of some delicious amino acids]].
+|choice2name=You swam in circles|choice2=Gain 10 {{Moxie}}
+|choice3name=You swam downwards|choice3=[[memory of some delicious amino acids]]
+}}
+
+{{Choice|name=Soupercharged|image=prim_mix3.gif
+|choice1name=I swam up! Up! Up!|choice1=Fight [[Cyrus the Virus]] (pre-quest) or gain X {{Muscle}}, {{Mysticality}} or {{Moxie}} (post-quest)
+|choice2name=Nah. I was happy down there.
+|note1=This adventure will only trigger after using enough [[memory of some delicious amino acids]].}}
+{{combat|noline=yes|nest=2|name=Cyrus the Virus|note1=Only occurs as a choice of [[Soupercharged]].}}
+
+{{Choice|name=Beginner's Luck|image=prim_junk.gif
+|choice1name=You scavenged the pile|choice1= Some [[memory of some delicious amino acids]] and [[Base Pairs|base pairs]]|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+[[Category:Locations|The Primordial Soup]]

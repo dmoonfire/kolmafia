@@ -1,0 +1,47 @@
+{{NS Spoilers}}
+{| style="margin: auto" cellspacing="0" cellpadding="0"
+| colspan="3" | {{click|image=castletoptower.gif}}
+|-
+| rowspan="2" | {{click|image=castleleft.gif}}
+| {{click|image=towerentrance.gif|link=The Sorceress' Tower (The Stairs)}}
+| rowspan="2" | {{click|image=castleright.gif}}
+|-
+| {{click|image=hedgemaze.gif}}
+|-
+| colspan="3" | {{click|image=castlebottom.gif|link=The Entrance Cavern (2)}}
+|}
+
+Located within the [[Lair of The Naughty Sorceress]], there is only one thing to fight here.
+
+{{Combat|name=topiary golem}}
+
+----
+
+*After solving the first stage of the [[hedge maze puzzle]]:
+:You enter the hedge maze, and come to a dead end. You see a key lying on the ground.
+{{acquire|item=hedge maze key}}
+
+*If you already have the key:
+:You enter the hedge maze, and come to the dead end where you found the hedge maze key. There's nothing else of interest in this particular dead end.
+
+*After solving the second stage of the hedge maze puzzle:
+[[Image:Gate.gif|center]]
+:You enter the hedge maze, and come to a locked gate. You try your hedge maze key in the lock, and the gate squeaks open.
+
+*If you solve the second stage of the hedge maze puzzle before solving the first stage:
+[[Image:Gate.gif|center]]
+:You enter the hedge maze, and come to a locked gate. Looks like you'll need to find the key before you can go any further.
+
+*After opening the gate:
+:You've already made it through the maze, there's no reason to mess around in it anymore. 
+
+*When trying to adventure here while falling down drunk:
+:You're too drunk to screw around in a hedge maze. Did I ever tell you about the time I got drunk and screwed around in a hedge maze?
+:
+:No?
+:
+:Wanna know why I never told you about that? Because it never happened. I was too drunk to screw around in a hedge maze, so I didn't do it.
+
+<center>'''Proceed to [[The Sorceress' Tower (The Stairs)]]...'''</center>
+
+[[Category:Locations|Hedge Maze, The]]

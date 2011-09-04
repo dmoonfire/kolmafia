@@ -1,0 +1,108 @@
+{{NeedsSpading|comment=Combat frequency post-level 9.}}
+{{Data:{{PAGENAME}}|format=INFOBOX_DualLocation}}
+
+[[The Hippy Camp]] is an adventure [[locations|location]] found in [[The Mysterious Island of Mystery]]. If your main stat isn't high enough, you'll see the following message:
+
+:Too... Many... Hippies...
+
+:Not... strong enough... To go on...
+
+:(You must have at least 30 $Stat to adventure here.)
+
+Visiting the Camp in the [[Filthy Hippy Disguise]] and [[ War Hippy Fatigues]] [[:Category:Outfits|outfit]] will yield a different set of adventures from those while not disguised.
+
+Once you start the [[Mysterious Island Quest]], you will get a different set of adventures. See [[The Hippy Camp (Verge of War)]] or [[The Hippy Camp (Wartime)]].
+
+__TOC__
+
+==Undisguised==
+===Combat Adventures===
+{{Combat|name=crusty hippy|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=crusty hippy jewelry maker|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=crusty hippy Vegan chef|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=dirty hippy|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=dirty hippy jewelry maker|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=dirty hippy Vegan chef|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=filthy hippy|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=filthy hippy jewelry maker|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+{{Combat|name=filthy hippy Vegan chef|note1=The [[Spanish fly]] only drops with a [[Spanish fly trap]] equipped.}}
+
+===Non-combat Adventures===
+
+{{choice|name=Peace Wants Love|image=Yurt.gif
+|choice1name=Agree to take his clothes|choice1=[[filthy corduroys]]
+|choice2name=Say "No thanks."|choice2=[[filthy knitted dread sack]]
+|choice3name=Ask if he had anything in his pockets|choice3=Gain 210-300 Meat
+|note1=Occurs on or after level 9.}}
+
+{{choice|name=An Inconvenient Truth|image=Yurt.gif
+|choice1name=Check out the clothing|choice1=[[filthy knitted dread sack]]
+|choice2name=Avert your eyes|choice2=[[filthy corduroys]]
+|choice3name=Flee in terror before your brain cracks|choice3=Gain 207-296 Meat
+|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=Getting Ahead in Life|drops=[[filthy knitted dread sack]]|image=Dreadstick.gif|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=Hippy Birthday to You|drops=[[filthy corduroys]]|image=sadhippy1.gif|note1=Occurs on or after level 9.}}
+
+{{Adventure|name=The Latest Sorcerous Developments|drops=[[teeny-tiny magic scroll]]|image=Tent.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=Batty About Fruit|drops=[[fruit bowl]]|image=hippy3.gif|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Seal Taint in the Soiled Tent|drops=[[figurine of a stinking seal]]|image=tent.gif|note1=Occurs only for [[Seal Clubber]]s}}
+
+{{Adventure|name=Turtles All The Way Around|image=Turtlecircle.gif|drops=[[syncopated turtle]]|note1=This adventure is triggered only with the [[Eau de Tortue]] effect and a [[turtling rod]] equipped.|note2=Does not cost an adventure.}}
+
+{{Adventure|name=Ethereal Koi Blossom, the Hippy Vegan Chef|image=hippy2.gif|note1=A [[Ascension#One Time|one-time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Ethereal Koi Blossom, the Hippy Vegan Chef|image=hippy2.gif|drops=[[cup of strong herbal tea]]|note1=A [[Ascension#One_Time|one-time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[white wine vinaigrette]].}}
+
+{{Adventure|name=Better Dread Than Dead|image=Hippy1.gif|note1=Gives 10 turns of [[Dreadlocked]].|note2=[[Bad Moon]] only.}}
+
+==In Disguise==
+{{Adventure|name=Bug Zapper|stat=15 {{Mysticality}}|image=crates.gif}}
+
+{{Adventure|name=Ecosabotage|stat=15 {{Mysticality}}|image=hippy2.gif}}
+
+{{Adventure|name=Filthy Pinko Hippy|drops=[[filthy hippy poncho]]|image=hippy3.gif|note1=Does not occur unless you have the [[Torso Awaregness]] skill.}}
+
+{{Adventure|name=Fluffy is Missing!|stat=17 {{Mysticality}}|image=hippy2.gif}}
+
+{{Adventure|name=Games Hippies Play|stat=17 {{Mysticality}}|image=hippy1.gif}}
+
+{{Adventure|name=The Gift of Gag|drops=[[vial of patchouli oil]]|image=hippy1.gif}}
+
+{{Adventure|name=The Hennamaster|drops=[[henna tattoo]]|image=hippy1.gif}}
+
+{{Adventure|name=Hippies in the Mist|stat=15 {{Mysticality}}|image=hippy1.gif}}
+
+{{Adventure|name=Hooray! A Stupid Drum Circle!|stat=16 {{Mysticality}}|image=hippy2.gif}}
+
+{{Adventure|name=The Old Switcheroo|stat=16 {{Mysticality}}|image=tent.gif}}
+
+{{Adventure|name=What's Brown and Sounds Like a Parrot?|drops=[[jug-o-magicalness]], [[secret blend of herbs and spices]], [[wad of tofu]]|image=cage.gif}}
+
+{{Adventure|name=Where There's Smoke...|stat=20 {{Mysticality}}|image=smoketent.gif|note1=Gives 3 turns of [[Confused]]}}
+
+{{Adventure|name=Your Favorite Joke|stat=19 {{Mysticality}}|image=hippy3.gif|note1=<font color=red>Lose</font> 5 HP.}}
+
+{{Adventure|name=The Latest Sorcerous Developments|drops=[[teeny-tiny magic scroll]]|image=Tent.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=A Case of the Baskets|drops=[[fruit basket]]|image=hippy2.gif|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Drumroll, Please|image=Hippy2.gif|note1=Gives 10 turns of [[Drummed Out]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*The message you get when your main stat isn't high enough ("Too... many... hippies... Not... strong enough... to go on...") is a reference to [[Wikipedia:South Park|''South Park'']]'s [[Wikipedia:Eric Cartman|Eric Cartman]], who hates hippies. In fact, a number of references are made to this in The Hippy Camp; for example, the text of [[Hippies in the Mist]] contains a direct quote from Cartman.
+
+[[Category:Locations|Hippy Camp, The]]

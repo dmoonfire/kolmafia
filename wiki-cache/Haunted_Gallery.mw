@@ -1,0 +1,32 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+You try the door to the Gallery, and find that it's locked. You sigh as you think to yourself that you'll probably be required to solve some ridiculous puzzle in order to find the key.
+
+With insufficient main stat:
+
+:As you near the gallery, you suddenly realize that you don't actually care about art enough to risk your neck to see it. Maybe you should swing back by here when you're a little more sophisticated.
+
+:(You must have at least 68 <mainstat> to adventure here.)
+
+The Haunted Gallery is located in [[Spookyraven Manor]], an area that takes the place of [[The Haunted Pantry]] on the [[Right Side of the Tracks]]. It is only accessible after you obtain the [[Spookyraven gallery key]] from [[The Haunted Conservatory]], after unlocking the proper adventure in [[The Haunted Library]].
+
+==Combat Adventures==
+{{Combat|name=cubist bull}}
+
+{{Combat|name=empty suit of armor|note1=A successful attack from this monster has a chance of giving you 10 [[Adventures]] of [[Tetanus]].}}
+
+{{Combat|name=guy with a pitchfork, and his wife}}
+
+==Non-combat Adventures==
+{{choice|name=Out in the Garden|image=2knights.gif
+|choice1name=The first knight|choice1=Fight a [[Knight (Wolf)]]  OR  Gain skill: [[Snarl of the Timberwolf (skill)|Snarl of the Timberwolf]] (Only with [[tattered wolf standard]] in inventory ([[Seal Clubber]] only))
+|choice2name=The second knight|choice2=Fight a [[Knight (Snake)]]  OR  Gain skill: [[Spectral Snapper]] (Only with [[tattered snake standard]] in inventory ([[Turtle Tamer]] only))
+|choice3name=The two maidens|choice3=Acquire effect [[Dreams and Lights]] OR lose 24-30 hit points (with [[Dreams and Lights]] effect)}}
+{{combat|noline=yes|nest=2|name=Knight (Wolf)|note1=Only occurs as a choice of [[Out in the Garden]].}}
+{{combat|noline=yes|nest=2|name=Knight (Snake)|note1=Only occurs as a choice of [[Out in the Garden]].}}
+
+{{choice|name=Louvre It or Leave It|image=gpstairs.gif|choice1name=Enter the drawing|choice2name=Pass on by}}
+
+{{Adventure|name=With a Clatter|stat=max 310 {{Muscle}} (approximately 2*mainstat)|image=armor.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+[[Category:Locations|Haunted Gallery, The]]

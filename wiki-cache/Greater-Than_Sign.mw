@@ -1,0 +1,44 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+Located in [[The Dungeon Full Of Dungeons]] in [[Seaside Town]]. Only appears when you have 45 (unbuffed) points in the main stat for your class. Furthermore, you must have 44 (buffed) points in your main stat to actually adventure there.
+
+If your main stat isn't high enough, you'll see the following message:
+:As you near the sign, you start to get nervous. The nearer you get, the nervouser you get. Then you get nervous because you're not sure if "nervouser" is a word or not. After thinking about this for a few seconds, you turn around and leave.
+:
+:<center>(You must have at least 44 <stat> to adventure here.)</center>
+
+Upon discovering [[The Secret of the Dungeons of Doom]], this location is replaced with [[The Dungeons of Doom]]. Trying to access the Enormous Greater-Than Sign location via the "Last Adventure" link then yields the message:
+:This area should no longer be accessible to you.
+
+==Non-combat Adventures==
+{{Adventure|name=No Contraction|stat=8 {{muscle}}|image=apostrophe.gif}}
+
+{{Adventure|name=A big Q.|note1=Gives 5 turns of [[Teleportitis]].|image=upper_q.gif|note2=The odds of receiving this adventure double once the [[plus sign]] is received.}}
+
+{{Adventure|name=Parenthetical Advisory|stat=7 {{moxie}}|image=left_paren.gif}}
+
+{{Adventure|name=Hyp-mo-tized...|stat=8 {{mysticality}}|image=lower_e.gif}}
+
+{{Adventure|name=I've Got a Lovely Bunch of Asterisks.|stat=7 {{muscle}}|image=asterisks.gif}}
+
+{{Adventure|name=A Non-Capital Crime|meat=<font color=red>-30</font>|stat=8 {{moxie}}|image=lower_l.gif}}
+
+{{Adventure|name=Killer As.|stat=7 {{mysticality}}|note1=<font color=red>Lose</font> 7 HP|image=aswarm.gif}}
+
+{{Adventure|name=Plus? Plus what?|drops=[[plus sign]]|note1=A [[Ascension#One Time|one time]] adventure.|image=nhroom.gif}}
+
+{{Choice|name=The Oracle Will See You Now|image=nhoracle.gif
+|choice1name=Leave the Oracle|choice1=Nothing. (No adventure cost).
+|choice2name=Pay for a minor consultation|choice2=Lose 100 Meat.
+|choice3name=Pay for a major consultation|choice3=Lose 1,000 Meat, [[plus sign]] becomes usable.
+|note1=You must have a [[plus sign]] and [[Teleportitis]] to receive this adventure.
+|note2=Once you have paid for a major consultation, this becomes a [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Elbereth? Who's Elbereth?|image=glyphs3.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+==References==
+*Everything that occurs in this area is a reference to the computer game ''[[Wikipedia:NetHack|NetHack]]''. It is a freeware game, available from the [http://www.nethack.org official website].
+*The various [[Wikipedia:American Standard Code for Information Interchange|ASCII]] characters used to represent the monsters and dungeons reference the interface in ''[[wikipedia:NetHack|NetHack]]''.
+<!-- Do not add references claiming this is describing another Roguelike - Xenophobe has stated that this is based strictly on NetHack, and nothing else. -->
+
+[[Category:Locations|Enormous Greater-Than Sign, The]]

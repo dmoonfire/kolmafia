@@ -1,0 +1,24 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The '''Old Crimbo Town Toy Factory''' is located in [[Crimbo Town (2008)]] for [[Crimbo]] 2008.
+
+Each of the penguins in this zone are susceptible to bribery with [[fat stacks of cash]].  Using a fat stack of cash during combat will immediately end the combat and cause the penguin to drop either a [[sturdy Crimbo crate]] (on first bribery per day), a [[dusty Crimbo crate]] (on second and third one), or a [[battered Crimbo Crate]] (on subsequent), each containing some items from past Crimbos.
+
+Attempting to adventure here after the appearance of [[A Mysterious Crate]] yields the message:
+:The old factory seems to be empty. You gaze at it wistfully for a few seconds, then wander off.
+
+==January 1st, 2009 to January 6th, 2009==
+{{Adventure|name=Mission: Exposition|image=pengthug.gif|note1=Started occurring January 1st, 2009. Does not consume an adventure.}}
+
+==Prior to January 1st, 2009==
+===Combat Adventures===
+{{combat|name=Mob Penguin enforcer|MoxieNoHit=Scales with player stats|note1=Monster level caps at 10000.}}
+{{combat|name=Mob Penguin goon|MoxieNoHit=Scales with player stats|note1=Monster level caps at 10000.}}
+{{combat|name=Mob Penguin hitpenguin|MoxieNoHit=Scales with player stats|note1=Monster level caps at 15000.}}
+{{combat|name=Mob Penguin psychopath|MoxieNoHit=Scales with player stats|note1=Monster level caps at 20000.}}
+{{combat|name=Mob Penguin racketeer|MoxieNoHit=Scales with player stats|note1=Monster level caps at 10000.}}
+
+===Non-combat Adventures===
+{{Adventure|name=Feliz Narrative|image=pengthug.gif|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+[[Category:Locations]]

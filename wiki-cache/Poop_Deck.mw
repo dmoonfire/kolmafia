@@ -1,0 +1,53 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Poop Deck]] is located at [[the Obligatory Pirate's Cove (in disguise)]] on [[the Mysterious Island of Mystery]]. It is unlocked by cleaning [[The F'c'le]] during the [[Cap'm Caronch Quest]].
+
+[[Swashbuckling Getup]] or [[pirate fledges]] are required to adventure here. Without wearing either, you'll see this message:
+:You shouldn't be here.
+
+==Combat Adventures==
+{{combat
+|name=wacky pirate
+|stat=30
+|level=120
+}}
+
+{{combat
+|name=warty pirate
+|stat=30
+|level=120}}
+
+{{combat
+|name=wealthy pirate
+|stat=30
+|level=120}}
+
+{{combat
+|name=whiny pirate
+|stat=30
+|level=120}}
+
+{{combat
+|name=witty pirate
+|stat=30
+|level=120}}
+
+==Non-combat Adventures==
+{{choice|name=O Cap'm, My Cap'm|image=shipwheel.gif
+|choice1name=Front the meat and take the wheel|choice1=Leads to [[Set an Open Course for the Virgin Booty]]
+|choice2name=Step away from the helm|choice2=
+|note1=Occurs at most once every 30 adventures}}
+
+{{adventure
+|name=Beware...
+|image=pirate3.gif
+|note1=lose about 25% HP
+|note2=This adventure is replaced by [[It's Always Swordfish]] after reading all of [[your father's MacGuffin diary]]}}
+
+{{adventure
+|name=It's Always Swordfish
+|image=pirate3.gif
+|note1=Unlocks [[Belowdecks]]
+|note2=A [[Ascension#One Time|one-time]] adventure}}
+
+[[Category:Locations|Poop Deck, The]]

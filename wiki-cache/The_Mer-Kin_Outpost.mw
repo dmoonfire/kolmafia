@@ -1,0 +1,22 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Mer-Kin Outpost]] is located on [[The Sea Floor]] and is full of many Mer-kin.
+
+==Combat Adventures==
+{{Combat|name=Mer-kin burglar}}
+{{Combat|name=Mer-kin raider|note1=This monster has a special form of [[Damage Reduction|damage reduction]].  See its page for [[Mer-kin raider#Notes|details]].|note2=The [[Mer-kin breastplate]] will not drop unless you have the [[Torso Awaregness]] skill.}}
+{{Combat|name=Mer-kin healer}}
+
+[[Category:Locations|Mer-kin Outpost, The]]
+
+==Non-combat Adventures==
+{{adventure|name=A Walker and a Ranger, hold the Texas |image=footsteps.gif|drops=[[Grandma's Note]]|note1=A [[Ascension#One Time|one-time]] adventure.}}
+{{adventure|name=No Fuschia For You |image=footsteps.gif|drops=[[Grandma's Fuschia Yarn]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[A Walker and a Ranger, hold the Texas]].}}
+{{adventure|name=Obtuse Chartreuse |image=footsteps.gif|drops=[[Grandma's Chartreuse Yarn]]|note1=A [[Ascension#One Time|one-time]] adventure. |note2=Only occurs after you have experienced [[No Fuschia For You]].}}
+{{adventure|name=Granny, Does Your Dogfish Bite?|image=sm_grandma.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs with [[Grandma's Map]] in inventory.  The map is lost upon acquiring this adventure.}}
+
+==Notes==
+*This is an underwater zone. It features all the restrictions and special mechanics of [[underwater adventuring]].  Amongst other things, this means this zone has a <font color=red>-100%</font> penalty to [[Meat from Monsters|meat drops]] and [[Items from Monsters|item drops]].
+
+==References==
+*A [[wikipedia:Merkin|merkin]] is a "pubic wig".

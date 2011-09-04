@@ -1,0 +1,31 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Rogue Windmill]] is found in [[The Worm Wood]], which is only accessible with the [[Absinthe-Minded]] effect.
+
+==Combat Adventures==
+{{Combat|name=can-can dancer|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=courtesan|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=master of ceremonies|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=sensitive poet-type|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=voyeuristic artist|MoxieNoHit=Scales with player stats (Max 132)}}
+
+==Non-combat Adventures==
+{{Choice|name=La Vie Boheme|image=Windmill.gif
+|choice1name=Check out the restrooms|choice1=Gain 80-100 [[HP]] and acquire 5 turns of the [[Rat-Faced]] effect
+|choice2name=Check out the roof|choice2=Fight [[sensitive poet-type]]
+|choice3name=Check the upstairs apartment|choice3= Gain approx. 1*mainstat {{Moxie}} (maximum 150)}}
+
+{{Choice|name=Backstage at the Rogue Windmill|image=Windmill.gif
+|choice1name=Pitch yourself up the stairs|choice1=With [[Bats in the Belfry]], acquire 5 turns of the [[No Vertigo]] effect, else nothing
+|choice2name=Pitch in and help|choice2=Gain approx. 1*mainstat {{muscle}} (maximum 150)
+|choice3name=Pitch yourself into showbusiness|choice3=With [[Spirit of Alph]], acquire 5 turns of the [[Dancing Prowess]] effect, else nothing}}
+
+{{Choice|name=Up in the Hippo Room|image=Windmill.gif
+|choice1name=Chat with the smokers|choice1=With [[Good with the Ladies]], acquire a [[Can-Can skirt]], else fight [[can-can dancer]]
+|choice2name=Chat with the jokers|choice2=With [[Feelin' Philosophical]], acquire a [[not-a-pipe]], else nothing
+|choice3name=Chat with the midnight tokers|choice3=Gain approx. 1*mainstat {{mysticality}} (maximum 150)}}
+
+==References==
+*The name of this location references [[wikipedia:Moulin Rouge|Moulin Rouge]] (lit. "the red windmill"), a famous cabaret near Montmartre in Paris that many self-styled "Bohemians" made their home. The misspelling "rogue" is a mockery of the misspelling usually made in the opposite direction by overexcited RPG newbies anxious to describe their thief-like character's activities.
+
+[[Category:Locations|Rogue Windmill, The]]

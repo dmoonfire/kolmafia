@@ -1,0 +1,27 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Thugnderdome is located in the [[Desert Beach]] at [[The Gnomish Gnomads' Camp]]. A primary stat of 25 is needed to enter. If your main stat isn't high enough, you'll see the following message:
+
+:At the entrance to Thugnderdome, you're accosted by a burly gnome.
+:
+:"Typically, Tall One, two gnomes enter here and one gnome leaves. We occasionally allow one gnome and one humagn to enter, and then either one gnome or one humagn to leave, but only when the humagn looks tough enough to actually entertaign the spectators.
+:
+:You don't look tough enough."
+:
+:<center>(You must have at least 25 $Stat to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=gnarly gnome}}
+{{Combat|name=gnasty gnome}}
+{{Combat|name=gnefarious gnome}}
+{{Combat|name=Gnomester Blomester}}
+{{Combat|name=gnu jack gnome}}
+{{Combat|name=vicious gnauga}}
+
+==Non-combat Adventures==
+{{Adventure|name=Gno More Mr. Gnice Guy|image=gnicegnome.gif|drops=[[gnomish toolbox]]|note1=Only occurs if you have a [[ten-leaf clover]]}}
+{{Adventure|name=Now You're a Hero|image=glyphs3.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+==References==
+*This entire arena is a reference to the movie ''[[Wikipedia:Mad Max Beyond Thunderdome|Mad Max Beyond Thunderdome]]''. The motto for the Thunderdome, "Two men enter. One man leaves," is referred to in the stat requirement message.
+[[Category:Locations|Thugnderdome, The]]

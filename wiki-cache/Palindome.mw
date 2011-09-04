@@ -1,0 +1,59 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Palindome]] is found in [[The Nearby Plains]]. It only appears if you have a [[Talisman o' Nam]] equipped, and is only accessible if you have at least 65 in your main stat.
+
+Because you should follow [[your father's MacGuffin diary]] order in the [[Quest for the Holy MacGuffin]], if you try to enter the Palindome before it's time you get this message:
+:'''Adventure Results:''' You shouldn't be here
+even if you have the [[Talisman o' Nam]] equipped.  This might only occur before you've obtained the diary (by having a pre-NS13 character with the Talisman, for example), as you can do the diary subquests in any order; you can even do a few adventures from one subquest, switch to another subquest for a few adventures, then a third, back and forth as much as you like.
+==Combat Adventures==
+{{Combat|name=Bob Racecar}}
+{{Combat|name=Drab Bard}}
+{{Combat|name=Evil Olive}}
+{{Combat|name=Flock of Stab-bats}}
+{{Combat|name=Racecar Bob}}
+{{Combat|name=Taco Cat}}
+{{Combat|name=Tan Gnat}}
+{{Combat|name=Dr. Awkward|MoxieNoHit=173-180|note1=Part of the [[Quest for the Holy MacGuffin]].|note2=A [[Ascension#One Time|one-time]] adventure.|note3=Only occurs if the [[Mega Gem (accessory)|Mega Gem]] is equipped.}}
+
+==Non-combat Adventures==
+{{Choice|name=No sir, away! A papaya war is on!|image=papayawar.gif|choice1name=Dive into the bunker|choice1=Obtain 3 [[papaya]]s|choice2name=Leap into the fray!|choice2=Gain roughly 1*<main stat> to all stats (max 300) and <font color=red>lose</font> 3 [[papaya]]s or <font color=red>lose</font> 60-68 HP (if you don't have at least 3 [[papaya]]s).|choice3name=Give the men a pep talk|choice3=Gain roughly 1*<main stat> to all stats (max 100).}}
+
+{{Choice|name=A Pre-War Dresser Drawer, Pa!|choice1name=Look in the drawer|choice1=Without [[Torso Awaregness]], gain 200-300 Meat. With [[Torso Awaregness]], obtain [[Ye Olde Navy Fleece]].|choice2name=Ignawer the drawer|choice2=Nothing. (Does not cost an adventure.)|image=nightstand.gif}}
+
+{{Choice|name=Sun at Noon, Tan Us|choice1name=A little while|choice1=Gain 1*<main stat> in {{Moxie}} ±0-4 (max 250).|choice2name=A medium while|choice2=Gain 10 adventures of [[Sunburned]] or gain roughly 1.5*<main stat> in {{moxie}} (max 350).|choice3name=A long while|choice3=Gain 10 adventures of [[Sunburned]].| image=sun.gif}}
+
+{{Choice|name=Rod Nevada, Vendor|image=vendor.gif
+|choice1name=Accept (500 Meat)|choice1=Obtain [[hard rock candy]] and <font color=red>lose</font> 500 Meat.
+|choice2name=Decline|choice2=Nothing.(Does not cost an adventure).|note1=Becomes a [[Ascension#One Time|one-time]] adventure if you purchase the hard rock candy.}}
+
+{{Adventure|name=Last Egg Gets Al|drops=[[hard-boiled ostrich egg]]|note1=A [[Ascension#One Time|one-time]] adventure.|image=eggman.gif}}
+
+{{Choice|name=Do Geese See God?|image=photograph2.gif
+|choice1name=Buy the photograph (500 Meat)|choice1=Obtain a [[photograph of God]] and <font color=red>lose</font> 500 Meat.
+|choice2name=Decline|choice2=Nothing. (Does not cost an adventure.)|note1=Becomes a [[Ascension#One Time|one-time]] adventure if you purchase the photograph of god.}}
+
+{{Choice|name=Drawn Onward|image=palindome2.gif
+|choice1name=Put correct items on the shelf|choice1=<font color=red>Lose</font> all HP, obtain [["I Love Me, Vol. I"]] (Does not cost an adventure.)|choice2name=Don't Bother|choice2=Nothing. (Does not cost an adventure.)|note1=Becomes a [[Ascension#One Time|one-time]] adventure if you place the items correctly.}}
+
+{{Choice|name=Denim Axes Examined|image=denimaxe.gif
+|choice1name=Sure!|choice1=Lose a [[rubber axe]], obtain a [[denim axe]].
+|choice2name=No Thanks.|choice2=Nothing. (Does not cost an adventure.)
+|note1=Only occurs with a [[rubber axe]] in your inventory.}}
+
+{{Adventure|name=Flee to me, remote elf!|drops=[[Elf Farm Raffle ticket]]
+|note1=Will not occur with an [[Elf Farm Raffle ticket]] already in your inventory.
+|image=elf.gif}}
+
+{{Adventure|name=Strategy: Get Arts|image=Artist2.gif|note1=Gives 10 turns of [[Paw swap]].|note2=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+The following adventures were retired on [[History of Loathing (2007)#February 20, 2007|February 20, 2007]]:
+
+{{Adventure|name=Amen Enema|stat=<font color=red>-10</font> {{Moxie}}, +X {{Muscle}}|image=enema.gif}}
+
+{{Adventure|name=I Prefer Pi|drops=[[lemon]], [[lime]], [[papaya]]|image=Pi1.gif}}
+
+==References==
+*The name of this location references a [[Wikipedia:palindrome|palindrome]], a sentence or phrase that is identical when spelled backwards. All of the adventure titles here are or contain palindromes.
+
+[[Category:Locations|Palindome, The]]

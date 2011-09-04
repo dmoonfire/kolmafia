@@ -1,0 +1,85 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Obligatory Pirate's Cove]] is on [[The Mysterious Island of Mystery]]. It be full of pirates of every description. At least, descriptions that starrrt with S and end in y.
+
+If your main stat isn't high enough, you'll see the following message:
+:As you approach the Obligatory Pirates' Cove, a slouchy pirate jumps out from behind a bush.
+:"Avast ye," he says.
+:He's a lot bigger than you, so you avast with a quickness.
+<center>(You must have at least 45 $Stat to adventure here.)</center>
+
+These pirates are only friendly to those who know how to dress properly. So, put on your [[Swashbuckling Getup]] or pin on your [[pirate fledges]] and you'll able to [[The Obligatory Pirate's Cove (in disguise)|fully explore]] the Cove.
+
+==Undisguised==
+
+===Combat Adventures===
+{{Combat|name=sassy pirate}}
+{{Combat|name=shady pirate}}
+{{Combat|name=shifty pirate}}
+{{Combat|name=smarmy pirate}}
+{{Combat|name=swarthy pirate}}
+===Non-combat Adventures===
+{{Adventure|name=The Beached Boys|stat=15 {{Muscle}}|image=pirate1.gif}}
+{{Adventure|name=A Dreadful Curse|stat=15 {{Mysticality}}|image=zombie.gif}}
+{{Adventure|name=Filching the Undarrwear|stat=15 {{Moxie}}|image=pirate1.gif}}
+{{choice|name=Amatearrr Night|image=pirate1.gif
+|choice1name=What's orange and sounds like a parrot?|choice1=[[stuffed shoulder parrot]], <span style="color: red;">lose</span> 3 HP.
+|choice2name=So a pirate walks into a bar...|choice2=Gain 100 Meat.
+|choice3name=What's gold and sounds like a pirate?|choice3=[[eyepatch]]}}
+{{choice|name=The Arrrbitrator|image=pirate1.gif
+|choice1name=Vote for Jack Robinson|choice1=[[eyepatch]]
+|choice2name=Vote for Sergeant Hook|choice2=[[swashbuckling pants]]
+|choice3name=Vote for the dread Pirate Bob|choice3=Gain 100 Meat.}}
+{{choice|name=Barrie Me at Sea|image=pirate1.gif
+|choice1name=Help Sammy Skillet|choice1=[[stuffed shoulder parrot]], <span style="color: red;">lose</span> 5 Meat.
+|choice2name=Help Captain Ladle|choice2=[[swashbuckling pants]]
+|choice3name=Help the crocodile|choice3=Gain 100 Meat.}}
+
+{{Adventure|name=Remembarrr the Main |drops=[[Spanish fly trap]]|image=pirate1.gif|note1=Will only occur if you have received the [[I Just Wanna Fly]] adventure at the [[Orcish Frat House]] or the [[Me Just Want Fly]] adventure at [[The Orcish Frat House (Bombed Back to the Stone Age)]]}}
+
+{{Adventure|name=Yo Ho Ho and a Bottle of Whatever This Is |drops=[[bottle of pirate juice]]|image=poison2.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Adventure|name=How Far Down Do You Want To Go?|image=Piratem.gif|note1=Gives 10 turns of [[Hornswaggled]].|note2=[[Bad Moon]] only.}}
+
+==In Disguise==
+With the [[Swashbuckling Getup]] or [[pirate fledges]] equipped, you can access [[The Obligatory Pirate's Cove (in disguise)]].
+
+==Retired Adventures==
+This area underwent a major expansion on [[History_of_Loathing_%282007%29#December|December 3rd, 2007]].
+{{Adventure|name=A Close Shave|stat=11 {{Moxie}}|image=pirate1.gif|note1=<font color=red>Lose</font> 5 HP}}
+
+{{Adventure|name=Bring on the Snazz|stat=12 {{Moxie}}|image=pirate1.gif}}
+
+{{Adventure|name=The Ivory Crow's Nest|stat=14 {{Moxie}}|image=pirate1.gif|note1=<font color=red>Lose</font> 10 HP}}
+
+{{Adventure|name=Out, Brief Candle|drops=[[skeleton bone]], [[skeleton bone]], [[skeleton bone]]|image=corpse.gif}}
+
+{{Adventure|name=Shabby|stat=10 {{Moxie}}|image=pirate1.gif}}
+
+{{Adventure|name=The Shape of Things to Come|meat=100|image=pirate1.gif}}
+
+{{Adventure|name=Some Pirates are Hippies|meat=60|image=pirate1.gif}}
+
+{{Adventure|name=Squeak!|meat=80|image=chest.gif}}
+
+{{Adventure|name=Squeaky Clean|stat=11 {{Moxie}}|image=pirate1.gif}}
+
+{{Adventure|name=When You're Bored You're Boring|stat=10 {{Moxie}}|image=pirate1.gif}}
+
+{{Adventure|name=Zest!|drops=[[spices]], [[spices]], [[spices]]|image=pirate1.gif}}
+
+{{Adventure|name=Taking a Souvenarrrr|drops=[[pirate shirt]]|image=pirate2.gif|note1=Only occurs with the [[Torso Awaregness]] skill.}}
+
+{{Adventure|name=Gotta Lay Off the Sauce|stat=300 {{Moxie}}|image=pirate1.gif|note1=You gain 2 Drunkenness.|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=The Three Arrrs |drops=[[abridged dictionary]]|image=pirate1.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Does not occur until you have been given the [[Orc Chasm Quest]] by [[The Council of Loathing|the Council]].|note3=Does not occur until you have received the [[Gotta Lay Off the Sauce]] adventure (except Teetotaler and Oxygenarian paths).}}
+
+{{Adventure|name=Mind Your Business|image=Crystalball2.gif|note1=Gives 10 turns of [[Third Eye Blind]].|note2=[[Bad Moon]] only.}}
+
+==Notes==
+To those who object that the " Pirate's " Cove should really be the " Pirates' " Cove, [[Jick]] replies that what appears on the map to be a pirate ship is actually a "giant, ship-shaped pirate named Scove."  [http://forums.kingdomofloathing.com/vb/showpost.php?p=3344734&postcount=20]
+
+==References==
+*In this location, most dropped item, adventure, or monster names contain "arrr," which is, of course, stereotypical [[Wikipedia:Piracy#Piracy_in_popular_culture_and_fiction|pirate-speak]].
+
+[[Category:Locations|Obligatory Pirate Cove, The]]

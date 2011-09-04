@@ -1,0 +1,12 @@
+# Angry Goat
+# http://kol.coldfront.net/thekolwiki/index.php/Angry_Goat
+#	Attempts to hit every round
+#		Hit chance is weight/6 * 10%
+#	Damage is (X/1.5) + 1, half is stench
+#	Damage per round is hit * damage / 2
+Angry Goat	none	Damage Per Round	weight 6 / 0.1 * weight 1.5 / 1 + * 2 /
+Angry Goat	none	Stench Damage Per Round	weight 6 / 0.1 * weight 1.5 / 1 + * 2 /
+Angry Goat	Prosthetic forehead	Familiar Weight	5
+
+Stinky Gravy Fairy	none	Item Drop Rate	55 weight * 0.5 ^ weight + 3 -
+Stinky Gravy Fairy	limburger biker boots	Familiar Weight	5

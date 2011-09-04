@@ -1,0 +1,70 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+When you start the [[Mysterious Island Quest]], you will get a different set of adventures from the normal [[The Hippy Camp|Hippy Camp]]. The Hippies will be gearing up for full-scale war against the Frat Boys.
+
+Once the war starts, the [[The Hippy Camp (Wartime)|Hippy Camp]] becomes a place to purchase Hippy War Gear and serves as headquarters for [[The Big Wisniewski]]. 
+
+__TOC__
+
+==In [[Frat Boy Ensemble]] or [[Frat Warrior Fatigues]]==
+
+===Combat Adventures===
+{{Combat|name=War Hippy drill sergeant}}
+{{Combat|name=War Hippy (space) cadet}}
+
+===Non-combat Adventures===
+{{choice|name=Bait and Switch|image=crates.gif
+|choice1name=Take the bait and go wreak havoc|choice1=gain 50 {{Muscle}}
+|choice2name=Gaffle some bait for later|choice2=2-5 [[ferret bait|handfuls of ferret bait]] 
+|choice3name=Wake the cadet up and fight him|choice3=Fight a [[War Hippy (space) cadet]]}}
+
+{{choice|name=Blockin' Out the Scenery|image=sign.gif
+|choice1name=The Chill-Out Yurt|choice1=Gain 50 {{Mysticality}}
+|choice2name=The Rations Yurt|choice2=[[cruelty-free wine]], [[handful of walnuts]], [[Genalen™ Bottle]], [[mixed wildflower greens]], [[thistle wine]]
+|choice3name=The H.A.S.H. Yurt|choice3=Nothing
+|choice4name=The Lookout Tower|choice4=Start the [[Mysterious Island Quest|war]]|note1=In the [[Frat Boy Ensemble]], the third choice will be The H.A.S.H. Yurt. In [[Frat Warrior Fatigues]], the third choice will be The Lookout Tower.|note2=You receive two random items when you choose The Rations Yurt.}}
+
+{{choice|name=The Thin Tie-Dyed Line|image=Yurt.gif
+|choice1name=The Munitions Yurt|choice1=2-5 [[water pipe bomb]]s
+|choice2name=The Rations Yurt|choice2=Gain 50 {{Moxie}}
+|choice3name=The Barracks Yurt|choice3=Fight a [[War Hippy drill sergeant]]}}
+
+==In the [[Filthy Hippy Disguise]] or [[War Hippy Fatigues]]==
+
+===Combat Adventures===
+{{Combat|name=Orcish Frat Boy Spy}}
+
+===Non-combat Adventures===
+{{Adventure|name=Let's Get Physical|stat=100 {{Muscle}}|image=warhipds.gif}}
+
+{{Adventure|name=A Passion for Fashion|stat=100 {{Moxie}}|image=yurt.gif}}
+
+{{Adventure|name=Screwing for Celibacy|stat=100 {{Mysticality}}|image=sadhippy1.gif}}
+
+{{Adventure|name=The Conundrums of War|drops=[[round purple sunglasses]]|image=deskhippy.gif|note1=Only occurs if a [[round purple sunglasses]] is not in your inventory.}}
+
+{{Adventure|name=Rosie The Seamstress-er|drops=[[bullet-proof corduroys]]|image=hippy1.gif|note1=Only occurs if a [[bullet-proof corduroys]] is not in your inventory.}}
+
+{{Adventure|name=Uncle Jerry Wants You|drops=[[reinforced beaded headband]]|image=hippyposter.gif|note1=Only occurs if a [[reinforced beaded headband]] is not in your inventory.}}
+
+==Undisguised==
+{{Adventure|name=Make War, Not Love|meat=<span style="color:red">Lose</span> 10|stat=80 {{Moxie}}|image=yurt.gif}}
+
+{{Adventure|name=My Dog Has No Nose|stat=70 {{Moxie}}|image=yurt.gif}}
+
+{{Adventure|name=This Adventure Blows|stat=80 {{Muscle}}|image=Hippy2.gif}}
+
+{{Adventure|name=A Totally Organic Experience|stat=80 {{Mysticality}}|image=hippy3.gif}}
+
+{{Adventure|name=Ultimately Lame|stat=70 {{Mysticality}}|image=hippy2.gif}}
+
+{{Adventure|name=You Better Work It|stat=70 {{Muscle}}|image=yurt.gif}}
+
+{{Adventure|name=Cemetery, Man|drops=[[filthy knitted dread sack]]|image=tombstone.gif|note1=Only occurs if a [[filthy knitted dread sack]] is not in your inventory.}}
+
+{{Adventure|name=The Naked Truth|drops=[[filthy corduroys]]|image=puddle.gif|note1=Only occurs if [[filthy corduroys]] are not in your inventory.}}
+
+==Notes==
+*[[Cemetery, Man]] and [[The Naked Truth]] will occur if you are undisguised but have a [[filthy knitted dread sack]] or [[filthy corduroys]] equipped and you do not have an extra one in your inventory.
+
+[[Category:Locations|Hippy Camp (Verge of War), The]]

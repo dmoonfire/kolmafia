@@ -1,0 +1,35 @@
+{{NeedsContent|comment=with the new noncombat, what's the real combat percent, chief?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+
+[[The Black Forest]] is located in [[The Distant Woods]]. It's called the Black Forest because it's black and a forest. You gain access to it during the [[Quest for the Holy MacGuffin]].
+
+If your main stat isn't high enough, you will see the following message:
+:Your yellow streak combined with the blackness of the forest triggers both your fear of getting your ass beaten ''and'' your fear of bees. You should come back when you're better equipped to handle this.
+
+:(You must have at least 104 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=black adder|note1=Successful attack may give 5 turns of [[Really Quite Poisoned]].}}
+{{Combat|name=Black Knight}}
+{{Combat|name=black panther}}
+{{Combat|name=black widow|note1=Successful attack may give 10 turns of [[Really Quite Poisoned]].}}
+{{Combat|name=blackberry bush|note1=Attacks with melee weapons will cause the blackberry bush to deal damage from its thorns.}}
+
+==Non-combat Adventures==
+{{Adventure|name=A Man in Black|drops=[[black market map]]|note1=A [[Ascension#One Time|one-time]] adventure.|image=Maninblack.gif}}
+
+{{choice|name=The Blackberry Cobbler||choice1name=Make some slippers|choice1=[[blackberry slippers]]|choice2name=Make some moccasins|choice2=[[blackberry moccasins]]|choice3name=Make some combat boots|choice3=[[blackberry combat boots]]|choice4name=Make like a tree and leave|choice4=Nothing. (Does not consume an adventure.)|note1=Occurs immediately after you obtain at least 10 {{plural|blackberry}}.|note2=Each pair of shoes costs 10 {{plural|blackberry}}.|image=cobbler.gif}}
+
+{{Adventure|name=An Olith, Mon|drops=[[black kettle drum]]|image=blackmonolith.gif}}
+
+{{Adventure|name=What the Cluck?|image=cock.gif|drops=[[black picnic basket]]|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=A Potentially Offensive Reference Has Been Carefully Avoided Here|image=Blpudding2.gif|note1=Gives 10 turns of [[Tar-Struck]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*The Black Forest, with all its references to African-American culture, is likely itself a reference to infamous forum trolls Team Shortbus who, in a racial trolling attempt, would often troll the forums and more often in-game chat extensively using the phrase, "If there's a Whitey's Grove why isn't there a Blackie's Grove?" or some variation thereof, also implying that Jick was racist.
+*Alternately, it was apparently tossed around as idea after the creation of Whitey's Grove, and was mentioned (along with the Black Panther and Black Knight) on a long-ago Jick and Skully radio show.
+*[[Wikipedia:Black Forest|The Black Forest]] is a wooded mountain range in Baden-Württemberg, southwestern Germany.
+
+[[Category:Locations|Black Forest, The]]

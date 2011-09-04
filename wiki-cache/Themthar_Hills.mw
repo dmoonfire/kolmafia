@@ -1,0 +1,26 @@
+{{bug|The Hills are currently accessible via the last adventure link even after the Mysterious Island Quest has ended. This is presumed to be a bug. The side-quest may be completed after the Island Quest has ended in this way.}}
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Themthar Hills]] is located by [[Our Lady of Perpetual Indecision]] on the [[The Mysterious Island of Mystery (Wartime)]].
+
+When not wearing [[Frat Warrior Fatigues]] or [[War Hippy Fatigues]], the following message is given:
+:As you approach the hills, one of the Sisters of Perpetual Indecision rushes out of the Nunnery and stops you.
+
+:"Those bandits are fierce!" she says. "Much too difficult for a civilian to fight. Please. Let one of the soldiers handle it.
+
+Once you have [[Recover the Sisters' Meat|recovered all of the Sisters' meat]], this area becomes inaccessible.  Attempting to access it (via Last Adventure) gives the following message:
+:You've already retrieved all of the stolen Meat  
+
+(You must have at least ? <stat> to adventure here.)
+
+==Combat Adventures==
+
+{{Combat|name=dirty thieving brigand
+        |note1=Before taking the [[Recover the Sisters' Meat|quest]] from Our Lady Of Perpetual Indecision, the dirty thieving brigand will not drop any Meat.
+        |note2=A [[meat vortex]] works on these bandits and does not contribute towards the quest total, but goes into your wallet. Since the bandits carry so much Meat, is is very profitable to buy meat vortices at low prices and use them against the bandits in combat.}}
+
+==References==
+*Traditionally, there would be "gold in them thar hills" -- in this case, however, there's Meat instead.
+
+[[Category:locations|Themthar Hills, The]]

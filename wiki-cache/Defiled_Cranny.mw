@@ -1,0 +1,29 @@
+{{NeedsSpading|comment=Now that there are noncombats, what's the frequency, Kenneth?}}
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Defiled Cranny]] is located in [[The Cyrpt]]. Once the [[huge ghuol]] is defeated, you'll no longer be able to adventure here; instead, you'll get the message "This part of the cyrpt is already undefiled." See [[Undefile the Cyrpt Quest]] for more information. Note that the monsters here will be become available again at [[The Misspelled Cemetary (Post-Cyrpt)]] once you have undefiled the rest of The Cyrpt, except for the [[huge ghuol]] subboss.
+
+If your main stat isn't high enough, you will see the following message:
+
+:You shouldn't be here.
+
+:(You must have at least 40 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=gaunt ghuol}}
+{{Combat|name=gluttonous ghuol}}
+{{Combat|name=huge ghuol|note1=Only occurs as a choice in [[Lunchtime]].|note2=Once you have defeated the huge ghuol, this adventure will no longer occur (becomes a [[Ascension#One Time|one-time]] adventure).}}
+
+==Non-combat Adventures==
+{{Choice|name=Go Slow Past the Drawers|image=drawers.gif
+|choice1name=Open up the closed one|choice1=200-300 [[meat]]
+|choice2name=Crawl inside the open one|choice2=40-50 [[HP]] & [[MP]], 20-30 {{muscle}}, {{moxie}} & {{mysticality}}
+|choice3name=Dig through the rubble on the ground|choice3=Obtain a [[can of Ghuol-B-Gone™]]
+|choice4name=Leave the drawers alone|choice4=Nothing. (Does not cost an adventure.)}}
+
+{{Choice|name=Lunchtime|image=bigghuol.gif
+|choice1name=Try to take him by surprise|choice1=Fight the [[huge ghuol]]
+|choice2name=Leave before he finishes|choice2=Nothing. (Does not cost an adventure.)|note2=Unaffected by [[Combat Frequency]] modifiers.}}
+
+[[Category:Locations|Defiled Cranny, The]]

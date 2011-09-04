@@ -1,0 +1,69 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+{{NeedsConfirm|comment=Noncombat occurrence patterns, is there a 9-5-1-ish pattern?}}
+
+This is one of the adventure zones accessed from [[Memories, in the Corners of your Mind]] after gazing into an [[empty agua de vida bottle]]. It is only available with a bottle in inventory. The quest [[Future]] takes place primarily in this zone.
+
+==Combat Adventures==
+{{combat|name=7-Foot Dwarf Replicant}}
+
+{{combat|name=Bangyomaman Warrior}}
+
+{{combat|name=cyborg policeman}}
+
+{{combat|name="Handyman" Jay Android}}
+
+{{combat|name=liquid metal robot}}
+
+{{combat|name=obese tourist}}
+
+{{combat|name=Space Marine}}
+
+{{combat|name=terrifying robot}}
+
+==Non-Combat Adventures==
+{{Choice|name=Time Isn't Holding Up; Time Is a Doughnut|image=megalopolis.gif
+|choice1name=Head Out|choice1=Gain 15-50 {{muscle}}|note1=Occurs once per ascension, upon first entering the zone.}}
+
+{{Choice|name=Savior Faire|image=kornelius.gif|choice1name=Go Uptown|choice1=Gain 25 {{moxie}}. Next noncombat adventure will be [[Bad Reception Down Here]].|choice2name=Stay Downtown|choice2=Gain 25 {{muscle}}. Next noncombat adventure will be [[A Diseased Procurer]].|choice3name=Get Outta Town|choice3=Gain 25 {{mysticality}}. Next noncombat adventure will be [[Give it a Shot]]. |note1=Occurs before starting the [[Future]] quest.}}
+
+{{Choice|name=Extra Savior Faire|image=kornelius.gif|choice1name=Break it up, or down. Maybe slightly to the left.|choice1=Acquire [[Ruby Rod]], gain 25 {{moxie}}.|note1=Occurs after completing the quest [[Hyboria? I don't even...]]}}
+
+{{Choice|name=The Savorier Savior|image=kornelius.gif|choice1name=Go Uptown|choice1=Gain 25 {{moxie}}. Next noncombat adventure will be [[Bad Reception Down Here]].|choice2name=Stay Downtown|choice2=Gain 25 {{muscle}}. Next noncombat adventure will be [[A Diseased Procurer]].|choice3name=Get Outta Town|choice3=Gain 25 {{mysticality}}. Next noncombat adventure will be [[Give it a Shot]].|note1=Occurs after completing the [[Future]] quest.}}
+
+{{Choice|name=Bad Reception Down Here|image=Future_recep.gif|choice1name=Chat With the Clown|choice1=Acquire [[Indigo Party Invitation]]|choice2name=Chat With the Joker|choice2=Acquire [[Violet Hunt Invitation]]}}
+
+{{Choice|name=You Can Never Be Too Rich or Too in the Future|image=Spacebldg.gif|choice1name=Hobnob with the Hoity-Toity|choice1=Gain X {{moxie}}|choice2name=Robnob from the Hoity-Toity|choice2=Acquire effect [[Serenity (effect)|Serenity]] (20 adventures)|note1=Occurs with [[Indigo Party Invitation]] in the inventory, which is consumed.}}
+
+{{Choice|name=I'm on the Hunt, I'm After You|image=Spacedome.gif|choice1name=Hunt the Unicorn|choice1=Gain X in all substats|choice2name=Hunt the Teddy Bear|choice2=Acquire effect [[Phairly Pheromonal]] (20 adventures)|note1=Occurs with [[Violet Hunt Invitation]] in the inventory, which is consumed.}}
+
+{{Choice|name=A Diseased Procurer|image=Procurer.gif|choice1name=The Flesh|choice1=Acquire [[Blue Milk Club Card]]|choice2name=The Metal|choice2=Acquire [[Mecha Mayhem Club Card]]}}
+
+{{Choice|name=Brings All the Boys to the Blue Yard|image=bluemilk.gif|choice1name=Take a Seat|choice1=Gain X each substat, capped at 200|choice2name=Head to the Back|choice2=Acquire effect [[Dance Interpreter]] (20 turns)|note1=Occurs with [[Blue Milk Club Card]] in the inventory, which is consumed.}}
+
+{{Choice|name=Painful, Circuitous Logic|image=Mechaclub.gif|choice1name=Switch the Circuits|choice1=Gain (up to?) 200 {{muscle}}|choice2name=Keep Your Seat|choice2=Acquire effect [[Nano-juiced]] (20 turns)|note1=Occurs with [[Mecha Mayhem Club Card]] in the inventory, which is consumed.}}
+
+{{Choice|name=Give it a Shot|image=twoshots.gif|choice1name=Vote for the Smuggler|choice1=Acquire [['Smuggler Shot First' Button]]|choice2name=Vote for the Alien|choice2=Acquire [[Spacefleet Communicator Badge]]}}
+
+{{Choice|name=Does This Bug You? Does This Bug You?|image=swbridge.gif|choice1name=Play with the Furball|choice1=Gain (up to?) 200 {{mysticality}}|choice2name=Talk to the Geezer|choice2=Acquire effect [[In the Saucestream]] (20 turns)|note1=Occurs with [['Smuggler Shot First' Button]] in the inventory, which is consumed.}}
+
+{{Choice|name=A Bridge Too Far|image=stbridge.gif|choice1name=Hit the Holodeck|choice1=Gain X in all substats, capped at 200.|choice2name=Practice Diplomacy|choice2=Acquire effect [[Meatwise]] (20 turns)|note1=Occurs with [[Spacefleet Communicator Badge]] in the inventory, which is consumed.}}
+
+{{Choice|name=451 Degrees! Burning Down the House!|image=Bookshelf.gif|choice1name=Read "Burning Loincloths"|choice1=Gain X {{moxie}}.|choice2name=Read "Tuesdays with the Supreme Being"|choice2=acquire [[Supreme Being Glossary]]|choice3name=Read "Tears of the Dragon-Vampire"|choice3=Gain X {{muscle}}. |note1=Only occurs during the [[Future]] quest.}}
+
+{{Choice|name=None Shall Pass|image=multipass2.gif|choice1name=Buy a single pass|choice1=Lose 30 [[Meat]], Gain 50 {{muscle}}.|choice2name=Buy a multi-pass|choice2=Lose 60 [[Meat]], Acquire [[Multi-pass]].|choice3name=Take a pass on the passes|choice3=nothing |note1=Only occurs if the player does not have a multi-pass during the [[Future]] quest.}}
+
+{{Choice|name=The Unbearable Supremeness of Being|image=Supremejill.gif|choice1name=Try a line|choice1=With [[Supreme Being Glossary]], gain X {{muscle}}, {{mysticality}}, and {{moxie}}. Otherwise, gain X {{muscle}} and {{moxie}}. |note1=Only occurs during the [[Future]] quest.}}
+
+{{Choice|name=A Winning Pass|image=supremejill.gif|choice1name=Present|choice1=Gain 75 in all stats |note1=Only occurs during the [[Future]] quest.}}
+
+{{Choice|name=OMG KAWAIII|image=supremejill.gif|choice1name=Whip Out Your Rod|choice1=With five elemental essences, acquire [[essence of cute]]. Otherwise, nothing. |note1=Only occurs during the [[Future]] quest.}}
+
+{{Choice|name=The Elements of Surprise . . .|image=5shelves.gif|choice1name=Push the button|choice1=With correct item placement, unannouncedly acquire [[secret from the future]]. Otherwise, nothing. |note1=Only occurs during the [[Future]] quest.}}
+
+==Notes==
+* The [[obese tourist]] and [[terrifying robot]] only appear after the player boards the space cruise ship during the [[Future]] quest. After the quest is over, the monsters can continue to appear in the zone.
+* The choice adventures [[Savior Faire]] and [[The Savorier Savior]] (and subsequently the other choice adventures triggered by them) do not occur while the player is on the [[Future]] quest.
+* It is possible to access this part of KoL through teleportitis.
+* See the [[Seaside Megalopolis Noncombats]] page for an overview of non-quest choice adventures.
+[[Category:Locations|Seaside Megalopolis]]

@@ -1,0 +1,11 @@
+Development Release 12-07-2007 (1.35 base)
+ASH
+/home/dylan/src/KoLmafia/cake/CakeMaximize.ash	1252862716	1	CakeMaximize
+/home/dylan/src/KoLmafia/cake/CakeData.ash	1252978800	1	CakeData
+/home/dylan/src/KoLmafia/cake/CakeMechanics.ash	1252979515	1	CakeMechanics
+/home/dylan/src/KoLmafia/cake/CakeModifier.ash	1252979018	1	CakeModifier
+/home/dylan/src/KoLmafia/cake/ToDo.txt	1252071032	0	/home/dylan/src/KoLmafia/cake/ToDo.txt
+/home/dylan/src/KoLmafia/cake/CakeProvision.ash	1252984270	1	CakeProvision
+/home/dylan/src/KoLmafia/cake/GenerateLocationData.pl	1252980090	0	/home/dylan/src/KoLmafia/cake/GenerateLocationData.pl
+/home/dylan/src/KoLmafia/cake/CakeLib.ash	1252979497	1	CakeLib
+/home/dylan/src/KoLmafia/cake/CakeLevel.ash	1252980477	1	CakeLevel

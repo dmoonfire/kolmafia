@@ -1,0 +1,34 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[Belowdecks]] is located at [[the Obligatory Pirate's Cove (in disguise)]] on [[the Mysterious Island of Mystery]]. You must be outfitted with the [[Swashbuckling Getup]] or [[pirate fledges]]; otherwise you will see the message "You shouldn't be here."
+
+==Combat Adventures==
+{{combat
+|name=gaudy pirate
+|stat=35
+|level=140}}
+
+{{combat
+|name=grassy pirate
+|stat=35
+|level=140}}
+
+{{combat
+|name=gritty pirate
+|stat=35
+|level=140}}
+
+{{combat
+|name=groovy pirate
+|stat=35
+|level=140}}
+
+{{combat
+|name=grungy pirate
+|stat=35
+|level=140}}
+
+==Non-combat Adventures==
+{{Adventure|name=My Little Stowaway|image=glyphs4.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+[[Category:Locations]]

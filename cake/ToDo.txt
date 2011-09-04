@@ -1,0 +1,10 @@
+To be done for version 1:
+
+* Actually perform adventures when requested.
+* Figure out why Haunted Ballroom isn't the best over Hole in the Sky.
+* Make sure the formulas are actually correct.
+* Take into account item drops in auto-sale.
+* CakeMaximize
+	* Figure out which skills to use and buffs.
+	* Auto-use +stat items that are not outfit specific.
+	* Work on getting outfits working with the area.

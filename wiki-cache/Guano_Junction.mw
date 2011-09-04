@@ -1,0 +1,30 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+Located in [[The Bat Hole]], you will be unable to adventure in [[Guano Junction]] until you have {{element|Stench|Resistance}}. Fortunately, the [[Pine-Fresh air freshener]] is available right next door, in the [[Entryway]].
+
+In order to gain access to subsequent rooms, you need to use {{plural|sonar-in-a-biscuit}}. The noise from each sonar will cause a rockslide that reveals one of the chambers. First, the [[Batrat and Ratbat Burrow]] is opened. Second, the [[Beanbat Chamber]]. Finally, [[The Boss Bat's Lair]] opens, allowing you to fight the [[Boss Bat]].
+
+If your main stat isn't high enough, you will see the following message:
+
+:You should not be here. 
+
+:(You must have at least 13 <stat> to adventure here.) 
+
+==Combat Adventures==
+{{Combat|name=baseball bat}}
+{{Combat|name=briefcase bat}}
+{{Combat|name=doughbat}}
+{{Combat|name=perpendicular bat}}
+{{Combat|name=skullbat}}
+{{Combat|name=vampire bat|note1=The vampire heart only drops if you have [[wooden stakes]] equipped.}}
+
+==Non-combat Adventures==
+{{Adventure|name=Le Chauve-Souris du Parfum|drops=[[Eau de Guaneau]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=Regbat.gif}}
+
+{{Adventure|name=How I Wonder What You're At|drops=2 {{plural|sonar-in-a-biscuit}}|image=Regbat.gif|note1=<font color=red>Lose</font> 5 HP|note2=This adventure is triggered the first time you adventure here with a [[ten-leaf clover]] in your inventory.|note3=This adventure appears to occur only if you possess no sonars-in-biscuits. Otherwise, [[What Can You Do?]] will occur.}}
+
+{{Adventure|name=What Can You Do?|drops=3 [[baseball]]s|image=ballbat.gif|note1=This adventure can be triggered when you adventure here with a [[ten-leaf clover]] in your inventory.|note2=This adventure will only occur when you have at least 1 [[sonar-in-a-biscuit]]. Otherwise, [[How I Wonder What You're At]] will occur.}}
+
+{{Adventure|name=Oh Guanoes!|image=Rockpile.gif|note1=Gives 10 turns of [[Guanified]].|note2=[[Bad Moon]] only.}}
+
+[[Category:Locations]]

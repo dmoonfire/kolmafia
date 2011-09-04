@@ -1,0 +1,98 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Airship is found atop [[The Beanstalk]], which is located in [[The Nearby Plains]] (once you've been able to plant an [[enchanted bean]]).
+
+Must have 90 of main stat to enter. If your main stat isn't high enough, you will see the following message:
+
+:You step up to the gangplank of the Airship, but before you can actually reach the ship, a gust of wind blows you backwards, and you land headfirst at the bottom of the beanstalk.
+
+<center>(You must have at least 90 $stat to adventure here.)</center>
+
+
+==Combat Adventures==
+{{Combat|name=Burly Sidekick}}
+{{Combat|name=Irritating Series of Random Encounters}}
+{{Combat|name=MagiMechTech MechaMech}}
+{{Combat|name=Protagonist}}
+{{Combat|name=Quiet Healer|note1=She occasionally heals you for 15-20 HP in combat.}}
+{{Combat|name=Spunky Princess}}
+
+==Non-combat Adventures==
+{{Choice
+  |name=Hammering the Armory
+  |image=hermit.gif
+  |choice1name=Dig through the stuff|choice1=[[bronze breastplate]]
+  |choice2name=Blow this popsicle stand|choice2=Nothing.  (Does not cost an adventure.)
+  |note1=Must have [[Torso Awaregness]] for this adventure to occur.}}
+
+{{Choice
+  |name=Random Lack of an Encounter
+  |image=AirshipEncounter.gif
+  |choice1name=Investigate the crew quarters|choice1=Fight a [[MagiMechTech MechaMech]] if you have +20ML or more running, or one of a [[Burly Sidekick]], a [[Protagonist]], a [[Spunky Princess]] or a [[Quiet Healer]] otherwise.
+  |choice2name=Check the cargo hold|choice2=[[Penultimate Fantasy chest]]
+  |choice3name=Head down to the galley||choice3=<font color=red>Lose</font> 40-50 [[HP]], gain 18-39 {{muscle}}, {{mysticality}}, and {{moxie}}
+  |note1=Stat gain averages 20 + max(0,[[Combat Frequency|noncombat modifier]])/2}}
+
+{{Adventure
+  |name=Gesundheitgeist!
+  |drops=[[Tissue Paper Immateria]]
+  |image=ghostface.gif
+  |note1=Unlocks [[Don't Chew on That Spirit!]].
+  |note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure
+  |name=Don't Chew on That Spirit!
+  |drops=[[Tin Foil Immateria]]
+  |image=ghostface.gif
+  |note1=Unlocks [[The Most Absorbent Spirit Ever]].
+  |note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure
+  |name=The Most Absorbent Spirit Ever
+  |drops=[[Gauze Immateria]]
+  |image=ghostface.gif
+  |note1=Unlocks [[Rip Rop Wrappety Do]].
+  |note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure
+  |name=Rip Rop Wrappety Do
+  |drops=[[Plastic Wrap Immateria]]
+  |image=ghostface.gif
+  |note1=Unlocks [[F-F-Fantastic!]].
+  |note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure
+  |name=F-F-Fantastic!
+  |drops=[[S.O.C.K.]], [[giant castle map]]
+  |image=cid.gif
+  |note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure
+  |name=Mist Angst, the Protagonist
+  |image=protag.gif
+  |note1=Occurs during the [[Going Postal]] quest.
+  |note2=A [[Ascension#One_Time|one time]] adventure.}}
+
+{{Adventure
+  |name=Mist Angst, the Protagonist
+  |drops=[[Non-Essential Amulet]]
+  |image=protag.gif
+  |note1=Occurs during the [[Going Postal]] quest, after obtaining the [[really big tiny house]].
+  |note2=A [[Ascension#One_Time|one time]] adventure.}}
+
+{{Adventure
+  |name=Obligatory Mascot Cameo
+  |image=Haiku1.gif
+  |note1=Gives 10 turns of [[Synthesized]].
+  |note2=[[Bad Moon]] only.}}
+
+{{Adventure|name=Number 163|image=glyphs1.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+==Retired Adventures==
+{{Adventure|name=Treasure! (Airship){{!}}Treasure!|drops=[[Penultimate Fantasy chest]]|image=chest.gif}}
+==Notes==
+*[[Treasure! (Airship)|Treasure!]] was removed on October 2nd, 2007, and integrated into [[Random Lack of an Encounter]].
+
+==References==
+*This location is a parody of the Airship from ''[[Wikipedia:Final Fantasy|The Final Fantasy series]]''; all of the encounters within refer to the ''Final Fantasy'' games (with the exception of the Irritating Series of Random Encounters, which depicts slimes from the [[wikipedia:Dragon Warrior|''Dragon Warrior'']] series, as well as the Spunky Princess, who is more of an RPG archetype than a specific reference), most notably ''[[Wikipedia:Final Fantasy VII|Final Fantasy VII]].'' The term "penultimate," which means "next to last," pokes fun at the name "Final" Fantasy.
+
+[[Category:Locations|Penultimate Fantasy Airship, The]]

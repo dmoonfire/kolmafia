@@ -1,0 +1,17 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The '''Menagerie Level 2''' is located in the [[Cobb's Knob Laboratory]]. To reach it, you will need the [[Cobb's Knob lab key]].
+
+If you don't have 40 in your main stat, you will see:
+:As you descend the steps, you hear the moaning and wailing of trapped creatures that sound MUCH tougher than you. It's gonna be a little while before you're strong enough to adventure down there.
+:(You must have at least 40 $Stat to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=Carnivorous Moxie Weed}}
+{{Combat|name=Grass Elemental}}
+{{Combat|name=Weremoose}}
+
+==Non-combat Adventures==
+{{Adventure|name=Rokay, Raggy!|drops=[[irradiated pet snacks]]|image=crates.gif|note1=This adventure occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+[[Category:Locations]]

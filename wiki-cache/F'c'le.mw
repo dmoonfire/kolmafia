@@ -1,0 +1,79 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The F'c'le]] is located at [[the Obligatory Pirate's Cove (in disguise)]] on [[the Mysterious Island of Mystery]].
+
+[[Swashbuckling Getup]] or [[pirate fledges]] are required to adventure here. Without either, you will see this message: You shouldn't be here.
+
+==Combat Adventures==
+{{combat
+|name=chatty pirate
+|stat=25
+|level=100}}
+
+{{combat
+|name=cleanly pirate
+|stat=25
+|level=100}}
+
+{{combat
+|name=clingy pirate (female)
+|stat=25
+|level=100
+|note1=Only occurs as a male character.}}
+
+{{combat
+|name=clingy pirate (male)
+|stat=25
+|level=100
+|note1=Only occurs as a female character.}}
+
+{{combat
+|name=creamy pirate
+|stat=25
+|level=100}}
+
+{{combat
+|name=crusty pirate
+|stat=25
+|element=stench
+|level=100}}
+
+{{combat
+|name=curmudgeonly pirate
+|stat=25
+|level=100}}
+
+==Non-combat Adventures==
+{{choice|name=Chatterboxing|image=3pirates.gif
+|choice1name=Fight chatty fire with chatty fire|choice1=~100 {{moxie}}
+|choice2name=Distract them with shiny objects|choice2=With a [[valuable trinket]], escape (does not cost an adventure) and banish the [[chatty pirate]] from the [[Adventure Queue]] for several turns; otherwise lose ~14 HP
+|choice3name=Ride it out|choice3=~100 {{muscle}}
+|choice4name=Jump overboard|choice4=~100 {{mysticality}}, lose ~12-14 HP cold damage}}
+
+{{adventure
+|name=The Chamber Music of the Sea
+|image=Prufrock.gif
+|stat=50 {{mysticality}}}}
+
+{{adventure
+|name=Come on Baby, Find My Pliers
+|image=Ballpile.gif
+|stat=50 {{muscle}}}}
+
+{{adventure
+|name=An Impractical Joke
+|image=Wooddoor.gif
+|stat=50 {{moxie}}}}
+
+{{adventure
+|name=A Fledgling Pirate Is You!
+|image=Caronch.gif
+|meat=3000
+|drops=[[pirate fledges]]
+|note1=Only occurs after using [[ball polish]], [[rigging shampoo]] and [[mizzenmast mop]].
+|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+==Notes==
+*F'c'le (focal or fuck-all) is a pun on "fo'c's'le"; which is the common abbreviation of "forecastle", the compartment of a ship or boat directly aft of the bow (AKA "behind" the "front" or "pointy end"), often used as crew quarters. 
+
+[[Category:Locations|F'c'le, The]]

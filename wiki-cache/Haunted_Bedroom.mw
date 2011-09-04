@@ -1,0 +1,44 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Haunted Bedroom]] is located in [[Spookyraven Manor]], [[Spookyraven Manor, Second Floor | Second Floor]]. This curious bedroom has no beds at all, only nightstands.
+
+If you don't have 85 in your primary stat you will get the message:
+:You feel a chill run down your spine as you near the Haunted Bedroom. Then you realize that it wasn't a chill, but a spider. You get really freaked out, and can't go any further.
+
+:(You must have at least 85 <Main Stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=animated nightstand (Mahogany)}}
+
+{{Combat|name=animated nightstand (White)}}
+
+{{combat|name=remains of a jilted mistress|note1=Only Occurs as a choice of [[One Nightstand (Wooden)]].}}
+
+==Non-Combat Adventures==
+{{Choice|name=One Nightstand (Mahogany)|image=darkstand.gif
+|choice1name=Check the top drawer|choice1=[[old coin purse]]
+|choice2name=Check the bottom drawer|choice2=fight [[animated nightstand (Mahogany)]]
+|choice3name=Look under the nightstand|choice3=
+*[[tattered wolf standard]] ([[Seal Clubber]]), [[tattered snake standard]] ([[Turtle Tamer]]), [[English to A. F. U. E. Dictionary]] ([[Pastamancer]] or [[Sauceror]]), or [[bizarre illegible sheet music]] ([[Disco Bandit]] or [[Accordion Thief]]) (only with [[Lord Spookyraven's spectacles]] equipped, [[Ascension#One Time|one time]] drop)}}
+
+{{Choice|name=One Nightstand (Ornate)|image=carvestand.gif
+|choice1name=Open the top drawer|choice1=400-600 Meat
+|choice2name=Open the bottom drawer|choice2=max 200 {{mysticality}} (approximately 1*mainstat)
+|choice3name=Look behind the nightstand|choice3=[[Lord Spookyraven's spectacles]] ([[Ascension#One Time|one time]] drop)}}
+
+{{Choice|name=One Nightstand (White)|image=Nightstand.gif
+|choice1name=Look in the top drawer|choice1=[[old leather wallet]]
+|choice2name=Look in the bottom drawer|choice2=max 200 {{muscle}} (approximately 1*mainstat)
+|choice3name=Kick it and see what happens|choice3=fight [[animated nightstand (White)]]}}
+
+{{Choice|name=One Nightstand (Wooden)|image=woodstand.gif
+|choice1name=Check the top drawer|choice1=max 200 {{moxie}} (approximately 1*mainstat)
+|choice2name=Check the bottom drawer|choice2=[[Spookyraven ballroom key]] (only after checking top drawer, [[Ascension#One Time|one time]] drop)
+|choice3name=Investigate the jewelry|choice3=Fight the [[remains of a jilted mistress]].}}
+
+==References==
+*Most of the names of the adventures in this room are a play on words in the phrase ''"[[Wikipedia:One night stand|One night stand]]"''.
+*Many of the item drops and adventures in this room are references to various sexual acts and stereotypes, particularly [[old coin purse]] and the "top drawer" choice for [[One Nightstand (Wooden)]].
+*The "animated nightstand" is very probably a reference to the "game" "[[Wikipedia:Progress Quest|Progress Quest]]", which has a spell called "Animate Nightstand".
+
+[[Category:Locations|Haunted Bedroom]]

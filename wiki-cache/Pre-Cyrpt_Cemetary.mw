@@ -1,0 +1,37 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+Located in the [[The Nearby Plains|Nearby Plains]].  If your main stat isn't high enough, you'll see the following message:
+:As you near the Cemetary, you feel a chill forming in your spine. Then it moves out one of your ribs, down your right arm, and into your pinky. Then it moves back into your spine, down through your pelvis, and into both thighs. Then you run away, because this is just getting weird.
+
+<center>(You must have at least 11 $stat to adventure here.)</center>
+
+After completing the [[Undefile the Cyrpt Quest]] most monsters from [[The Cyrpt]] will [[The Misspelled Cemetary (Post-Cyrpt)|replace the monsters here]].
+
+==Combat Adventures==
+{{Combat|name=ghuol}}
+{{Combat|name=grave rober|note1=[[Shysterweed]] will not drop unless you have received [[Doc Galaktik's Quest for Herbs]].}}
+{{Combat|name=lihc}}
+{{Combat|name=skleleton}}
+{{Combat|name=Smart Skelton}}
+{{Combat|name=zmobie (monster)}}
+{{Combat|name=zobmie}}
+{{Combat|name=Count Bakula|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{Adventure|name=A Grave Mistake|image=ferngrave.gif|note1=Only available if [[The Wizard of Ego]] quest has been given and the [[A Grave Situation]] adventure was not received.|not2=Occurs without a [[grave robbing shovel]] or [[rusty grave robbing shovel]] equipped or in your inventory.|note3=Does not consume an adventure.}}
+
+{{Adventure|name=A Grave Situation|drops=[[Fernswarthy's key]], [[Fernswarthy's letter]]|image=ferngrave.gif|note1=Only occurs if [[The Wizard of Ego]] quest has been given and a [[grave robbing shovel]] or [[rusty grave robbing shovel]] is equipped or in your inventory.|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=They Hate That|image=Glyphs2.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+{{Adventure|name=A Menacing Phantom|drops=[[poltergeist-in-the-jar-o]]|image=jarjar.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=Only Dust and a Plaque|drops=[[smart skull]]|stat=15 (Muscle)|image=hatskel.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=What Do We Want?|image=Zombie.gif|note1=Gives 10 turns of [[Braaains]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*This area may refer to [[Wikipedia:Stephen King|Stephen King]]'s novel ''[[Wikipedia:Pet Sematary|Pet Sematary]]''.
+*The concept of the area is based on the common misspelling of the word "cemetery."
+
+[[Category:Locations|Misspelled Cemetary, The (Pre-Crypt)]]

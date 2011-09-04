@@ -1,0 +1,191 @@
+"# Location"	"CombatRate"	"LocationType"	"MaximizeHint"	"CombatMeat"	"CombatStats"	"AverageHP"	"MaxHP"	"AverageDefense"	"MaxDefense"	"AverageAttack"	"MaxAttack"	"NoncombatMuscle"	"NoncombatMoxie"	"NoncombatMystic"	"NoncombatMeat"	"CloverMuscle"	"CloverMoxie"	"CloverMys"	"CloverMeat"
+8-Bit Realm	100	none		0	5.69444444444444	15	15	22.7777777777778	25	22.7777777777778	25	0	0	0	0	0	0	0	0
+A Maze of Sewer Tunnels	95	clan_basement		0	21.6666666666667	259.666666666667	304	86.6666666666667	260	86.6666666666667	260	0	0	0	0	0	0	0	0
+An Octopus's Garden	95	special		25	101.5625	725	1000	425	450	406.25	450	0	0	0	0	0	0	0	0
+Anemone Mine	0	special		200	112.5	683.333333333333	750	533.333333333333	650	450	500	0	0	0	0	0	0	0	0
+Arrrboretum	0	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Astral Mushroom (Bad Trip)	100	item_based		0	5	20	20	20	20	20	20	0	0	0	0	0	0	0	0
+Astral Mushroom (Great Trip)	100	item_based		0	36.25	150	150	145	145	145	145	0	0	0	0	0	0	0	0
+Astral Mushroom (Mediocre Trip)	100	item_based		0	13.25	50	50	53	53	53	53	0	0	0	0	0	0	0	0
+Atomic Crimbo Toy Factory	100	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Back 40	100	island_war		172.5	43.375	187.5	190	173.5	177	173.5	177	0	0	0	0	0	0	0	0
+Barn	100	island_war		75	41.5	180	180	166	166	166	166	0	0	0	0	0	0	0	0
+Barrel full of Barrels	0	special		0	6.25	35	45	25	35	25	35	0	0	0	0	0	0	0	0
+Barrrney's Barrr	80	pirate		43.3333333333333	20.5	72.3333333333333	75	83	85	82	83	60 1 *  300 1 * + 10 /	60 1 * 10 /	60 1 * 10 /	0	0	0	0	0
+Bat Hole Entryway	100	none		22.1666666666667	3.25	8	8	13	14	13	14	0	0	0	0	0	0	0	0
+Batrat and Ratbat Burrow	100	none		23	6	21	22	24	25	24	25	0	0	0	0	0	0	0	0
+Battlefield (Cloaca Uniform)	95	none		0	7.5	35	40	30	30	30	30	15 1 * 10 /	15 1 *  Moxie*2 50 min 1 * + 10 /	15 1 * 10 /	0	0	0	0	0
+Battlefield (Dyspepsi Uniform)	95	none		0	7.5	35	40	30	30	30	30	15 1 * 10 /	15 1 *  Moxie*2 50 min 1 * + 10 /	15 1 * 10 /	0	0	0	0	0
+Battlefield (Frat Uniform)	100	island_war		50.0625	41.0625	216.25	355	162.583333333333	220	164.25	220	0	0	0	0	0	0	0	0
+Battlefield (Hippy Uniform)	100	island_war		45.75	36.4791666666667	204.583333333333	300	143.833333333333	205	145.916666666667	210	0	0	0	0	0	0	0	0
+Battlefield (No Uniform)	0	island_war		0	0	0	0	0	0	0	0	15 1 * 10 /	15 1 *  Moxie*2 50 min 1 * + 10 /	15 1 * 10 /	0	0	0	0	0
+Beanbat Chamber	100	none		35.5	5.25	18	18	21	21	21	21	0	0	0	0	0	0	0	0
+Belowdecks	100	pirate		0	35	120	120	140	140	140	140	0	0	0	0	0	0	0	0
+Black Forest	100	none		77.8	32.15	128.6	136	127.4	135	128.6	133	0	0	0	0	0	0	0	0
+Bog	100	island_war		146.25	42.875	192.5	203	171.5	174	171.5	174	0	0	0	0	0	0	0	0
+Boss Bat's Lair	100	none		125	7.875	38	40	29.5	33	31.5	37	0	0	0	0	0	0	0	0
+Bugbear Pens	100	none		0	10.5416666666667	36.6666666666667	20	45.6666666666667	20	42.1666666666667	20	10 1 *  10 1 * + 11 /	10 1 *  10 1 * + 11 /	10 1 *  10 1 * + 11 /	50 1 *  75 1 * + 11 /	0	0	0	0
+Burnbarrel Blvd.	0	clan_basement		0	87.5	500	500	350	350	350	350	0	0	0	0	0	0	0	0
+Camp Logging Camp	80	none		23.625	9.125	36.5	40	36.5	40	36.5	40	15 1 * 4 /	15 1 * 4 /	15 1 * 4 /	100 1 *  100 1 * +  100 1 * + 4 /	0	0	0	0
+Crimbo Town Toy Factory	100	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Crimborg Collective Factory	100	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Daily Dungeon	0	special		1.44444444444444	3.91666666666667	11	14	15.5555555555556	20	15.6666666666667	21	0	0	0	0	0	0	0	0
+Dark Elbow of the Woods	95	none		36.6666666666667	11.5	46	48	40	46	46	48	0	0	0	0	0	0	0	0
+Dark Heart of the Woods	95	none		35	11.5	46	50	46	50	46	50	0	0	0	0	0	0	0	0
+Dark Neck of the Woods	95	none		20	11.1666666666667	44.6666666666667	52	44.6666666666667	52	44.6666666666667	52	0	0	0	150 1 * 2 /	0	0	0	0
+Defiled Alcove	100	none		135.333333333333	15.9166666666667	74.6666666666667	124	61.6666666666667	71	63.6666666666667	79	50 1 * 2 /	0	0	0	0	0	0	0
+Defiled Cranny	100	none		26	13.75	50	50	56	56	55	55	25 1 * 2 /	0	0	0	0	0	0	0
+Defiled Niche	100	none		0	14.375	50	50	58.5	60	57.5	59	0	0	5 1 * 2 /	0	0	0	0	0
+Defiled Nook	100	none		0	13.75	50	50	56	58	55	57	0	50 1 * 3 /	0	0	0	0	0	0
+Degrassi Knoll	80	none		51.8333333333333	6.16666666666667	12.3333333333333	9	24.8888888888889	15	24.6666666666667	14	0	0	0	0	0	0	0	0
+Desert (Ultrahydrated)	100	none		90.2	34.75	140.2	145	138.2	142	139	142	0	0	0	0	0	0	0	0
+Desert (Unhydrated)	100	none										0	0	0	0	0	0	0	0
+Dire Warren	100	none		0	0.25	1	1	1	1	1	1	0	0	0	0	0	0	0	0
+Drunken Stupor	100	special										-3 1 *  -1 1 * + 5 /	-3 1 *  -1 1 * + 5 /	-1 1 * 5 /	-10 1 *  3 1 * + 5 /	0	0	0	0
+Dungeons of Doom	70	none		0	9.75	42.6	51	37.8	40	39	43	21 1 * 4 /	21 1 * 4 /	21 1 * 4 /	0	0	0	0	0
+Dwarven Factory Warehouse	100	dwarf										0	0	0	0	0	0	0	0
+El Vibrato Island	0	special		0	70.8333333333333	16966.6666666667	100000	283.333333333333	400	283.333333333333	400	0	0	0	0	0	0	0	0
+Exposure Esplanade	0	clan_basement		0	87.5	500	500	350	350	350	350	0	0	0	0	0	0	0	0
+F'c'le	80	pirate		31.5833333333333	25	90	90	98.3333333333333	100	100	100	50 1 * 4 /	100 1 *  50 1 * + 4 /	50 1 * 4 /	0	0	0	0	0
+Family Plot	100	island_war		149.25	43.25	194.5	198	173	175	173	175	0	0	0	0	0	0	0	0
+Fantasy Airship	80	none		113.833333333333	29.7916666666667	110.833333333333	110	119.166666666667	120	119.166666666667	120	0	0	0	0	0	0	0	0
+Feeding Chamber	100	island_war		70.5	41.75	185	185	167	167	167	167	0	0	0	0	0	0	0	0
+Fernswarthy's Basement	100	special										0	0	0	0	0	0	0	0
+Fernswarthy's Ruins	100	none		23.75	4.83333333333333	8.5	9	17	18	19.3333333333333	24	0	0	0	0	0	0	0	0
+Frat House	100	none		31.5	10	30	30	40	41	40	41	0	0	0	0	0	0	0	0
+Frat House (Stone Age)	100	none		46.6666666666667	60	256.333333333333	320	240	255	240	255	0	0	0	0	0	0	0	0
+Frat House In Disguise	0	none		0	0	0	0	0	0	0	0	15 1 *  16 1 * +  17 1 * +  16 1 * +  15 1 * +  20 1 * +  18 1 * +  16 1 * + 22 /	0	0	50 1 *  100 1 * + 22 /	0	0	0	0
+Friar Ceremony Location	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Friar's Gate	95	none		30.7142857142857	11.5	46	52	43.4285714285714	52	46	52	0	50 1 * 8 /	0	150 1 * 8 /	0	0	0	0
+Fun House	100	none		15.1666666666667	4.54166666666667	14	16	18.5	20	18.1666666666667	20	0	0	0	0	0	0	0	0
+Generic Summer Holiday Swimming!	0	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giant's Castle	75	none		150	33.5416666666667	150	150	134.166666666667	145	134.166666666667	145	0	0	0	0	0	0	0	0
+Goat Party	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Goatlet	100	none		50.6666666666667	17	50	50	68	68	68	68	0	0	0	0	0	0	0	0
+Granary	100	island_war		320	43.75	225	225	175	175	175	175	0	0	0	0	0	0	0	0
+Greater-Than Sign	0	none		0	0	0	0	0	0	0	0	8 1 *  7 1 * + 9 /	7 1 *  8 1 * + 9 /	8 1 *  7 1 * + 9 /	-30 1 * 9 /	0	0	0	0
+Grim Grimacite Site	100	none		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Guano Junction	100	none		30.5	4.04166666666667	10	12	16	18	16.1666666666667	18	0	0	0	0	0	0	0	0
+Guards' Chamber	100	island_war		100	42.25	190	190	169	169	169	169	0	0	0	0	0	0	0	0
+Haert of the Cyrpt	100	none		0	22.5	120	120	90	90	90	90	0	0	0	0	0	0	0	0
+Haiku Dungeon	90	none		17	0.9	5.4	6	4	6	3.6	4	0	0	0	0	0	0	0	0
+Hatching Chamber	100	island_war		50.5	41.25	180	180	165	165	165	165	0	0	0	0	0	0	0	0
+Haunted Ballroom	80	none		0	27.5	120	120	110	110	110	110	0	prime 150 min 1 * 2 /	0	0	0	2 prime * 330 min	0	0
+Haunted Bathroom	75	none		0	22.75	96.6666666666667	105	96.6666666666667	100	91	95	75 1 * 7 /	2.25 prime * 140 min 1 * 7 /	0	0	0	0	0	0
+Haunted Bedroom	20	none		0	40.125	175	180	166.5	171	160.5	162	1 prime * 200 max 1 * 4 /	1 prime * 200 max 1 * 4 /	1 prime * 200 max 1 * 4 /	0	0	0	0	0
+Haunted Billiards Room	100	none		0	5	17.5	25	20	20	20	20	0	0	0	0	0	0	0	0
+Haunted Conservatory	100	none		0	2.04166666666667	8.66666666666667	10	8.83333333333333	9	8.16666666666667	9	0	0	0	0	0	0	0	0
+Haunted Gallery	80	none		100	27.5	116.666666666667	120	110	115	110	115	0	0	0	0	0	0	0	0
+Haunted Kitchen	100	none		2.4	1.05	5	6	4.4	5	4.2	5	0	0	0	0	0	0	0	0
+Haunted Library	75	none		0	13.4166666666667	62	69	52.6666666666667	57	53.6666666666667	57	0	5 1 * 3 /	5 1 * 3 /	0	0	0	68	0
+Haunted Pantry	80	none		4.625	0.25	1.25	2	1.25	2	1	1	0	5 1 *  5 1 * + 9 /	5 1 *  5 1 * +  7 1 * + 9 /	50 1 * 9 /	0	0	0	100
+Haunted Wine Cellar (Northeast)	100	none		50	40.75	163.5	165	160.5	163	163	168	0	0	0	0	0	0	0	0
+Haunted Wine Cellar (Northwest)	100	none		50	40.75	163.5	165	160.5	163	163	168	0	0	0	0	0	0	0	0
+Haunted Wine Cellar (Southeast)	100	none		50	40.75	163.5	165	160.5	163	163	168	0	0	0	0	0	0	0	0
+Haunted Wine Cellar (Southwest)	100	none		50	40.75	163.5	165	160.5	163	163	168	0	0	0	0	0	0	0	0
+Haunted Wine Cellar (automatic)	100	none		50	40.75	163.5	165	160.5	163	163	168	0	0	0	0	0	0	0	0
+Heartbreaker's Hotel	100	none										0	0	0	0	0	0	0	0
+Hidden City	70	special		83.3333333333333	31.5416666666667	131.166666666667	151	126.166666666667	158	126.166666666667	158	0	0	0	0	0	0	0	0
+Hidden Temple	0	none		0	0	0	0	0	0	0	0	5 1 *  5 1 * + 8 /	5 1 *  5 1 * + 8 /	5 1 *  5 1 * + 8 /	0	5	5	5	0
+Hippy Camp	100	none		0	10.0555555555556	30	30	40	41	40.2222222222222	41	0	0	0	0	0	0	0	0
+Hippy Camp (Stone Age)	100	none		66.6666666666667	61.6666666666667	246.666666666667	280	240	250	246.666666666667	250	0	0	0	0	0	0	0	0
+Hippy Camp In Disguise	0	none		0	0	0	0	0	0	0	0	0	0	15 1 *  15 1 * +  17 1 * +  17 1 * +  15 1 * +  16 1 * +  16 1 * +  20 1 * +  19 1 * + 19 /	0	0	0	0	0
+Hobopolis Town Square	95	clan_basement		0	75	400	400	300	300	300	300	0	0	0	0	0	0	0	0
+Hole in the Sky	100	none		0	83.5	315	150	334	168	334	168	0	0	0	0	0	0	0	0
+Icy Peak	85	none		201	44.0833333333333	146.666666666667	95	173.666666666667	105	176.333333333333	107	0	0	0	0	0	0	0	0
+Icy Peak of the Past	0	obsolete		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Itznotyerzitz Mine	75	none		72.75	20.375	65	50	81.5	57	81.5	57	10 1 * 8 /	10 1 * 8 /	10 1 * 8 /	100 1 *  100 1 * +  100 1 * + 8 /	0	0	0	0
+King's Chamber	100	special		0	14.25	50	50	53	53	57	57	0	0	0	0	0	0	0	0
+Knob Goblin Harem	60	none		26.25	10	35	30	39	28	40	30	8 1 * 4 /	8 1 * 4 /	8 1 * 4 /	0	20	0	0	300
+Knob Goblin Kitchens	100	none		21.5	7.75	25	20	31	22	31	22	0	0	0	0	0	0	0	0
+Knob Goblin Laboratory	100	none		85.5	20.625	52.5	30	82.5	45	82.5	45	0	0	0	0	0	0	0	0
+Knob Goblin Treasury	85	none		56.5	6.75	25	30	26	28	27	30	0	0	0	500 1 *  300 1 * + 2 /	0	0	0	0
+Knob Shaft	85	none		0	7.5	31	31	30	30	30	30	0	0	0	0	0	0	0	0
+Lemon Party	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Limerick Dungeon	0	none		0	0	0	0	0	0	0	0	14 1 *  12 1 * +  11 1 * +  10 1 * + 19 /	10 1 *  11 1 * +  10 1 * +  12 1 * +  14 1 * + 19 /	10 1 *  12 1 * +  11 1 * +  14 1 * + 19 /	30 1 * 19 /	0	0	0	0
+Madness Reef	100	special		133.333333333333	108.333333333333	750	750	433.333333333333	500	433.333333333333	500	0	0	0	0	0	0	0	0
+McMillicancuddy's Farm	100	island_war		175.333333333333	43.2916666666667	190.166666666667	225	173.166666666667	180	173.166666666667	180	0	0	0	0	0	0	0	0
+Menagerie 1	100	none		16	13.25	43	46	53	56	53	56	0	0	0	0	0	0	0	0
+Menagerie 2	100	none		21.6666666666667	15.75	53	56	63	66	63	66	0	0	0	0	0	0	0	0
+Menagerie 3	100	none		25.3333333333333	18.25	63	66	73	76	73	76	0	0	0	0	0	0	0	0
+Mine Foremens' Office	0	special		0	0	0	0	0	0	0	0	35 1 * 6 /	35 1 * 6 /	35 1 * 6 /	0	0	0	0	0
+Mouldering Mansion	70	item_based		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Moxie Vacation	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mt. Molehill	100	item_based		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscle Vacation	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mysticality Vacation	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Near an Abandoned Refrigerator	100	island_war		40	42.6	170	170	170	172	170.4	172	0	0	0	0	0	0	0	0
+Nemesis Cave	100	special		0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0
+Next to that Barrel with Something Burning in it	100	island_war		37.5	42.5625	170	170	170.25	172	170.25	172	0	0	0	0	0	0	0	0
+Ninja Snowmen	100	none		0	26.5625	90	80	108.75	90	106.25	90	0	0	0	0	0	0	0	0
+Noob Cave	0	none		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oasis in the Desert	100	none		55.125	33.25	136.5	141	137	140	133	137	0	0	0	0	0	0	0	0
+Old Crimbo Town Toy Factory	100	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Orc Chasm	100	none		20.125	20.21875	71.25	77	80.875	87	80.875	87	0	0	0	0	0	0	0	0
+Other Back 40	100	island_war		151	43.25	185	185	173	173	173	173	0	0	0	0	0	0	0	0
+Out By that Rusted-Out Car	100	island_war		50	42.6875	170	170	169.75	172	170.75	172	0	0	0	0	0	0	0	0
+Outskirts of Camp	70	none		0	0.375	3	3	2.75	3	1.5	3	5 1 * 3 /	5 1 * 3 /	5 1 * 3 /	0	0	0	0	0
+Outskirts of The Knob	50	none		7.25	0.375	1.25	2	1.5	2	1.5	2	5 1 *  5 1 * + 4 /	0	0	0	0	3	0	0
+Over Where the Old Tires Are	100	island_war		40	42.6	170	170	170	172	170.4	172	0	0	0	0	0	0	0	0
+Palindome	50	none		46	35.4642857142857	145.142857142857	170	143.142857142857	148	141.857142857143	155	prime 100 min 1 * 5 /	prime 100 min 1 *  prime min 250 1 * + 5 /	prime 100 min 1 * 5 /	0	0	0	0	0
+Pirate Cove	60	none		30.4	16.25	55	59	65	69	65	69	15 1 * 6 /	15 1 * 6 /	15 1 * 6 /	0	0	0	0	0
+Pirate Party	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Poker Room	0	special		0	0	0	0	0	0	0	0	0	0	0	50 1 *  20 1 * +  30 1 * + 5 /	0	20	0	300
+Pond	100	island_war		138.5	42.5	180	180	170	170	170	170	0	0	0	0	0	0	0	0
+Poop Deck	100	pirate		104	30	110	110	120	120	120	120	0	0	0	0	0	0	0	0
+Post-Cyrpt Cemetary	100	none		22.125	13.96875	50	50	56.875	60	55.875	59	0	0	0	0	0	0	0	0
+Post-Quest Bugbear Pens	0	none		0	0	0	0	0	0	0	0	10 1 *  10 1 * + 11 /	10 1 *  10 1 * + 11 /	10 1 *  10 1 * + 11 /	50 1 *  75 1 * + 11 /	0	0	0	0
+Post-War Junkyard	100	none		40	42.6	170	170	170	172	170.4	172	0	0	0	0	0	0	0	0
+Post-War Sonofa Beach	0	special		78	42.75	190	190	169	169	171	171	30 1 *  35 1 * + 18 /	35 1 *  30 1 * + 18 /	100 1 *  30 1 * +  40 1 * + 18 /	0	0	0	0	0
+Pre-Cyrpt Cemetary	100	none		19.8571428571429	4.78571428571429	10.5714285714286	12	19.8571428571429	23	19.1428571428571	20	0	0	0	0	0	0	0	0
+Pump Up Moxie	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pump Up Muscle	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pump Up Mysticality	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Queen's Chamber	100	island_war		1000	43.25	200	200	173	173	173	173	0	0	0	0	0	0	0	0
+Rogue Windmill	70	item_based		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Roulette Tables	0	special		0	0	0	0	0	0	0	0	0	0	0	30 1 *  10 1 * +  10 1 * +  50 1 * +  40 1 * +  20 1 * + 9 /	0	0	0	320
+Seaside Megalopolis	0	special		0	0	0	0	0	0	0	0	5 1 *  200 1 * +  50 1 * + 19 /	25 1 *  25 1 * +  25 1 * + 19 /	200 1 * 19 /	0	0	0	0	0
+Sewer With Clovers	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Shady Thicket	100	island_war		201.75	43.125	178.5	184	172.5	180	172.5	180	0	0	0	0	0	0	0	0
+Simple Tool-Making Cave	100	obsolete		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sinister Dodecahedron	0	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sleazy Back Alley	50	none		2.75	0.25	1	1	1	1	1	1	6 1 * 25 /	5 1 *  5 1 * +  5 1 * +  5 1 * +  1 1 * +  2 1 * +  2 1 * +  1 1 * +  2 1 * +  3 1 * +  2 1 * +  3 1 * + 25 /	0	50 1 *  5 1 * +  8 1 * +  9 1 * +  7 1 * +  10 1 * +  10 1 * + 25 /	0	0	0	0
+Sorceress' Hedge Maze	100	special		0	58	250	250	232	232	232	232	0	0	0	0	0	0	0	0
+South of the Border	50	none		8	5.3	20.4	30	23.2	27	21.2	25	0	0	0	-30 1 *  -30 1 * +  -30 1 * + 6 /	0	0	0	0
+Spectral Pickle Factory	75	special		0	50	180	180	200	200	200	200	25 1 * 4 /	25 1 * 4 /	25 1 * 4 /	0	0	0	0	0
+Spectral Salad Factory	100	none										0	0	0	0	0	0	0	0
+Spooky Forest	60	none		9.25	0.375	3.33333333333333	6	3.66666666666667	5	1.5	4	0	5 1 * 14 /	30 1 * 14 /	50 1 * 14 /	0	0	0	0
+Spooky Fright Factory	100	obsolete		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spooky Gravy Barrow	80	none		0	15.0833333333333	50	55	59.6666666666667	65	60.3333333333333	65	5 1 * 4 /	5 1 * 4 /	5 1 * 4 /	0	0	0	0	0
+St. Sneaky Pete's Day Stupor	0	holiday		0	0	0	0	0	0	0	0	-5 1 *  -5 1 * + 27 /	-5 1 *  5 1 * +  -15 1 * +  5 1 * + 27 /	5 1 * 27 /	-50 1 *  -15 1 * +  -25 1 * +  -15 1 * +  50 1 * + 27 /	0	0	0	0
+Stately Pleasure Dome	70	item_based		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Ancient Hobo Burial Ground	0	clan_basement		0	87.5	500	500	350	350	350	350	0	0	0	0	0	0	0	0
+The Brinier Deepers	100	special		220	93.75	550	600	350	400	375	400	0	0	0	0	0	0	0	0
+The Briniest Deepests	100	special		240	100.416666666667	633.333333333333	800	391.666666666667	400	401.666666666667	425	0	0	0	0	0	0	0	0
+The Briny Deeps	100	special		200	75	400	400	325	350	300	300	0	0	0	0	0	0	0	0
+The Dive Bar	100	special		200	106.25	675	800	575	700	425	450	0	0	0	0	0	0	0	0
+The Heap	0	clan_basement		0	87.5	500	500	350	350	350	350	0	0	0	0	0	0	0	0
+The Jungles of Ancient Loathing	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Lower Chambers	100	special										0	0	0	0	0	0	0	0
+The Marinara Trench	95	special		200	120.3125	725	800	475	500	481.25	550	0	0	0	0	0	0	0	0
+The Mer-Kin Outpost	100	special		216.666666666667	170.833333333333	683.333333333333	800	700	800	683.333333333333	750	0	0	0	0	0	0	0	0
+The Middle Chamber	100	none		33.3333333333333	41.6666666666667	171.666666666667	185	170	175	166.666666666667	175	0	0	0	0	0	0	0	0
+The Primordial Soup	0	special		0	0	0	0	0	0	0	0	10 1 * 5 /	10 1 *  10 1 * + 5 /	10 1 * 5 /	0	0	0	0	0
+The Purple Light District	0	clan_basement		0	87.5	500	500	350	350	350	350	0	0	0	0	0	0	0	0
+The Slime Tube	95	clan_basement		0	25	200	200	100	100	100	100	0	0	0	0	0	0	0	0
+The Upper Chamber	100	none		75	40.9166666666667	171.666666666667	185	165.666666666667	170	163.666666666667	170	0	0	0	0	0	0	0	0
+The Wreck of the Edgar Fitzsimmons	100	special		210	135	730	1000	500	600	540	700	0	0	0	0	0	0	0	0
+Themthar Hills	100	island_war		989.5	42.25	185	185	171	171	169	169	0	0	0	0	0	0	0	0
+Thugnderdome	100	none		0	9.16666666666667	35.8333333333333	40	35.8333333333333	40	36.6666666666667	45	0	0	0	0	0	0	0	0
+Trick-or-Treating	0	holiday		0	0	0	0	0	0	0	0	0	0	0	2-4 Meat. 1 * 68 /	0	0	0	0
+Typical Tavern	0	none		10	2.25	8	8	11	11	9	9	0	0	0	0	0	0	0	0
+Unlucky Sewer	0	special		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wartime Frat House	0	island_war		0	0	0	0	0	0	0	0	50 1 *  50 1 * +  100 1 * +  80 1 * +  70 1 * + 18 /	50 1 *  100 1 * +  80 1 * +  70 1 * + 18 /	100 1 *  80 1 * +  70 1 * + 18 /	Lose 10 Meat 1 * 18 /	0	0	0	0
+Wartime Frat House (Hippy Disguise)	80	island_war		0	42.5	190	200	170	175	170	175	50 1 *  50 1 * +  100 1 * +  80 1 * +  70 1 * + 18 /	50 1 *  100 1 * +  80 1 * +  70 1 * + 18 /	100 1 *  80 1 * +  70 1 * + 18 /	Lose 10 Meat 1 * 18 /	0	0	0	0
+Wartime Hippy Camp	0	island_war		0	0	0	0	0	0	0	0	50 1 *  100 1 * +  80 1 * +  70 1 * + 17 /	50 1 *  100 1 * +  80 1 * +  70 1 * + 17 /	50 1 *  100 1 * +  80 1 * +  70 1 * + 17 /	Lose 10 1 * 17 /	0	0	0	0
+Wartime Hippy Camp (Frat Disguise)	80	island_war		0	20.625	190	200	82.5	165	82.5	165	50 1 *  100 1 * +  80 1 * +  70 1 * + 17 /	50 1 *  100 1 * +  80 1 * +  70 1 * + 17 /	50 1 *  100 1 * +  80 1 * +  70 1 * + 17 /	Lose 10 1 * 17 /	0	0	0	0
+Wartime Sonofa Beach	10	island_war		78	42.75	190	190	169	169	171	171	0	0	0	0	0	0	0	0
+White Citadel	70	none		6.66666666666667	9.33333333333333	25.3333333333333	30	37	38	37.3333333333333	39	0	0	0	0	0	0	0	0
+Whitey's Grove	75	none		18	9.125	21	21	35.5	37	36.5	38	25 1 * 6 /	25 1 * 6 /	5 1 * 6 /	0	0	0	0	0
+Yuletide Bonfire	0	holiday		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+eXtreme Slope	60	none		36.6666666666667	18.5	65	65	74	75	74	75	15 1 * 9 /	15 1 * 9 /	15 1 * 9 /	0	0	0	0	0

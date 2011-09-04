@@ -1,0 +1,17 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The [[Beanbat Chamber]] is located in [[The Bat Hole]], which is in turn located in [[The Nearby Plains]]. To unlock this area, you must use two {{plural|sonar-in-a-biscuit}}, obtainable in [[Guano Junction]].
+
+If your main stat isn't high enough, you will see the following message:
+
+:You should not be here.
+
+:(You must have at least 13 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=beanbat}}
+
+==Non-combat Adventures==
+{{Adventure|name=Elementally, My Deal Watson|image=Smaltar.gif|note1=Gives 10 turns of [[Batigue]].|note2=[[Bad Moon]] only.}}
+
+[[Category:Locations]]

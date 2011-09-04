@@ -1,0 +1,28 @@
+{{NeedsSpading|comment=Now that there are noncombats, what's the frequency, Kenneth?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Defiled Alcove]] is located in [[The Cyrpt]]. Once the [[conjoined zmombie]] is defeated, you'll no longer be able to adventure here; instead, you'll get the message, "This part of the cyrpt is already undefiled." See [[Undefile the Cyrpt Quest]] for more information. Note that the monsters here will be become available again at [[The Misspelled Cemetary (Post-Cyrpt)]] once you have undefiled the rest of The Cyrpt, except for the [[conjoined zmombie]] subboss.
+
+If your main stat isn't high enough, you will see the following message:
+
+:You shouldn't be here.
+
+:(You must have at least 40 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=corpulent zobmie|note1=[[Grateful Undead T-shirt]] will not drop unless you have the [[Torso Awaregness]] skill.}}
+{{Combat|name=grave rober zmobie|note1=[[Shysterweed]] will not drop unless you have received [[Doc Galaktik's Quest for Herbs]].}}
+{{Combat|name=conjoined zmombie|note1=Only occurs as a choice in [[Doublewide]].|note2=Once you have defeated the conjoined zmobie, this adventure will no longer occur (becomes a [[Ascension#One Time|one-time]] adventure).}}
+
+==Non-combat Adventures==
+{{Choice|name=Turn Your Head and Coffin|image=coffin.gif
+|choice1name=Investigate the fancy coffin|choice1=40-60 {{Muscle}}
+|choice2name=Check out the pine box|choice2=200-300 [[Meat]]
+|choice3name=Look in the wet one|choice3=Gain a [[half-rotten brain]]
+|choice4name=Leave them all be|choice4=Nothing. (Does not cost an adventure.)}}
+
+{{Choice|name=Doublewide|image=coffin.gif
+|choice1name=Open it up|choice1=Fight a [[conjoined zmombie]]
+|choice2name=Leave it alone|choice2=Nothing. (Does not cost an adventure.)}}
+
+[[Category:Locations|Defiled Alcove, The]]

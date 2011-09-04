@@ -1,0 +1,53 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+{{NeedsSpading|comment=Changes as of July 16th update}}
+
+[[The Haunted Bathroom]] is located in [[Spookyraven Manor, Second Floor]].
+
+If you do not have at least 68 in your main stat, you will receive the following message:
+
+:As you near the bathroom, you detect a foul stench that gives you pause. It's not what you think, though. It's the stench of your own fear. 
+
+:You should come back when you're less of a scaredy-cat.
+
+:(You must have at least 68 $Stat to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=claw-foot bathtub}}
+
+{{Combat|name=malevolent hair clog}}
+
+{{Combat|name=toilet papergeist}}
+
+{{combat|name=The Guy Made Of Bees|note1=Only occurs as a choice in [[Having a Medicine Ball]].}}
+
+==Non-combat Adventures==
+{{Adventure|name=Don't Hold a Grudge (Armwrestle)|stat=2-2.5*<mainstat> in {{muscle}} (max 140)|image=Shower.gif|note1=Occurs half as often as Medicine Ball and Myst stat noncombat}}
+
+{{Adventure|name=Don't Hold a Grudge (Gestures)|stat=2-2.5*<mainstat> in {{Mysticality}} (max 223)|image=Shower.gif}}
+
+{{Adventure|name=Don't Hold a Grudge (Handshake)|stat=2-2.5*<mainstat> in {{moxie}} (max 140)|image=Shower.gif|note1=Occurs half as often as Medicine Ball and Myst stat noncombat}}
+
+{{Choice|name=Having a Medicine Ball|image=medicine1.gif
+|choice1name=Gaze deeply into the mirror|choice1=With an [[Antique hand mirror]], gain approximately 1.2*<mainstat> in {{Mysticality}} (max 300), otherwise, gain approximately ??? in {{Mysticality}} (max 200).
+|choice2name=Open it and see what's inside|choice2=Continue to [[Bad Medicine is What You Need]]
+|choice3name=Say Guy made of bees|choice3=After every fifth time, fight [[The Guy Made Of Bees]].}}
+
+{{Choice|name=Bad Medicine is What You Need|image=medicine2.gif|
+|choice1name=Take the cough syrup|choice1=[[antique bottle of cough syrup]]
+|choice2name=Take the hair oil|choice2=[[tube of hair oil]]
+|choice3name=Take the vitamins|choice3=[[bottle of ultravitamins]]
+|choice4name=Take off|choice4=Nothing. (Does not cost an adventure.)
+|note1=Only occurs as a choice in [[Having a Medicine Ball]]}}
+
+{{Adventure|name=Off the Rack|image=towelrack.gif|drops=[[towel]]|note1=A [[Ascension#One Time|one time]] adventure.}}
+
+{{Adventure|name=These Pipes... Aren't Clean!|stat=75 {{Muscle}}|note1=With [[Lord Spookyraven's ear trumpet]] equipped, you will hear a demon name for the [[Summoning Chamber]] instead of gaining {{muscle}}.|image=Shower.gif}}
+
+{{Adventure|name=That's a Tidy Bowl, Man!|stat=2*<mainstat> in {{Mysticality}} (max 300)|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.|image=toilet.gif}}
+
+{{Adventure|name=You Look Flushed|image=toilet.gif|note1=Gives 10 turns of [[Your 1 Problem|Your #1 Problem]].|note2=[[Bad Moon]] only.}}
+
+==Notes==
+* Based on the [http://alliancefromhell.com/viewtopic.php?t=196 AFH spading thread], it ''appears'' that there may be 6 noncombats in the zone instead of 4:2 duplicates of the Medicine Ball, 2 duplicates of the Myst Grudge, then 1 each of the Muscle/Moxie Grudges.  (This excludes the one-time Towel adventure and the superunlikely demon name adventure.)
+
+[[Category:Locations|Haunted Bathroom, The]]

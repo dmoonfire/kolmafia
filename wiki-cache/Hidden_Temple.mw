@@ -1,0 +1,54 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+This adventure location in [[The Distant Woods]] is revealed by completing the [[Spooky Temple Map Quest]]. If your main stat isn't high enough, you will see the message:
+You should not be here.
+
+(You must have at least 5 <stat> to adventure here.)
+
+{{Adventure|name=Arrowed!|stat=1-50 {{Moxie}}|image=trap5.gif}}
+
+{{Adventure|name=Cunning Puzzle Trap|stat=1-50 {{Moxie}}|image=trap3.gif}}
+
+{{Adventure|name=Lightning Trap|stat=1-50 {{Mysticality}}|image=trap2.gif}}
+
+{{Adventure|name=Lightning Trap (MP loss)|image=trap2.gif|note1=<font color=red>Lose</font> some [[MP]]}}
+
+{{Adventure|name=Poison Gas Trap|stat=1-50 {{Mysticality}}|image=trap6.gif}}
+
+{{Adventure|name=Rolling Stone Trap|stat=1-50 {{Muscle}}|image=trap1.gif}}
+
+{{Adventure|name=Rolling Stone Trap (HP loss)|image=trap1.gif|note1=<font color=red>Lose</font> some [[HP]]}}
+
+{{Adventure|name=Swinging Blade Trap|stat=1-50 {{Muscle}}|image=trap4.gif}}
+
+{{Adventure|name=Trapstravaganza|stat=8-25 {{Muscle}}, 8-25 {{Mysticality}}, 8-25 {{Moxie}}|image=trap0.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{choice|name=At Least It's Not Full Of Trash|image=altar1.gif
+|choice1name=Try to jam the walls with a weapon|choice1=<font color="red">Lose</font> all [[HP]]
+|choice2name=Raise your hands up toward the heavens|choice2=Unlocks [[Dvorak's Revenge]] adventure
+|choice3name=Kneel penitently on the ground|choice3=<font color="red">Lose</font> all [[HP]]
+|note1=This is only activated after obtaining, and reading [[your father's MacGuffin diary]] as part of the [[Quest for the Holy MacGuffin]] ([[Quest Spoilers|Level 11 Quest]]).
+|note2=Once completed, this becomes a [[Ascension#One Time|one-time]] adventure.}}
+
+{{choice|name=Dvorak's Revenge|image=candy_space.gif
+|choice1name=Step wrong in the puzzle|choice1=<font color="red">Lose</font> all [[HP]]
+|choice2name=Complete the puzzle|choice2=Unlocks [[No Visible Means of Support]] adventure
+|note1=This is only activated after successfully completing [[At Least It's Not Full Of Trash]]
+|note2=The answer is B-A-N-A-N-A-S
+|note3=Once completed, this becomes a [[Ascension#One Time|one-time]] adventure.}}
+
+{{choice|name=No Visible Means of Support|image=beams.gif
+|choice1name=Run around in a mad panic|choice1=<font color="red">Lose</font> all [[HP]]
+|choice2name=Attempt to douse the flames|choice2=<font color="red">Lose</font> all [[HP]]
+|choice3name=Do nothing|choice3=Opens up [[The Hidden City]] location in [[The Distant Woods]].
+|note1=This is only activated after successfully completing [[Dvorak's Revenge]].
+|note2=Once completed, this becomes a [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Why Did It Have To Be Snake Eyes?|image=dice_adv.gif|drops=[[loaded dice]]|note1=<font color="red">Lose</font> some HP.|note2=[[Bad Moon]] only.}}
+
+==Notes==
+*The exact substat-gain formula is unknown, but evidence suggests it is (2*X)+(0-floor(X/2)) where X is your unbuffed score in the stat being improved. The gain is capped at 50.
+*MP and HP losses are approximately half the base max MP and HP, respectively.
+*Ideas for maximizing usage of this location are at [[Hidden Temple Strategy]].
+
+[[Category:Locations|Hidden Temple]]

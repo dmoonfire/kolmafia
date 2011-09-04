@@ -1,0 +1,116 @@
+{{NeedsSpading|comment=When, exactly, do the images change?}}
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+{| cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;"
+|-
+|{{click|image=Exit.gif|link=Clan Basement}}
+|{{click|image=Thebucket.gif|link=The Bucket}}
+|}
+{| cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;"
+|{{click|image=Slimation.gif|link=The Slime Tube}}
+|}
+
+==Introduction==
+
+'The Slime Tube' is the second Clan Dungeon, released after rollover for May 31, 2009. It's very squishy (and slimy), and exists in your basement.
+
+Getting to The Slime Tube is very simple compared to Hobopolis. A clan member with appropriate permissions must pay 250 000 Meat to unlock it, and then anyone allowed to explore the clan dungeon can enter. There is no Sewer-like entry zone as there is in Hobopolis. It is a relatively short dungeon, as it can be completed in under 1000 turns. The end boss is the [[Mother Slime]].
+
+It's possible to have this dungeon and Hobopolis open at the same time. Opening one does not close the other.
+
+If you attempt to adventure here after Mother Slime has been defeated, then this message appears:
+
+"Mother Slime has been defeated, and the Slime Tube is now just the Tube."
+
+==Combat Adventures==
+{{Combat|name=Slime|note1=Occurs at 0-100 ML, gives 10-11 turns of [[Coated in Slime]]}}
+{{Combat|name=Slime Hand|note1=Occurs at 101-300 ML, gives 9-8 turns of [[Coated in Slime]]}} 
+{{Combat|name=Slime Mouth|note1=Occurs at 301-600 ML, gives 7-5 turns of [[Coated in Slime]]}} 
+{{Combat|name=Slime Construct|note1=Occurs at 601-1000 ML, gives 4-2 turns of [[Coated in Slime]]}}
+{{Combat|name=Slime Colossus|note1=Occurs at >1000 ML, gives 1 turn of [[Coated in Slime]]}}
+===Non-combat Adventures===
+{{choice|name=Engulfed!|image=slimepocket.gif
+|choice1name=Tickle the uvula|choice1=Lets a [[Engulfed!#Notes|slime-covered item]] be created subsequently in the instance (maximum 1 tickle per player per instance, only if the player has not previously squeezed a gall bladder, otherwise the tickling attempt fails. NOTE: The player that makes the tickle does not have to be the player that slimes the item, and one player may slime multiple items if enough people do enough tickles.)
+|choice2name=Squeeze the gall bladder|choice2=Increases the [[Monster Level|ML]] of the zone by 20 (maximum 5 times per instance, once per player, and only if that player has not previously tickled a uvula, otherwise the squeeze fails)
+|choice3name=Squirm back out|choice3= Nothing (no adventure loss)
+}}
+{{choice|name=Showdown|image=motherslime.gif
+|choice1name=Fight|choice1=Fight [[Mother Slime]]
+|choice2name=Flight|choice2=Nothing (no adventure loss)
+}}
+{{combat|noline=yes|nest=2|name=Mother Slime|note1=Only occurs as a choice of [[Showdown]].|MoxieNoHit=∞}}
+
+{{Adventure|name=Mother is Busy Right Now|image=motherslime.gif|note1=Occurs if another clanmate is already fighting [[Mother Slime]].}}
+
+==Basic Mechanics==
+
+===Slime Damage===
+This dungeon uses a unique new damage type: Slime. Wearing [[Slime Resistance]] gear is the only thing that will save you. The [[Coated in Slime]] effect is the most important reason to have slime resistance, as the damage it deals is slime typed.
+
+===Monster Level===
+Increased [[Monster Level]] is the thing to run in this dungeon, and lots of it. It speeds the dungeon up (each additional 400 ML fought counts as an additional slime defeated) and lets you fight higher-tier slimes. There are initially 1000 slimes.
+
+Stronger slime types drop different items (1st-tier slimes drop [[The Bucket|chamoix]] the most often, with 2nd tier (hand slimes) dropping them occasionally.), and hit harder, but more importantly afflict you with fewer turns of Coated in Slime, which is very bad because [[Coated in Slime]] deals more damage the fewer turns of it that are active. However, they advance the zone faster than lower-tiered slimes.
+
+===Bonus Drops===
+In order to qualify for bonus drops from [[Mother Slime|Mother]], you need to beat certain turn counts. 
+{| style="text-align:left" border="1px" align=center cellspacing=0 cellpadding=3
+! Turn Count
+! +ML needed
+! Bonus Drop
+|-
+|690
+|180
+|[[slimy alveolus]]<br>[[chamoisole]]
+|-
+|420
+|553
+|[[caustic slime nodule]]
+|-
+|370
+|682
+|[[caustic slime nodule]]
+|-
+|230
+|1340
+|[[squirming Slime larva]]
+|}
+
+
+However, since selecting the option to squeeze the gall bladder in "Engulfed!", which can give up to 100 ML, requires usage of adventures in the tube, having the gall bladder squeezed 5 times will require you to have slightly higher amounts of total +ML.
+
+{| style="text-align:left" border="1px" align=center cellspacing=0 cellpadding=3
+! Turn Count
+! +ML needed
+! Bonus Drop
+|-
+|690
+|184
+|[[slimy alveolus]]<br>[[chamoisole]]
+|-
+|420
+|564
+|[[caustic slime nodule]]
+|-
+|370
+|696
+|[[caustic slime nodule]]
+|-
+|230
+|1378
+|[[squirming Slime larva]]
+|}
+
+==Notes==
+*[[Coated in Slime]] can only be removed by using a chamois from [[The Bucket]] or by using [[A Relaxing Hot Tub]]. [[Soft green echo eyedrop antidote]]s will not remove the effect, nor will [[All-purpose cleaner]]s.  There was initially a bug where [[Pastamancer]]s could summon a level 5 or greater [[Vermincelli]] to remove it, if they got initiative, but this was fixed.
+*If you have 100 Chamoix in the bucket and have dungeon administrator privileges, you can make a tradable [[big bundle of chamoix]] with it. Using this item... Puts 100 Chamoix in your clan bucket. This helps to carry leftover Chamoix from one run to the next, or allows you to fill the bucket from the mall.
+*The slime monsters don't have a unique [[Form of...Bird!]] drop.
+*How many turns of [[Coated in Slime]] you start with depends on how much [[Monster Level|+ML]] you are running. The base at 0 +ML is 11; every 100 (or fraction thereof) reduces the initial turn count by 1.
+*You can make slime-covered pieces of equipment here. See the [[Engulfed!]] adventure for more details.
+*Due to the importance of +ML here, we'd like to direct you to the [[Maximizing Monster Level]] page.
+*If you fight slimes with an average of X +ML (including bonuses from gall bladder squeezing or [[Slime Hates It]] equipment), you can expect to fight CEILING(400,000/(400+X)) slimes.
+*Therefore, if your turn count goal is T, you need to run total +ML of approximately (400,000/T)-400.  (Don't forget to allow some padding for the 5 squeezes, Mother Slime, and any mistakes.)
+*If a player uses a [[Spooky putty sheet]] on a monster in one slime tube, and then goes to a slime tube that has been finished (mother slime killed), and uses the putty sheet monster and kills it, they will be eligible for distributable loot in the new clan, and the kill will show up in the log.
+
+[[Category:Locations|Slime Tube, The]]

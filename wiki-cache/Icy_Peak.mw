@@ -1,0 +1,58 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Icy Peak]] is located atop [[Mt. McLargeHuge]].  It is unlocked by completing the [[Mt. McLargeHuge Quest]].
+
+{{element|Cold|Resistance}} is required to adventure here.  Without it, you will see only the message:
+:"You need some sort of protection from the cold if you're going to visit the Icy Peak. "
+
+:If one attempts to scale the Icy Peak without the might to do so, this message appears:
+
+:"As you near the Icy Peak, something big and white sneaks out from behind a nearby rock and smacks you in the head. When you regain consciousness, you're hanging feetfirst from the ceiling in some sort of snowy cave, and your lightsaber is on the ground a few feet away.
+
+:No, wait. That's a different story. When you regain consciousness, you're back down at the base of Mt. McLargeHuge.
+
+:(You must have at least 53 <stat> to adventure here.)"
+
+==Combat Adventures==
+{{Combat|name=Knott Yeti}}
+{{Combat|name=Snow Queen}}
+{{Combat|name=upgraded ram}}
+{{Combat|name=Knott Slanding|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{Adventure|name=Avalanche!|stat=2.0-2.5*min(88,mainstat) main stat|image=peak.gif}}
+
+{{Adventure|name=eXtremely Lost|drops=[[bag of Cheat-Os]], [[insanely spicy bean burrito]], [[six pack of Mountain Stream]]|image=fratboard.gif}}
+
+{{Adventure|name=The Source|drops=[[unrefined Mountain Stream syrup]]|image=slickpool.gif}}
+
+{{Adventure|name=Encino Penguin|drops=[[frozen Mob Penguin]]|meat=none|stat=none|image=slickpool.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=The Big Chill|image=Stars.gif|note1=Gives 10 turns of [[Hyperbolic Hypothermia]].|note2=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+After the closing of the [[The Icy Peak in The Recent Past|temporal rift]], the following adventures no longer occurred.
+
+{{Adventure|name=Altogether Fitting and Proper|drops=[[blood flower]]|meat=none|stat=none|image=bloodtrail.gif|note1=This adventure was available only during the [[The_Gray_Plague|Gray Plague]] era.}}
+
+{{Adventure|name=emaciated Knott Yeti|drops=[[broken cellular phone]], [[yeti fur]]|meat=70-90|stat=19|image=Skinyeti.gif|note1=This adventure was available only during the [[Penguin Mafia]] era, but was also accessible through a [[A Temporal Rift|Temporal Rift]] to the [[The Icy Peak in The Recent Past|Icy Peak in The Recent Past]].}}
+
+{{Adventure|name=Mob Penguin Pasta Chef|drops=[[delicious noodles]], [[iron pasta spoon]], [[scroll of pasta summoning]]|meat=20-30|stat=18|image=pengchef.gif|note1=This adventure was available only during the [[Penguin Mafia]] era, but was also accessible through a [[A Temporal Rift|Temporal Rift]] to the [[The Icy Peak in The Recent Past|Icy Peak in The Recent Past]].}}
+
+{{Adventure|name=Mob Penguin Soprano|drops=[[mafia aria]], [[Mob Penguin cellular phone]], [[support cummerbund]]|meat=20-30|stat=19|image=pengprano.gif|note1=This adventure was available only during the [[Penguin Mafia]] era, but was also accessible through a [[A Temporal Rift|Temporal Rift]] to the [[The Icy Peak in The Recent Past|Icy Peak in The Recent Past]].}}
+
+{{Adventure|name=Mob Penguin Thug|drops=[[kneecapping stick]], [[penguin skin]]|meat=40-60|stat=19|image=pengthug.gif|note1=This adventure was available only during the [[Penguin Mafia]] era, but was also accessible through a [[A Temporal Rift|Temporal Rift]] to the [[The Icy Peak in The Recent Past|Icy Peak in The Recent Past]].}}
+
+{{Adventure|name=Signs, Signs, Everywhere Signs. And Hippies.|drops=[[Yeti Protest Sign]]|meat=none|stat=none|image=sign.gif|note1=This one-time adventure was available only during the [[Penguin Mafia]] era.}}
+
+{{Adventure|name=There are Knott Yetis here...|drops=none|meat=none|stat=none|image=question.gif|note1=This adventure was available only during the [[Penguin Mafia]] era.}}
+
+==Notes==
+*The Icy Peak was one of the best places to [[Farming Strategy|adventure for meat]], however, as of the [[Tuesday#August 29, 2006|August 29, 2006]] update, this may no longer be the case.
+*The many Mob Penguins in the game serve as a model for the [[stuffed Mob Penguin]]. Similarly, the Icy Peak yetis serve as as a model for the [[stuffed yeti]].
+
+==References==
+*The "not enough <stat>" message is a reference to ''[[Wikipedia:Star Wars Episode V: The Empire Strikes Back|Star Wars Episode V: The Empire Strikes Back]]'' where Luke is attacked by a Wampa on the planet Hoth.
+<!-- References related to the monsters or encounters in this area go in the page for that monster or encounter--not here! If you check those pages, you'll find whatever you were going to add here is almost certainly already there. -->
+
+[[Category:Locations|Icy Peak, The]]

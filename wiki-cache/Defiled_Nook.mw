@@ -1,0 +1,29 @@
+{{NeedsSpading|comment=Now that there are noncombats, what's the frequency, Kenneth?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Defiled Nook]] is located in [[The Cyrpt]]. Once the [[giant skeelton]] is defeated, you'll no longer be able to adventure here; instead, you get the message, "This part of the cyrpt is already undefiled." See [[Undefile the Cyrpt Quest]] for more information. Note that the monsters here will be become available again at [[The Misspelled Cemetary (Post-Cyrpt)]] once you have undefiled the rest of The Cyrpt, except for the [[giant skeelton]] subboss.
+
+If your main stat isn't high enough, you will see the following message:
+
+:You shouldn't be here.
+
+:(You must have at least 40 <stat> to adventure here.)
+==Combat Adventures==
+{{Combat|name=spiny skelelton}}
+{{Combat|name=toothy sklelton}}
+{{Combat|name=giant skeelton |note1=Only occurs as choice in [[pileup]].|note2=Once you have defeated the giant skeelton, this adventure will no longer reoccur (becomes a [[Ascension#One Time|one time]] adventure).}}
+
+==Noncombat Adventures==
+{{Choice|name=Skull, Skull, Skull|image=3skulls.gif
+|choice1name=Check behind the first one|choice1=40-60 {{Moxie}}
+|choice2name=Look inside the second one|choice2=200-300 [[meat]]
+|choice3name=See what's under the third one|choice3=Gain a [[rusty bonesaw]]
+|choice4name=Leave the skulls alone|choice4=Nothing. (Does not cost an adventure.)}}
+
+{{Choice|name=Pileup|image=bonepile2.gif
+|choice1name=Poke the pile|choice1=Fight a [[giant skeelton]]
+|choice2name=Leave the pile alone|choice2=Nothing. (Does not cost an adventure.)|note2=Unaffected by [[Combat Frequency]] modifiers.}}
+
+{{Adventure|name=They Gave at the Morgue|image=glyphs3.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+[[Category:Locations|Defiled Nook, The]]

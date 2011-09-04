@@ -1,0 +1,38 @@
+'''The Heap''' is the {{element|stench|}} zone in [[Hobopolis]]. During combat, {{element|stench|}} damage is taken over time.
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+{{clear}}
+==Combat Adventures==
+{{Combat|name=Stench hobo}}
+
+{{Combat|name=Oscus|note1=Only occurs as a choice in [[Deep Enough to Dive]].}}
+
+==Non-combat Adventures==
+{{choice|name=The Compostal Service|image=Compost.gif
+|choice1name=Be green|choice1=Move compost to [[The Ancient Hobo Burial Ground]]. Probably lowers the {{element|stench|}} in this area.
+|choice2name=Begone|choice2=Skip adventure}}
+
+{{choice|name=You vs. The Volcano|image=Trashcano.gif
+|choice1name=Kick the stuff into the hole|choice1=Start eruption, increase {{element|stench|}} in area, kills some hobos
+|choice2name=On second thought, that's probably a horrible idea|choice2=Skip adventure}}
+
+{{choice|name=I Refuse!|image=trashheap.gif
+|choice1name=Explore the junkpile|choice1=Drops three items, which seem to be randomly chosen from a subset of all the items in-game. Seems to reset the {{element|stench|}} level to the minimum.
+|choice2name=Climb back out|choice2=Nothing. (No Adventure loss.)}}
+
+{{choice|name=Juicy!|image=Still.gif
+|choice1name=Buy it (5 nickels)|choice1=Trade 5 [[hobo nickel]]s for [[concentrated garbage juice]]
+|choice2name=Don't buy it|choice2=Skip adventure
+|note1=A [[Semi-Rare Adventures|semi-rare]] adventure.}}
+
+{{choice|name=Deep Enough to Dive|image=bigdumpster.gif
+|choice1name=Wig out, climb in, throw down|choice1=Fight [[Oscus]]
+|choice2name=Do like the sign says|choice2=Nothing. (No Adventure loss.)
+|note1=This adventure only occurs when [[The Heap]] is clear of hobos.}}
+
+{{adventure|name=If This Dumpster's A' Rockin'|image=bigdumpster.gif|note1=Occurs when somebody else is already fighting [[Oscus]].}}
+
+{{Adventure|name=All done here. (heap)|image=trashheap.gif|note1=Occurs whenever adventuring here after [[Oscus]] is defeated.  Does not consume an adventure.}}
+
+{{HobopolisNav}}
+
+[[Category:Locations|Heap, The]]

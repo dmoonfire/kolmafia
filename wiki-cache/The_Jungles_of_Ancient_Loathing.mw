@@ -1,0 +1,43 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+This is one of the adventure zones accessed from [[Memories, in the Corners of your Mind]] after gazing into an [[empty agua de vida bottle]]. It is only available with a bottle in inventory.
+
+Adventuring in this location lets you use 2 extra skills in combat, [[Furious Cleave]] and [[Mighty Shout (skill)|Mighty Shout]].
+
+The [[Hyboria? I don't even...]] quest takes place primarily in this zone
+
+==Combat Adventures==
+{{Combat|name=ancient guardian statue}}
+
+{{Combat|name=evil cultist
+|note1=Appears to occur only after [[Primordial Fear|creating a supervirus]].}}
+
+{{Combat|name=jungle baboon}}
+
+{{Combat|name=tribal goblin|note1=Successful attack may give 10 turns of [[Somewhat Poisoned]].}}
+
+==Non-Combat Adventures==
+{{choice|name=Ancient Temple|image=eviltemple.gif
+|choice1name=Enter the Temple|choice1=Fight [[high priest of Ki'rhuss]].
+|choice2name=Leave
+|note1=Only occurs after opening the temple.}}
+{{combat|noline=yes|nest=2|name=high priest of Ki'rhuss|note1=Only occurs as a choice of [[Ancient Temple]].}}
+
+{{choice|name=Cavern Entrance|image=cave5.gif
+|choice1name=Enter the Cavern|choice1=Play [[Hunt the Wumpus]].
+|choice2name=Leave|note1=Leaving still consumes a charge of the [[empty agua de vida bottle]]}}
+{{combat|noline=yes|nest=2|name=Wumpus|note1=Only occurs if you successfully [[Hunt the Wumpus]].}}
+
+{{choice|name=Entrance to the Forgotten City|image=cityentrance.gif
+|choice1name=Go North|choice1=Takes you to [[City Center]].
+|choice2name=Leave}}
+
+{{Adventure|name=The Story So Far|image=kraksword.gif
+|note1=Only occurs once per ascension, upon first entering the zone.
+|note2=Does not consume an adventure.}}
+
+{{Adventure|name=Even More Story So Far|image=jungle.gif
+|note1=Only occurs once per ascension, upon entering the zone, after the player has received [[The Story So Far]] and subsequently [[Primordial Fear|created a supervirus]].
+|note2=Does not consume an adventure.}}
+
+[[Category:Locations|The Jungles of Ancient Loathing]]

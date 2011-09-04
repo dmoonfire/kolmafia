@@ -1,0 +1,81 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The '''Laboratory''' in the [[Cobb's Knob Laboratory]] is where the Knob Goblin mad scientists work. To get inside, you'll need the [[Cobb's Knob lab key]], and at least 30 of your primary stat. Otherwise you get the message:
+
+:As you near the Laboratory, the stench of chemicals and the sounds of science give you pause -- you begin to fear that you're not tough enough to fight here yet.
+
+If you're wearing the [[Knob Goblin Elite Guard Uniform]] [[:Category:Outfits|outfit]], you'll be able to buy things here.
+
+__TOC__
+{{clear}}
+==Store==
+{|valign="center"
+|-
+|[[Image:shopgoblin.gif|left]]
+|I suppose you'll be wanting to stock up on provisions. Buy what you want, and let me get back to my experiments.
+|}
+
+===Items Sold===
+{| align="center"
+!colspan="2"|Item:||Price:
+{{StoreItem|item=Knob Goblin seltzer|price=80}}
+{{StoreItem|item=Knob Goblin stink bomb|price=130}}
+{{StoreItem|item=Knob Goblin nasal spray|price=150}}
+{{StoreItem|item=Knob Goblin love potion|price=170}}
+{{StoreItem|item=Knob Goblin eyedrops|price=200}}
+{{StoreItem|item=Knob Goblin sharpening spray|price=230}}
+{{StoreItem|item=Knob Goblin steroids|price=250}}
+{{StoreItem|item=Knob Goblin pet-buffing spray|price=250}}
+{{StoreItem|item=Knob Goblin learning pill|price=300}}
+|}
+
+Refer to this handy table for effects and duration:
+{| align="center" style="border: 1px solid" cellpadding="4" cellspacing="0"
+|-
+! style="border-bottom: 3px solid" | Item
+! style="border-bottom: 3px solid" | Effect Name
+! style="border-bottom: 3px solid" | Duration
+! style="border-bottom: 3px solid" | Effect
+|-
+| [[Knob Goblin nasal spray]] || [[Wasabi Sinuses]] || 10 adventures || +30% meat, -10% items, -1 substats/battle
+|- bgcolor="#EEEEEE"
+| [[Knob Goblin love potion]] || [[Knob Goblin Lust Frenzy]] || 5 adventures || +2 Moxie (also, lose 11-19 Muscle Substat)
+|-
+| [[Knob Goblin eyedrops]] || [[Peeled Eyeballs]] || 10 adventures || +15% items, -20% meat, -1 substats/battle
+|- bgcolor="#EEEEEE"
+| [[Knob Goblin sharpening spray]] || [[Sharp Weapon]] || 5 adventures || +3-5 to weapon damage
+|- 
+| [[Knob Goblin steroids]] || [[Steroid Boost]] || 5 adventures || +2 Muscle (also, lose 15 Moxie Substat)
+|- bgcolor="#EEEEEE"
+| [[Knob Goblin pet-buffing spray]] || [[Heavy Petting]] || 10 adventures || +5 Familiar Weight, -10% from All Stats
+|-
+| [[Knob Goblin learning pill]] || [[Big Veiny Brain]] || 10 adventures || +2 Stats Per Fight, -20% Meat from Monsters, -10% Items from Monsters
+|}
+
+Otherwise, you've got a fight on your hands.
+
+==Combat Adventures==
+{{Combat|name=Knob Goblin Mad Scientist}}
+
+{{Combat|name=Knob Goblin Very Mad Scientist|note1=The square grapes do not drop unless you are at least level 11.}}
+
+==Non-combat Adventures==
+{{Adventure|name=Mr. Alarm|note1=Part of the [[Quest for the Holy MacGuffin]].|note2=A [[Ascension#One Time|one-time]] adventure.|image=mralarm.gif}}
+
+{{Adventure|name=Mega Gem (adventure)|drops=[[Mega Gem (accessory)|Mega Gem]]|note1=Part of the [[Quest for the Holy MacGuffin]].|Only occurs after after cooking [[wet stunt nut stew]].|note3=A [[Ascension#One Time|one-time]] adventure.|image=mralarm.gif}}
+
+{{Adventure|name=You Can Top Our Desserts, But You Can't Beat Our Meats| drops=[[bottle of Mystic Shell]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=foodtable.gif}}
+
+{{Adventure|name=Believe it or Not|drops=[[Knob Goblin superseltzer]], [[Knob Goblin superseltzer]], [[Knob Goblin superseltzer]]|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.|image=knobsci1.gif}}
+
+{{Adventure|name=Shall We Dance|image=Goblinaxe.gif|note1=Gives 10 turns of [[The Vitus Virus]].|note2=[[Bad Moon]] only.}}
+
+==Notes==
+*The store can be accessed without the proper outfit if you know the proper URL, but trying to buy anything results in the following:
+:What are you doing here?  Only members of the Elite Guard may purchase our wares!
+
+==References==
+*The message you get when you do not have sufficient stats is probably a reference to the [[Wikipedia:Beastie Boys|Beastie Boys]] greatest hits album, ''The Sounds of Science''.
+
+[[Category:Locations]]
+[[Category:NPC Stores]]

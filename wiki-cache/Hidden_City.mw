@@ -1,0 +1,72 @@
+__NOTOC__
+{| style="margin: auto" cellspacing="0" cellpadding="0"
+|{{click|image=map_unruins1.gif|link=Ruins}}
+|{{click|image=map_unruins2.gif|link=Ruins}}
+|{{click|image=map_unruins3.gif|link=Ruins}}
+|{{click|image=map_unruins4.gif|link=Ruins}}
+|{{click|image=map_unruins5.gif|link=Ruins}}
+|-
+|{{click|image=map_unruins6.gif|link=Ruins}}
+|{{click|image=map_unruins7.gif|link=Ruins}}
+|{{click|image=map_unruins8.gif|link=Ruins}}
+|{{click|image=map_unruins9.gif|link=Ruins}}
+|{{click|image=map_unruins1.gif|link=Ruins}}
+|-
+|{{click|image=map_unruins2.gif|link=Ruins}}
+|{{click|image=map_unruins3.gif|link=Ruins}}
+|{{click|image=map_unruins4.gif|link=Ruins}}
+|{{click|image=map_unruins5.gif|link=Ruins}}
+|{{click|image=map_unruins6.gif|link=Ruins}}
+|-
+|{{click|image=map_unruins7.gif|link=Ruins}}
+|{{click|image=map_unruins8.gif|link=Ruins}}
+|{{click|image=map_unruins9.gif|link=Ruins}}
+|{{click|image=map_unruins1.gif|link=Ruins}}
+|{{click|image=map_unruins2.gif|link=Ruins}}
+|-
+
+|{{click|image=map_unruins3.gif|link=Ruins}}
+|{{click|image=map_unruins4.gif|link=Ruins}}
+|{{click|image=map_unruins5.gif|link=Ruins}}
+|{{click|image=map_unruins6.gif|link=Ruins}}
+|{{click|image=map_unruins7.gif|link=Ruins}}
+|}
+[[The Hidden City]] opens after discovering it while adventuring in [[The Hidden Temple]] as part of the [[Quest for the Holy MacGuffin]].
+
+==The Quest==
+You are presented with a 5x5 map of unexplored ruins. Of these twenty-five sections, there are:
+{|cellspacing="0" cellpadding="3" border ="1"
+|{{click|image=map_ruins7.gif|link=Ruins}}
+|colspan="2"|Twenty squares of [[Ruins]]. Five of these will contain an [[ancient protector spirit]].
+|-
+|{{click|image=map_spirit.gif|link=A Protector Spirit}} 
+|If you lose to the spirit, it will appear on the map. Once you defeat it, the map will revert to explored ruins.
+|-
+|{{click|image=map_altar.gif|link=Altared Perceptions}}
+|colspan="2"|Four [[Altared Perceptions|altars]]. Here, you will find four bowl-shaped indentations. Use the stone spheres dropped by protector spirits in the indentations.
+*Each altar requires a quest item sphere, dropped by [[ancient protector spirit]]s, to be "inserted".
+*If you place the wrong object, you lose 3 adventures and receive [[Hardly Poisoned at All]].
+*Placing a [[1-ball]] on the [[Altared Perceptions - Pikachutlotal|Pikachutlotal altar]] will give you the effect [[Blessing of Pikachutlotal]] for 20 [[Adventure]]s.
+*Placing a [[6-ball]] on the [[Altared Perceptions - Bulbazinalli|Bulbazinalli altar]] will give you the effect [[Blessing of Bulbazinalli]] for 20 [[Adventure]]s.
+*Placing a [[5-ball]] on the [[Altared Perceptions - Charcoatl|Charcoatl altar]] will give you the effect [[Blessing of Charcoatl]] for 20 [[Adventure]]s.
+*Placing a [[2-ball]] on the [[Altared Perceptions - Squirtlcthulli|Squirtlcthulli altar]] will give you the effect [[Blessing of Squirtlcthulli]] for 20 [[Adventure]]s.
+*To determine which sphere goes to which altar, use them in combat. They will give a message that reveals which element they are. 
+*When the correct sphere is inserted into an altar, you receive a [[triangular stone]].
+*After you have placed the correct sphere into an altar, you can no longer place anything else there; thus you cannot receive the billiard ball buffs anymore.
+|-
+|{{click|image=map_temple.gif|link=A Smallish Temple}}
+|colspan="2"|[[A Smallish Temple]]. To enter, you will need to collect the four [[triangular stone]]s from the altars. Upon inserting all four triangular stones, you will fight a [[Protector Spectre]].
+|}
+
+==Notes ==
+*Once you have explored an area of unexplored ruins, it will change to what you have discovered.
+*Once you place the correct stone on any altar you are not allowed to place anything further on that particular altar.
+*If you show up to the Hidden City when falling-down drunk, you receive the message, "You're too drunk to screw around in a jungle, bungling or otherwise." This prevents you from inserting anything into the altars. You can, however, click on the adventure again link and you will get a drunken stupor as normal.
+
+==References==
+*The names of the altars are references to the ''[[wikipedia:Pokémon|Pokémon]]'' game series, in which you could acquire [[wikipedia:List of Pokémon (1-20)#Squirtle|Squirtle]] (water), [[wikipedia:List of Pokémon (1-20)#Charmander|Charmander]] (fire), [[wikipedia:Pikachu|Pikachu]] (electric), and [[wikipedia:Bulbasaur|Bulbasaur]] (grass). The pool balls match the colors of the Pokemon that accept them -- yellow/1-ball = Pikachutlotal/Pikachu, blue/2-ball = Squirtlcthulli/Squirtle, orange/5-ball = Charcoatl/Charmander, green/6-ball = Bulbazinalli/Bulbasaur.
+*This area is a reference to the ''Diablo II'''s Act III area, which had a lost city of Kurast and a plethora of pygmies (often considered the most annoying monsters in the game).
+*The theme of elemental magic runs strongly through many mythologies and facets of popular culture, and there is a long-standing convention of using proper keys to unlock specific areas in video games. However, given the other obvious references to ''Pokémon'', putting the spheres into the correct altars is likely a poke at the quest of ''[[Wikipedia:Pokémon: The Movie 2000|Pokémon: The Movie 2000]]'', in which three different elemental orbs had to be taken to an altar to calm a raging storm.
+*The falling-down drunk message references a [[Wikipedia:Jethro Tull (band)|Jethro Tull]] song, "Bungle in the Jungle" and of course the [[Bungle in the jungle|drink of the same name]].
+
+[[Category:Locations|Hidden City, The]]

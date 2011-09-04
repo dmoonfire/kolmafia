@@ -1,0 +1,48 @@
+{{NeedsConfirm|comment=Count Bakula data<br />;..;}}
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+Located in the [[The Nearby Plains|Nearby Plains]].  If your main stat isn't high enough, you'll see the following message:
+:You shouldn't be here
+
+<center>(You must have at least 40 $stat to adventure here.)</center>
+
+Before completing the [[Undefile the Cyrpt Quest]] there exist [[The Misspelled Cemetary (Pre-Cyrpt)|different monsters here]].
+
+==Combat Adventures==
+{{Combat|name=corpulent zobmie|note1=Shirt will not drop unless you have the [[Torso Awaregness]] skill.}}
+{{Combat|name=gaunt ghuol}}
+{{Combat|name=gluttonous ghuol}}
+{{Combat|name=grave rober zmobie|note1=[[Shysterweed]] will not drop unless you have received [[Doc Galaktik's Quest for Herbs]].}}
+{{Combat|name=senile lihc}}
+{{Combat|name=slick lihc}}
+{{Combat|name=spiny skelelton}}
+{{Combat|name=toothy sklelton}}
+{{Combat|name=Skelter Butleton, the Butler Skeleton|note1=This [[Ascension#One Time|one-time]] adventure only occurs once you have read [[half of a memo]].}}
+{{Combat|name=Count Bakula|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{Adventure|name=A Grave Mistake|drops=|image=ferngrave.gif|note1=Only available if [[The Wizard of Ego]] quest has been given and the [[A Grave Situation]] adventure was not received.
+|note2=Occurs without a [[grave robbing shovel]] or [[rusty grave robbing shovel]] equipped or in your inventory.|note3=Does not consume an adventure.}}
+
+{{Adventure|name=A Grave Situation|drops=[[Fernswarthy's key]], [[Fernswarthy's letter]]|image=ferngrave.gif|note1=Only occurs if [[The Wizard of Ego]] quest has been given and a [[grave robbing shovel]] or [[rusty grave robbing shovel]] is equipped or in your inventory.|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=A Menacing Phantom|drops=[[poltergeist-in-the-jar-o]]|image=jarjar.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=Rolling the Bones|drops=[[disembodied brain]], [[smart skull]]|image=drbones.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Grave Consequences|drops=[[figurine of a shadowy seal]]|image=tombstone.gif|note1=Occurs only for [[Seal Clubber]]s.}}
+
+{{Adventure|name=Rick, the Slick Lihc|image=lich.gif|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Rick, the Slick Lihc|image=lich.gif|drops=[[vial of ectoplasm]]|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[knob butter]].}}
+
+{{Adventure|image=zombie.gif|name=When Do We Want It?|note1=Gives 10 turns of [[Braaaaaains]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*This area may refer to [[Wikipedia:Stephen King|Stephen King]]'s novel ''[[Wikipedia:Pet Sematary|Pet Sematary]]''.
+*The concept of the area is based on the common misspelling of the word "cemetery."
+
+[[Category:Locations|Misspelled Cemetary, The (Post-Crypt)]]

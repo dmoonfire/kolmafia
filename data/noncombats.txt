@@ -1,0 +1,134 @@
+8-Bit Realm	Some Bricks Do, In Fact, Hang in the Air: s1	Blue Monday	Getting Hammered: b1
+A Maze of Sewer Tunnels	Despite All Your Rage	Disgustin' Junction	The Former or the Ladder	Somewhat Higher and Mostly Dry	Pop!	At Last!	Nothing More to See Here
+An Octopus's Garden	In the Shade	Sunken, Buried: c1
+Anemone Mine	Lost and Found and Lost Again (Mine): o1	Kids Today: o1	Grandpa Mine Choice: o1	Anemone Mine (Mining)
+Astral Mushroom (Bad Trip)	Violet Fog
+Astral Mushroom (Great Trip)	Violet Fog
+Astral Mushroom (Mediocre Trip)	Violet Fog
+Atomic Crimbo Toy Factory	A Ho-ho-ho No-no-no	Merry Exposition!: o1
+Barn	Cornered!	Cornered Again!	How Many Corners Does this Stupid Barn Have!?
+Barrrney's Barrr	The Right to Bear Arrrrms	Abstinence Makes the Heart Grow Fonder	Get Real	Voulez-vous manger avec moi?	A Test of Testarrrsterone	That Explains All The Eyepatches	Yes, You're a Rock Starrr	You and the Cap'm Make it Hap'm	This Adventure Bites	Step Up to the Table, Put the Ball in Play
+Batrat and Ratbat Burrow	How Does He Smell?: s1
+Battlefield (Cloaca Uniform)	The Effervescent Fray	Smells Like Team Spirit	What is it Good For?	A Turn of the Coat	Confusing the Issue	The Real Thing	A Funny Thing Happened On the Way	Kneatly Knicking the Knapsack (Cloaca-Cola)	Kneatly Knicking the Knapsack (Dyspepsi-Cola)	Prior to Always: s1	Capital!
+Battlefield (Dyspepsi Uniform)	The Effervescent Fray	Smells Like Team Spirit	What is it Good For?	A Turn of the Coat	Confusing the Issue	The Real Thing	A Funny Thing Happened On the Way	Kneatly Knicking the Knapsack (Cloaca-Cola)	Kneatly Knicking the Knapsack (Dyspepsi-Cola)	Prior to Always: s1	Capital!
+Battlefield (Frat Uniform)	I Am The Brotherhood	God Bless, Bra
+Battlefield (Hippy Uniform)	War, Man. Like, Wow.
+Battlefield (No Uniform)	The Effervescent Fray	Smells Like Team Spirit	What is it Good For?	A Turn of the Coat	Confusing the Issue	The Real Thing	A Funny Thing Happened On the Way	Kneatly Knicking the Knapsack (Cloaca-Cola)	Kneatly Knicking the Knapsack (Dyspepsi-Cola)	Prior to Always: s1	Capital!
+Beanbat Chamber	Elementally, My Deal Watson: b1
+Belowdecks	My Little Stowaway
+Black Forest	A Man in Black: o1	The Blackberry Cobbler	An Olith, Mon	What the Cluck?: t1	A Potentially Offensive Reference Has Been Carefully Avoided Here: b1
+Bugbear Pens	Bacon Bacon Bacon	The Animal Instinct	Beauty is only fur deep	The Bugbear Baker	Deuces Wild	It doesn't grow on trees, you know!	Ma Cherie	Nothing Up My Sleeve	The Right To Bugbear Arms	Wrasslin'	One Day in the Life	Faux Fur Pas: t1
+Burnbarrel Blvd.	Getting Tired	Hot Dog! I Mean... Door!	Piping Hot	A Tight Squeeze: s1	Home, Home in the Range	Too Hot To Handle	All Done Here
+Camp Logging Camp	Rock and Roll, eh?	Time to Split	What a Tosser!	Oot to Lunch: t1	Stumped (Camp Logging Camp)
+Crimborg Collective Factory	Crates of Plates: t1
+Daily Dungeon	Locked Door	Piledriver	Yet Another Troll	The Biggest Bathtub Ever	A Hairier Barrier	The Mystic Seal	Magic Shell	Smooth Criminal	Badger Badger Badger Badger	Dungeon Fever	Brrrrrr.	You'll Put Your Eye Out	Blister in the Sun	Did I Leave the Floor On?	Giant Creepy Floating Skull	The Night Gallery	Sewage Moat	The Warehouse of Eternal Stench	Seriously, I Just Read It For the Articles	You Schmooze, You Lose	Room 3: Treasure!	Room 6: Treasure!	Room 10: Treasure!
+Dark Elbow of the Woods	Der Bierdieb	It's The Only Way To Be Sure: s1	Like Butter
+Dark Heart of the Woods	On Wings of Fire	It's The Only Way To Be Sure: s1	Candles in the Wind
+Dark Neck of the Woods	Friar No More	It's The Only Way To Be Sure: s1	Dodecahedrariffic!
+Defiled Alcove	Turn Your Head and Coffin	Doublewide
+Defiled Cranny	Go Slow Past the Drawers	Lunchtime
+Defiled Niche	Urning Your Keep	Lich in the Niche
+Defiled Nook	Skull, Skull, Skull	Pileup	They Gave at the Morgue
+Degrassi Knoll	Gnollish Toga Party	Gnollish Workshop	A Rolling Turtle Gathers No Moss	Screwdriver, wider than a mile.: o1	That's Amore: t1	Flowers For (Familiar Name): b1
+Desert (Ultrahydrated)	A Sietch in Time: o1	No Colors Anymore: o1	Still No Colors Anymore: o1	Walk Without Rhythm: o1	Walk Without Rhythm 2: o1	The Sleeper Has Awakened: o1	Sweatin' Like a Vet'ran: b1	The Far Side of Sanity	Oh No, Not Raid!	Still Suits Run Deep	What Were You Expecting?	Sandstorm, Take Me Away from the Norm	Doors of Perception	A Wrong Turn at Albuquerque	Say Cheese!: b1	Let's Make a Deal!	He Got His Just Desserts	How Dry I Am	Trigger? I hardly...
+Desert (Unhydrated)	A Sietch in Time: o1	No Colors Anymore: o1	Still No Colors Anymore: o1	Walk Without Rhythm: o1	Walk Without Rhythm 2: o1	The Sleeper Has Awakened: o1	Sweatin' Like a Vet'ran: b1	The Far Side of Sanity	Oh No, Not Raid!	Still Suits Run Deep	What Were You Expecting?	Sandstorm, Take Me Away from the Norm	Doors of Perception	A Wrong Turn at Albuquerque	Say Cheese!: b1	Let's Make a Deal!	He Got His Just Desserts	How Dry I Am	Trigger? I hardly...
+Drunken Stupor	Coyote Ugly (Meat Loss)	Gutterbound	Hey, baby. Wanna wrestle?	The Too-Much Booze Blues	What's that smell?
+Dungeons of Doom	A Dash of Boulder	The Hunger	Ouch! You bump into a door!	The Return of the Dishwasher
+El Vibrato Island	Machinations
+Exposure Esplanade	Getting Tired	Hot Dog! I Mean... Door!	Piping Hot	A Tight Squeeze: s1	Home, Home in the Range	Too Hot To Handle	All Done Here
+F'c'le	Chatterboxing	The Chamber Music of the Sea	Come on Baby, Find My Pliers	An Impractical Joke	A Fledgling Pirate Is You!: c1
+Fantasy Airship	Number 163
+Fernswarthy's Basement	Lift 'em!	Push it Real Good	Ring that Bell	Gathering: The Magic	Mop the Floor with the Mops	Do away with the 'doo	Don't Wake the Baby	Grab a cue	Put on the Smooth Moves	Put on the Smooth Moves	Singled Out	Peace, Bra!	Still Better Than Pistachio	Unholy Writes	The Unthawed	A Festering Powder	Throwin' Down the Gauntlet	Got Silk?/Leather is Betther	Save the Dolls/Save the Cardboard	Take the Red Pill/Take the Blue Pill	De Los Dioses	The Dusk Zone	Giggity Bobbity Boo!	No Good Deed	Fernswarthy's Basement, Level 500
+Frat House (Stone Age)	Rubble Rubble	Me Just Want Fly: o1	Chieftain of the Flies
+Frat House In Disguise	Lording Over The Flies	Purple Hazers	From Stoked to Smoked	I Just Wanna Fly	Murder by Death	Sing This Explosion to Me	Sand in the Vaseline: s1	Lambda Upsilon Chi Kappa: t1	In Over His Head	The Horror...	It's All The Rage: b1	7 High	And Justice for All	Beeeeeeeer!	Bench Warmer	The Big Frat House in the Sky	Frat-Gang Warfare	Fratlifting	Get The Windex!	The Hazer Becomes the Hazed	It's Not Really Stealing	Kegstand! Kegstand! Kegstand!	Naughty Pledge	Roll out the Barrels	White Men Shouldn't Drink	Lambda Upsilon Chi Kappa: t1	Double-Secret Initiation: b1
+Friar's Gate	Der Bierdieb	Friar No More	On Wings of Fire	Leavesdropping	Bureaucracy of the Damned	Highway to Hey Deze: o1	We're on a Bridge!: o1	It's a Good Ship!: o1	Going Ballet Up: o1	It's The Only Way To Be Sure: s1	Condemned	Marble, the Archfiend	Marble, the Archfiend	Oil Be Seeing You: b1
+Generic Summer Holiday Swimming!	Huff, Puff	On Wings of Plastic	Noodling Around‎
+Giant's Castle	In a Black Room, with Black Curtains	What are the Odds?	Being Taken Out by the Trash	The Cat's in the Castle and the Silver Spoon	Outage, Brief Candle	Wheel in the Clouds in the Sky, Keep On Turning (G)	Wheel in the Clouds in the Sky, Keep On Turning (B)	Wheel in the Clouds in the Sky, Keep On Turning (D)	Wheel in the Clouds in the Sky, Keep On Turning (C)	All The Rave: s1	Do You Think You're Better Off Alone: b1
+Goatlet	Between a Rock and Some Other Rocks: o1	Natural Selection: s1	Puddle Puncher	Frost Bitten, Twice Shy: b1
+Greater-Than Sign	No Contraction	A big Q.	Parenthetical Advisory	Hyp-mo-tized...	I've Got a Lovely Bunch of Asterisks.	A Non-Capital Crime	Killer As.	Plus? Plus what?	The Oracle Will See You Now: o1	Elbereth? Who's Elbereth?
+Grim Grimacite Site	What The...!?
+Guano Junction	Le Chauve-Souris du Parfum: s1	How I Wonder What You're At: t1	What Can You Do?: c1	Oh Guanoes!: b1
+Haiku Dungeon	Gravy Fairy Ring	Haiku Dungeon in the It's About Damn Time	The Haiku Dungeon 1	The Haiku Dungeon 2	The Haiku Dungeon 3	The Haiku Dungeon 4	The Haiku Dungeon 5
+Haunted Ballroom	Curtains	Strung-Up Quartet	Rotting Matilda: c1	We'll All Be Flat: o1	Forward to the Past: t1	Party Crasher: b1
+Haunted Bathroom	Don't Hold a Grudge (Armwrestle)	Don't Hold a Grudge (Gestures)	Don't Hold a Grudge (Handshake)	Having a Medicine Ball	Bad Medicine is What You Need	Off the Rack	These Pipes... Aren't Clean!	That's a Tidy Bowl, Man!: t1	You Look Flushed: b1
+Haunted Bedroom	One Nightstand (Mahogany)	One Nightstand (Ornate)	One Nightstand (White)	One Nightstand (Wooden)
+Haunted Billiards Room	Minnesota Incorporeals: o1	That's your cue	A Shark's Chum	Give me Your Nine: t1	Vole Call!: b1
+Haunted Conservatory	Polo Tombstone: o1	Turtles of the Universe	Sweeping Up the Skeleton Bones: t1	The Placebo Defect: b1
+Haunted Gallery	Out in the Garden	Louvre It or Leave It	With a Clatter: t1
+Haunted Kitchen	Nicebox: t1	Play Misty For Me: s1	If You Smell Something Burning, It's My Heart: b1	Nice Rack!
+Haunted Library	Take a Look, it's in a Book! (Rise)	Take a Look, it's in a Book! (Fall)	Melvil Dewey Would Be Ashamed	Like the Sunglasses, But Less Comfortable: s1	Dust to Dust: t1	Alice, the Ghostly Librarian: o1	Alice, the Ghostly Librarian: o1	Back Off, Man. I'm a Scientist.: b1
+Haunted Pantry	Oh No, Hobo	The Singing Tree (Rustling)	Trespasser	The Baker's Dilemma	Cut Down in His Prime	Happy Birthday, Claude	The Manor in Which You're Accustomed	Shoe of Many Colors	Spirit of the Dolphin King	The Pilsbury Doughjerk: s1	It's Your Lucky Day!: t1	Pantry Raid!: b1
+Haunted Wine Cellar (Northeast)	Hair of the Hellhound: b1
+Haunted Wine Cellar (Northwest)	Hair of the Hellhound: b1
+Haunted Wine Cellar (Southeast)	Hair of the Hellhound: b1
+Haunted Wine Cellar (Southwest)	Hair of the Hellhound: b1
+Haunted Wine Cellar (automatic)	Hair of the Hellhound: b1
+Hidden Temple	Arrowed!	Cunning Puzzle Trap	Lightning Trap	Lightning Trap (MP loss)	Poison Gas Trap	Rolling Stone Trap	Rolling Stone Trap (HP loss)	Swinging Blade Trap	Trapstravaganza: t1	At Least It's Not Full Of Trash: o1	Dvorak's Revenge: o1	No Visible Means of Support: o1	Why Did It Have To Be Snake Eyes?: b1
+Hippy Camp (Stone Age)	Grubble	Oogaka, the Hippy Cavewomyn	Oogaka, the Hippy Cavewomyn
+Hippy Camp In Disguise	Peace Wants Love	An Inconvenient Truth	Getting Ahead in Life	Hippy Birthday to You	The Latest Sorcerous Developments: s1	Batty About Fruit: t1	Seal Taint in the Soiled Tent	Turtles All The Way Around	Ethereal Koi Blossom, the Hippy Vegan Chef: o1	Ethereal Koi Blossom, the Hippy Vegan Chef: o1	Better Dread Than Dead: b1	Bug Zapper	Ecosabotage	Filthy Pinko Hippy	Fluffy is Missing!	Games Hippies Play	The Gift of Gag	The Hennamaster	Hippies in the Mist	Hooray! A Stupid Drum Circle!	The Old Switcheroo	What's Brown and Sounds Like a Parrot?	Where There's Smoke...	Your Favorite Joke	The Latest Sorcerous Developments: s1	A Case of the Baskets: t1	Drumroll, Please: b1
+Hobopolis Town Square	Mind Yer Binder	Marketplace Entrance	Attention -- A Tent!	Enter The Hoboverlord	Not Now!
+Hole in the Sky	Pot Jacked: b1
+Icy Peak	Avalanche!	eXtremely Lost	The Source	Encino Penguin: t1	The Big Chill: b1
+Itznotyerzitz Mine	100% Legal	A Flat Miner	See You Next Fall	A Girl's Best Friend	Grilling the Foreman	Right in the Vestibule!	Speak, Frat Boy, and Enter	Either Ore: t1	A Real Gem: t1	Inside of Itznotyerzitz Mine
+Knob Goblin Harem	A Bard Day's Night	Harem Scarem	Hippo Ballet To You	You're Gonna Carry That Weight	Hands On: s1	A Series of Fortunate Events: t1	On The Whole, the Bark is Better: b1
+Knob Goblin Kitchens	Kevin'x, the Knob Goblin Chef	Kevin'x, the Knob Goblin Chef	Luck in the Kitchen: t1	KELF! I Need Somebody!: b1
+Knob Goblin Laboratory	Mr. Alarm: o1	Mega Gem (adventure): o1	You Can Top Our Desserts, But You Can't Beat Our Meats: s1	Believe it or Not: t1	Shall We Dance: b1
+Knob Goblin Treasury	Meat Score!	Treasury Chest	Primo Meat Stash: t1	It's So Heavy: b1
+Knob Shaft	Mine!	Junction in the Trunction
+Limerick Dungeon	The Apathetic Lizardman	The Crass Goblin	The Crotchety Wizard	The Dumb Minotaur	The Fierce-Looking Giant	The Gelatinous Cube	The Gnome with a Truncheon	The Goblin King's Vassal	The Insatiable Maiden	The One-Legged Trouser	The Orc With a Spork	The Slime Puddle	The Sozzled Old Dragon	The Unguarded Chest	The Unpleasant Satyr	The Vampire Buffer	The Witch	The Bleary-Eyed Cyclops: s1	The Weathered Old Chap: t1	Nantucket Snapper	Thud
+Madness Reef	Heavily Invested in Pun Futures‎
+Menagerie 2	Rokay, Raggy!: s1
+Menagerie 3	He's a Melancholy Drunk
+Mine Foremens' Office	Ancient History	A Little Richer	Card Stalk	Congratulations, You Found an Important Thing: o1	Take One Step Forward and You're a Better Person	The Paper Chase	They Only Read It For the Articles	Well, That Was Easy: o1
+Mouldering Mansion	It's a Fixer-Upper	Midst the Pallor of the Parlor	A Few Chintz Curtains, Some Throw Pillows...
+Mt. Molehill	Attributing a Tributary	A Cave Rave, Dave	Elementary, My Dear School	A Fairly Large Fairy	Here She Come Now Singin' Molé Molé	It's Not the Heat, It's the Madness	A Labour of Moles	Morlock or Lesslock	No Sects in the Potion Room	A Secret Ooze	Way Ponderous	Worries for Another Day
+Ninja Snowmen	Not So Much With the Corncob Pipes, Either.	Tang Lung, the Ninja Snowman: o1	Tang Lung, the Ninja Snowman: o1	Not Quite as Cold as Ice: s1
+Noob Cave	How Do I Shot Web?	Glorificus Steinemus, the Ancient Wise Woman	Glorificus Steinemus, the Ancient Wise Woman	Surprising!: b1
+Oasis in the Desert	Glug, Glug, Glug: o1	All Across the Sands: o1	Blowin' in the Wind (page 1): o1	Blowin' in the Wind (page 2): o1	Blowin' in the Wind (pages 3-15): o1	Some Things Never Change: t1	Mr. Sun Is Not Your Friend: b1
+Old Crimbo Town Toy Factory	Mission: Exposition	Feliz Narrative: o1
+Outskirts of Camp	Jammin' on the Axe	Like Hoofball	The Inverse is Also True	Best Served Cold: t1
+Outskirts of The Knob	Ennui is Wasted on the Young	Knob Goblin BBQ	Malice in Chains	C'mere, Little Fella	When Rocks Attack: o1	Brushed off...: o1	Code Red: o1	A Funny Thing Happened...: o1	The Ghost of Dr. Hobo Jones: o1	Unstubbed: o1	Lunchboxing: s1	Knob Goblin Luck!: t1	O Goblin, Where Art Thou?: b1
+Palindome	No sir, away! A papaya war is on!	A Pre-War Dresser Drawer, Pa!	Sun at Noon, Tan Us	Rod Nevada, Vendor: o1	Last Egg Gets Al: o1	Do Geese See God?: o1	Drawn Onward: o1	Denim Axes Examined	Flee to me, remote elf!	Strategy: Get Arts: b1
+Pirate Cove	The Beached Boys	A Dreadful Curse	Filching the Undarrwear	Amatearrr Night	The Arrrbitrator	Barrie Me at Sea	Remembarrr the Main: c1	Yo Ho Ho and a Bottle of Whatever This Is: s1	How Far Down Do You Want To Go?: b1
+Poker Room	Cards with Bards	Drunken Halfling Poker	Monkey. Monkey card.	Ninja Poker	A Motor in your Head: t1	It's In the Cards
+Poop Deck	O Cap'm, My Cap'm	Beware...	It's Always Swordfish: o1
+Post-Cyrpt Cemetary	A Grave Mistake	A Grave Situation: o1	A Menacing Phantom: s1	Rolling the Bones: t1	Grave Consequences	Rick, the Slick Lihc	Rick, the Slick Lihc
+Post-Quest Bugbear Pens	Bacon Bacon Bacon	The Animal Instinct	Beauty is only fur deep	The Bugbear Baker	Deuces Wild	It doesn't grow on trees, you know!	Ma Cherie	Nothing Up My Sleeve	The Right To Bugbear Arms	Wrasslin'	One Day in the Life	Faux Fur Pas: t1
+Post-War Junkyard	A Few Screws Loose: o1	A Wrenching Adventure: o1	Hammer or Hammee?: o1	Plier? I hardly know 'er!: o1
+Post-War Sonofa Beach	A Latter-Day Litter Letter	Anchors Weigh	Beach Blanket Yahtzee	Can't Beat the Evil Thing	Dad-a-Chick	Every Seashell Has a Story to Tell	Every Seashell Has a Story to Tell If You're Listening	Forget It	Hippies Don't Surf	Mystical Crap	One Man's Treasure	Save the Texas Prairie Chicken	The Wake-Up Call of Kermithulhu	The Walking-Stick Rebellion	We Apologize To Our English Players For the Lameness of the Pun	What a Maroon	Zerg Rush	Crate Expectations
+Pre-Cyrpt Cemetary	A Grave Mistake	A Grave Situation: o1	They Hate That	A Menacing Phantom: s1	Only Dust and a Plaque: t1	What Do We Want?: b1
+Rogue Windmill	La Vie Boheme	Backstage at the Rogue Windmill	Up in the Hippo Room
+Roulette Tables	Getting up to Roulette Didos	Roulette Antics	Roulette Goings-On	Roulette Grabassing	Roulette Hijinks	Roulette Mischief	Roulette Monkeyshines	Roulette Shenanigans	Roulette Tomfoolery	The Luckiest Gambler: t1
+Seaside Megalopolis	Time Isn't Holding Up; Time Is a Doughnut	Savior Faire	Extra Savior Faire	The Savorier Savior	Bad Reception Down Here	You Can Never Be Too Rich or Too in the Future	I'm on the Hunt, I'm After You	A Diseased Procurer	Brings All the Boys to the Blue Yard	Painful, Circuitous Logic	Give it a Shot	Does This Bug You? Does This Bug You?	A Bridge Too Far	451 Degrees! Burning Down the House!	None Shall Pass	The Unbearable Supremeness of Being	A Winning Pass	OMG KAWAIII	The Elements of Surprise . . .
+Sewer With Clovers	Fishing Around in the Sewer	Sewer Luck!: t1
+Simple Tool-Making Cave	Check It Out Now: c1
+Sleazy Back Alley	Aww, Craps	Dumpster Diving	The Entertainer	Under the Knife	In the Still of the Alley: s1	Lucky You, Unlucky Hobo: t1	Please, Hammer	No Man, No Hole	All-but-Dissertation Tucker Dummychuck, the Fingerless Hobo	All-but-Dissertation Tucker Dummychuck, the Fingerless Hobo	Bree-Yark!	Don't Hurt 'Em	Spirit of the Slug Lord	They Tried and Pailed	For Sale By Squatter	Sandwiched in the Club: b1	An Amateur Pickpocket is You!	The Bum's Dilemma	Dumpster Diver	Hammer Time	Happy Birthday!	Knob Goblin Intrigue	Knob Goblin Philosophy	Knob Goblin Rumble	Meat-Shaped Box	Out of Aces	A Strike in the Dark	Spared in the Dark
+South of the Border	A Chewy Encounter (Jabañero)	A Chewy Encounter (Lime)	A Chewy Encounter (Pickle)	A Chewy Encounter (Tamarind)	Finger-Lickin'... Death.	La Farmacia de Sueños	Filth, Filth, and More Filth: s1	Forget Not That I am an Ass: t1	The Beaten-Senseless Man's Hand: b1
+Spectral Pickle Factory	Cucumbers of the Damned	The Salt of the Earth	Uuuuuuunionize!	You Don't Want Fop!
+Spooky Forest	A Three-Tined Fork	Footprints	A Pair of Craters	The Road Less Visible	Gravy Ring	Radio Decomposer	Vampire Hunter G	Have a Heart: c1	An Interesting Choice	O Turtle Were Art Thou	Hoom Hah	Lucky, Lucky!: t1	Spooky-Gro: c1	Maps and Legends	Chester Meatpot: o1	Rock-a-bye Larva: c1	Spooky Sapling: o1	Blaaargh! Blaaargh!	Cindy, the Vampire Slayer	Cindy, the Vampire Slayer	This Doesn't Look Like Candy Mountain: b1	That's My Favorite Kind of Contraption: b1
+Spooky Fright Factory	Next Sunday, A.D.
+Spooky Gravy Barrow	Finding Neverevereverland	Luminosity: o1	Spooky Wheelbarrow: o1	Heart of Very, Very Dark Darkness: o1	Darker Than Dark	How Depressing	On the Verge of a Dirge	Stage Fright: t1
+St. Sneaky Pete's Day Stupor	A Concerned Citizen	A Mean Drunk	Coyote Ugly (Arm Loss)	Dangerously Inappropriate	It's Japanese for "Can't Sing"	Off the Rail	Quite a Joke	Reach Out and Offend Someone (Seaside Town)	Tall Tales and Low Blows	Watch Where You're Going, Jerk!	What Is This, Some Kind of Joke?	What Would You Do For Some Worthless Crap	Antimotion	To the Rescue	Boozehare	Screwed	The Unkindest Cut	Getting Flashed	Reach Out and Offend Someone (Cinco de Mayo)	Whoah, It's So Meta!	What's Up, Chuck?	A Kingly Reward: c1	That Takes The Cake: c1	Another Adventure About BorderTown	A Wetted Appetite	It's a Twister!	Karaoke Sucks in Spanish, Too!	Reach Out and Offend Someone (South of the Border)	The Fabulous Seven
+Stately Pleasure Dome	Down by the Riverside	Beyond Any Measure	Death is a Boat
+The Ancient Hobo Burial Ground	Returning to the Tomb	Ah, So That's Where They've All Gone	A Chiller Night	A Chiller Night (2)	Flowers for You: s1	Welcome To You!	Take a Number	All done here. (burial ground)
+The Dive Bar	No Country Music for Old Men: o1	Salty Old Men: o1	Boxing the Juke: o1	Bar Hunting: o1	The Salt of the Sea: o1	Ode to the Sea: o1	Barback
+The Heap	The Compostal Service	You vs. The Volcano	I Refuse!	Juicy!: s1	Deep Enough to Dive: c1	If This Dumpster's A' Rockin'	All done here. (heap)
+The Jungles of Ancient Loathing	Ancient Temple	Cavern Entrance	Entrance to the Forgotten City	The Story So Far	Even More Story So Far
+The Marinara Trench	Lost and Found and Lost Again (Trench): o1	Respect Your Elders: o1	You've Hit Bottom: o1	There is Sauce at the Bottom of the Ocean	A Vent Horizon
+The Mer-Kin Outpost	A Walker and a Ranger, hold the Texas: o1	No Fuschia For You: o1	Obtuse Chartreuse: o1	Granny, Does Your Dogfish Bite?: o1
+The Middle Chamber	It's In the Post	Wheel in the Pyramid, Keep on Turning
+The Primordial Soup	Soup For You	Yes, Soup For You...	Souped Up	The Primordial Directive	Soupercharged	Beginner's Luck: t1
+The Purple Light District	The Furtivity of My City	Getting Clubbed	Maybe It's a Sexy Snake!: s1	Van, Damn: c1	This Van's a' Rockin'	All Sleazed Out
+The Slime Tube	Engulfed!	Showdown	Mother is Busy Right Now
+The Upper Chamber	Whee!: o1
+The Wreck of the Edgar Fitzsimmons	Down at the Hatch
+Thugnderdome	Gno More Mr. Gnice Guy: t1	Now You're a Hero
+Trick-or-Treating	The Apathetic Lizardman (Halloween)	The Armorer/Leggerer	The Market Demon (Halloween)	Susie, the Arena Mistress (Halloween)	A Suspicious-Looking Guy (Halloween)	Linnea, the Scream Queen	Bradley, the Pencil-Pushing Elf	Dopey, the Reindeer (Halloween)	Grumpy, the Reindeer (Halloween)	Happy, the Reindeer (Halloween)	Limbergh, the Middle-Management Elf	Rudolph the Red, the Reindeer	Rufus, the Gift-wrapping Elf	Aaaaaaaiiiieeeeeeee	Admiral Crotch Rickets, the Chesteran	Arrrlando, the Sappy Pirate	Bildor, the 7-Foot Dwarf	Bojolali, the Shopkeeper	Cap'n Sargasso, the Cursed Pirate	Carnus Majorus, the Ancient Astronomer	Chad, the Veteran Frat Boy	‎Claude "Drippy" O'Hanrahan, Slug Farmer	Clown Outfit Halloween Adventure	Crispy Whiskery, the Oscusist	Doc, the Reindeer (Halloween)	Dr. Enstein, the Crazy Scientist	Ethelfred Hornpipe, the Crimbo Elf	Fructose, the Dark Prophet‎‎	Gaiden, the Hot and Cold Running Ninja	Gaspar, the Senile Ghost	Gimli Patterson, Cryptozoologist‎	Gina, the Lady-in-Waiting	The Gift Shop Guy	Gn8than, the sk8 Gnome	Gnestor, the Gnomish Gnomad	Gr'zl'x, The Bugbear	Gronk, the Knob Goblin Elite Guardsman	Hobbie Affman, the Hippy Warrior	Hugh, the former Crimborg	Hugo, the Weaver	Jackson, the 106-year-old Dyspepsi-Cola Veteran	Jacques, the Knob Goblin Master Chef	Joe, the Records Guy	John Lumberto, the lumberjack	Linnea, the Scream Queen	Linnell, the Booze Giant	Lucy McMillicanCuddy, the Farmer's Wife	McDonald, the 105-year-old Cloaca-Cola Veteran	Moonblossom the Filthy Hippy	Morgan, the Pirate Captain	Nothing. Nothing at all.	Obesetima, the Knob Goblin Harem Girl	Old Granny Stronginthearm	The Old Man	Princess Layla	Shalandria Gammon, née Rhonda Norton‎	Spooky-Night Spooky Day, the Zomborian	Stewart, the Sheepish Jester	Tarnose Cohan, the Scratchanist	Three-One-Bee, the Gnomish Automaton	Torgie, the Zmobie	Troy, the Orcish Frat Boy	Ulrich Haarbürste	Yiff, the Furry	Yum-Yum Sinclair Snowballeater, the Frostyterian	A little kid	A man in tights	A woman in long black robes
+Unlucky Sewer	Fishing Around in the Sewer	Sewer Luck!: t1
+Wartime Frat House	Catching Some Zetas	Fratacombs	One Less Room Than In That Movie	All Alone in My White Boy Pain	Dreadlocks and Beer Bongs	Dry Another Day	A Farewell to Legs	Raw Recruiting	Uncle Steve Wants You!	A Good Cause	Johnny Got His Paddle	Know Thine Enemy	Life During Wartime	Of Human Bondage	V is for Victory	Busting a Cap	Room Raider	Rosie the Carpenter
+Wartime Frat House (Hippy Disguise)	Catching Some Zetas	Fratacombs	One Less Room Than In That Movie	All Alone in My White Boy Pain	Dreadlocks and Beer Bongs	Dry Another Day	A Farewell to Legs	Raw Recruiting	Uncle Steve Wants You!	A Good Cause	Johnny Got His Paddle	Know Thine Enemy	Life During Wartime	Of Human Bondage	V is for Victory	Busting a Cap	Room Raider	Rosie the Carpenter
+Wartime Hippy Camp	Bait and Switch	Blockin' Out the Scenery	The Thin Tie-Dyed Line	Let's Get Physical	A Passion for Fashion	Screwing for Celibacy	The Conundrums of War	Rosie The Seamstress-er	Uncle Jerry Wants You	Make War, Not Love	My Dog Has No Nose	This Adventure Blows	A Totally Organic Experience	Ultimately Lame	You Better Work It	Cemetery, Man	The Naked Truth
+Wartime Hippy Camp (Frat Disguise)	Bait and Switch	Blockin' Out the Scenery	The Thin Tie-Dyed Line	Let's Get Physical	A Passion for Fashion	Screwing for Celibacy	The Conundrums of War	Rosie The Seamstress-er	Uncle Jerry Wants You	Make War, Not Love	My Dog Has No Nose	This Adventure Blows	A Totally Organic Experience	Ultimately Lame	You Better Work It	Cemetery, Man	The Naked Truth
+Whitey's Grove	Don't Fence Me In	The Only Thing About Him is the Way That He Walks	Rapido!	Hack to the Future	It's A Sign!: o1	Gannongast, the White Wizard	Gannongast, the White Wizard	Monty of County Crisco: s1	A White Lie: b1
+Yuletide Bonfire	Empty-Handed	The Tale of the Mysterious Beekeeper	The Tale of the Mysterious Event at Makeout Point‎	The Tale of the Mysterious Green Ribbon	The Tale of the Mysterious House in the Suburbs	The Tale of the Mysterious Sexy Pottery	The Tale of the Mysterious Albino Ladies and Stuff	The Tale of the Mysterious Bedroom Game	The Tale of the Mysterious Diminishing Returns	The Tale of the Mysterious Hellhound	The Tale of the Mysterious Moping Prince
+eXtreme Slope	Generic Teen Comedy Snowboarding Adventure	Saint Beernard	Yeti Nother Hippy	Not a Standard-Issue Windowsill, Obviously	eXtreme Trick-Turning	See You l8r, Gnome.	X Spots the Mark	Gn8than, the Sk8 Gnome	Gn8than, the Sk8 Gnome

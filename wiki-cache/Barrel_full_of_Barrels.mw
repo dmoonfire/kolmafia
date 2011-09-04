@@ -1,0 +1,161 @@
+[[Image:bigbarrel.gif|center|The Barrel full of Barrels]]
+
+[[The Barrel full of Barrels]] is located in [[The Big Mountains]]. To adventure here, you need to complete the first task at your guild ([[The Brotherhood of the Smackdown]], [[The League of Chef-Magi]], [[The Department of Shadowy Arts and Crafts]]). When you enter, you'll be faced with 36 barrels -- 6 per row and column. Clicking on one smashes it, and takes one adventure. Either you'll find an item or fight a mimic, or the barrel will explode.  Each barrel can only be smashed once.  At rollover, all the barrels will be reset and randomized. The number of obstacles and the quality of awards increase in barrels closer to the top of the frame. This means that the top two rows are probably the rows to focus on. If you can defeat the mimics you will do well in these rows. The grid of barrels is subdivided into 9 2x2 sections ("quads").  Every barrel in a 2x2 section contains the same category of prize.  Within a row the 2x2 sections seem random, except there is always one of each of the three types and the pattern for one pair of rows (say Booze, Stats, Restore) is not repeated for any other pair of rows. Additionally, note that there are actually only nine arrangements of quads that ever show up; observed patterns from smashing in one quad can be used to calculate conditional probabilities to maximize the chances of grabbing the desired item class (see [[#Notes|Notes]]).
+{| style="margin: auto; border-collapse: collapse" cellspacing="0" 
+|-
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+|-
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black; border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black; border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+|-
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+|-
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black; border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black; border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+| style="border-bottom: 2px solid black" | [[image:smallbarrel.gif]]
+|-
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+|-
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| style="border-right: 2px solid black" | [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+| [[image:smallbarrel.gif]]
+|}
+
+One of three things may happen when you smash a barrel: You may [[#You acquire an item|acquire an item]], [[#Your Barrel A Splode|blow up a barrel]], or [[#You fight a mimic|fight a mimic]].
+
+==You acquire an item==
+
+<center>You smash the barrel. Inside is an item!</center>
+{{acquire}}
+
+The row a set of items will appear in is always the same. The column, however, is randomized at rollover. The possible items are:
+{| cellpadding="3" cellspacing="0" border="1" style="text-align:center"
+|
+!Booze:
+!Restoratives:
+!Stat Boosters:
+|-
+!Top two rows:
+|
+{|border="0"
+|<span id="Top Two Rows">{{StackItem|bloody mary}}</span><br>
+{{StackItem|margarita}}<br>
+{{StackItem|martini}}<br>
+{{StackItem|monkey wrench}}<br>
+{{StackItem|redrum}}<br>
+{{StackItem|rum and cola}}<br>
+{{StackItem|salty dog}}<br>
+{{StackItem|screwdriver}}<br>
+{{StackItem|strawberry daiquiri}}<br>
+|{{StackItem|strawberry wine}}<br>
+{{StackItem|tequila sunrise}}<br>
+{{StackItem|vodka and cranberry}}<br>
+{{StackItem|vodka martini}}<br>
+{{StackItem|whiskey and cola}}<br>
+{{StackItem|whiskey and soda}}<br>
+{{StackItem|whiskey sour}}<br>
+{{StackItem|white Canadian}}<br>
+{{StackItem|wine spritzer}}
+|}
+|{{StackItem|Doc Galaktik's Homeopathic Elixir}}<br>
+{{StackItem|Knob Goblin superseltzer}}
+|{{StackItem|extra-strength strongness elixir}}<br>
+{{StackItem|jug-o-magicalness}}<br>
+{{StackItem|suntan lotion of moxiousness}}
+|-
+!Middle two rows:
+|<span id="Middle Two Rows">{{StackItem|bottle of gin}}</span><br>
+{{StackItem|bottle of rum}}<br>
+{{StackItem|bottle of tequila}}<br>
+{{StackItem|bottle of vodka}}<br>
+{{StackItem|bottle of whiskey}}<br>
+{{StackItem|boxed wine}}<br>
+|{{StackItem|Regular Cloaca Cola}}<br>
+{{StackItem|Diet Cloaca Cola}}<br>
+{{StackItem|Cherry Cloaca Cola}}<br>
+{{StackItem|Doc Galaktik's Restorative Balm}}<br>
+{{StackItem|Knob Goblin seltzer}}
+|{{StackItem|enchanted barbell}}<br>
+{{StackItem|concentrated magicalness pill}}<br>
+{{StackItem|giant moxie weed}}
+|-
+!Bottom two rows:
+|<span id="Bottom Two Rows">{{StackItem|fine wine}}</span><br>
+{{StackItem|shot of grapefruit schnapps}}<br>
+{{StackItem|shot of orange schnapps}}<br>
+{{StackItem|shot of tomato schnapps}}
+|{{StackItem|Doc Galaktik's Ailment Ointment}}<br>
+{{StackItem|soda water}}
+|{{StackItem|strongness elixir}}<br>
+{{StackItem|magicalness-in-a-can}}<br>
+{{StackItem|moxie weed}}
+|-
+!Anywhere <br>(once per day):
+|colspan="3"|{{StackItem|ten-leaf clover}}
+|}
+
+==Your Barrel A Splode==
+
+<center>You smash the barrel.<br />
+{{click|image=explosion.gif}}<br />
+Your Barrel A Splode, hurting you. Badly.
+{{HP|type=lose|amount=X}}</center>
+
+==You fight a mimic==
+{{Combat|name=mimic (Barrel)|MoxieNoHit=22/32/42}}
+
+==Retired Adventures==
+This location used to be an adventure zone:
+
+{{Combat|name=Mimic (Barrel)|drops=None|meat=None|stat=3|image=barrel.gif|level=?|hp=?|element=none|MoxieNoHit=?}}
+
+{{Adventure|name=Smashing a Barrel|drops=[[bottle of gin]] or [[bottle of rum]] or [[bottle of vodka]] or [[bottle of whiskey]] or [[concentrated magicalness pill]] or [[Doc Galaktik's Homeopathic Elixir]] or [[Doc Galaktik's Restorative Balm]] or [[enchanted barbell]] or [[giant moxie weed]] or [[grapefruit]] or [[grapes]] or [[lemon]], [[Mad Train wine]] or [[olive]] or [[orange]]|image=barrel.gif}}
+
+{{Adventure|name=Your Barrel A Splode|note1=<font color=red>Lose</font> 6-209 HP|image=explosion.gif}}
+
+==Notes==
+*There are only nine observable arrangements of the quads. AFH has put together a [http://www.alliancefromhell.com/forum/viewtopic.php?t=949 barrel probability tool] to assist barrel-smashers in their quest for booty. Summary of the nine distributions of ''B''ooze items, ''S''pleen items, and ''R''estoratives:
+ BSR - BRS - RSB - SBR - BRS - RBS - SRB - BRS - RSB
+ BRS - RSB - SBR - BRS - RBS - SRB - BRS - RSB - BSR
+ RSB - SBR - BRS - RBS - SRB - BRS - RSB - BSR - BRS
+
+*In the absence of any conditional data, of the nine possible quad arrangements, the top-row mixed booze is in the left quad in four cases, the middle in two cases, and the right in three.
+*For unmixed booze in the middle row, four of nine arrangements are in the left, two in the middle, and three in the right.
+*If you smash a barrel that you already smashed (by clicking twice in a row on the same barrel when the server's slow, or by using the "back" button), you get an error message saying:
+:KOMPRESSOR does not smash (barrel #''N''.)<br>(You tried to smash a barrel which was already smashed. Perhaps you are clicking too many times on the barrel.)
+*Until October 3, 2006, the "Your Barrel A Splode" text read:
+:It explodes, hurting you.  Badly.
+*Until October 11, 2005, the Barrel was a regular zone with unlimited combat and non-combat adventures.
+
+==References==
+*The KOMPRESSOR message is a reference to the song "[http://octothorpe.songhole.org/lyrics/Kompressor-DontDance.txt KOMPRESSOR Does Not Dance]" by [http://www.kompressormusic.com/ KOMPRESSOR].
+*Smashing barrels to gain random items and gold is a cliché of many computer RPGs and action games.
+*"Your Barrel A Splode" is a reference to [[Wikipedia: Homestar Runner|''Homestar Runner'']]. In the Strong Bad E-mail [http://www.homestarrunner.com/sbemail94.html video games], Strong Bad imagines himself as the bad guy in a vector-based game, where he says "Your Head A Splode" when he defeats the player.
+*Including the one barrel that's full of barrels, there is a total of [[thirty-seven|37]] barrels (in multiple rows).
+
+[[Category:Locations|Barrel Full of Barrels, The]]

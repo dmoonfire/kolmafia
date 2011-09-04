@@ -1,0 +1,81 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Haunted Pantry]] is one of the first open adventuring areas in the game. The Haunted Pantry is ideal for newcomers to begin leveling their characters. And for stalking asparagus.
+
+The Haunted Pantry is initially located directly on the [[Right Side of the Tracks]] main map, but after the [[The Manor in Which You're Accustomed|door to the manor]] is found, it becomes one of the interior rooms of the [[Spookyraven Manor]], which replaces the pantry on the Right Side of the Tracks map.
+[[Image:Sm9.gif|The Haunted Pantry|right|Image of the pantry as seen inside the Manor]]
+
+==Combat Adventures==
+{{Combat|name=fiendish can of asparagus|note1=A successful attack from this monster has a chance of giving you 5 Adventures of [[What's That Smell?]].}}
+
+{{Combat|name=flame-broiled meat blob}}
+
+{{Combat|name=overdone flame-broiled meat blob}}
+
+{{Combat|name=possessed can of tomatoes}}
+
+{{Combat|name=undead elbow macaroni (monster)}}
+
+==Non-combat Adventures==
+{{choice|name=Oh No, Hobo|image=hobo.gif
+|choice1name=Give him a beating|choice1=fight [[drunken half-orc hobo]]
+|choice2name=Give him some Meat|choice2=[[Good Karma]] (10 Adventures)
+|choice3name=Give him the business|choice3=5-10 meat, 3-4 {{mysticality}}, 3-4 {{moxie}}}}
+
+{{choice|name=The Singing Tree (Rustling)|image=tree.gif
+|choice1name="Sing a sad song"|choice1=4-5 {{mysticality}}
+|choice2name="Sing a happy song"|choice2=4-5 {{moxie}}
+|choice3name="Sing whatever you want"|choice3=[[whiskey and soda]] ''or'' 3-4 {{mysticality}} and lose 2 HP ''or'' 7-8 {{mysticality}}
+|choice4name="No singing, thanks."|choice4=(Does not use an adventure)}}
+
+{{choice|name=Trespasser|image=goblinchef.gif
+|choice1name=Tackle him|choice1=fight [[Knob Goblin Assistant Chef]]
+|choice2name=Challenge him to a magical duel|choice2=6-8 {{mysticality}} ''or'' 4-5 {{mysticality}}, lose 2 HP
+|choice3name=Wait and see what happens|choice3=[[asparagus knife]] ''and/or'' [[chef's hat]] ''and/or'' [[magicalness-in-a-can]] ''and/or'' [[razor-sharp can lid]] ''and/or'' [[stalk of asparagus]]}}
+
+{{choice|name=The Baker's Dilemma|image=bakersad.gif
+|choice1name="I'll see what I can do."|choice1=[[unlit birthday cake]]
+|choice2name="Sorry, I'm busy right now."|choice2=(Does not use an adventure)
+|choice3name="Hey, what's that over there?"|choice3=15-20 Meat, 4-5 {{moxie}}
+|note1=This adventure triggers the [[Baker Quest]] and doesn't occur after receiving the [[unlit birthday cake]] (becomes a [[Ascension#One Time|one time]] adventure).}}
+
+{{Adventure|name=Cut Down in His Prime|drops=[[razor-sharp can lid]]|meat=50|image=Corpse.gif|note1=A [[Ascension#One Time|one time]] adventure.}}
+
+{{Adventure|name=Happy Birthday, Claude|drops=[[pat-a-cake pendant]]|image=Bakerglad.gif|note1=This [[Ascension#One Time|one time]] adventure is triggered after obtaining the [[lit birthday cake]], completing the [[Baker Quest]].}}
+
+{{Adventure|name=The Manor in Which You're Accustomed|image=dungdoor.gif|note1=Grants access to the [[Spookyraven Manor]].|note2=A [[Ascension#One Time|one time]] adventure.}}
+
+{{Adventure|name=Shoe of Many Colors|drops=[[pretentious palette]]|image=palette3.gif|note1=This [[Ascension#One Time|one time]] adventure is triggered after speaking to the [[The Dirt-Walled Hovel of the Pretentious Artist|Pretentious Artist]].}}
+
+{{Adventure|name=Spirit of the Dolphin King | drops=[[Dolphin King's map]]|image=dolphin.gif|note1=A [[Ascension#One Time|one time]] adventure.}}
+
+{{Adventure|name=The Pilsbury Doughjerk|drops=3 {{plural|tasty tart}}|image=Bakersad.gif|note1=A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+{{Adventure|name=It's Your Lucky Day!|meat=100|image=Chest.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Pantry Raid!|image=Dungdoor.gif|note1=Gives 10 turns of [[Enhanced Archaeologist]].|note2=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+This area underwent a major revision on [[History of Loathing (2006)#November 28, 2006|November 28, 2006]].
+
+{{Adventure|name=Knob Goblin Apprentice Shaman|stat=2 {{Mysticality}}|image=Goblinfork.gif}}
+
+{{Adventure|name=Knob Goblin Elder|stat=2 {{Mysticality}}|image=Goblinfish.gif}}
+
+{{Adventure|name=Knob Goblin Puppet Show|stat=3 {{Mysticality}}|image=Goblinkid.gif}}
+
+{{Adventure|name=Knob Goblin Shaman|stat=2 {{Mysticality}}|image=Goblinfork.gif}}
+
+{{Adventure|name=Knob Goblin Thief|meat=15|image=Fatgoblin.gif}}
+
+{{Adventure|name=Rogue Goblin|stat=2 {{Mysticality}}|image=Fatgoblin.gif}}
+
+{{Adventure|name=The Broken Hammer|stat=2 {{Mysticality}}|image=Hammerguy.gif}}
+
+{{Adventure|name=The Singing Tree (Meditate)|stat=3 {{Mysticality}}|image=Tree.gif}}
+
+{{Adventure|name=The Matchless Baker|stat=2 {{Mysticality}}|image=cakeguy.gif}}
+
+{{Adventure|name=Treasure! (Haunted Pantry){{!}}Treasure!|meat=11-15|image=Chest.gif}}
+
+[[Category:Locations|Haunted Pantry, The]]

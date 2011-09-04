@@ -1,0 +1,61 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_DualLocation}}
+
+[[The Arid, Extra-Dry Desert]] is located in the [[Desert Beach]].  It is unlocked after obtaining (and reading) [[Your father's MacGuffin diary]] (see the [[Quest for the Holy MacGuffin]]).
+
+:(You must have at least ? <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=cactuary}}
+{{Combat|name=giant giant giant centipede}}
+{{Combat|name=plaque of locusts}}
+{{Combat|name=rock scorpion}}
+{{Combat|name=swarm of fire ants}}
+
+==Non-combat Adventures ([[Ultrahydrated]])==
+{{Adventure|name=A Sietch in Time|note1=Unlocks [[All Across the Sands]] in [[An Oasis]].|note2=A [[Ascension#One Time|one-time]] adventure.|image=stillsuit.gif}}
+
+{{Adventure|name=No Colors Anymore|note1=With a [[can of black paint]], unlocks [[Walk Without Rhythm]].|note2=A [[Ascension#One Time|one-time]] adventure.|image=stillsuit.gif}}
+
+{{Adventure|name=Still No Colors Anymore|note1=Only occurs with a [[can of black paint]] in your inventory.|note2=Unlocks [[Walk Without Rhythm]].|note3=A [[Ascension#One Time|one-time]] adventure.|image=stillsuit.gif}}
+
+{{Adventure|name=Walk Without Rhythm|note1=With a [[drum machine]], unlocks [[Blowin' in the Wind (page 1)]].|note2=A [[Ascension#One Time|one-time]] adventure.|image=stillsuit.gif}}
+
+{{Adventure|name=Walk Without Rhythm 2|note1=Only occurs with a [[drum machine]] in your inventory.|note2=Unlocks [[Blowin' in the Wind (page 1)]] in [[An Oasis]].|note3=A [[Ascension#One Time|one-time]] adventure.|image=stillsuit.gif}}
+
+{{Adventure|name=The Sleeper Has Awakened|drops=[[worm-riding hooks]]|note1=A [[Ascension#One Time|one-time]] adventure.|image=stillsuit.gif}}
+
+{{Adventure|name=Sweatin' Like a Vet'ran|image=Sun.gif|note1=Gives 10 turns of [[Shirtless in Seattle]].|note2=[[Bad Moon]] only.}}
+
+==Non-combat Adventures (Not [[Ultrahydrated]])==
+{{Adventure|name=The Far Side of Sanity|note1=Gives 5 turns of [[Tenuous Grip on Reality]]|image=vulture.gif}}
+
+{{Adventure|name=Oh No, Not Raid!|note1=<font color=red>Lose</font> 25%-50% [[HP]]|image=raider.gif}}
+
+{{Adventure|name=Still Suits Run Deep|note1=<font color=red>Lose</font> 10%-20% [[HP]]|note2=Gives 5 turns of [[Majorly Poisoned]]|image=stillsuit.gif}}
+
+{{Adventure|name=What Were You Expecting?|note1=Gives 5 turns of [[Sunburned]]|image=sun.gif}}
+
+{{Adventure|name=Sandstorm, Take Me Away from the Norm|note1=Gives 5 turns of [[Turned Into a Skeleton]]|image=sand.gif}}
+
+{{Adventure|name=Doors of Perception|note1=Gives 5 turns of [[Barking Dogs]]|image=indian.gif|}}
+
+{{Adventure|name=A Wrong Turn at Albuquerque|note1=Gives 5 turns of [[Prestidigysfunction]]|image=sandx.gif|}}
+
+{{Adventure|name=Say Cheese!|drops=[[anticheese]]|note1=<font color=red>Lose</font> 50 HP|note2=[[Bad Moon]] only.|image=sand.gif}}
+
+{{Choice|name=Let's Make a Deal!|image=gnefgnome.gif|
+choice1name=Buy the carburetor|choice1=Gain [[broken carburetor]], lose 5,000 Meat|
+choice2name=Haggle for a better price|choice2=Unlock [[An Oasis]]
+|note1=May occur even if you have less than 5,000 Meat.}}
+
+{{Adventure|name=He Got His Just Desserts|drops=[[reinforced beaded headband]], [[round purple sunglasses]], [[bullet-proof corduroys]]|image=corpse.gif|note1=Must not have any item of the [[War Hippy Fatigues]] or [[Frat Warrior Fatigues]] in your [[inventory]] for this adventure to occur, though you may have them in your [[closet]].}}
+
+{{Adventure|name=How Dry I Am|image=glyphs1.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+{{Adventure|name=Trigger? I hardly...|image=sand.gif|drops=[[Twitching trigger finger]]|note1=Usable by [[Pastamancer|Pastamancers]] only.}}
+
+==References==
+*"Arid, Extra-Dry" is a reference to Arrid Extra Dry antiperspirant.
+*Most of the adventures here are a reference to [[wikipedia:Frank Herbert|Frank Herbert]]'s ''[[wikipedia:Dune (novel)|Dune]]''.
+
+[[Category:Locations|Arid, Extra-Dry Desert, The]]

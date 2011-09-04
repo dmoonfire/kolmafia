@@ -1,0 +1,27 @@
+{{NeedsSpading|comment=Now that there are noncombats, what's the frequency, Kenneth?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Defiled Niche]] is located in [[The Cyrpt]]. Once the [[gargantulihc]] is defeated, you'll no longer be able to adventure here; instead, you'll get the message, "This part of the cyrpt is already undefiled." See [[Undefile the Cyrpt Quest]] for more information. Note that the monsters here will be become available again at [[The Misspelled Cemetary (Post-Cyrpt)]] once you have undefiled the rest of The Cyrpt, except for the [[gargantulihc]] subboss.
+
+If your main stat isn't high enough, you will see the following message:
+
+:You shouldn't be here.
+
+:(You must have at least 40 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=senile lihc}}
+{{Combat|name=slick lihc}}
+{{Combat|name=gargantulihc|note1=Only occurs as a choice in [[Lich in the Niche]].|note2=Once you have defeated the gargantulihc, this adventure will no longer reoccur (becomes a [[Ascension#One Time|one time]] adventure).}}
+
+==Non-combat Adventures==
+{{Choice|name=Urning Your Keep|image=3urns.gif
+|choice1name=Investigate the first urn|choice1=40-65 {{Mysticality}}
+|choice2name=Check out the second one|choice2=First time, obtain a [[plus-sized phylactery]]. Subsequent times, low chance of obtaining a second one / nothing, and no longer costs an adventure.
+|choice3name=See what's behind Urn #3|choice3=200-300 [[meat]]
+|choice4name=Turn Away|choice4=Nothing. (Does not cost an adventure.)}}
+
+{{Choice|name=Lich in the Niche|image=backlich.gif
+|choice1name=Get his attention and throw down|choice1=Fight a [[gargantulihc]]
+|choice2name=Beat feet before he sees you|choice2=Nothing. (Does not cost an adventure.)}}
+[[Category:Locations|Defiled Niche, The]]

@@ -1,0 +1,20 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+This is the fifth of the seven games available to you in [[The Casino]].  Each hand of cards costs 30 meat and 1 Adventure.
+
+{{Adventure|name=Cards with Bards|meat=50|image=Cards1.gif}}
+
+{{Adventure|name=Drunken Halfling Poker|image=Cards1.gif}}
+
+{{Adventure|name=Monkey. Monkey card.|meat=20|image=Cards1.gif}}
+
+{{Adventure|name=Ninja Poker|drops=[[sweet ninja sword]]|meat=30|image=Cards1.gif}}
+
+{{Adventure|name=A Motor in your Head|stat=20 {{Moxie}}|meat=300|image=Cards1.gif|note1=This adventure is triggered by adventuring here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=It's In the Cards|image=glyphs4.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+==Note==
+*The average yield per adventure, assuming you autosell the [[sweet ninja sword]] from [[Ninja Poker]], is 31.25 meat, or 1.25 meat profit.
+
+[[Category:Locations|Poker Room, The]]

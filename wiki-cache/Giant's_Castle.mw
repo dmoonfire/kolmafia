@@ -1,0 +1,66 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Castle in the Clouds in the Sky]] is found atop [[The Beanstalk]], which is located in [[The Nearby Plains]] (once you've been able to plant an [[enchanted bean]]).
+
+To reach the Castle, you need a [[S.O.C.K.]] (or an [[intragalactic rowboat]], which contains a S.O.C.K.). To get a S.O.C.K., you must have completed the requisite [[Unlocking The Castle in the Clouds in the Sky|quest]] in [[The Penultimate Fantasy Airship]]. Your main stat must also be at least 95. If not, you will see the message:
+:You peek your head inside the door of the Castle, and see a bunch of things that might be giants.
+:The little voice inside your head can't be silent about this, so you decide not to go in there until you get a little heftier.
+:(You must have at least 95 $stat to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=Alphabet Giant}}
+{{Combat|name=Furry Giant}}
+{{Combat|name=Goth Giant}}
+{{Combat|name=Possibility Giant}}
+{{Combat|name=Procrastination Giant|note1=Hitting this monster with melee attacks may give 5 turns of [[Cunctatitis]].}}
+{{Combat|name=Raver Giant}}
+
+==Non-combat Adventures==
+{{Adventure|name=In a Black Room, with Black Curtains|drops=[[thin black candle]], [[Warm Subject gift certificate]]|image=haiku5.gif}}
+
+{{Adventure|name=What are the Odds?|drops=[[chaos butterfly]], [[plot hole]]|image=question.gif}}
+
+{{Adventure|name=Being Taken Out by the Trash|stat=2.0-2.5 times min(110,mainstat) {{muscle}}|note1=Only occurs when the castle wheel is on G (Take out the garbage).|image=Trashcan.gif}}
+
+{{Adventure|name=The Cat's in the Castle and the Silver Spoon|stat=2.0-2.5 times min(110,mainstat) {{moxie}}|note1=Only occurs when the castle wheel is on C (Feed the cat).|image=cheetah.gif}}
+
+{{Adventure|name=Outage, Brief Candle|stat=2.0-2.5 times min(110,mainstat) {{mysticality}}|note1=Only occurs when the castle wheel is on B (Pay the electricity bill).|image=Darkness.gif}}
+
+{{choice|name=Wheel in the Clouds in the Sky, Keep On Turning{{!}}Wheel in the Clouds in the Sky, Keep On Turning (G)|image=cwheel1.gif
+|choice1name=Turn the wheel clockwise|choice1=Pay the bills ([[Outage, Brief Candle]] will occur).
+|choice2name=Turn the wheel counter-clockwise|choice2=Feed the cat ([[The Cat's in the Castle and the Silver Spoon]] occurs).
+|choice3name=Leave the wheel alone|choice3=Take out the garbage ([[Being Taken Out by the Trash]] occurs)}}
+
+{{choice|name=Wheel in the Clouds in the Sky, Keep On Turning{{!}}Wheel in the Clouds in the Sky, Keep On Turning (B)|image=cwheel2.gif
+|choice1name=Turn the wheel clockwise|choice1=Guard the door ([[giant castle map]] can be used).
+|choice2name=Turn the wheel counter-clockwise|choice2=Take out the garbage ([[Being Taken Out by the Trash]] occurs)
+|choice3name=Leave the wheel alone|choice3=Pay the bills ([[Outage, Brief Candle]] will occur).}}
+
+{{choice|name=Wheel in the Clouds in the Sky, Keep On Turning{{!}}Wheel in the Clouds in the Sky, Keep On Turning (D)|image=cwheel3.gif
+|choice1name=Turn the wheel clockwise|choice1=Feed the cat ([[The Cat's in the Castle and the Silver Spoon]] occurs).
+|choice2name=Turn the wheel counter-clockwise|choice2=Pay the bills ([[Outage, Brief Candle]] will occur).
+|choice3name=Leave the wheel alone|choice3=Guard the door ([[giant castle map]] can be used).}}
+
+{{choice|name=Wheel in the Clouds in the Sky, Keep On Turning{{!}}Wheel in the Clouds in the Sky, Keep On Turning (C)|image=cwheel4.gif
+|choice1name=Turn the wheel clockwise|choice1=Take out the garbage ([[Being Taken Out by the Trash]] occurs).
+|choice2name=Turn the wheel counter-clockwise|choice2=Guard the door ([[giant castle map]] can be used).
+|choice3name=Leave the wheel alone|choice3=Feed the cat ([[The Cat's in the Castle and the Silver Spoon]] occurs).}}
+
+{{Adventure|name=All The Rave|drops=[[Mick's IcyVapoHotness Inhaler]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=dungdoor.gif}}
+
+{{Adventure|name=Do You Think You're Better Off Alone|image=Rgiant.gif|note1=Gives 10 turns of [[Raving Lunatic]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*In the fairy tale "[http://www.pitt.edu/~dash/type0328jack.html Jack and the Beanstalk]", Jack climbs a magic beanstalk all the way to the clouds, where he encounters a giant living in a castle.
+*This location's name may also refer to the rave favorite "Castles in the Sky" by [[Wikipedia:Ian Van Dahl|Ian Van Dahl]], as the castle is populated by annoying ravers.
+*The location's name may also be a reference to [[Wikipedia:Hayao Miyazaki|Hayao Miyazaki]]'s 1986 anime classic, ''[[Wikipedia:Castle in the Sky|Laputa: Castle in the Sky]]'', which incidentally features a 12 year-old protagonist, an undeniably spunky princess, and robots powered by a blend of magic and technology (which are possible back-references to the combat encounters in [[The Penultimate Fantasy Airship]]).
+*The location's name may also be a reference to [[Wikipedia:Cosette|Cosette]]'s song "Castle on a Cloud" from ''[[Wikipedia:Les Misérables (musical)|Les Misérables]]''.
+*The "Wheel in the Clouds in the Sky, Keep On Turning" is a reference to [[Wikipedia:Journey (band)|Journey]]'s song "Wheel in the Sky", from their 1978 album ''[[Wikipedia:Infinity (album)|Infinity]]''.
+*"The Castle in the Clouds" is also the name a group of students, the Airheads, give their floor of their residence hall in Neal Stephenson's novel, [[Wikipedia:The Big U|''The Big U'']].
+*The message when you don't have enough for your main stat is a reference to the band [[TMBW:They Might Be Giants|They Might Be Giants]], as well as their self-titled song, "[[TMBW:They Might Be Giants (Song)|They Might Be Giants]]":
+:''We can't be silent, 'cause they might be giants''
+:''And what're we gonna do unless they are?''
+*This location may be a reference to "The Castle in the Sky" in the novel ''[[Wikipedia:The Phantom Tollbooth|The Phantom Tollbooth]]'' by Norton Juster.
+*This location may also reference the [http://www.castleintheclouds.org/ "Castle in the Clouds"], a popular tourist attraction near Lake Winnipesaukee in New Hampshire.
+
+[[Category:Locations|Castle in the Clouds in the Sky, The]]

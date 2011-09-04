@@ -1,0 +1,19 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Middle Chamber is located in [[The Ancient Buried Pyramid]], which becomes unlocked during the [[Quest for the Holy MacGuffin]]. There is no stat requirement for adventuring here.
+
+==Combat Adventures==
+{{Combat|name=Iiti Kitty}}
+{{Combat|name=tomb bat}}
+{{Combat|name=tomb servant}}
+
+==Non-combat Adventures==
+{{Adventure|name=It's In the Post|image=tombmap.gif|note1=Only occurs before the [[carved wooden wheel]] is found.}}
+
+{{choice|name=Wheel in the Pyramid, Keep on Turning|image=tombmap.gif
+|choice1name=Turn the wheel |choice1=Changes [[The Lower Chambers]]
+|choice2name=Leave the wheel alone|choice2=Does nothing (does not cost an adventure)
+|note1=No longer appears once [[Ed the Undying]] has been defeated.
+}}
+
+[[Category:Locations|Middle Chamber, The]]

@@ -1,0 +1,64 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[Whitey's Grove]] is an adventure location in [[The Distant Woods]], but is only accessable after you get the [[White Citadel Quest]] from your [[Guild_Hall|guild]].  If your main stat isn't high enough, you'll see the following message:
+
+:Though you initially believe you're ready to take on all of the White stuff in this grove, the nearer you get, the yellower you become. Try again later.
+
+<center>(You must have at least 34 $Stat to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=Knight in White Satin}}
+{{Combat|name=white chocolate golem}}
+{{Combat|name=white lion}}
+{{Combat|name=whitesnake}}
+
+==Non-combat Adventures==
+{{choice|name=Don't Fence Me In|image=whitefence.gif
+|choice1name=Whitewash the fence|choice1=Gain 20-30 {{Muscle}}.
+|choice2name=Steal the fence|choice2=[[white picket fence]]
+|choice3name=Jump the fence|choice3=[[piece of wedding cake]] and [[white rice]] (sometimes)}}
+
+{{choice|name=The Only Thing About Him is the Way That He Walks|image=Cantdance.gif
+|choice1name=Show him some moves|choice1=Gain 20-30 {{Moxie}}.
+|choice2name=Show him a good time|choice2=3 {{plural|boxed wine}}
+|choice3name=Show him how easy it is to steal all his stuff|choice3=[[mullet wig]]}}
+
+{{choice|name=Rapido!|image=rapids.gif
+|choice1name=Steer for the cave|choice1=Gain 21-30 {{Mysticality}}
+|choice2name=Steer for the trees|choice2=3 {{plural|white lightning}}
+|choice3name=Steer for the laundromat|choice3=[[white collar]]}}
+
+{{Adventure|name=Hack to the Future|drops=[[white hat hacker T-shirt]]|note1=Will not occur without having [[Torso Awaregness]].|image=axe.gif}}
+
+{{Adventure|name=It's A Sign!|note1=Unlocks [[The Road to the White Citadel]].|note2=A [[Ascension#One Time|one-time]] adventure.|image=sign.gif}}
+
+{{Adventure|name=Gannongast, the White Wizard|image=whitewiz.gif|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Gannongast, the White Wizard|image=whitewiz.gif|drops=[[white wine vinaigrette]]|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[Non-Essential Amulet]].}}
+
+{{Adventure|name=Monty of County Crisco|drops=[[bag of lard]]|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].|image=carriage.gif}}
+
+{{Adventure|name=A White Lie|meat=5,000|image=House2.gif|note1=Gives 10 turns of [[Maid Disservice]].|note2=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+{{Adventure|name=Be still, my darling|drops=[[white lightning]]|image=Still.gif}}
+
+{{Adventure|name=Boy howdy, this sure is fun|stat=20 {{Muscle}}|image=Fence.gif}}
+
+{{Adventure|name=Rent-a-fence|drops=[[white picket fence]]|image=Fence.gif}}
+
+{{Adventure|name=Start Again|drops=[[piece of wedding cake]]|image=Wedding.gif}}
+
+{{Adventure|name=The Tasting|drops=2 [[boxed wine]]s|stat=8 {{Muscle}}|image=Winetable.gif}}
+
+{{Adventure|name=Tripping the light fandango|stat=20 {{Mysticality}}|image=Ghostface.gif}}
+
+{{Adventure|name=The White Castle|drops=[[White Castle burger]], [[White Castle fries]]|image=Wcastle.gif}}
+
+{{Adventure|name=White Trash Can|drops=[[mullet wig]]|image=Trashcan.gif}}
+
+{{Adventure|name=Whoah. I know the Funky Chicken.|stat=20 {{Moxie}}|image=Cantdance.gif}}
+
+[[Category:Locations]]

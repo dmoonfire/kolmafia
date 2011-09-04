@@ -1,0 +1,35 @@
+{{NeedsSpading|comment=Monster statistics, drop rates, encounter frequencies, etc. all need to be researched.}}
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Mouldering Mansion]] is found in [[The Worm Wood]], which is only accessible with the [[Absinthe-Minded]] effect.
+
+==Combat Adventures==
+{{Combat|name=bellhop|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=black cat|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=Ourang-Outang|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=raven|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=usher|MoxieNoHit=Scales with player stats (Max 132)}}
+
+==Non-combat Adventures==
+{{Choice|name=It's a Fixer-Upper|image=mansion.gif
+|choice1name=Enter the study|choice1=Fight [[raven]]
+|choice2name=Climb to the second floor|choice2=Gain approx. 1 * $mainstat {{mysticality}} (maximum 150)
+|choice3name=Climb to the belfry|choice3=Gain ~46 [[HP]] and ~40-44 [[MP]] and acquire 5 turns of the [[Bats in the Belfry]] effect}}
+
+{{Choice|name=Midst the Pallor of the Parlor|image=Blackcat.gif
+|choice1name=Approach the man|choice1=Gain approx. 1 * $mainstat {{moxie}} (maximum 150)
+|choice2name=Approach the cat|choice2=With [[Spirit of Alph]], acquire 5 turns of the [[Feelin' Philosophical]] effect, else fight a [[black cat]]
+|choice3name=Approach the Woman|choice3=With [[Rat-Faced]], acquire 5 turns of the [[Unusual Fashion Sense]] effect, else nothing}}
+
+{{Choice|name=A Few Chintz Curtains, Some Throw Pillows...|image=Dungdoor.gif
+|choice1name=Descend|choice1=With [[Night Vision]], acquire a [[flask of Amontillado]], else nothing
+|choice2name=Open the door|choice2=Gain approx. 1 * $mainstat {{muscle}} (maximum 150)
+|choice3name=Ascend|choice3=With [[Dancing Prowess]], acquire a [[fancy ball mask]], else nothing}}
+
+==References==
+*The name of this location references the poem "[[Wikipedia:The Fall of the House of Usher|The Fall of the House of Usher]]," by [[Wikipedia:Edgar Allan Poe|Edgar Allan Poe]]. He was reputed to use various hallucinogenic drugs throughout his life, as were the other authors referenced by locations in The Worm Wood.
+*All of the monsters in this area were characters in Edgar Allan Poe's poems or stories. 
+*The Ourang-Outang that gives a library card is a character from Terry Pratchett's ''[[Wikipedia:Discworld|Discworld]]'' novels, which features an orangutan (or rather, a wizard who was turned into an orangutan) as The Librarian of Unseen University.
+*The Ourang-Outang was also a large part of Poe's work "[[Wikipedia:The Murders in the Rue Morgue|The Murders in the Rue Morgue]]."
+[[Category:Locations|Mouldering Mansion, The]]

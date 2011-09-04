@@ -1,0 +1,53 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+Once a [[Clan Basement]] is dug and the [[An Overflowing Sewer Grate|overflowing sewer grate]] is cleared out, clan members will see a path leading to [[The Old Sewers]]. Taking that path will lead to this maze; the sewers eventually lead to [[Hobopolis]].
+
+You must have at least 10 remaining adventures to attempt a sewer adventure. Otherwise, the game objects:
+:You don't really have time to fully explore the sewers right now.
+
+==Combat Adventures==
+{{Combat|name=C. H. U. M.}}
+{{Combat|name=giant zombie goldfish}}
+{{Combat|name=sewer gator}}
+{{Combat|name=C. H. U. M. chieftain|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+==Non-combat Adventures==
+
+{{Choice|name=Despite All Your Rage|image=cage.gif
+|choice1name=Gnaw through the bars (10 Adventures)|choice1=Escape.
+|choice2name=Wait for rescue|choice2=If another clanmate has gone down the ladder in [[The Former or the Ladder]], escape. If not, nothing.}}
+
+{{Choice|name=Disgustin' Junction|image=gate.gif
+|choice1name=Head Down the Tunnel|choice1=
+|choice2name=Swim back towards the entrance|choice2=
+|choice3name=Open the grate|choice3=
+}}
+
+{{Choice|name=The Former or the Ladder|image=Sewerladder.gif
+|choice1name=Take the tunnel|choice1=
+|choice2name=Play in the water|choice2=
+|choice3name=Head down the ladder|choice3=
+}}
+
+{{Choice|name=Somewhat Higher and Mostly Dry|image=Sewervalve.gif
+|choice1name=Head down the dark tunnel|choice1=
+|choice2name=Dive back into the water|choice2=
+|choice3name=Turn the valve|choice3=
+}}
+
+{{Choice|name=Pop!|image=sewertunnel.gif
+|choice1name=Go with the flow|choice1=Return to [[Clan Basement]].
+|note1=Occurs when in the sewers while they are being reflooded.}}
+
+{{adventure|name=At Last!|image=sewertunnel.gif
+|note1=Opens [[Hobopolis Town Square]].
+}}
+
+{{Adventure|name=Nothing More to See Here|image=sewertunnel.gif|note1=Occurs only after reaching [[At Last!]]}}
+
+==Notes==
+*If you have 0 non-combat adventures, it will take 100 adventures to navigate the maze of sewer tunnels.
+
+{{HobopolisNav}}
+
+[[Category:Locations|Maze of Sewer Tunnels, A]]

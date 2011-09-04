@@ -1,0 +1,30 @@
+You duck into the dwarves' store room and wander among the shelves for a moment, eventually stopping at one labelled:
+<center>[[Image:Runeword1.gif]]<br>
+[[Image:Runeword2.gif]]<br>
+[[Image:Runeword3.gif]]<br>
+</center>
+
+Glancing around shiftily, you reach into one of the three boxes on the shelf and hork something, then sneak out of the room before anyone finds you.
+
+You will then acquire one of:
+{{acquire|item=7-Foot Dwarven mattock}}
+{{acquire|item=asbestos ore}}
+{{acquire|item=chrome ore}}
+{{acquire|item=cog}}
+{{acquire|item=dwarf bread}}
+{{acquire|item=linoleum ore}}
+{{acquire|item=lump of coal}}
+{{acquire|item=miner's helmet}}
+{{acquire|item=miner's pants}}
+{{acquire|item=spring}}
+{{acquire|item=sprocket}}
+----
+Occurs in the [[Dwarven Factory Complex]].
+
+==Notes==
+*All the bins are marked in the [[Dwarvish language]].
+*Attempting to adventure here while falling-down drunk results in the following message: "You're too drunk to be wandering around in the warehouse, it frightens you and has your{{typo}} tied up in knots."
+*Two of the three runes are randomized on every pick. The third corresponds to the item that you receive. If you can get 2-3 of each item and record the letters you can figure out what the letters are for you. For example, if you get asbestos ore from BKN, NCB, and KCN, "N" is in all three asbestos ore boxes, so asbestos is "N" for you.
+*There are four letters marked on the hoppers in the machine room (one one each). These four letters will correspond to the lump of coal and the three ores (in no particular order). This can help narrow things down when trying to determine correspondences.
+
+[[Category:Locations]]

@@ -1,0 +1,35 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[A Yuletide Bonfire]] is lit in [[Seaside Town]] on [[Yuletide]]. Bring some [[marshmallow]]s to [[roasted marshmallow|roast]] and listen to the spooooky stories.
+Adventuring with a marshmallow in your inventory turns it into a roasted marshmallow. 
+==Non-Combat Adventures==
+{{Adventure|name=Empty-Handed|image=nopic.gif|note1=Does not consume an adventure.|note2=Only occurs if there are no [[marshmallow]]s in your inventory.}}
+
+{{Adventure|name=The Tale of the Mysterious Beekeeper|image=bonfire.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Event at Makeout Point‎|image=bonfire.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Green Ribbon|image=bonfire.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious House in the Suburbs|image=bonfire.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Sexy Pottery|image=bonfire.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+====Added Yuletide II====
+{{Adventure|name=The Tale of the Mysterious Albino Ladies and Stuff|image=shower.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Bedroom Game|image=nightstand.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Diminishing Returns|image=Leprechaun.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Hellhound|image=pirate2.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+{{Adventure|name=The Tale of the Mysterious Moping Prince|image=Pirate2.gif|drops=[[roasted marshmallow]]|note1=Only occurs with a [[marshmallow]] in your inventory, which is consumed.|note2=<font color="red">Lose</font> {{element|Spooky|dmg=X}} [[HP]], gain Y [[MP]].}}
+
+==Notes==
+*When [[Beaten Up]] by these adventures, the effect lasts 4 turns instead of the normal 3.
+*You will lose X HP in {{element|Spooky}}, where X = (level*2) + random(level).  This damage is unaffected by any {{element|Spooky|Resistance}}, [[Damage Absorption]], [[Damage Reduction]], or even [[Spookyform]].
+*You will gain Y MP, where Y = (level*3) + random(level*3).
+*You may not adventure at the bonfire while [[Falling-down drunk]].
+
+[[Category:Locations|Yuletide Bonfire, A]]

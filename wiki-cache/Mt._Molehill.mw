@@ -1,0 +1,47 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+This area, found in [[The Big Mountains]], opens up when you get the effect [[Shape of...Mole!]]
+
+If you try to adventure here without the [[Shape of...Mole!]] effect, you see this message:
+:You shouldn't be here.
+
+==Combat Adventures==
+{{Combat|name=Digital underground dweller|MoxieNoHit=Scales with player stats (Base Moxie + 12)}}
+{{Combat|name=Dwarvish gnome|MoxieNoHit=Scales with player stats (Base Moxie + 12)}}
+{{Combat|name=Spelunking astronaut|MoxieNoHit=Scales with player stats (Base Moxie + 12)}}
+{{Combat|name=Velvet underground dweller|MoxieNoHit=Scales with player stats (Base Moxie + 12)}}
+{{Combat|name=Weather underground dweller|MoxieNoHit=Scales with player stats (Base Moxie + 12)}}
+
+==Non-combat Adventures==
+{{Adventure|name=Attributing a Tributary|image=river2.gif|note1=Gives 20 turns of [[Extra Terrestrial]]}}
+
+{{Adventure|name=A Cave Rave, Dave|image=ravemaster.gif|note1=Gives 5 turns of [[Cravin' for a Ravin' (effect)|Cravin' for a Ravin']]}}
+
+{{Adventure|name=Elementary, My Dear School|image=blackboard.gif|note1=Gives 5 turns of [[Arcane in the Brain]]}}
+
+{{Adventure|name=A Fairly Large Fairy|image=bigfairy.gif|note1=Restores HP}}
+
+{{Adventure|name=Here She Come Now Singin' Molé Molé|image=molechef.gif|drops=[[mole molé]]}}
+
+{{Adventure|name=It's Not the Heat, It's the Madness|image=Weatherug.gif|drops=[[Climate Colada]]}}
+
+{{Adventure|name=A Labour of Moles|image=manymoles.gif|stat=X {{muscle}}, X {{mysticality}}, X {{moxie}}}}
+
+{{Adventure|name=Morlock or Lesslock|image=morlock.gif|drops=[[Morlock's Mark Bourbon]]}}
+
+{{Adventure|name=No Sects in the Potion Room|image=digitalug.gif|drops=[[digital underground potion]]}}
+
+{{Adventure|name=A Secret Ooze|image=slickpool.gif|note1=Restores MP}}
+
+{{Adventure|name=Way Ponderous|image=manydrops.gif|note1=Gives 20 turns of [[Liquid Courage]]}}
+
+{{Adventure|name=Worries for Another Day|image=crystalcity.gif|note1=Gives 20 turns of [[Bureaucratized]]}}
+
+==Notes==
+*The non-combat adventures change depending on how you are using your mole [[Tunnel Upwards|tunneling]] [[Tunnel Downwards|skills]] during fights.
+*Specific non-combats can be reached when you follow [[Path of the Mole|a certain path]].
+*All the scaling monsters cap at stat 200.
+
+==References==
+*Mt. Molehill is a reference to the old idiom "[[Wikipedia:Make a mountain out of a molehill|Make a mountain out of a molehill]]".
+[[Category:Locations]]

@@ -1,0 +1,43 @@
+[[image:wcstore.gif|The White Citadel|center]]
+
+[[The White Citadel]] is located in the [[The Distant Woods|Distant Woods]].  One may gain access to the White Citadel by completing the [[White Citadel Quest]] given by one's [[Guild Hall|guild]].
+----
+
+{| style="margin-left: auto; margin-right: auto;"
+|-
+| [[Image:burgerguy.gif]]
+| Welcome to the White Citadel, Adventurer. Are you hungry?
+|}
+
+*On first visit:
+:Oh, hey, [Player Name], right? Here's your carryout order. That'll be 300 Meat.
+
+{{acquire|item=White Citadel Satisfaction Satchel}}
+
+*If you don't have 300 Meat:
+:Oh, hey, [Player Name], right? Here's your carryout order. That'll be 300 Meat.
+:
+:Oooh, I guess you can't have it. Come back when you're not so broke.
+
+==Items Sold==
+{| style="margin: auto"
+!colspan="2"|Item:||Price:
+|-
+|colspan="3" height="1" bgcolor="black"|
+|-
+!colspan="3"|— Menu —
+|-
+|colspan="3" height="1" bgcolor="black"|
+{{StoreItem|item=White Citadel burger|price=100}}
+{{StoreItem|item=White Citadel fries|price=80}}
+{{StoreItem|item=onion shurikens|price=80}}
+{{StoreItem|item=Regular Cloaca Cola|price=80}}
+{{StoreItem|item=Diet Cloaca Cola|price=80}}
+{{StoreItem|item=Cherry Cloaca Cola|price=80}}
+|}
+
+==References==
+*The White Citadel refers to the [[wikipedia:White Castle (restaurant)|White Castle]] fastfood-chain.
+
+[[Category:Locations|White Citadel, The]]
+[[Category:NPC Stores|White Citadel, The]]

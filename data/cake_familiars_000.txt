@@ -1,0 +1,10 @@
+# Familiars
+#	Data about specific familiars.
+#
+# File Format:
+#	1. Familiar Name - The proper name of the familiar
+#	2. Hatchling - The item the familiar comes from
+#
+
+Angry Goat	goat
+Stinky Gravy Fairy	pregnant stinky mushroom

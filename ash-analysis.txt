@@ -1,0 +1,36 @@
+Primitives
+
+	void
+	boolean
+	int
+	float
+	string
+	item
+	effect
+	class
+	stat
+	skill
+	familiar
+	slot
+	location
+	zodiac
+
+Flow Control Keywords:
+
+	if
+	else
+	while
+	for
+	from
+	upto
+	downto
+	by
+	foreach
+	in
+	repeat
+	until
+	switch
+
+Structures
+
+	record

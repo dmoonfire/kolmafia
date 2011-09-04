@@ -1,0 +1,25 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The '''Haunted Kitchen''' is located in [[Spookyraven Manor]], an area that takes the place of [[The Haunted Pantry]] on the [[Right Side of the Tracks]].  Primary stat of 5 is needed to enter. If your main stat isn't high enough, you'll see the following message:
+:
+As you reach for the door to the Haunted Kitchen, you hear a ghostly moaning coming from the other side. You once saw a bumper sticker that said "If the kitchen's a moanin', don't be a-goin' in," and you decide that you should maybe heed that advice until you get a little tougher.
+:
+:<center>(You must have at least 5 $Stat to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=demonic icebox}}
+{{Combat|name=paper towelgeist}}
+{{Combat|name=possessed silverware drawer|note1=The butcher knife is a [[Ascension#One Time|one-time]] drop.}}
+{{Combat|name=skullery maid}}
+{{Combat|name=zombie chef}}
+
+==Non-combat Adventures==
+{{Adventure|name=Nicebox|drops=[[ancient frozen dinner]], [[brains casserole]], [[leftovers of indeterminate origin]]|image=demfridge.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Play Misty For Me|drops=[[freezerburned ice cube]]|image=fridge.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]]}}
+
+{{Adventure|name=If You Smell Something Burning, It's My Heart|image=goopplate.gif|note1=Gives 10 Turns of [[Burning Heart]].|note2=[[Bad Moon]] only.}}
+
+{{Adventure|name=Nice Rack!|image=spicerack.gif|drops=[[scintillating powder]]|note1=[[Pastamancer]] only.}}
+
+[[Category:Locations|Haunted Kitchen, The]]

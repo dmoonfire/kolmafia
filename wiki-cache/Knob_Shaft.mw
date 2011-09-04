@@ -1,0 +1,25 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Knob Shaft]] is located in the [[Cobb's Knob Laboratory]]. To reach it, you will need the [[Cobb's Knob lab key]]. If you have [[Mining Gear]], you can mine here.
+
+<center>(You must have at least 30 <Stat> to adventure here.)</center>
+__TOC__
+
+==Undisguised==
+===Combat Adventures===
+{{Combat|name=ghost miner}}
+
+===Non-combat Adventures===
+{{Adventure|name=Mine!|drops=[[bubblewrap ore]], [[cardboard ore]], [[styrofoam ore]]|image=minecart.gif}}
+
+{{choice|name=Junction in the Trunction|image=Mineshaft.gif
+|choice1name=Go down the left shaft|choice1=3 {{plural|cardboard ore}}
+|choice2name=Go down the middle shaft|choice2=3 {{plural|styrofoam ore}}
+|choice3name=Go down the right shaft|choice3=3 {{plural|bubblewrap ore}}
+|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+==In Disguise==
+"The ghosts in the Knob Shaft don't recognize you, because you're wearing Mining Gear. You walk deep into the shaft, and find a nice, quiet place to mine."
+{{Adventure|noline=1|name=Deep Inside the Knob Shaft|drops=[[bubblewrap ore]], [[cardboard ore]], [[meat stack]], [[stone of eXtreme power]], [[styrofoam ore]]|image=mattock.gif|note1=Not an adventure, but a minigame where you can spend turns mining for ores.}}
+
+[[Category:Locations|Knob Shaft, The]]

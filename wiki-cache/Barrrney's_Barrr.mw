@@ -1,0 +1,58 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[Barrrney's Barrr]] is located in [[the Obligatory Pirate's Cove (in disguise)]] on [[the Mysterious Island of Mystery]].
+
+[[Swashbuckling Getup]] or [[pirate fledges]] are needed to adventure here. If accessed through use of the Last Adventure link without them, you will see this message: 
+:You shouldn't be here.
+
+==Combat Adventures==
+
+{{Combat
+|name=tetchy pirate
+|stat=20-21
+|level=83}}
+
+{{Combat
+|name=toothy pirate
+|stat=20-21
+|level=83}}
+
+{{Combat
+|name=tipsy pirate
+|stat=20
+|level=80}}
+
+==Non-combat Adventures==
+
+{{Adventure|name=The Right to Bear Arrrrms|stat=60 {{Muscle}}|note1=Only occurs during [[Teetotaler]] and [[Oxygenarian]] ascensions.|image=paddy.gif}}
+
+{{Adventure|name=Abstinence Makes the Heart Grow Fonder|stat=60 {{Mysticality}}|note1=Only occurs during [[Teetotaler]] and [[Oxygenarian]] ascensions.|image=paddy.gif}}
+
+{{Adventure|name=Get Real|stat=60 {{Moxie}}|note1=Only occurs during [[Teetotaler]] and [[Oxygenarian]] ascensions.|image=paddy.gif}}
+
+{{Adventure|name=Voulez-vous manger avec moi?|drops=[[jar of "Creole Lady" marrrmalade]]|note1=Only occurs during [[Oxygenarian]] ascensions.|image=paddy.gif}}
+
+{{choice|name=A Test of Testarrrsterone|image=haiku4.gif
+|choice1name=Cheat|choice1=With Mysticality being your prime stat, gain up to 100 each {{muscle}}, {{mysticality}}, {{moxie}}; otherwise gain {{muscle}} and {{moxie}}.
+|choice2name=Drink up and hope for the best|choice2=Gain 3 [[drunkenness]], and up to 300 {{muscle}}, {{mysticality}}, {{moxie}}.
+|choice3name=Wuss out|choice3=Gain approximately 2 times <mainstat> in {{moxie}} (max 150).}}
+
+{{choice|name=That Explains All The Eyepatches|image=dartboard.gif|choice1name=Carefully throw the darrrt at the tarrrget|choice1=If you are a [[Mysticality]] class: Gain 3 [[drunkenness]], 2.5 * <mainstat> {{mysticality}} (max 400) and 1 to 2 times <mainstat> {{Muscle}} and {{moxie}} (max 300); otherwise, fight a [[tipsy pirate]].
+|choice2name=Pull one over on the pirates|choice2=If you are a [[Moxie]] class: Gain 3 [[drunkenness]], 2.5 * <mainstat> {{moxie}} (max 400) and 1 to 2 times <mainstat> {{Muscle}} and {{mysticality}} (max 300); otherwise, obtain a [[shot of rotgut]].
+|choice3name=Throw hard and hope for the best|choice3=If you are a [[Muscle]] class: Gain 3 [[drunkenness]], 2.5 * <mainstat> {{muscle}} (max 400) and 1 to 2 times <mainstat> {{mysticality}} and {{moxie}} (max 300); otherwise, obtain a [[shot of rotgut]].}}
+
+{{choice|name=Yes, You're a Rock Starrr|image=micstand.gif
+|choice1name=Sing the high-pitched, densely harmonic "Knob Goblin Rhapsody."|choice1=Gain 2-5 of the following: [[bottle of gin]], [[bottle of rum]], [[bottle of vodka]], or [[bottle of whiskey]].
+|choice2name=Sing the ridiculously long ballad "Banana Cream Pie."|choice2=Gain 2-3 of the following: [[grog]], [[monkey wrench]], [[redrum]], [[rum and cola]], [[spiced rum]], or [[strawberry daiquiri]].
+|choice3name=Sing the Southern Hey Deze tune "Fiends in Low Places."|choice3=
+With 1 [[drunkenness]], fight a [[tetchy pirate]]; otherwise gain ? {{Muscle}}, {{Mysticality}}, & {{Moxie}} (scales with drunkenness).}}
+
+{{Adventure|name=You and the Cap'm Make it Hap'm|drops=[[Cap'm Caronch's Map]]|image=caronch.gif}}
+
+{{Adventure|name=This Adventure Bites|note1=Only occurs after the [[You and the Cap'm Make it Hap'm]] adventure with [[Cap'm Caronch's nasty booty]] in inventory|drops=[[Orcish Frat House blueprints]] | image=caronch.gif}}
+
+{{Adventure|name=Step Up to the Table, Put the Ball in Play|note1=Only occurs after the [[This Adventure Bites]] adventure with [[Cap'm Caronch's dentures]] in inventory | image=caronch.gif}}
+
+{{choice|image=Beerpong.gif|name=Arrr You Man Enough?|choice1name=Step up|choice2name=Back off|choice1=Play [[Insult Beer Pong]]|choice2=Nothing (no adventure loss).|note1=Only occurs after the [[Step Up to the Table, Put the Ball in Play]] adventure.}}
+
+[[Category:Locations]]

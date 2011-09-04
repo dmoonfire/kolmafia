@@ -1,0 +1,68 @@
+{{NeedsSpading|comment=New combat frequency?}}
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Deep Fat Friars' Gate]] is located in the [[Copse of the Deep Fat Friars]], but does not become visible until you have been given the [[Deep Fat Friars' Gate Quest]]. Once the quest has been completed, you can adventure here. You will encounter adventures from [[The Dark Neck of the Woods|The Dark Neck]], [[The Dark Heart of the Woods|The Dark Heart]], and [[The Dark Elbow of the Woods]], as well as a few new adventures. All monsters here have {{element|hot|resistance}}.
+
+If your main stat isn't high enough, you will see the following message:
+
+:You should not be here.
+
+:(You must have at least 29 <stat> to adventure here.)
+
+==Combat Adventures==
+{{Combat|name=Demoninja|note1=[[Fraudwort]] will not drop unless you have received [[Doc Galaktik's Quest for Herbs]].}}
+
+{{Combat|name=Fallen Archfiend}}
+
+{{Combat|name=G imp}}
+
+{{Combat|name=Hellion}}
+
+{{Combat|name=L imp}}
+
+{{Combat|name=P imp}}
+
+{{Combat|name=W imp}}
+
+{{Combat|name=Hypnotist of Hey Deze|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{Adventure|name=Der Bierdieb|drops=3 [[Imp Ale]]s|image=wimp.gif}}
+
+{{Adventure|name=Friar No More|meat=150|image=corpse.gif}}
+
+{{Adventure|name=On Wings of Fire|drops=2 [[hot wing]]s|image=wingplate.gif}}
+
+{{Adventure|name=Leavesdropping|meat=None|stat=50 {{Moxie}}|note1=With [[Lord Spookyraven's ear trumpet]] equipped, a demon name for [[Summoning Chamber|summoning]] is gained instead of the Moxie bonus.|image=dodecagram2.gif}}
+
+{{Choice|name=Bureaucracy of the Damned|image=pencildemon.gif
+|choice1name=Follow the pencilnecked demon|choice1=[[Azazel, Ma Belle]]
+|choice2name=Follow the pencilnecked demon|choice2=[[Azazel, Ma Belle]]
+|choice3name=Follow, follow, follow, follow, follow the pencilnecked demon|choice3=[[Azazel, Ma Belle]] 
+|choice4name=Don't follow the pencilnecked demon|choice4=Nothing. (Does not cost an adventure.)}}
+
+{{Adventure|name=Highway to Hey Deze|drops=[[Hey Deze map]]|note1=A [[Ascension#One Time|one-time]] adventure.|image=inchworm.gif}}
+
+{{Adventure|name=We're on a Bridge!|drops=[[Azazel's unicorn]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Occurs on the 10th turn spent in this area|image=bridge.gif}}
+
+{{Adventure|name=It's a Good Ship!|drops=[[Azazel's lollipop]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Occurs on the 20th turn spent in this area|image=ship.gif}}
+
+{{Adventure|name=Going Ballet Up|drops=[[Azazel's tutu]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Occurs on the 30th turn spent in this area|image=crappybldg.gif}}
+
+{{Adventure|name=It's The Only Way To Be Sure|drops=[[SPF 451 lip balm]]|note1=A [[Semi-Rare Adventures|semi-rare adventure]].|image=wimp.gif}}
+
+{{Adventure|name=Condemned|drops=[[figurine of a charred seal]]|image=crappybldg.gif|note1=Occurs only for [[Seal Clubber]]s}}
+
+{{Adventure|name=Marble, the Archfiend|image=archfiend.gif|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Marble, the Archfiend|image=archfiend.gif|drops=[[EZ-Play Harmonica Book]]|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[boock of darck magicks]].}}
+
+{{Adventure|name=Oil Be Seeing You|image=Gimp.gif|note1=Gives 10 turns of [[Basted]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*Along with the other fast food references, the term "Deep Fat Friars" refers to [[wikipedia:Deep fryer|deep fat fryers]].
+*The picture for the Deep Fat Friars' Gate is a reference to the five stones in ''[[Wikipedia:Diablo II|Diablo II]]'' that open a portal to Tristram.
+
+[[Category:Locations|Deep Fat Friars' Gate, The]]

@@ -1,0 +1,41 @@
+'''The Purple Light District''' is the {{element|sleaze|}} zone in [[Hobopolis]].
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+{{clear}}
+==Combat Adventures==
+{{Combat|name=Sleaze hobo}}
+
+{{Combat|name=Chester|note1=Occurs only as a choice of [[Van, Damn]].}}
+
+===Non-combat Adventures===
+{{choice|name=The Furtivity of My City|image=Dumpster.gif
+|choice1name=Eviscerate him|choice1=Fight [[Sleaze hobo]]
+|choice2name=Intimidate him|choice2=Move trash to [[The Heap]]
+|choice3name=Wait for him to leave|choice3=Deposit 4000-6000 Meat in [[Clan Coffer]], increase hobo count first 10 times; otherwise, nothing}}
+
+{{choice|name=Getting Clubbed|image=club3.gif
+|choice1name=Try to get inside|choice1=[[Exclusive!|Get into club]] if club is unpopular enough; else, nothing.
+|choice2name=Try to bamboozle the crowd|choice2=Makes club less popular.
+|choice3name=Try to flimflam the crowd|choice3=Makes club less popular.  Adds [[A Chiller Night|an adventure]] to the [[The Ancient Hobo Burial Ground|AHBG]]}}
+
+{{choice|name=Maybe It's a Sexy Snake!|image=slhobo3.gif
+|choice1name=Take a Chance? (5 hobo nickels)|choice1=Trade 5 [[hobo nickel]]s for [[lewd playing card]]
+|choice2name=No... no... really. No thanks.|choice2=Nothing (consumes adventure).
+|note1=A [[Semi-Rare Adventures|semi-rare]] adventure.}}
+
+{{choice|name=Van, Damn|image=candyvan.gif
+|choice1name=Cruise for a bruisin'|choice1=Fight [[Chester]]
+|choice2name=Don't bother knockin'|choice2=Nothing. (No Adventure loss.)
+|note1=This adventure only occurs when The Purple Light District is clear of hobos.}}
+
+{{adventure|name=This Van's a' Rockin'|image=candyvan.gif|note1=Occurs when somebody else is already fighting [[Chester]].}}
+
+{{Adventure|name=All Sleazed Out|image=boardedup.gif|note1=Occurs whenever adventuring here after [[Chester]] is defeated.|note2=Does not consume an adventure.}}
+
+==References==
+*Purple Light District is a direct play on Red Light District, which refers to a neighborhood where prostitution and brothels are located, so called for the practice of using red lights to make their services obvious.
+*Also, the pawn shops shown in the Purple Light District's picture might have something to do with how some people pronounce "pawn". 
+
+{{HobopolisNav}}
+
+[[Category:Locations|Purple Light District. The]]

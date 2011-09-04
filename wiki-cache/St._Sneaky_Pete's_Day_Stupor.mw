@@ -1,0 +1,90 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+__NOTOC__ 
+The '''St. Sneaky Pete's Day Stupor''' is a special kind of [[Drunken Stupor]] that can only be obtained on [[St. Sneaky Pete's Day]].  While in this special stupor, you will get unique adventures, as can be seen below.
+
+In order to get into this condition, you must get your drunkenness up to 26 by any method. You can drink [[green beer]]s, which allow you to drink to 10 past your normal drunkenness limit (before or after [[Liver of Steel]]), one of the [[Dungeons_of_Doom_potion|bang potions]] gives 1-3 points of drunkenness, a [[Yummy Tummy bean]] might give 1 point of drunkenness, and one [[668 scroll]] result gives 10 points of drunkenness. Once you reach at least 26 drunkenness, you will have "Sneaky Pete's Day Stupor" adventures instead of the standard "Drunken Stupor" adventures.
+
+==Stupor Adventures==
+{{adventure|name=A Concerned Citizen|meat=<font color=red>-50</font>|image=haiku5.gif|note1=<font color=red>Lose</font> 5 HP}}
+
+{{adventure|name=A Mean Drunk|image=superman.gif|note1=<font color=red>Lose</font> 10 HP}}
+
+{{adventure|name=Coyote Ugly (Arm Loss)|image=qmark.gif|note1=You acquire an effect: [[Gnawed-Off Arm]] (5)}}
+
+{{adventure|name=Dangerously Inappropriate|stat=<font color=red>-5</font> {{muscle}}|image=phonebooth.gif}}
+
+{{adventure|name=It's Japanese for "Can't Sing"|drops=[[tomato]]|image=typical.gif|note1=<font color=red>Lose</font> 10 HP}}
+
+{{adventure|name=Off the Rail|image=pooltable2.gif|note1=<font color=red>Lose</font> 10 HP}}
+
+{{adventure|name=Quite a Joke|image=typical.gif|note1=<font color=red>Lose</font> 10 HP}}
+
+{{adventure|name=Reach Out and Offend Someone (Seaside Town)|meat=<font color=red>-15</font>|stat=<font color=red>-5</font> {{moxie}}|image=phonebooth.gif}}
+
+{{adventure|name=Tall Tales and Low Blows|image=vomit.gif|note1=<font color=red>Lose</font> 10 HP}}
+
+{{adventure|name=Watch Where You're Going, Jerk!|stat=<font color=red>-5</font> {{muscle}}|image=phonepole.gif}}
+
+{{adventure|name=What Is This, Some Kind of Joke?|image=typical.gif}}
+
+{{adventure|name=What Would You Do For Some Worthless Crap|drops=[[string of blue beads]], [[string of green beads]], [[string of red beads]]|image=fratboy.gif|note1=You can only get this adventure if your character is [[Gender Differences|female]]. You will get 1 string of beads for each time you get this adventure.}}
+
+===Special Adventures===
+
+====St. Sneaky Pete's Day I-V====
+{{adventure|name=Antimotion|drops=[[cheap plastic bottle opener]]|image=typical.gif|note1=This adventure was available on St. Sneaky Pete's Day I - V.}}
+
+{{adventure|name=To the Rescue|drops=[[orange traffic cone]], [[yellow traffic cone]], [[red traffic cone]], [[green traffic cone]], [[blue traffic cone]]|image=sorority.gif|note1=You can only get this adventure if you have a [[cheap plastic bottle opener]] equipped.|note2=The traffic cone appears in your inventory after the next rollover.|note3=This adventure was available on St. Sneaky Pete's Day I - V.}}
+
+====St. Sneaky Pete's Day VI====
+{{adventure|name=Boozehare|drops=[[St. Sneaky Pete's Day goodies basket]]|image=fbunny.gif|note1=You can only get this adventure if your character has a [[portable corkscrew]] equipped.|note2=This adventure was available on St. Sneaky Pete's Day VI.}}
+
+====St. Sneaky Pete's Day VI-VII====
+{{adventure|name=Screwed|drops=[[portable corkscrew]]|image=typical.gif|note1=This adventure was available on St. Sneaky Pete's Day VI - VII.}}
+
+====St. Sneaky Pete's Day VII====
+{{adventure|name=The Unkindest Cut|drops=[[blue ribbon]]|image=spleenaward.gif|note1=You can only get this adventure if your character has a [[portable corkscrew]] equipped.|note2=This adventure was available on St. Sneaky Pete's Day VII.|note3=The [[blue ribbon]] appears in your inventory after the next rollover.}}
+
+====St. Sneaky Pete's Day VIII-X, XII-XIV====
+{{adventure|name=Getting Flashed|drops=[[flashing novelty button]]|image=buttongirl.gif|note1=This adventure was experienced Sneaky Pete's Day VIII - X, XII - XIII.}}  This adventure occurs once even if a [[flashing novelty button]] from a previous SSPD is worn.
+
+{{adventure|name=Cravin' for a Ravin' (adventure)|drops=[[orange glowstick]], [[green glowstick]], [[pink glowstick]], [[yellow glowstick]], [[blue glowstick]], or [[purple glowstick]]|image=gstickguy.gif|note1=This adventure was experienced Sneaky Pete's Day VIII - X, XII - XIV with a [[flashing novelty button]] equipped.}}
+
+====St. Sneaky Pete's Day XII-XIV====
+
+{{adventure|name=Reach Out and Offend Someone (Cinco de Mayo)|stat=5 {{moxie}}|image=Phonebooth.gif}}
+
+====St. Sneaky Pete's Day XV-XXII====
+{{adventure|name=Whoah, It's So Meta!|image=Haiku4.gif|meat=<font color=red>-25</font>|}}
+
+{{adventure|name=What's Up, Chuck?|image=Flattopguy.gif|meat=<font color=red>-15</font>|}}
+
+{{adventure|name=A Kingly Reward|image=Discobandit.gif|drops=[[tattered paper crown]]
+|note1=This adventure only occurs without a [[tattered paper crown]] in inventory, display case or equipped.}}
+
+{{adventure|name=That Takes The Cake|image=Cakeguy.gif|drops=[[vanilla-frosted king cake]], [[banana-frosted king cake]], [[blueberry-frosted king cake]], [[chocolate-frosted king cake]]
+|note1=This adventure only occurs with a [[tattered paper crown]] equipped.
+|note2=The [[tattered paper crown]] is consumed.}}
+
+===St. Sneaky Pete's Day XI ([[Wikipedia:Cinco de Mayo|Cinco de Mayo]])===
+{{choice|name=Another Adventure About BorderTown|image=typical.gif
+|choice1name=Happy Hour at the Cantina Típica|choice1=Acquire [[outrageous sombrero]] if you have a [[tin star]] equipped
+|choice2name=¡Siesta Fiesta!|choice2=Gain 40-50 HP and 40-50 MP
+|choice3name=Gunfight at the Pretty Decent Corral|choice3=Acquire [[tin star]] or lose 3 HP}}
+
+{{adventure|name=A Wetted Appetite|drops=[["Humorous" T-shirt]] (with Torso Awaregness)|stat=5 {{mysticality}} (without Torso Awaregness)|image=typical.gif}}
+
+{{adventure|name=It's a Twister!|stat=<font color="red">-15</font> {{moxie}}|image=typical.gif|note1=<font color="red">Lose</font> 15 HP}}
+
+{{adventure|name=Karaoke Sucks in Spanish, Too!|drops=[[bottle of tequila]]|image=typical.gif|note1=<font color="red">Lose</font> 10 HP}}
+
+{{adventure|name=Reach Out and Offend Someone (South of the Border)|stat=5 {{moxie}}|image=Phonebooth.gif}}
+
+{{adventure|name=The Fabulous Seven|meat=50|image=Mexiguy.gif}}
+
+==Notes==
+*Since many of the adventures will cause you to lose meat, it is recommended that you put all of your meat in your [[Your Colossal Closet|closet]]. When you're finished adventuring, you can withdraw all of it. You will still have the adventures and it will say you lose [x] meat, but the amount in your closet will not change.
+*If you attempt to go on a '''St. Sneaky Pete's Day Stupor''' via the Last Adventure link the following day, you get the message, "You shouldn't be here."
+*[[Teleportitis]] used to take precedence over these adventures so you would be able to pickpocket and fight normally under it until that effect wears off, but starting in St. Sneaky Pete's Day XI, this bug was fixed.
+
+[[Category:Locations|St. Sneaky Pete's Day Stupor]]

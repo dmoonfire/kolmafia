@@ -1,0 +1,20 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+[[The Dive Bar]] is located on [[The Sea Floor]].  It is full of surly fish and is [[#Notes|more heavily pressurized]] than the rest of the sea floor.
+
+==Combat Adventures==
+{{combat|name=lounge lizardfish|note1=The [[hair of the fish]] will not drop until you ask [[Grandpa]] about the lizardfish.}}
+{{combat|name=Mer-kin tippler}}
+{{combat|name=nurse shark|note1=The [[blank prescription sheet]] will not drop until you ask [[Grandpa]] about the nurse shark.}}
+==Non-combat Adventures==
+{{adventure|name=No Country Music for Old Men|image=sm_grandpa.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs for [[Accordion Thief|Accordion Thieves]].}}
+{{adventure|name=Salty Old Men|image=sm_grandpa.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[No Country Music for Old Men]].}}
+{{choice|name=Boxing the Juke|image=sm_grandpa.gif|choice1name=Listen to the Music|choice1=Learn [[Donho's Bubbly Ballad (skill)|Donho's Bubbly Ballad]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[Salty Old Men]].}}
+{{adventure|name=Bar Hunting|image=sm_grandpa.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs for [[Disco Bandit]]s.}}
+{{adventure|name=The Salt of the Sea|image=sm_grandpa.gif|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[Bar Hunting]].}}
+{{choice|name=Ode to the Sea|image=sm_grandpa.gif|choice1name=Let Grandpa Learn You Something|choice1=Learn [[Salacious Cocktailcrafting]]|note1=A [[Ascension#One Time|one-time]] adventure.|note2=Only occurs after you have experienced [[The Salt of the Sea]].}}
+{{choice|name=Barback|image=metaldoor.gif|choice1name=Go get a seaode|choice1=Acquire [[seaode]]. Limit of 3 per day.|choice2name=Leave it beaode|choice2=Leaves.|note1=Only occurs if you have already learned [[Salacious Cocktailcrafting]].}}
+
+==Notes==
+*This zone has all of the mechanics for [[underwater adventuring]].  Amongst other things, this means this zone has a <font color=red>-200%</font> penalty to [[Meat from Monsters|meat drops]] and [[Items from Monsters|item drops]].
+
+[[Category:Locations|Dive Bar, The]]

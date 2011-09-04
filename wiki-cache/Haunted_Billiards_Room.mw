@@ -1,0 +1,47 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_DualLocation}}
+
+The Haunted Billiards Room is located in [[Spookyraven Manor]], an area that takes the place of [[The Haunted Pantry]] on the [[Right Side of the Tracks]]. Primary stat of 10 is needed to enter. If your main stat isn't high enough, you'll see the following message:
+
+As you near the Billiards Room, your face goes as white as chalk and you become racked with fear.
+:
+"That's my cue to leave," you think to yourself, as you hustle away.
+:
+:<center>(You must have at least 10 $Stat to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=chalkdust wraith}}
+{{Combat|name=pooltergeist}}
+
+==Non-combat Adventures==
+{{Choice|name=Minnesota Incorporeals|image=pooltable.gif
+|choice1name=Break|choice1=Gain (mainstat ±4) {{Moxie}}, capped between 10 and 50.
+|choice2name=Let the Ghost Break:<br />
+:*'''Go for a solid:'''
+::*'''Go for the 8-ball:'''
+:::*'''With [[Chalky Hand]]:''' Acquire [[Spookyraven library key]] ([[Ascension#One Time|one-time]] drop).
+:::*'''Without [[Chalky Hand]]:'''  You lose.
+::*'''Play defensively:''' You gain (mainstat ±4) {{Mysticality}}, capped between 10 and 50.
+::*'''Chicken out:''' Leave, no adventure loss.
+:*'''Go for a stripe:''' You gain (mainstat ±4) {{Muscle}}, capped between 10 and 50.
+:*'''Go for a walk:''' Leave, no adventure loss.
+|choice3name=Run Away|choice3=Leave, no adventure loss.
+|note1=This adventure will not occur unless you are adventuring here with a [[pool cue]] equipped.
+|note2=The [[Spookyraven library key]] is required in order to unlock [[the Haunted Library]].
+}}
+
+{{Adventure|name=That's your cue|drops=[[pool cue]]|image=cuerack.gif|note1=This adventure will not occur with a [[pool cue]] equipped or in your inventory.}}
+
+{{choice|name=A Shark's Chum|image=poolghost.gif
+|choice1name=Rack 'em up|choice1=Gain gain up to 10 each {{muscle}}, {{mysticality}}, {{moxie}}.
+|choice2name=Knock 'em down|choice2=Fight a [[hustled spectre]].
+{{combat|noline=yes|nest=2|name=hustled spectre|note1=Only occurs as a choice of [[A Shark's Chum]].}}
+|note1=Occurs [[semi-rare]]ly.}}
+
+{{Adventure|name=Give me Your Nine|drops=[[9-ball]]|image=big9ball.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Vole Call!|image=Cuerack.gif|note1=Gives 10 turns of [[Re-Possessed]].|note2=[[Bad Moon]] only.}}
+
+==Notes==
+*The [[Minnesota Incorporeals]] stat gains were spaded out at the HCO forums: [http://forums.hardcoreoxygenation.com/viewtopic.php?p=43666#43666 Scaling Adventure Gains for Billiards Room]
+
+[[Category:Locations|Haunted Billiards Room, The]]

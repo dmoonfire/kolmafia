@@ -1,0 +1,53 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The pieces of the device float in midair, connected by beams of energy. Through the space between the beams, you can see into a hallway, the walls of which are made of the same weird carved stone as the device itself. From this fact (and if not this fact, ''this'' exposition) you conclude that the device is some kind of portal, leading to the underground parts of El Vibrato island.
+
+{{button|Step through the portal (1)}}
+
+==Combat Adventures==
+{{combat|name=bizarre construct}}
+{{combat|name=hulking construct|note1=This monster has 100% [[Physical Resistance]] and elemental resistance.}}
+{{combat|name=industrious construct}}
+{{combat|name=lonely construct}}
+{{combat|name=menacing construct}}
+{{combat|name=towering construct}}
+
+==Non-combat Adventures==
+{{adventure|name=Machinations|image=elvmachine.gif}}
+----
+*After N uses:
+[[Image:portal2.gif|center|A Deactivated Portal]]
+
+The pieces of the El Vibrato portal lay strewn on the ground. Looks like the thing has run out of juice.
+
+There is a round depression in the base of the portal -- it looks about the same size as those strange stone spheres from the waters surrounding El Vibrato Island.
+
+----
+{{button|Stick a sphere in it.}}
+*''If the portal is already charged:''
+:You insert the sphere into the base of the portal. There is a crackle of energy as it sinks into the device and vanishes. The beams surrounding the portal glow more brightly.
+*''If the portal was deactivated:''
+:You insert the sphere into the base of the portal. The pieces of the device rise from the ground and energy arcs between them as the El Vibrato portal is reopened.
+----
+{{button|Stick an overcharged sphere in it.}}
+*''If the portal is already charged:''
+:You insert the supercharged sphere into the base of the portal. There is a deafening crackle of energy as it sinks into the device and vanishes. The beams surrounding the portal glow more brightly.
+*''If the portal was deactivated:''
+:You insert the supercharged sphere into the base of the portal. The pieces of the device rise energetically from the ground and energy arcs between them as the El Vibrato portal is reopened.
+
+==Notes==
+*Installed in your campsite by using an [[El Vibrato trapezoid]].
+*Upon initial installation, the portal has 20 charges, allowing 20 adventures in the zone.
+*[[Rollover]] does not recharge A Shimmering Portal.  Only [[El Vibrato power sphere]]s and [[overcharged El Vibrato power sphere]]s do that. 
+**[[El Vibrato power sphere]]s add 5 charges to the portal.
+**[[overcharged El Vibrato power sphere]]s add 10 charges to the portal.
+*[[Machinations]] is not encountered without increasing the rate of [[Combat Frequency|non-combat adventures]].
+*A Shimmering Portal is removed from your [[The Campground|campground]] after [[ascension|ascending]].
+*Each of the combat encounters here have special responses when {{plural|El Vibrato punchcard}} are used on them.  See their individual pages for details.
+*The text shown under the Last Adventure bar states the zone's name as El Vibrato Island.
+*Exiting combat without losing an adventure (through the use of the [[navel ring of navel gazing]], [[divine champagne popper]]s, [[tattered scrap of paper|tattered scraps of paper]] or other like [[Combat Items|combat items]] and [[skill]]s) still consumes a charge from the portal.
+
+==See Also==
+*[[El Vibrato Island guide]]
+
+[[Category:Locations|Shimmering Portal, A]]

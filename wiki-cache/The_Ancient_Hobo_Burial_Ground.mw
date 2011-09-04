@@ -1,0 +1,49 @@
+'''The Ancient Hobo Burial Ground''' is the {{element|spooky|}} zone in [[Hobopolis]]. Hobos in this zone are resistant to all elemental damage.
+
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+{{clear}}
+==Combat Adventures==
+{{Combat|name=Spooky hobo|note1=Has 100% resistance to all elements, though it is still a spooky creature.}}
+
+{{Combat|name=Zombo|note1=Occurs only as a choice of [[Welcome To You!]].|
+note2=Has 100% resistance to all elements, though it is still a spooky creature.}}
+
+==Non-combat Adventures==
+{{choice|name=Returning to the Tomb|image=smalltomb.gif
+|choice1name=Pry open the door|choice1=9,000-11,000 meat (goes to [[Clan Coffer]]). Increases Spooky Hobos by ~10.
+|choice2name=Disturb not ye these bones|choice2=Nothing.  Does not consume an adventure.
+|note1=After opening the tomb 10 times this adventure will no longer occur in the current instance of [[Hobopolis]].}}
+
+{{choice|name=Ah, So That's Where They've All Gone|image=tombstone.gif
+|choice1name=Send the flowers to The Heap|choice1=Advances [[The Heap]] and sets back the Burial Ground
+|choice2name=Tiptoe through the tulips and leave|choice2=Skip adventure}}
+
+{{choice|name=A Chiller Night|image=3zombies.gif
+|choice1name=Study the hobos' dance moves |choice1=Become more in-tune with dancers (may add spooky hobos)
+|choice2name=Dance with them |choice2=Kill hobos?
+|choice3name=Duck out the back way|choice3=Skip adventure?
+|note1=Unlocked by choosing to flimflam in [[Getting Clubbed]].}}
+
+{{choice|name=A Chiller Night (2)|image=3zombies.gif
+|choice1name=Dance with them|choice1=Kill hobos
+|choice2name=Resist the temptation |choice2=Leave?
+|note1=Replaces [[A Chiller Night]] after studying moves 3 times}}
+
+{{choice|name=Flowers for You|image=nopic.gif
+|choice1name=Buy a flower|choice1=Obtain a [[deadly lampshade]] for 5 [[hobo nickel]]s
+|choice2name=Flee this creepy scene|choice2=Skip adventure
+|note1=A [[Semi-Rare Adventures|semi-rare]] adventure.}}
+
+{{choice|name=Welcome To You!|image=bigcrypt.gif
+|choice1name=Enter the 'comb|choice1=Fight [[Zombo]]
+|choice2name=Avoid this particular brush with death|choice2=Skip adventure}}
+
+{{Adventure|name=Take a Number|image=bigcrypt.gif
+|note1=Occurs when somebody else is already fighting [[Zombo]].}}
+
+{{Adventure|name=All done here. (burial ground)|image=tombstone.gif
+|note1=Occurs after [[Zombo]] has been defeated. Does not consume an adventure.}}
+
+{{HobopolisNav}}
+
+[[Category:Locations|Ancient Hobo Burial Ground, The]]

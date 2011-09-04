@@ -1,0 +1,96 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Sleazy Back Alley]] is located in [[Seaside Town]] on the [[Wrong Side of the Tracks]].
+
+==Combat Adventures==
+{{Combat|name=big creepy spider|note1=A successful attack from this monster has a chance of giving you 10 [[Adventures]] of [[Hardly Poisoned at All]].}}
+{{Combat|name=completely different spider|note1=A successful attack from this monster has a chance of giving you 10 [[Adventures]] of [[Hardly Poisoned at All]].}}
+{{Combat|name=drunken half-orc hobo|note1=Only encountered during the first [[Ascension|ascension]] and alternating ascensions after that. Otherwise, you encounter [[hung-over half-orc hobo]]s instead.}}
+{{Combat|name=hung-over half-orc hobo|note1=Only encountered on alternating ascensions (after the first). Otherwise, you encounter [[drunken half-orc hobo]]s instead.}}
+{{Combat|name=rushing bum}}
+{{Combat|name=crazy bastard|note1=An [[Ultra Rares|ultra rare]] adventure.}}
+
+==Non-combat Adventures==
+{{choice|name=Aww, Craps|image=dice_adv.gif
+|choice1name=Cheat Just a Little|choice1=4-5 {{moxie}}
+|choice2name=Cheat Like Crazy|choice2=7 {{moxie}} and 31-40 meat ''or'' lose 2 [[HP]]
+|choice3name=Bilk 'em, Danno|choice3=6-8 {{moxie}}, 41-49 meat, and [[Smugness]] (10 Adventures) ''or'' lose all [[HP]]
+|choice4name=Walk Away|choice4=(Does not use an adventure)}}
+
+{{choice|name=Dumpster Diving|image=dumpster.gif
+|choice1name=Punch the hobo|choice1=fight [[drunken half-orc hobo]]
+|choice2name=Rob the hobo|choice2= 3-4 meat, 4-5 {{moxie}}
+|choice3name=Look under the hobo|choice3=[[Mad Train wine]]}}
+
+{{choice|name=The Entertainer|image=puppetbox.gif
+|choice1name=Put on a classical tragedy|choice1=4-5 {{moxie}}
+|choice2name=Do a musical, instead|choice2=2-4 {{moxie}}, 2-4 {{muscle}}
+|choice3name=Try for a science-fiction double feature|choice3=15 meat ''or'' 15 meat and 6-8 {{mysticality}}
+|choice4name=Introduce them to avant-garde|choice4=(Does not use an adventure)}}
+
+{{choice|name=Under the Knife|image=clinic.gif
+|choice1name=Yes! I'm trapped in the wrong body! (500 Meat)|choice1=Switch [[Gender Differences|Genders]]
+|choice2name=Umm, no thanks. Seriously.|choice2=(Does not use an adventure)}}
+
+{{Adventure|name=In the Still of the Alley|drops=3 {{plural|distilled fortified wine}}|image=still.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Adventure|name=Lucky You, Unlucky Hobo|drops=3 {{plural|ice-cold fotie}}|image=Corpse.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{choice|name=Please, Hammer|image=haroldsad.gif
+|choice1name=Sure, I'll help.|choice1=[[Harold's hammer head]], [[Harold's hammer handle]]
+|choice2name=Sorry, no time.|choice2=(Does not use an adventure)
+|choice3name=What's the frequency, Kenneth?|choice3=6 {{muscle}}
+|note1=This adventure triggers [[Harold's Hammer Quest]] and doesn't reoccur after receiving the hammer parts.}}
+
+{{Adventure|name=No Man, No Hole|drops=[[sewer turtle]]|image=alley2.gif|note1=This adventure is triggered only with the [[Eau de Tortue]] effect.|note2=Does not cost an adventure.}}
+
+{{Adventure|name=All-but-Dissertation Tucker Dummychuck, the Fingerless Hobo|image=hobo.gif|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+{{Adventure|name=All-but-Dissertation Tucker Dummychuck, the Fingerless Hobo|image=hobo.gif|drops=[[fingerless hobo gloves]]|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[EZ-Play Harmonica Book]].}}
+
+{{Adventure|name=Bree-Yark!|meat=50|stat=5 {{Moxie}}|image=gobtourist.gif|note1=A [[Ascension#One Time|one time]] adventure.}}
+
+{{Adventure|name=Don't Hurt 'Em|drops=[[Harold's bell]]|image=hammerguy.gif|note1=This [[Ascension#One Time|one time]] adventure is triggered after obtaining [[Harold's hammer]] and completes [[Harold's Hammer Quest]].}}
+
+{{Adventure|name=Spirit of the Slug Lord|drops=[[the Slug Lord's map]]|image=slugghost.gif|note1=A [[Ascension#One Time|one time]] adventure.}}
+
+{{Adventure|name=They Tried and Pailed|drops=[[pail of pretentious paint]]|image=bigpail.gif|note1=This [[Ascension#One Time|one time]] adventure is triggered after speaking to the [[The Dirt-Walled Hovel of the Pretentious Artist|Pretentious Artist]].}}
+
+{{Adventure|name=For Sale By Squatter|image=glyphs2.gif|note1=Occurs only when adventuring with a [[hobo code binder]] equipped.}}
+
+{{Adventure|name=Sandwiched in the Club|image=alley2.gif|note1=Only available under a [[Bad Moon]] ascension.|note2=Gives 10 turns of [[Chronologically Pummeled]]}}
+
+==Obsolete Adventures==
+This area underwent a major revision on [[History of Loathing (2006)#November 28, 2006|November 28, 2006]].
+
+{{Adventure|name=An Amateur Pickpocket is You!|meat=5|stat=1 {{Moxie}}|image=Corpse.gif}}
+
+{{Adventure|name=The Bum's Dilemma|meat=8|image=bum.gif}}
+
+{{Adventure|name=Dumpster Diver|meat=9|image=chest.gif}}
+
+{{Adventure|name=Hammer Time|stat=2 {{Moxie}}|image=Hammerguy.gif}}
+
+{{Adventure|name=Happy Birthday!|stat=2 {{Moxie}}|image=Cakeguy.gif}}
+
+{{Adventure|name=Knob Goblin Intrigue|meat=7|stat=1 {{Moxie}}|image=goblin.gif}}
+
+{{Adventure|name=Knob Goblin Philosophy|stat=2 {{Moxie}}|image=Goblin.gif}}
+
+{{Adventure|name=Knob Goblin Rumble|stat=3 {{Moxie}}|image=Goblin.gif}}
+
+{{Adventure|name=Meat-Shaped Box|meat=10|image=chest.gif}}
+
+{{Adventure|name=Out of Aces|meat=10|image=Cards1.gif}}
+
+{{Adventure|name=A Strike in the Dark|stat=2 {{Moxie}}|image=Pins.gif}}
+
+{{Adventure|name=Spared in the Dark|stat=3 {{Moxie}}|image=Pins.gif}}
+
+==Notes==
+*Once per [[ascension]], any monster here can randomly drop [[hot pink lipstick]] if a [[Sleazy Gravy Fairy]] is used.
+
+[[Category:Locations|Sleazy Back Alley, The]]
+
+== Headline text ==

@@ -1,0 +1,20 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+
+These are the outskirts of [[Camp Logging Camp]] in [[Little Canadia]], an area only accessible to players who have [[ascension|ascended]] with a Mysticality [[zodiac sign]].
+
+==Combat Adventures==
+{{Combat|name=axe handle}}
+{{Combat|name=cloud of disembodied whiskers}}
+{{Combat|name=forest spirit}}
+{{Combat|name=poutine ooze}}
+==Non-Combat Adventures==
+{{Adventure|name=Jammin' on the Axe|stat=4-6 {{Muscle}}|image=axe.gif}}
+
+{{Adventure|name=Like Hoofball|stat=4-6 {{Moxie}}|image=lumbernose.gif}}
+
+{{Adventure|name=The Inverse is Also True|stat=4-6 {{Mysticality}}|image=yodalog.gif}}
+
+{{Adventure|name=Best Served Cold|drops=[[forest tears]], [[forest tears]], [[forest tears]]|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.|image=Corpse.gif}}
+
+[[Category:Locations]]

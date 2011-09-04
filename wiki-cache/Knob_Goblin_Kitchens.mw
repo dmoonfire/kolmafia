@@ -1,0 +1,30 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+
+The '''Kitchens''' of [[Cobb's Knob]] are, unsurprisingly, full of chefs.
+
+If you aren't powerful enough to enter, you'll see this message:
+
+<center>Though the smell of food and the lure of goblin ass-kicking are both very tempting, you can't help but feel like you're a little underpowered for this.
+
+(You must have at least 20 <Stat> to adventure here.)</center>
+
+==Combat Adventures==
+{{Combat|name=Knob Goblin Chef}}
+
+{{Combat|name=Knob Goblin Master Chef}}
+
+{{Combat|name=Knob Goblin Elite Guard Captain|note1= A [[Semi-Rare Adventures|semi-rare adventure]].}}
+
+==Non-combat Adventures==
+{{Adventure|name=Kevin'x, the Knob Goblin Chef|image=goblinchef.gif|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Kevin'x, the Knob Goblin Chef|image=goblinchef.gif|drops=[[knob butter]]|note1=A [[Ascension#One_Time|one time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[marinated stakes]].}}
+
+{{Adventure|name=Luck in the Kitchen|drops=[[Knob Kitchen grab-bag]]|image=Foodsack.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=KELF! I Need Somebody!|image=Houseelf2.gif|note1=Gives 10 turns of [[Scent of a Kitchen Elf]].|note2=[[Bad Moon]] only.}}
+
+[[Category:Locations]]

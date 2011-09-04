@@ -1,0 +1,32 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Stately Pleasure Dome]] is found in [[The Worm Wood]], which is only accessible with the [[Absinthe-Minded]] effect.
+
+==Combat Adventures==
+{{Combat|name=Ancient Mariner|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=angry poet|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=Kubla Khan|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=roller-skating Muse|MoxieNoHit=Scales with player stats (Max 132)}}
+{{Combat|name=toothless mastiff bitch|MoxieNoHit=Scales with player stats (Max 132)}}
+
+==Non-combat Adventures==
+{{Choice|name=Down by the Riverside|image=River2.gif
+|choice1name=Swim laps in the pool|choice1=Gain approx. 1 * $mainstat {{Muscle}} (maximum 150)
+|choice2name=Wade in the Alph|choice2=Gain ? MP and acquire 5 turns of the effect [[Spirit of Alph]]
+|choice3name=Play volleyball|choice3= Fight [[roller-skating Muse]]}}
+
+{{Choice|name=Beyond Any Measure|image=Cave5.gif
+|choice1name=Explore some side-tunnels|choice1=With [[Rat-Faced]], acquire 5 turns of the [[Night Vision]] effect, else nothing
+|choice2name=Investigate a nearby squeaky noise|choice2=With [[Bats in the Belfry]], acquire 5 turns of the [[Good with the Ladies]] effect, else nothing
+|choice3name=Ponder the measureless expanse|choice3=Gain approx. 1 * $mainstat {{mysticality}} (maximum 150)
+|choice4name=Measure the caverns|choice4=Leave (no adventure used)}}
+
+{{Choice|name=Death is a Boat|image=Ship.gif
+|choice1name=Go up to the crow's nest|choice1=With [[No Vertigo]], acquire an [[S.T.L.T.]], else nothing (no adventure used)
+|choice2name=Walk the main deck|choice2=Gain approx. 1 * $mainstat {{moxie}} (maximum 150)
+|choice3name=Check the helm|choice3=With [[Unusual Fashion Sense]], acquire an [[albatross necklace]], else nothing}}
+
+==References==
+*The name of and certain adventures in this location reference poems by the Romantic poet [[Wikipedia:Samuel Taylor Coleridge|Samuel Taylor Coleridge]]. [[Wikipedia:Kubla Khan|''Kubla Khan (Or, A Vision in a Dream)'']] provides the name of the location.
+
+[[Category:Locations|Stately Pleasure Dome, The]]

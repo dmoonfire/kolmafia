@@ -1,0 +1,866 @@
+100% Legal	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+451 Degrees! Burning Down the House!	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+7 High	normal	1	0	0	0	0	loathing eagle baby-doll shirt
+A Bard Day's Night	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+A Bridge Too Far	normal	2	0	0	0	0		0	0	0	0	
+A Case of the Baskets	clover	1	0	0	0	0	fruit basket
+A Cave Rave, Dave	normal	1	0	0	0	0	
+A Chewy Encounter (Jabañero)	normal	1	0	0	0	-30	jabañero-flavored chewing gum
+A Chewy Encounter (Lime)	normal	1	0	0	0	-30	lime-and-chile-flavored chewing gum
+A Chewy Encounter (Pickle)	normal	1	0	0	0	0	pickle-flavored chewing gum
+A Chewy Encounter (Tamarind)	normal	1	0	0	0	-30	tamarind-flavored chewing gum
+A Chiller Night	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+A Chiller Night (2)	normal	2	0	0	0	0		0	0	0	0	
+A Concerned Citizen	normal	1	0	0	0	-50	
+A Dash of Boulder	normal	1	21	0	0	0	
+A Diseased Procurer	normal	2	0	0	0	0		0	0	0	0	
+A Dreadful Curse	normal	1	0	0	15	0	
+A Fairly Large Fairy	normal	1	0	0	0	0	
+A Farewell to Legs	normal	1	0	0	0	0	distressed denim pants
+A Festering Powder	normal	1	0	0	0	0	
+A Few Chintz Curtains, Some Throw Pillows...	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+A Few Screws Loose	one_time	1	0	0	0	1500	
+A Flat Miner	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+A Fledgling Pirate Is You!	conditional	1	0	0	0	3000	pirate fledges
+A Funny Thing Happened On the Way	normal	1	0	0	0	0	
+A Funny Thing Happened...	one_time	1	0	0	0	75	
+A Girl's Best Friend	normal	1	0	10	0	100	
+A Good Cause	normal	1	0	80	0	0	
+A Grave Mistake	normal	1	0	0	0	0	
+A Grave Situation	one_time	1	0	0	0	0	Fernswarthy's key, Fernswarthy's letter
+A Hairier Barrier	normal	1	0	0	0	0	
+A Ho-ho-ho No-no-no	normal	1	0	0	0	0	
+A Kingly Reward	conditional	1	0	0	0	0	tattered paper crown
+A Labour of Moles	normal	1	0	0	0	0	
+A Latter-Day Litter Letter	normal	1	0	0	0	0	empty Cloaca-Cola bottle, or empty Cloaca-Cola bottle and tattered scrap of paper, or empty Cloaca-Cola bottle and scroll of pasta summoning
+A Little Richer	normal	1	0	35	0	0	
+A Man in Black	one_time	1	0	0	0	0	black market map
+A Mean Drunk	normal	1	0	0	0	0	
+A Menacing Phantom	semi_rare	1	0	0	0	0	poltergeist-in-the-jar-o
+A Motor in your Head	clover	1	0	20	0	300	
+A Non-Capital Crime	normal	1	0	8	0	-30	
+A Pair of Craters	normal	2	0	0	0	0		0	0	0	0	
+A Passion for Fashion	normal	1	0	100	0	0	
+A Potentially Offensive Reference Has Been Carefully Avoided Here	bad_moon	1	0	0	0	0	
+A Pre-War Dresser Drawer, Pa!	normal	2	0	0	0	0		0	0	0	0	
+A Real Gem	clover	1	0	0	0	0	stone of eXtreme power
+A Rolling Turtle Gathers No Moss	normal	1	0	0	0	0	furry green turtle
+A Secret Ooze	normal	1	0	0	0	0	
+A Series of Fortunate Events	clover	1	20	0	0	300	Knob Goblin perfume
+A Shark's Chum	normal	2	0	0	0	0		0	0	0	0	
+A Sietch in Time	one_time	1	0	0	0	0	
+A Strike in the Dark	normal	1	0	2	0	0	
+A Suspicious-Looking Guy (Halloween)	normal	1	0	0	0	0	Rock Pops
+A Test of Testarrrsterone	normal	3	0	0	0	0		300	0	0	0		0	2 times prime 150 min	0	0	
+A Three-Tined Fork	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+A Tight Squeeze	semi_rare	2	0	0	0	0		0	0	0	0	
+A Totally Organic Experience	normal	1	0	0	80	0	
+A Turn of the Coat	normal	1	0	0	0	0	
+A Vent Horizon	normal	2	0	0	0	0		0	0	0	0	
+A Walker and a Ranger, hold the Texas	one_time	1	0	0	0	0	Grandma's Note
+A Wetted Appetite	normal	1	0	0	5	0	"Humorous" T-shirt (with Torso Awaregness)
+A White Lie	bad_moon	1	0	0	0	5,000	
+A Winning Pass	normal	1	0	0	0	0	
+A Wrenching Adventure	one_time	1	0	0	0	1500	
+A Wrong Turn at Albuquerque	normal	1	0	0	0	0	
+A big Q.	normal	1	0	0	0	0	
+A little kid	normal	1	0	0	0	0	giant glass of brandy
+A man in tights	normal	1	0	0	0	0	fancy canapés
+A woman in long black robes	normal	1	0	0	0	0	thermos of brew
+Aaaaaaaiiiieeeeeeee	normal	1	0	0	0	0	abandoned candy
+Abstinence Makes the Heart Grow Fonder	normal	1	0	0	60	0	
+Admiral Crotch Rickets, the Chesteran	normal	1	0	0	0	0	fry-oil-flavored Hob-O
+Ah, So That's Where They've All Gone	normal	2	0	0	0	0		0	0	0	0	
+Alice, the Ghostly Librarian	one_time	1	0	0	0	0	boock of darck magicks
+All Across the Sands	one_time	1	0	0	0	0	stone rose
+All Alone in My White Boy Pain	normal	1	100	0	0	0	
+All Done Here	normal	1	0	0	0	0	
+All Sleazed Out	normal	1	0	0	0	0	
+All The Rave	semi_rare	1	0	0	0	0	Mick's IcyVapoHotness Inhaler
+All done here. (burial ground)	normal	1	0	0	0	0	
+All done here. (heap)	normal	1	0	0	0	0	
+All-but-Dissertation Tucker Dummychuck, the Fingerless Hobo	normal	1	0	0	0	0	fingerless hobo gloves
+Amatearrr Night	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+An Amateur Pickpocket is You!	normal	1	0	1	0	5	
+An Impractical Joke	normal	1	0	50	0	0	
+An Inconvenient Truth	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+An Interesting Choice	normal	1	0	5	0	0	
+An Olith, Mon	normal	1	0	0	0	0	black kettle drum
+Anchors Weigh	normal	1	30	0	0	0	
+Ancient History	normal	1	0	0	35	0	
+Ancient Temple	normal	1	0	0	0	0	
+And Justice for All	normal	1	15	0	0	0	
+Anemone Mine (Mining)	normal	1	0	0	0	0	marine aquamarine, teflon ore, velcro ore, vinyl ore, 3 plural
+Another Adventure About BorderTown	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Antimotion	normal	1	0	0	0	0	cheap plastic bottle opener
+Arrowed!	normal	1	0	5	0	0	
+Arrrlando, the Sappy Pirate	normal	1	0	0	0	0	Everlasting Deckswabber
+At Last!	normal	1	0	0	0	0	
+At Least It's Not Full Of Trash	one_time	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Attention -- A Tent!	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Attributing a Tributary	normal	1	0	0	0	0	
+Avalanche!	normal	1	0	0	0	0	
+Aww, Craps	normal	1	0	5	0	0	
+Back Off, Man. I'm a Scientist.	bad_moon	1	0	0	0	0	
+Backstage at the Rogue Windmill	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Bacon Bacon Bacon	normal	1	0	0	0	0	
+Bad Medicine is What You Need	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Bad Reception Down Here	normal	2	0	0	0	0		0	0	0	0	
+Badger Badger Badger Badger	normal	1	0	0	0	0	
+Bait and Switch	normal	1	50	0	0	0	
+Bar Hunting	one_time	1	0	0	0	0	
+Barback	normal	2	0	0	0	0		0	0	0	0	
+Barrie Me at Sea	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Batty About Fruit	clover	1	0	0	0	0	fruit bowl
+Beach Blanket Yahtzee	normal	1	0	35	0	0	
+Beauty is only fur deep	normal	1	0	0	10	0	
+Beeeeeeeer!	normal	1	0	0	0	0	ice-cold six-pack
+Beginner's Luck	clover	1	0	0	0	0	
+Being Taken Out by the Trash	normal	1	0	0	0	0	
+Believe it or Not	clover	1	0	0	0	0	Knob Goblin superseltzer, Knob Goblin superseltzer, Knob Goblin superseltzer
+Bench Warmer	normal	1	16	0	0	0	
+Best Served Cold	clover	1	0	0	0	0	forest tears, forest tears, forest tears
+Better Dread Than Dead	bad_moon	1	0	0	0	0	
+Between a Rock and Some Other Rocks	one_time	2	0	0	0	0		0	0	0	0	
+Beware...	normal	1	0	0	0	0	
+Beyond Any Measure	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Bildor, the 7-Foot Dwarf	normal	1	0	0	0	0	dwarf bread
+Blaaargh! Blaaargh!	normal	1	0	0	0	0	fake blood
+Blister in the Sun	normal	1	0	0	0	0	
+Blockin' Out the Scenery	normal	1	0	0	50	0	
+Blowin' in the Wind (page 1)	one_time	1	0	0	0	0	worm-riding manual page 1
+Blowin' in the Wind (page 2)	one_time	1	0	0	0	0	worm-riding manual page 2
+Blowin' in the Wind (pages 3-15)	one_time	1	0	0	0	0	worm-riding manual pages 3-15
+Blue Monday	normal	1	0	0	0	0	blue shell
+Bojolali, the Shopkeeper	normal	1	0	0	0	0	candied kobold
+Boozehare	normal	1	0	0	0	0	St. Sneaky Pete's Day goodies basket
+Boxing the Juke	one_time	1	0	0	0	0	
+Bradley, the Pencil-Pushing Elf	normal	1	0	0	0	0	candy cane or eggnog or fruitcake or gingerbread bugbear
+Bree-Yark!	normal	1	0	5	0	50	
+Brings All the Boys to the Blue Yard	normal	2	0	0	0	0		0	0	0	0	
+Brrrrrr.	normal	1	0	0	0	0	
+Brushed off...	one_time	1	0	0	0	0	pretentious paintbrush
+Bug Zapper	normal	1	0	0	15	0	
+Bumpity Bump Bump	normal	2	0	0	0	0		0	0	0	0	
+Bureaucracy of the Damned	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Busting a Cap	normal	1	0	0	0	0	Orcish baseball cap
+C'mere, Little Fella	normal	1	0	0	0	0	knobby helmet turtle
+Can't Beat the Evil Thing	normal	1	0	0	0	0	empty Cloaca-Cola bottle
+Candles in the Wind	normal	1	0	0	0	0	box of birthday candles
+Cap'n Sargasso, the Cursed Pirate	normal	1	0	0	0	0	piece of after eight
+Capital!	normal	1	0	0	0	0	bottlecap turtle
+Card Stalk	normal	1	0	0	0	0	little laminated card, notbig laminated card, small laminated card, unlarge laminated card
+Cards with Bards	normal	1	0	0	0	50	
+Carnus Majorus, the Ancient Astronomer	normal	1	0	0	0	0	1-2 Senior Mints
+Catching Some Zetas	normal	1	50	0	0	0	
+Cavern Entrance	normal	1	0	0	0	0	
+Cemetery, Man	normal	1	0	0	0	0	filthy knitted dread sack
+Chad, the Veteran Frat Boy	normal	1	0	0	0	0	shot of tomato schnapps, shot of orange schnapps, shot of grapefruit schnapps
+Chatterboxing	normal	1	0	100	0	0	
+Check It Out Now	conditional	1	0	0	0	0	
+Chester Meatpot	one_time	1	0	0	0	300	
+Chieftain of the Flies	normal	1	0	0	0	0	
+Cindy, the Vampire Slayer	normal	1	0	0	0	0	marinated stakes
+Clown Outfit Halloween Adventure	normal	1	0	0	0	0	brick
+Code Red	one_time	1	0	0	0	0	Knob Goblin encryption key
+Cold Comfort	semi_rare	2	0	0	0	0		0	0	0	0	
+Come on Baby, Find My Pliers	normal	1	50	0	0	0	
+Condemned	normal	1	0	0	0	0	figurine of a charred seal
+Confusing the Issue	normal	1	0	Moxie*2 50 min	0	0	
+Congratulations, You Found an Important Thing	one_time	1	0	0	0	0	dwarvish punchcard
+Cornered Again!	normal	2	0	0	0	0		0	0	0	0	
+Cornered!	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Coyote Ugly (Arm Loss)	normal	1	0	0	0	0	
+Coyote Ugly (Meat Loss)	normal	1	0	0	0	-10	
+Crate Expectations	normal	1	0	0	0	0	3 plural
+Crates of Plates	clover	1	0	0	0	0	3 high-resistance ultrapolymer platings
+Crispy Whiskery, the Oscusist	normal	1	0	0	0	0	garbage-juice-flavored Hob-O
+Cucumbers of the Damned	normal	1	25	0	0	0	
+Cunning Puzzle Trap	normal	1	0	5	0	0	
+Curtains	normal	3	0	0	0	0		0	prime 150 min	0	0		0	0	0	0	
+Cut Down in His Prime	normal	1	0	0	0	50	razor-sharp can lid
+Dad-a-Chick	normal	1	0	0	0	0	
+Dangerously Inappropriate	normal	1	-5	0	0	0	
+Darker Than Dark	normal	1	0	0	0	0	
+De Los Dioses	normal	1	0	0	0	0	sandwich of the gods
+Death is a Boat	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Deep Enough to Dive	conditional	2	0	0	0	0		0	0	0	0	
+Denim Axes Examined	normal	2	0	0	0	0		0	0	0	0	
+Der Bierdieb	normal	1	0	0	0	0	3 Imp Ales
+Despite All Your Rage	normal	2	0	0	0	0		0	0	0	0	
+Deuces Wild	normal	1	0	10	0	0	
+Did I Leave the Floor On?	normal	1	0	0	0	0	
+Disgustin' Junction	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Do Geese See God?	one_time	2	0	0	0	0		0	0	0	0	
+Do You Think You're Better Off Alone	bad_moon	1	0	0	0	0	
+Do away with the 'doo	normal	1	0	0	0	0	
+Doc, the Reindeer (Halloween)	normal	1	0	0	0	0	 sugar-coated pine cone
+Dodecahedrariffic!	normal	1	0	0	0	0	dodecagram
+Does This Bug You? Does This Bug You?	normal	2	0	0	200	0		0	0	0	0	
+Don't Fence Me In	normal	3	25	0	0	0		0	0	0	0		0	0	0	0	
+Don't Hold a Grudge (Armwrestle)	normal	1	0	0	0	0	
+Don't Hold a Grudge (Gestures)	normal	1	0	0	0	0	
+Don't Hold a Grudge (Handshake)	normal	1	0	2.25 prime * 140 min	0	0	
+Don't Hurt 'Em	normal	1	0	0	0	0	Harold's bell
+Don't Wake the Baby	normal	1	0	0	0	0	
+Doors of Perception	normal	1	0	0	0	0	
+Dopey, the Reindeer (Halloween)	normal	1	0	0	0	0	
+Double-Secret Initiation	bad_moon	1	0	0	0	0	
+Doublewide	normal	2	0	0	0	0		0	0	0	0	
+Down at the Hatch	normal	2	0	0	0	0		0	0	0	0	
+Down by the Riverside	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Dr. Enstein, the Crazy Scientist	normal	1	0	0	0	0	Gummi-DNA
+Drawn Onward	one_time	2	0	0	0	0		0	0	0	0	
+Dreadlocks and Beer Bongs	normal	1	0	0	100	0	
+Drumroll, Please	bad_moon	1	0	0	0	0	
+Drunken Halfling Poker	normal	1	0	0	0	0	
+Dry Another Day	normal	1	0	100	0	0	
+Dumpster Diver	normal	1	0	0	0	9	
+Dumpster Diving	normal	2	0	0	0	0		0	5	0	0	
+Dungeon Fever	normal	1	0	0	0	0	
+Dust to Dust	clover	1	0	0	68	0	
+Dvorak's Revenge	one_time	2	0	0	0	0		0	0	0	0	
+Ecosabotage	normal	1	0	0	15	0	
+Either Ore	clover	1	0	0	0	0	asbestos ore, chrome ore, linoleum ore
+Elbereth? Who's Elbereth?	normal	1	0	0	0	0	
+Elementally, My Deal Watson	bad_moon	1	0	0	0	0	
+Elementary, My Dear School	normal	1	0	0	0	0	
+Empty-Handed	normal	1	0	0	0	0	
+Encino Penguin	clover	1	0	0	0	0	frozen Mob Penguin
+Engulfed!	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Ennui is Wasted on the Young	normal	4	5	0	0	0		0	0	0	0		0	5	0	0		0	0	0	0	
+Enter The Hoboverlord	normal	2	0	0	0	0		0	0	0	0	
+Entrance to the Forgotten City	normal	1	0	0	0	0	
+Ethelfred Hornpipe, the Crimbo Elf	normal	1	0	0	0	0	candy cane
+Ethereal Koi Blossom, the Hippy Vegan Chef	one_time	1	0	0	0	0	cup of strong herbal tea
+Even More Story So Far	normal	1	0	0	0	0	
+Every Seashell Has a Story to Tell	normal	1	0	0	100	0	
+Every Seashell Has a Story to Tell If You're Listening	normal	1	0	0	0	0	
+Extra Savior Faire	normal	1	0	25	0	0	
+Faux Fur Pas	clover	1	0	0	0	0	bugbear bungguard, bugbear beanie
+Feliz Narrative	one_time	1	0	0	0	0	
+Fernswarthy's Basement, Level 500	normal	1	0	0	0	0	Discount Telescope Warehouse gift certificate
+Filching the Undarrwear	normal	1	0	15	0	0	
+Filth, Filth, and More Filth	semi_rare	1	0	0	0	0	donkey flipbook
+Filthy Pinko Hippy	normal	1	0	0	0	0	filthy hippy poncho
+Finding Neverevereverland	normal	1	5	5	5	0	
+Finger-Lickin'... Death.	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Fishing Around in the Sewer	normal	1	0	0	0	0	one out of: disco ball, disco mask, helmet turtle, mariachi pants, pasta spoon, ravioli hat, saucepan, seal-clubbing club, seal-skull helmet, spices, stolen accordion, turtle totem, worthless gewgaw, worthless knick-knack, worthless trinket
+Flee to me, remote elf!	normal	1	0	0	0	0	Elf Farm Raffle ticket
+Flowers For (Familiar Name)	bad_moon	1	0	0	0	2000	
+Flowers for You	semi_rare	2	0	0	0	0		0	0	0	0	
+Fluffy is Missing!	normal	1	0	0	17	0	
+Footprints	normal	2	0	0	0	0		0	0	0	0	
+For Sale By Squatter	normal	1	0	0	0	0	
+Forget It	normal	1	35	0	0	0	
+Forget Not That I am an Ass	clover	1	0	0	0	0	pack of chewing gum
+Forward to the Past	clover	1	0	2 prime * 330 min	0	0	
+Frat-Gang Warfare	normal	1	17	0	0	0	
+Fratacombs	normal	1	50	0	0	0	
+Fratlifting	normal	1	16	0	0	0	
+Friar No More	normal	1	0	0	0	150	
+From Stoked to Smoked	normal	1	0	0	0	0	Orcish cargo shorts
+Frost Bitten, Twice Shy	bad_moon	1	0	0	0	0	
+Fructose, the Dark Prophet‎‎	normal	1	0	0	0	0	children of the candy corn
+Gaiden, the Hot and Cold Running Ninja	normal	1	0	0	0	0	Cold Hots candy
+Games Hippies Play	normal	1	0	0	17	0	
+Gannongast, the White Wizard	normal	1	0	0	0	0	white wine vinaigrette
+Gaspar, the Senile Ghost	normal	1	0	0	0	0	Bit O' Ectoplasm
+Gathering: The Magic	normal	1	0	0	0	0	
+Generic Teen Comedy Snowboarding Adventure	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Get Real	normal	1	0	60	0	0	
+Get The Windex!	normal	1	0	0	0	0	soggy wofl t-shirt
+Getting Ahead in Life	normal	1	0	0	0	0	filthy knitted dread sack
+Getting Clubbed	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Getting Flashed	normal	1	0	0	0	0	orange glowstick, green glowstick, pink glowstick, yellow glowstick, blue glowstick, or purple glowstick
+Getting Hammered	bad_moon	1	0	0	0	0	
+Getting Tired	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Getting up to Roulette Didos	normal	1	0	0	0	30	
+Giant Creepy Floating Skull	normal	1	0	0	0	0	
+Giggity Bobbity Boo!	normal	1	0	0	0	0	enchanted leopard-print barbell
+Gimli Patterson, Cryptozoologist‎	normal	1	0	0	0	0	dubious peppermint, lint
+Gina, the Lady-in-Waiting	normal	1	0	0	0	0	black pepper or black forest cake or black forest ham or Blackfly Chardonnay or black pudding or a black & tan
+Give it a Shot	normal	2	0	0	0	0		0	0	0	0	
+Give me Your Nine	clover	1	0	0	0	0	9-ball
+Glorificus Steinemus, the Ancient Wise Woman	normal	1	0	0	0	0	Curiously Shiny Ancient Evil-Bashing Axe
+Glug, Glug, Glug	one_time	1	0	0	0	0	
+Gn8than, the Sk8 Gnome	normal	1	0	0	0	0	Chomsky's comic books
+Gn8than, the sk8 Gnome	normal	1	0	0	0	0	1-2 Wint-O-Fresh mint
+Gnestor, the Gnomish Gnomad	normal	1	0	0	0	0	Gummi-Gnauga
+Gno More Mr. Gnice Guy	clover	1	0	0	0	0	gnomish toolbox
+Gnollish Toga Party	normal	1	0	0	0	0	2 ice-cold Willers
+Gnollish Workshop	normal	1	0	0	0	0	cog, spring, sprocket
+Go Slow Past the Drawers	normal	2	0	0	0	0		25	0	0	0	
+God Bless, Bra	normal	1	0	0	0	0	
+Going Ballet Up	one_time	1	0	0	0	0	Azazel's tutu
+Got Silk?/Leather is Betther	normal	2	0	0	0	0		0	0	0	0	
+Gr'zl'x, The Bugbear	normal	1	0	0	0	0	cog, spring, sprocket
+Grab a cue	normal	1	0	0	0	0	
+Grandpa Mine Choice	one_time	1	0	0	0	0	
+Granny, Does Your Dogfish Bite?	one_time	1	0	0	0	0	
+Grave Consequences	normal	1	0	0	0	0	figurine of a shadowy seal
+Gravy Fairy Ring	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Gravy Ring	normal	1	0	0	0	0	3 spooky mushrooms
+Grilling the Foreman	normal	1	0	0	10	100	
+Gronk, the Knob Goblin Elite Guardsman	normal	1	0	0	0	0	Knob Goblin steroids
+Grubble	normal	1	0	0	0	0	figurine of a stinking seal
+Grumpy, the Reindeer (Halloween)	normal	1	0	0	0	0	candy cane or eggnog or fruitcake or gingerbread bugbear
+Gutterbound	normal	1	0	-3	0	0	
+Hack to the Future	normal	1	0	0	0	0	white hat hacker T-shirt
+Haiku Dungeon in the It's About Damn Time	normal	1	0	0	0	0	red paperclip
+Hair of the Hellhound	bad_moon	1	0	0	0	0	
+Hammer Time	normal	1	0	2	0	0	
+Hammer or Hammee?	one_time	1	0	0	0	1500	
+Hands On	semi_rare	1	0	0	0	0	3 scented massage oils
+Happy Birthday!	normal	1	0	2	0	0	
+Happy Birthday, Claude	normal	1	0	0	0	0	pat-a-cake pendant
+Happy, the Reindeer (Halloween)	normal	1	0	0	0	0	candy cane or eggnog or fruitcake or gingerbread bugbear
+Harem Scarem	normal	1	0	0	8	0	
+Have a Heart	conditional	2	0	0	0	0		0	0	0	0	
+Having a Medicine Ball	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+He Got His Just Desserts	normal	1	0	0	0	0	reinforced beaded headband, round purple sunglasses, bullet-proof corduroys
+He's a Melancholy Drunk	normal	1	0	0	0	0	
+Heart of Very, Very Dark Darkness	one_time	1	0	0	0	0	
+Heavily Invested in Pun Futures‎	normal	2	0	0	0	0		0	0	0	0	
+Here She Come Now Singin' Molé Molé	normal	1	0	0	0	0	mole molé
+Hey, baby. Wanna wrestle?	normal	1	-3	0	0	0	
+Highway to Hey Deze	one_time	1	0	0	0	0	Hey Deze map
+Hippies Don't Surf	normal	1	0	30	0	0	
+Hippies in the Mist	normal	1	0	0	15	0	
+Hippo Ballet To You	normal	1	0	8	0	0	
+Hippy Birthday to You	normal	1	0	0	0	0	filthy corduroys
+Hobbie Affman, the Hippy Warrior	normal	1	0	0	0	0	Steal This Candy
+Home, Home in the Range	normal	2	0	0	0	0		0	0	0	0	
+Hoom Hah	normal	1	0	0	30	0	
+Hooray! A Stupid Drum Circle!	normal	1	0	0	16	0	
+Hot Dog! I Mean... Door!	normal	2	0	0	0	0		0	0	0	0	
+How Depressing	normal	1	0	0	0	0	
+How Do I Shot Web?	normal	1	0	0	0	0	
+How Does He Smell?	semi_rare	1	0	0	0	0	Dogsgotnonoz pills
+How Dry I Am	normal	1	0	0	0	0	
+How Far Down Do You Want To Go?	bad_moon	1	0	0	0	0	
+How I Wonder What You're At	clover	1	0	0	0	0	2 plural
+How Many Corners Does this Stupid Barn Have!?	normal	2	0	0	0	0		0	0	0	0	
+Huff, Puff	normal	1	0	0	0	0	
+Hugh, the former Crimborg	normal	1	0	0	0	0	nanite-infested candy cane
+Hugo, the Weaver	normal	1	0	0	0	0	bit-o-cactus or honey-dipped locust
+Hyp-mo-tized...	normal	1	0	0	8	0	
+I Am The Brotherhood	normal	1	0	0	0	0	perforated battle paddle, 3 beer bombs, PADL Phone
+I Just Wanna Fly	normal	1	0	0	0	0	
+I Refuse!	normal	2	0	0	0	0		0	0	0	0	
+I'm on the Hunt, I'm After You	normal	2	0	0	0	0		0	0	0	0	
+I've Got a Lovely Bunch of Asterisks.	normal	1	7	0	0	0	
+If This Dumpster's A' Rockin'	normal	1	0	0	0	0	
+If You Smell Something Burning, It's My Heart	bad_moon	1	0	0	0	0	
+In Over His Head	normal	1	0	0	0	0	figurine of a slippery seal
+In a Black Room, with Black Curtains	normal	1	0	0	0	0	thin black candle, Warm Subject gift certificate
+In the Shade	normal	2	0	0	0	0		0	0	0	0	
+In the Still of the Alley	semi_rare	1	0	0	0	0	3 plural
+Inside of Itznotyerzitz Mine	normal	1	0	0	0	0	asbestos ore, chrome ore, linoleum ore, 3 plural
+It doesn't grow on trees, you know!	normal	1	0	0	0	75	
+It's A Sign!	one_time	1	0	0	0	0	
+It's All The Rage	bad_moon	1	0	0	0	0	
+It's Always Swordfish	one_time	1	0	0	0	0	
+It's In the Cards	normal	1	0	0	0	0	
+It's In the Post	normal	1	0	0	0	0	
+It's Japanese for "Can't Sing"	normal	1	0	0	0	0	tomato
+It's Not Really Stealing	normal	1	0	0	0	100	
+It's Not the Heat, It's the Madness	normal	1	0	0	0	0	Climate Colada
+It's So Heavy	bad_moon	1	0	0	0	0	
+It's The Only Way To Be Sure	semi_rare	1	0	0	0	0	SPF 451 lip balm
+It's Your Lucky Day!	clover	1	0	0	0	100	
+It's a Fixer-Upper	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+It's a Good Ship!	one_time	1	0	0	0	0	Azazel's lollipop
+It's a Twister!	normal	1	0	-15	0	0	
+Jackson, the 106-year-old Dyspepsi-Cola Veteran	normal	1	0	0	0	0	Dyspepsi grenade
+Jacques, the Knob Goblin Master Chef	normal	1	0	0	0	0	foie gras
+Jammin' on the Axe	normal	1	5	0	0	0	
+Joe, the Records Guy	normal	1	0	0	0	0	fruitcake
+John Lumberto, the lumberjack	normal	1	0	0	0	0	maple syrup
+Johnny Got His Paddle	normal	1	0	0	80	0	
+Juicy!	semi_rare	2	0	0	0	0		0	0	0	0	
+Junction in the Trunction	normal	1	0	0	0	0	
+KELF! I Need Somebody!	bad_moon	1	0	0	0	0	
+Karaoke Sucks in Spanish, Too!	normal	1	0	0	0	0	bottle of tequila
+Kegstand! Kegstand! Kegstand!	normal	1	20	0	0	0	
+Kevin'x, the Knob Goblin Chef	normal	1	0	0	0	0	knob butter
+Kids Today	one_time	1	0	0	0	0	
+Killer As.	normal	1	0	0	7	0	
+Kneatly Knicking the Knapsack (Cloaca-Cola)	normal	1	0	0	0	0	Cloaca-Cola knapsack
+Kneatly Knicking the Knapsack (Dyspepsi-Cola)	normal	1	0	0	0	0	Dyspepsi-Cola knapsack
+Knob Goblin BBQ	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Knob Goblin Intrigue	normal	1	0	1	0	7	
+Knob Goblin Luck!	clover	1	0	3	0	0	Knob Goblin Uberpants
+Knob Goblin Philosophy	normal	1	0	2	0	0	
+Knob Goblin Rumble	normal	1	0	3	0	0	
+Know Thine Enemy	normal	1	0	0	70	0	
+La Farmacia de Sueños	normal	1	0	0	0	0	Meleegra™ pills
+La Vie Boheme	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Lambda Upsilon Chi Kappa	clover	1	0	0	0	0	roll of drink tickets
+Last Egg Gets Al	one_time	1	0	0	0	0	hard-boiled ostrich egg
+Le Chauve-Souris du Parfum	semi_rare	1	0	0	0	0	Eau de Guaneau
+Leavesdropping	normal	1	0	50	0	0	
+Let's Get Physical	normal	1	100	0	0	0	
+Let's Make a Deal!	normal	2	0	0	0	0		0	0	0	0	
+Lich in the Niche	normal	2	0	0	0	0		0	0	0	0	
+Life During Wartime	normal	1	80	0	0	0	
+Lift 'em!	normal	1	0	0	0	0	
+Lightning Trap	normal	1	0	0	5	0	
+Lightning Trap (MP loss)	normal	1	0	0	0	0	
+Like Butter	normal	1	0	0	0	0	eldritch butterknife
+Like Hoofball	normal	1	0	5	0	0	
+Like the Sunglasses, But Less Comfortable	semi_rare	1	0	0	0	0	black eyedrops
+Limbergh, the Middle-Management Elf	normal	1	0	0	0	0	Crimboween memo and one of candy cane, eggnog, fruitcake or gingerbread bugbear
+Linnea, the Scream Queen	normal	1	0	0	0	0	orange and black Crimboween candy
+Linnell, the Booze Giant	normal	1	0	0	0	0	alphabet gum
+Locked Door	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Lording Over The Flies	normal	1	0	0	0	0	
+Lost and Found and Lost Again (Mine)	one_time	1	0	0	0	0	
+Lost and Found and Lost Again (Trench)	one_time	1	0	0	0	0	
+Louvre It or Leave It	normal	1	0	0	0	0	
+Luck in the Kitchen	clover	1	0	0	0	0	Knob Kitchen grab-bag
+Lucky You, Unlucky Hobo	clover	1	0	0	0	0	3 plural
+Lucky, Lucky!	clover	1	0	0	0	0	bowl of lucky charms
+Lucy McMillicanCuddy, the Farmer's Wife	normal	1	0	0	0	0	Angry Farmer's Wife Candy
+Luminosity	one_time	1	0	0	0	0	inexplicably glowing rock
+Lunchboxing	semi_rare	1	0	0	0	0	Knob Goblin lunchbox
+Lunchtime	normal	2	0	0	0	0		0	0	0	0	
+Ma Cherie	normal	1	0	10	0	0	
+Machinations	normal	1	0	0	0	0	
+Magic Shell	normal	1	0	0	0	0	
+Make War, Not Love	normal	1	0	80	0	Lose 10	
+Malice in Chains	normal	1	5	0	0	0	
+Maps and Legends	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Marble, the Archfiend	normal	1	0	0	0	0	EZ-Play Harmonica Book
+Marketplace Entrance	normal	2	0	0	0	0		0	0	0	0	
+Maybe It's a Sexy Snake!	semi_rare	2	0	0	0	0		0	0	0	0	
+McDonald, the 105-year-old Cloaca-Cola Veteran	normal	1	0	0	0	0	Cloaca grenade
+Me Just Want Fly	one_time	1	0	0	0	0	
+Meat Score!	normal	1	0	0	0	500	
+Meat-Shaped Box	normal	1	0	0	0	10	
+Mega Gem (adventure)	one_time	1	0	0	0	0	Mega Gem (accessory)
+Melvil Dewey Would Be Ashamed	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Merry Exposition!	one_time	1	0	0	0	0	
+Midst the Pallor of the Parlor	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Mind Yer Binder	normal	2	0	0	0	0		0	0	0	0	
+Mine!	normal	1	0	0	0	0	bubblewrap ore, cardboard ore, styrofoam ore
+Minnesota Incorporeals	one_time	2	0	0	0	0		0	0	0	0	
+Mission: Exposition	normal	1	0	0	0	0	
+Monkey. Monkey card.	normal	1	0	0	0	20	
+Monty of County Crisco	semi_rare	1	0	0	0	0	bag of lard
+Moonblossom the Filthy Hippy	normal	1	0	0	0	0	herb brownies
+Mop the Floor with the Mops	normal	1	0	0	0	0	
+Morgan, the Pirate Captain	normal	1	0	0	0	0	bottle of rum
+Morlock or Lesslock	normal	1	0	0	0	0	Morlock's Mark Bourbon
+Mother is Busy Right Now	normal	1	0	0	0	0	
+Mr. Alarm	one_time	1	0	0	0	0	
+Mr. Sun Is Not Your Friend	bad_moon	1	0	0	0	0	
+Murder by Death	normal	1	0	0	0	0	homoerotic frat-paddle
+My Dog Has No Nose	normal	1	0	70	0	0	
+My Little Stowaway	normal	1	0	0	0	0	
+Mystical Crap	normal	1	0	0	30	0	
+Nantucket Snapper	normal	1	0	0	0	0	ancient turtle shell
+Natural Selection	semi_rare	1	0	0	0	0	can of spinach
+Naughty Pledge	normal	1	18	0	0	0	
+Next Sunday, A.D.	normal	2	0	0	0	0		0	0	0	0	
+Nice Rack!	normal	1	0	0	0	0	scintillating powder
+Nicebox	clover	1	0	0	0	0	ancient frozen dinner, brains casserole, leftovers of indeterminate origin
+Ninja Poker	normal	1	0	0	0	30	sweet ninja sword
+No Colors Anymore	one_time	1	0	0	0	0	
+No Contraction	normal	1	8	0	0	0	
+No Country Music for Old Men	one_time	1	0	0	0	0	
+No Fuschia For You	one_time	1	0	0	0	0	Grandma's Fuschia Yarn
+No Good Deed	normal	1	0	0	0	0	sandwich of the gods, Pan-Dimensional Gargle Blaster, enchanted leopard-print barbell
+No Man, No Hole	normal	1	0	0	0	0	sewer turtle
+No Sects in the Potion Room	normal	1	0	0	0	0	digital underground potion
+No Visible Means of Support	one_time	3	0	0	0	0		0	0	0	0		0	0	0	0	
+No sir, away! A papaya war is on!	normal	3	0	0	0	0		0	0	0	0		prime 100 min	prime 100 min	prime 100 min	0	
+None Shall Pass	normal	3	50	0	0	0		0	0	0	0		0	0	0	0	
+Noodling Around‎	normal	1	0	0	0	0	
+Not Now!	normal	1	0	0	0	0	
+Not Quite as Cold as Ice	semi_rare	1	0	0	0	0	bottle of antifreeze
+Not So Much With the Corncob Pipes, Either.	normal	1	0	0	0	0	
+Not a Standard-Issue Windowsill, Obviously	normal	1	0	0	0	0	
+Nothing More to See Here	normal	1	0	0	0	0	
+Nothing Up My Sleeve	normal	1	0	0	10	0	
+Nothing. Nothing at all.	normal	1	0	0	0	0	Now and Earlier
+Now You're a Hero	normal	1	0	0	0	0	
+Number 163	normal	1	0	0	0	0	
+O Cap'm, My Cap'm	normal	2	0	0	0	0		0	0	0	0	
+O Goblin, Where Art Thou?	bad_moon	1	0	0	0	0	
+O Turtle Were Art Thou	normal	1	0	0	0	0	sleeping wereturtle
+OMG KAWAIII	normal	1	0	0	0	0	
+Obesetima, the Knob Goblin Harem Girl	normal	1	0	0	0	0	Knob Goblin love potion
+Obtuse Chartreuse	one_time	1	0	0	0	0	Grandma's Chartreuse Yarn
+Ode to the Sea	one_time	1	0	0	0	0	
+Of Human Bondage	normal	1	0	70	0	Lose 10 Meat	
+Off the Rack	normal	1	0	0	0	0	towel
+Off the Rail	normal	1	0	0	0	0	
+Oh Guanoes!	bad_moon	1	0	0	0	0	
+Oh No, Hobo	normal	3	0	0	0	0		0	0	0	0		0	5	5	0	
+Oh No, Not Raid!	normal	1	0	0	0	0	
+Oil Be Seeing You	bad_moon	1	0	0	0	0	
+Old Granny Stronginthearm	normal	1	0	0	0	0	dwarf bread
+On The Whole, the Bark is Better	bad_moon	1	0	0	0	0	
+On Wings of Fire	normal	1	0	0	0	0	2 hot wings
+On Wings of Plastic	normal	1	0	0	0	0	
+On the Verge of a Dirge	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+One Day in the Life	normal	1	0	0	0	0	
+One Less Room Than In That Movie	normal	1	0	50	0	0	
+One Man's Treasure	normal	1	0	0	0	0	3 valuable trinkets
+One Nightstand (Mahogany)	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+One Nightstand (Ornate)	normal	3	0	0	0	0		0	0	1 prime * 200 max	0		0	0	0	0	
+One Nightstand (White)	normal	3	0	0	0	0		1 prime * 200 max	0	0	0		0	0	0	0	
+One Nightstand (Wooden)	normal	3	0	1 prime * 200 max	0	0		0	0	0	0		0	0	0	0	
+Only Dust and a Plaque	clover	1	0	0	0	0	smart skull
+Oogaka, the Hippy Cavewomyn	normal	1	0	0	0	0	cup of strong herbal tea
+Oot to Lunch	clover	1	0	0	0	0	balaclava baklava, Blatantly Canadian, poutine
+Ouch! You bump into a door!	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Out in the Garden	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Out of Aces	normal	1	0	0	0	10	
+Outage, Brief Candle	normal	1	0	0	0	0	
+Painful, Circuitous Logic	normal	2	200	0	0	0		0	0	0	0	
+Pantry Raid!	bad_moon	1	0	0	0	0	
+Parenthetical Advisory	normal	1	0	7	0	0	
+Party Crasher	bad_moon	1	0	0	0	0	
+Peace Wants Love	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Peace, Bra!	normal	1	0	0	0	0	
+Piledriver	normal	1	0	0	0	0	
+Pileup	normal	2	0	0	0	0		0	0	0	0	
+Piping Cold	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Piping Hot	normal	2	0	0	0	0		0	0	0	0	
+Play Misty For Me	semi_rare	1	0	0	0	0	freezerburned ice cube
+Please, Hammer	normal	3	0	0	0	0		0	0	0	0		6	0	0	0	
+Plier? I hardly know 'er!	one_time	1	0	0	0	1500	
+Plus? Plus what?	normal	1	0	0	0	0	plus sign
+Poison Gas Trap	normal	1	0	0	5	0	
+Polo Tombstone	one_time	1	0	0	0	0	Spookyraven gallery key
+Pop!	normal	1	0	0	0	0	
+Pot Jacked	bad_moon	1	0	0	0	0	
+Primo Meat Stash	clover	1	0	0	0	0	dense meat stack
+Princess Layla	normal	1	0	0	0	0	chocolate filthy lucre
+Prior to Always	semi_rare	1	0	0	0	0	Six-pack of New Cloaca-Cola
+Puddle Puncher	normal	1	0	0	0	0	figurine of a cold seal
+Purple Hazers	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Push it Real Good	normal	1	0	0	0	0	
+Put on the Smooth Moves	normal	1	0	0	0	0	
+Quite a Joke	normal	1	0	0	0	0	
+Radio Decomposer	normal	1	0	0	0	50	
+Rapido!	normal	1	0	0	5	0	
+Raw Recruiting	normal	1	0	0	0	0	beer helmet
+Reach Out and Offend Someone (Cinco de Mayo)	normal	1	0	5	0	0	
+Reach Out and Offend Someone (Seaside Town)	normal	1	0	-5	0	-15	
+Reach Out and Offend Someone (South of the Border)	normal	1	0	5	0	0	
+Remembarrr the Main	conditional	1	0	0	0	0	Spanish fly trap
+Respect Your Elders	one_time	1	0	0	0	0	
+Returning to the Tomb	normal	2	0	0	0	0		0	0	0	0	
+Rick, the Slick Lihc	normal	1	0	0	0	0	vial of ectoplasm
+Right in the Vestibule!	normal	1	0	0	0	0	safety vest
+Ring that Bell	normal	1	0	0	0	0	
+Rock and Roll, eh?	normal	1	0	15	0	100	
+Rock-a-bye Larva	conditional	1	0	0	0	0	mosquito larva
+Rod Nevada, Vendor	one_time	2	0	0	0	0		0	0	0	0	
+Rokay, Raggy!	semi_rare	1	0	0	0	0	irradiated pet snacks
+Roll out the Barrels	normal	1	16	0	0	0	
+Rolling Stone Trap	normal	1	5	0	0	0	
+Rolling Stone Trap (HP loss)	normal	1	0	0	0	0	
+Rolling the Bones	clover	1	0	0	0	0	disembodied brain, smart skull
+Room 10: Treasure!	normal	1	0	0	0	0	
+Room 3: Treasure!	normal	2	0	0	0	0		0	0	0	0	
+Room 6: Treasure!	normal	2	0	0	0	0		0	0	0	0	
+Room Raider	normal	1	0	0	0	0	Orcish cargo shorts
+Rosie The Seamstress-er	normal	1	0	0	0	0	bullet-proof corduroys
+Rosie the Carpenter	normal	1	0	0	0	0	homoerotic frat-paddle
+Rotting Matilda	conditional	1	0	2 prime * 300 min	0	0	
+Roulette Antics	normal	1	0	0	0	10	
+Roulette Goings-On	normal	1	0	0	0	0	
+Roulette Grabassing	normal	1	0	0	0	10	ice-cold Sir Schlitz
+Roulette Hijinks	normal	1	0	0	0	50	
+Roulette Mischief	normal	1	0	0	0	40	
+Roulette Monkeyshines	normal	1	0	0	0	0	
+Roulette Shenanigans	normal	1	0	0	0	20	
+Roulette Tomfoolery	normal	1	0	0	0	0	
+Rubble Rubble	normal	1	0	0	0	0	figurine of a slippery seal
+Rudolph the Red, the Reindeer	normal	1	0	0	0	0	candy cane or eggnog or fruitcake or gingerbread bugbear
+Rufus, the Gift-wrapping Elf	normal	1	0	0	0	0	candy cane or eggnog or fruitcake or gingerbread bugbear
+Saint Beernard	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Salty Old Men	one_time	1	0	0	0	0	
+Sand in the Vaseline	semi_rare	1	0	0	0	0	bottle of rhinoceros hormones
+Sandstorm, Take Me Away from the Norm	normal	1	0	0	0	0	
+Sandwiched in the Club	bad_moon	1	0	0	0	0	
+Save the Dolls/Save the Cardboard	normal	2	0	0	0	0		0	0	0	0	
+Save the Texas Prairie Chicken	normal	1	0	0	0	0	wool hat
+Savior Faire	normal	3	0	25	0	0		25	0	0	0		0	0	25	0	
+Say Cheese!	bad_moon	1	0	0	0	0	anticheese
+Screwdriver, wider than a mile.	one_time	1	0	0	0	0	rusty screwdriver
+Screwed	normal	1	0	0	0	0	portable corkscrew
+Screwing for Celibacy	normal	1	0	0	100	0	
+Seal Taint in the Soiled Tent	normal	1	0	0	0	0	figurine of a stinking seal
+See You Next Fall	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+See You l8r, Gnome.	normal	1	0	15	0	0	
+Seriously, I Just Read It For the Articles	normal	1	0	0	0	0	
+Sewage Moat	normal	1	0	0	0	0	
+Sewer Luck!	clover	1	0	0	0	0	three out of: disco ball, disco mask, helmet turtle, mariachi pants, pasta spoon, ravioli hat, saucepan, seal-clubbing club, seal-skull helmet, spices, stolen accordion, turtle totem, worthless trinket
+Shalandria Gammon, née Rhonda Norton‎	normal	1	0	0	0	0	Elvish delight
+Shall We Dance	bad_moon	1	0	0	0	0	
+Shoe of Many Colors	normal	1	0	0	0	0	pretentious palette
+Showdown	normal	2	0	0	0	0		0	0	0	0	
+Sing This Explosion to Me	normal	1	0	0	0	0	Orcish baseball cap
+Singled Out	normal	1	0	0	0	0	
+Skull, Skull, Skull	normal	1	0	50	0	0	
+Smells Like Team Spirit	normal	3	0	0	0	0		0	0	0	0		15	0	0	0	
+Smooth Criminal	normal	1	0	0	0	0	
+Snow, Man	normal	1	0	0	0	0	
+Some Bricks Do, In Fact, Hang in the Air	semi_rare	1	0	0	0	0	fire flower
+Some Things Never Change	clover	1	0	0	0	0	
+Somewhat Higher and Mostly Dry	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Soup For You	normal	1	10	0	0	0	
+Souped Up	normal	1	0	10	0	0	
+Soupercharged	normal	1	0	0	0	0	
+Spared in the Dark	normal	1	0	3	0	0	
+Speak, Frat Boy, and Enter	normal	1	10	0	0	100	
+Spirit of the Dolphin King	normal	1	0	0	0	0	
+Spirit of the Slug Lord	normal	1	0	0	0	0	the Slug Lord's map
+Spooky Sapling	one_time	1	0	0	0	0	spooky sapling
+Spooky Wheelbarrow	one_time	1	0	0	0	0	spooky fairy gravy, spooky fairy gravy
+Spooky-Gro	conditional	1	0	0	0	0	Spooky-Gro fertilizer
+Spooky-Night Spooky Day, the Zomborian	normal	1	0	0	0	0	strawberry-flavored Hob-O
+Stage Fright	clover	1	0	0	0	0	spooky lipstick
+Step Up to the Table, Put the Ball in Play	normal	1	0	0	0	0	
+Stewart, the Sheepish Jester	normal	1	0	0	0	0	roll of Hob-Os
+Still Better Than Pistachio	normal	1	0	0	0	0	
+Still No Colors Anymore	one_time	1	0	0	0	0	
+Still Suits Run Deep	normal	1	0	0	0	0	
+Strategy: Get Arts	bad_moon	1	0	0	0	0	
+Strung-Up Quartet	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Stumped (Camp Logging Camp)	normal	1	0	0	0	0	
+Sun at Noon, Tan Us	normal	3	0	prime min 250	0	0		0	0	0	0		0	0	0	0	Sunburned 10
+Sunken, Buried	conditional	1	0	0	0	0	slimy chest
+Surprising!	bad_moon	1	0	0	0	0	Familiar-Gro™ Terrarium, black kitten
+Susie, the Arena Mistress (Halloween)	normal	1	0	0	0	0	3 Yummy Tummy beans
+Sweatin' Like a Vet'ran	bad_moon	1	0	0	0	0	
+Sweeping Up the Skeleton Bones	clover	1	0	0	0	0	pile of dusty animal bones
+Swinging Blade Trap	normal	1	5	0	0	0	
+Take One Step Forward and You're a Better Person	normal	1	35	0	0	0	
+Take a Look, it's in a Book! (Fall)	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+Take a Look, it's in a Book! (Rise)	normal	3	0	0	0	0		0	0	0	0		0	5	5	0	
+Take a Number	normal	1	0	0	0	0	
+Take the Red Pill/Take the Blue Pill	normal	2	0	0	0	0		0	0	0	0	
+Tall Tales and Low Blows	normal	1	0	0	0	0	
+Tang Lung, the Ninja Snowman	one_time	1	0	0	0	0	really big tiny house
+Tarnose Cohan, the Scratchanist	normal	1	0	0	0	0	sterno-flavored Hob-O
+That Explains All The Eyepatches	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+That Takes The Cake	conditional	1	0	0	0	0	vanilla-frosted king cake, banana-frosted king cake, blueberry-frosted king cake, chocolate-frosted king cake
+That's Amore	clover	1	0	0	0	0	
+That's My Favorite Kind of Contraption	bad_moon	1	0	0	0	0	
+That's a Tidy Bowl, Man!	clover	1	0	0	0	0	
+That's your cue	normal	1	0	0	0	0	pool cue
+The Animal Instinct	normal	1	0	0	0	50	
+The Apathetic Lizardman	normal	1	0	0	10	0	
+The Apathetic Lizardman (Halloween)	normal	1	0	0	0	0	Mr. Mediocrebar
+The Armorer/Leggerer	normal	1	0	0	0	0	Daffy Taffy
+The Arrrbitrator	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+The Baker's Dilemma	normal	3	0	0	0	0		0	0	0	0		0	5	0	0	
+The Beached Boys	normal	1	15	0	0	0	
+The Beaten-Senseless Man's Hand	bad_moon	1	0	0	0	4,000	
+The Big Chill	bad_moon	1	0	0	0	0	
+The Big Frat House in the Sky	normal	1	0	0	0	50	
+The Biggest Bathtub Ever	normal	1	0	0	0	0	
+The Blackberry Cobbler	normal	4	0	0	0	0		0	0	0	0		0	0	0	0		0	0	0	0	
+The Bleary-Eyed Cyclops	semi_rare	1	0	0	0	0	cyclops eyedrops
+The Bugbear Baker	normal	1	0	0	0	0	gingerbread bugbear
+The Bum's Dilemma	normal	1	0	0	0	8	
+The Cat's in the Castle and the Silver Spoon	normal	1	0	0	0	0	
+The Chamber Music of the Sea	normal	1	0	0	50	0	
+The Compostal Service	normal	2	0	0	0	0		0	0	0	0	
+The Conundrums of War	normal	1	0	0	0	0	round purple sunglasses
+The Crass Goblin	normal	1	0	10	0	0	
+The Crotchety Wizard	normal	1	0	0	12	0	
+The Dumb Minotaur	normal	1	14	0	0	0	
+The Dusk Zone	normal	1	0	0	0	0	Pan-Dimensional Gargle Blaster
+The Effervescent Fray	normal	3	0	0	0	0		0	0	0	0		0	0	15	0	
+The Elements of Surprise . . .	normal	1	0	0	0	0	
+The Entertainer	normal	1	0	5	0	0	
+The Fabulous Seven	normal	1	0	0	0	50	
+The Far Side of Sanity	normal	1	0	0	0	0	
+The Fierce-Looking Giant	normal	1	0	0	11	0	
+The Former or the Ladder	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+The Frigid Air	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+The Furtivity of My City	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+The Gelatinous Cube	normal	1	12	0	0	0	
+The Ghost of Dr. Hobo Jones	one_time	1	0	0	0	0	Dr. Hobo's map
+The Gift Shop Guy	normal	1	0	0	0	0	toothbrush
+The Gift of Gag	normal	1	0	0	0	0	vial of patchouli oil
+The Gnome with a Truncheon	normal	1	11	0	0	0	
+The Goblin King's Vassal	normal	1	0	0	0	0	tassel
+The Haiku Dungeon 1	normal	1	0	0	0	0	
+The Haiku Dungeon 2	normal	1	0	0	0	0	
+The Haiku Dungeon 3	normal	1	0	0	0	0	
+The Haiku Dungeon 4	normal	1	0	0	0	0	
+The Haiku Dungeon 5	normal	1	0	0	0	0	
+The Hazer Becomes the Hazed	normal	1	15	0	0	0	bottle of whiskey
+The Hennamaster	normal	1	0	0	0	0	henna tattoo
+The Horror...	normal	1	0	0	0	0	grinning turtle
+The Hunger	normal	1	0	21	0	0	
+The Insatiable Maiden	normal	1	0	11	0	0	
+The Inverse is Also True	normal	1	0	0	5	0	
+The Latest Sorcerous Developments	semi_rare	1	0	0	0	0	teeny-tiny magic scroll
+The Luckiest Gambler	clover	1	0	0	0	320	
+The Manor in Which You're Accustomed	normal	1	0	0	0	0	
+The Market Demon (Halloween)	normal	1	0	0	0	2-4 Meat.	
+The Mystic Seal	normal	1	0	0	0	0	
+The Naked Truth	normal	1	0	0	0	0	filthy corduroys
+The Night Gallery	normal	1	0	0	0	0	
+The Old Man	normal	1	0	0	0	0	pixellated candy heart
+The Old Switcheroo	normal	1	0	0	16	0	
+The One-Legged Trouser	normal	1	0	0	0	0	dungeoneer's dungarees
+The Only Thing About Him is the Way That He Walks	normal	2	0	25	0	0		0	0	0	0	
+The Oracle Will See You Now	one_time	3	0	0	0	0		0	0	0	0		0	0	0	0	
+The Orc With a Spork	normal	1	0	0	0	0	spork
+The Paper Chase	normal	1	0	0	0	0	dwarvish document, dwarvish parchment, dwarvish paper
+The Pilsbury Doughjerk	semi_rare	1	0	0	0	0	3 plural
+The Placebo Defect	bad_moon	1	0	0	0	0	potato sprout
+The Primordial Directive	normal	2	0	0	0	0		0	10	0	0	
+The Real Thing	normal	1	0	0	0	0	
+The Return of the Dishwasher	normal	1	0	0	21	0	
+The Right To Bugbear Arms	normal	1	10	0	0	0	
+The Right to Bear Arrrrms	normal	1	60	0	0	0	
+The Road Less Visible	normal	2	0	0	0	0		0	0	0	0	
+The Salt of the Earth	normal	1	0	0	0	0	3 plural
+The Salt of the Sea	one_time	1	0	0	0	0	
+The Savorier Savior	normal	3	0	25	0	0		25	0	0	0		0	0	25	0	
+The Singing Tree (Rustling)	normal	1	0	0	5	0	
+The Sleeper Has Awakened	one_time	1	0	0	0	0	worm-riding hooks
+The Slime Puddle	normal	1	0	10	0	0	
+The Source	normal	1	0	0	0	0	unrefined Mountain Stream syrup
+The Sozzled Old Dragon	normal	1	10	0	0	0	
+The Story So Far	normal	1	0	0	0	0	
+The Tale of the Mysterious Albino Ladies and Stuff	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Bedroom Game	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Beekeeper	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Diminishing Returns	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Event at Makeout Point‎	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Green Ribbon	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Hellhound	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious House in the Suburbs	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Moping Prince	normal	1	0	0	0	0	roasted marshmallow
+The Tale of the Mysterious Sexy Pottery	normal	1	0	0	0	0	roasted marshmallow
+The Thin Tie-Dyed Line	normal	2	0	0	0	0		0	50	0	0	
+The Too-Much Booze Blues	normal	1	-1	-1	-1	0	
+The Unbearable Supremeness of Being	normal	1	0	0	0	0	
+The Unguarded Chest	normal	1	0	0	0	30	
+The Unkindest Cut	normal	1	0	0	0	0	blue ribbon
+The Unpleasant Satyr	normal	1	0	12	0	0	
+The Unthawed	normal	1	0	0	0	0	
+The Vampire Buffer	normal	1	0	0	14	0	
+The Wake-Up Call of Kermithulhu	normal	1	0	0	40	0	
+The Walking-Stick Rebellion	normal	1	0	0	0	0	3 strawberry
+The Warehouse of Eternal Stench	normal	1	0	0	0	0	
+The Weathered Old Chap	clover	1	0	0	0	0	foon
+The Witch	normal	1	0	14	0	0	
+There Goes Fritz!	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+There is Sauce at the Bottom of the Ocean	normal	2	0	0	0	0		0	0	0	0	
+These Pipes... Aren't Clean!	normal	1	75	0	0	0	
+They Gave at the Morgue	normal	1	0	0	0	0	
+They Hate That	normal	1	0	0	0	0	
+They Only Read It For the Articles	normal	1	0	0	0	0	dwarvish magazine
+They Tried and Pailed	normal	1	0	0	0	0	pail of pretentious paint
+This Adventure Bites	normal	1	0	0	0	0	Orcish Frat House blueprints 
+This Adventure Blows	normal	1	80	0	0	0	
+This Doesn't Look Like Candy Mountain	bad_moon	1	0	0	0	1,000	
+This Van's a' Rockin'	normal	1	0	0	0	0	
+Three-One-Bee, the Gnomish Automaton	normal	1	0	0	0	0	Sugar Cog
+Throwin' Down the Gauntlet	normal	1	0	0	0	0	
+Thud	normal	1	0	0	0	0	
+Time Isn't Holding Up; Time Is a Doughnut	normal	1	5	0	0	0	
+Time to Split	normal	1	0	0	15	100	
+To the Rescue	normal	1	0	0	0	0	orange traffic cone, yellow traffic cone, red traffic cone, green traffic cone, blue traffic cone
+Too Hot To Handle	normal	1	0	0	0	0	
+Torgie, the Zmobie	normal	1	0	0	0	0	candy brain
+Trapstravaganza	clover	1	5	5	5	0	
+Treasury Chest	normal	1	0	0	0	300	
+Trespasser	normal	3	0	0	0	0		0	0	7	0		0	0	0	0	
+Trigger? I hardly...	normal	1	0	0	0	0	Twitching trigger finger
+Troy, the Orcish Frat Boy	normal	1	0	0	0	0	bottle of gin, bottle of rum, bottle of vodka, bottle of whiskey
+Turn Your Head and Coffin	normal	1	50	0	0	0	
+Turtles All The Way Around	normal	1	0	0	0	0	syncopated turtle
+Turtles of the Universe	normal	1	0	0	0	0	skeletortoise
+Ulrich Haarbürste	normal	1	0	0	0	0	fruitfilm
+Ultimately Lame	normal	1	0	0	70	0	
+Uncle Jerry Wants You	normal	1	0	0	0	0	reinforced beaded headband
+Uncle Steve Wants You!	normal	1	0	0	0	0	bejeweled pledge pin
+Under the Knife	normal	2	0	0	0	0		0	0	0	0	
+Unholy Writes	normal	1	0	0	0	0	
+Unstubbed	one_time	1	0	0	0	0	ring of half-assed regeneration
+Up in the Hippo Room	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Urning Your Keep	normal	1	0	0	5	0	
+Uuuuuuunionize!	normal	1	0	0	25	0	
+V is for Victory	normal	1	70	0	0	0	
+Vampire Hunter G	normal	1	0	0	0	0	wooden stakes
+Van, Damn	conditional	2	0	0	0	0		0	0	0	0	
+Violet Fog	normal	1	0	0	0	0	Cerebral Cloche, Cerebral Crossbow, Cerebral Culottes, homeopathic healing powder, ice stein, munchies pill
+Vole Call!	bad_moon	1	0	0	0	0	
+Voulez-vous manger avec moi?	normal	1	0	0	0	0	jar of "Creole Lady" marrrmalade
+Walk Without Rhythm	one_time	1	0	0	0	0	
+Walk Without Rhythm 2	one_time	1	0	0	0	0	
+War, Man. Like, Wow.	normal	1	0	0	0	0	lead pipe, 3 water pipe bombs, communications windchimes
+Watch Where You're Going, Jerk!	normal	1	-5	0	0	0	
+Way Ponderous	normal	1	0	0	0	0	
+We Apologize To Our English Players For the Lameness of the Pun	normal	1	0	0	0	0	3 bottle of rum
+We'll All Be Flat	one_time	1	0	0	0	0	
+We're on a Bridge!	one_time	1	0	0	0	0	Azazel's unicorn
+Welcome To You!	normal	2	0	0	0	0		0	0	0	0	
+Well, That Was Easy	one_time	1	0	0	0	0	thick padded envelope
+What Can You Do?	conditional	1	0	0	0	0	3 baseballs
+What Do We Want?	bad_moon	1	0	0	0	0	
+What Is This, Some Kind of Joke?	normal	1	0	0	0	0	
+What The...!?	normal	1	0	0	0	0	
+What Were You Expecting?	normal	1	0	0	0	0	
+What Would You Do For Some Worthless Crap	normal	1	0	0	0	0	string of blue beads, string of green beads, string of red beads
+What a Maroon	normal	1	0	0	0	0	goatskin umbrella
+What a Tosser!	normal	1	15	0	0	100	
+What are the Odds?	normal	1	0	0	0	0	chaos butterfly, plot hole
+What is it Good For?	normal	3	0	0	0	0		0	0	0	0		0	15	0	0	
+What the Cluck?	clover	1	0	0	0	0	black picnic basket
+What's Brown and Sounds Like a Parrot?	normal	1	0	0	0	0	jug-o-magicalness, secret blend of herbs and spices, wad of tofu
+What's Up, Chuck?	normal	1	0	0	0	-15	
+What's that smell?	normal	1	0	0	0	3	
+Whee!	one_time	1	0	0	0	0	carved wooden wheel
+Wheel in the Clouds in the Sky, Keep On Turning (B)	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Wheel in the Clouds in the Sky, Keep On Turning (C)	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Wheel in the Clouds in the Sky, Keep On Turning (D)	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Wheel in the Clouds in the Sky, Keep On Turning (G)	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Wheel in the Pyramid, Keep on Turning	normal	2	0	0	0	0		0	0	0	0	
+When Rocks Attack	one_time	2	0	0	0	0		0	0	0	0	
+Where There's Smoke...	normal	1	0	0	20	0	
+White Men Shouldn't Drink	normal	1	0	0	0	0	ice-cold Willer
+Whoah, It's So Meta!	normal	1	0	0	0	-25	
+Why Did It Have To Be Snake Eyes?	bad_moon	1	0	0	0	0	loaded dice
+Winter is So Last Year	normal	1	0	0	0	0	
+With a Clatter	clover	1	0	0	0	0	
+Worries for Another Day	normal	1	0	0	0	0	
+Wrasslin'	normal	1	10	0	0	0	
+X Spots the Mark	normal	1	15	0	0	0	
+Yes, Soup For You...	normal	1	0	0	10	0	
+Yes, You're a Rock Starrr	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Yet Another Troll	normal	1	0	0	0	0	
+Yeti Nother Hippy	normal	3	0	0	0	0		0	0	0	0		0	0	0	0	
+Yiff, the Furry	normal	1	0	0	0	0	Tasty Fun Good rice candy
+Yo Ho Ho and a Bottle of Whatever This Is	semi_rare	1	0	0	0	0	bottle of pirate juice
+You Better Work It	normal	1	70	0	0	0	
+You Can Never Be Too Rich or Too in the Future	normal	2	0	0	0	0		0	0	0	0	
+You Can Top Our Desserts, But You Can't Beat Our Meats	semi_rare	1	0	0	0	0	
+You Don't Want Fop!	normal	1	0	25	0	0	
+You Look Flushed	bad_moon	1	0	0	0	0	
+You Schmooze, You Lose	normal	1	0	0	0	0	
+You and the Cap'm Make it Hap'm	normal	1	0	0	0	0	Cap'm Caronch's Map
+You vs. The Volcano	normal	2	0	0	0	0		0	0	0	0	
+You'll Put Your Eye Out	normal	1	0	0	0	0	
+You're Gonna Carry That Weight	normal	1	8	0	0	0	
+You've Hit Bottom	one_time	1	0	0	0	0	globe of Deep Sauce (Sauceror) ''or'' bubbling tempura batter (Pastamancer)
+Your Favorite Joke	normal	1	0	0	19	0	
+Yum-Yum Sinclair Snowballeater, the Frostyterian	normal	1	0	0	0	0	frostbite-flavored Hob-O
+Zerg Rush	normal	1	0	0	0	0	
+eXtreme Trick-Turning	normal	1	0	0	15	0	
+eXtremely Lost	normal	1	0	0	0	0	bag of Cheat-Os, insanely spicy bean burrito, six pack of Mountain Stream
+‎Claude "Drippy" O'Hanrahan, Slug Farmer	normal	1	0	0	0	0	Good 'n' Slimy

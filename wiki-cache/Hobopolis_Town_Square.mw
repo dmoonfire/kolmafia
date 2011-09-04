@@ -1,0 +1,52 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The [[Hobopolis Town Square]] is the central area of [[Hobopolis]].  It can be accessed as soon as you navigate your way through the [[The Old Sewers|sewers]].
+
+If you attempt to adventure here after someone in your clan has already defeated [[Hodgman, The Hoboverlord]], you will see the message:
+
+:You shouldn't be here.
+
+===Combat Adventures===
+{{Combat|name=Normal hobo}}
+{{Combat|name=Hodgman, The Hoboverlord|note1=Occurs in [[Enter The Hoboverlord]]}}
+
+===Non-combat Adventures===
+{{choice|name=Mind Yer Binder|image=Glyphsign1.gif
+|choice1name=Buy the [[hobo code binder|binder]] (30 [[hobo nickel]]s)|choice1=
+|choice2name=Leave|choice2=Nothing. (does not consume an adventure)
+}}
+
+{{choice|name=Marketplace Entrance|image=shacks.gif
+|choice1name=Enter the Marketplace|choice1=Navigate a [[The Hobo Marketplace|maze of signs in hobo code]].
+|choice2name=Leave|choice2=Nothing. (does not consume an adventure)
+|note1=Only occurs once you have bought a [[hobo code binder]].
+|note2=Signs in the adventure can only be translated if you have your [[hobo code binder]] equipped and have encountered appropriate [[hobo code binder#Notes|hobo code adventures]].
+}}
+
+{{choice|name=Attention -- A Tent!|image=Patchworktent.gif
+|choice1name=Slip in the back, Jack|choice1=
+|choice2name=Head in the front, uh... Joe|choice2=[[Working the Crowd]]
+|choice3name=Just leave, Steve|choice3=Nothing.  (does not consume an adventure)
+|note1=Unlocked once the Town Square image reaches townsquare125.gif, appearing sequentially after townsquare12.gif & before townsquare14.gif (instead of townsquare13.gif)
+}}
+
+{{choice|name=Enter The Hoboverlord|image=hobofort.gif
+|choice1name=Charge!|choice1=Fight [[Hodgman, The Hoboverlord]]
+|choice2name=Run away, run away!|choice2=Nothing.  Does not consume an adventure.
+|note1=Is unlocked when the Town Square image reaches townsquare25.gif}}
+
+{{Adventure|name=Not Now!|image=hobofort.gif|note1=Occurs if another clanmate is already fighting [[Hodgman, The Hoboverlord]].  Does not consume an adventure.}}
+
+==Notes==
+*Doing an excessive amount of damage of a single type to kill a hobo in this area creates a scarehobo part. The lowest amount of damage required is around 500-600, depending on your active +ML modifiers. If you get a scarehobo part, you can't get any item drops, and part creation is not affected by +items equipment.
+:*Doing Hot damage gives Charred Hobo Boots
+:*Doing Cold damage gives Frozen Hobo Eyes
+:*Doing Stench damage gives Stinking Hobo Guts
+:*Doing Spooky damage gives Creepy Hobo Skulls
+:*Doing Sleaze damage gives Hobo Crotches
+:*Doing Physical damage gives Hobo Skins
+*Each scarehobo made at [[Richard's Redoubt]] kills several hobos, helping advance this area faster.
+
+{{HobopolisNav}}
+
+[[Category:Locations]]

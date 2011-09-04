@@ -1,0 +1,77 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The [[Outskirts of Cobb's Knob]], located in [[The Nearby Plains]], is the first area the Toot Oriole tells new adventurers to go to.  At first, only Cobb's Knob is available.  Once you reach level 5 and talk to the Council of Loathing, you can go inside [[Cobb's Knob]] and from there on that's where you can reach the Outskirts of Cobb's Knob.
+
+==Combat Adventures==
+{{Combat|name=Knob Goblin Assistant Chef}}
+
+{{Combat|name=Knob Goblin Barbecue Team}}
+
+{{Combat|name=sleeping Knob Goblin Guard}}
+
+{{Combat|name=Sub-Assistant Knob Mad Scientist
+|note1=Potential Effect: [[Mad at Science]] (5 Adventures)}}
+
+==Non-combat Adventures==
+{{choice|name=Ennui is Wasted on the Young|image=goblinteen.gif
+|choice1name="Wrestling's fun. Wanna wrestle?"|choice1=4-5 {{muscle}} and <font color="red">lose</font> 2 [[HP]] ''or'' 7-8 {{muscle}} and [[Pumped Up]] (10 Adventures)
+|choice2name="You could go get me a beer."|choice2=[[ice-cold Sir Schlitz]]
+|choice3name="Have you considered vandalism, loitering, and petty theft?"|choice3=2-3 {{moxie}}, [[lemon]]
+|choice4name="Since you're bored, you're boring. I'm outta here."|choice4=(Does not use an adventure)}}
+
+{{choice|name=Knob Goblin BBQ|image=goblinbbq.gif
+|choice1name=Kiss the chef|choice1=[[lit birthday cake]] ([[Ascension#One Time|one time]]), <font color="red">lose</font> 2 [[HP]]
+|choice2name=Kick the chef|choice2=fight [[Knob Goblin Barbecue Team]]
+|choice3name=Abscond with some goodies|choice3=[[bowl of cottage cheese]] ''or'' [[Kiss the Knob apron]] ''or'' [[Knob Goblin pants]] ''or'' [[Knob Goblin tongs]]}}
+
+{{choice|name=Malice in Chains|image=wagon.gif
+|choice1name=Serve your sentence|choice1=4-5 {{muscle}}
+|choice2name=Rise and revolt|choice2=6-8 {{muscle}} ''or'' <font color="red">lose</font> 1 [[HP]]
+|choice3name=Plot a cunning escape|choice3=fight [[sleeping Knob Goblin Guard]]}}
+
+{{Adventure|name=C'mere, Little Fella|drops=[[knobby helmet turtle]]|image=tree.gif|note1=Only occurs with the [[Eau de Tortue]] effect.|note2=Does not cost an adventure.}}
+
+{{choice|name=When Rocks Attack|image=tree.gif
+|choice1name="Sure, I'll help."|choice1=30 Meat
+|choice2name="Sorry, gotta run."|choice2=(Does not use an adventure)
+|note1=This adventure triggers the [[Wounded Guard Quest]] and doesn't occur after choosing to help (becomes a [[Ascension#One Time|one-time]] adventure).}}
+
+{{Adventure|name=Brushed off...|drops=[[pretentious paintbrush]]|image=goblinfork.gif|note1=This [[Ascension#One Time|one-time]] adventure is triggered after speaking to the [[The Dirt-Walled Hovel of the Pretentious Artist|Pretentious Artist]].}}
+
+{{Adventure|name=Code Red|drops=[[Knob Goblin encryption key]]|image=Sleepguard.gif|note1=A [[Ascension#One Time|one-time]] adventure|note2=Unaffected by [[Combat Frequency]] modifiers}}
+
+{{Adventure|name=A Funny Thing Happened...|meat=75|image=chest.gif|note1=<font color=red>Lose</font> 1 [[HP]]|note2=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=The Ghost of Dr. Hobo Jones|drops=[[Dr. Hobo's map]]|image=hoboghost.gif|note1=A [[Ascension#One Time|one-time]] adventure.}}
+
+{{Adventure|name=Unstubbed|drops=[[ring of half-assed regeneration]]|image=goblinaxe.gif|note1=This [[Ascension#One Time|one-time]] adventure is triggered after buying a [[Doc Galaktik's Pungent Unguent|pungent unguent]] when assigned during the [[Wounded Guard Quest]].}}
+
+{{Adventure|name=Lunchboxing|drops=[[Knob Goblin lunchbox]]|image=lboxtree.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Adventure|name=Knob Goblin Luck!|drops=[[Knob Goblin Uberpants]]|stat=3 {{Moxie}}|image=fatgoblin.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=O Goblin, Where Art Thou?|image=Goblin.gif|note1=Gives 10 turns of [[Minioned]].|note2=[[Bad Moon]] only.}}
+
+==Retired Adventures==
+This area underwent a major revision on [[History of Loathing (2006)#November 28, 2006|November 28, 2006]].
+{{Adventure|name=Knob Goblin BBQ (Leftovers)|meat=5|image=Goblinbbq.gif}}
+
+{{Adventure|name=Knob Goblin BBQ (Share)|meat=5|image=Goblinbbq.gif}}
+
+{{Adventure|name=Knob Goblin dilemma|meat=7|image=Goblinfish.gif}}
+
+{{Adventure|name=Knob Goblin Labor|stat=2 {{Muscle}}|image=Goblin.gif}}
+
+{{Adventure|name=Knob Goblin Massacre|meat=6|stat=2 {{Muscle}}|image=Goblin.gif}}
+
+{{Adventure|name=Knob Goblin Meat Raid|meat=8|image=chest.gif}}
+
+{{Adventure|name=Knob Goblin Seamstress|stat=2 {{Muscle}}|image=fatgoblin.gif}}
+
+{{Adventure|name=Knob Goblin Tug of War|stat=3 {{Muscle}}|image=Goblinkid.gif}}
+
+{{Adventure|name=Little Lost Knob Goblin|drops=[[strongness elixir]]|image=Goblinkid.gif}}
+
+{{Adventure|name=Wrestling Match|stat=2 {{Muscle}}|image=fatgoblin.gif}}
+
+[[Category:Locations]]

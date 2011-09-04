@@ -1,0 +1,35 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[The Dungeons of Doom]] replace [[The Enormous Greater-Than Sign]] in [[The Dungeon Full Of Dungeons]] once you've [[The Secret of the Dungeons of Doom|discovered its secret]].  You must have 44 in your main stat to adventure here.
+
+==Combat Adventures==
+{{Combat|name=acid blob|note1=Physically attacking may give 5 turns of [[Corroded Weapon]].}}
+
+{{Combat|name=large kobold}}
+
+{{Combat|name=mind flayer|note1=Successful attack may give 10 turns of [[confused]].}}
+
+{{Combat|name=Quantum Mechanic|note1=Successful attack may give 10 turns of [[Teleportitis]].}}
+
+{{Combat|name=swarm of killer bees|note1=Successful attack may give 10 turns of [[Somewhat Poisoned]].}}
+
+{{Combat|name=Mimic (Cloak)|note1=Only occurs as a choice of [[Ouch! You bump into a door!]]|note2=The mimic cannot be [[pickpocket|pickpocketed]].}}
+
+{{Combat|name=The Master Of Thieves|note1=An [[Ultra Rares|ultra-rare]] adventure.}}
+
+==Non-combat Adventures==
+{{Adventure|name=A Dash of Boulder||stat=21 {{Muscle}}|image=apostrophe.gif}}
+
+{{Adventure|name=The Hunger|stat=21 {{Moxie}}|image=nhroom.gif}}
+
+{{Choice|name=Ouch! You bump into a door!|image=atsign.gif
+|choice1name=Buy a magic lamp (50 meat)|choice1=[[magic lamp]]
+|choice2name=Buy what appears to be some sort of cloak (5,000 meat)|choice2=Fight a [[Mimic (Cloak)|mimic]].
+|choice3name=Leave without buying anything.|choice3=Nothing. (Does not cost an adventure.)}}
+
+{{Adventure|name=The Return of the Dishwasher|stat=21 {{Mysticality}}|image=poundsign.gif}}
+
+==References==
+*Everything that occurs in this area is a reference to the computer game [[wikipedia:NetHack|''NetHack'']], a [[Wikipedia:Roguelike|derivative]] of ''[[Wikipedia:Rogue (computer game)|Rogue]]''. In ''Rogue'', the dungeon the player adventured in was referred to as the "Dungeon of Doom".
+
+[[Category:Locations|Dungeons of Doom, The]]

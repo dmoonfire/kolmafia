@@ -1,0 +1,29 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[An Octopus's Garden]] is located on [[The Sea Floor]] and is full of algae, cephalopods, plants, and poriferans.
+
+
+==Combat Adventures==
+{{Combat|name=Neptune flytrap|note1=Being hit by this monster can cause 10 adventures of [[Really Quite Poisoned]].|note2=The [[water-polo cap]] will only drop if you have asked [[Grandpa]] about flytraps, and is a [[Ascension#One Time|one-time]] drop.}}
+{{Combat|name=octopus gardener|note1=The [[sea radish]] will only drop if you have asked [[Grandpa]] about octopuses.}}
+{{Combat|name=sponge}}
+{{Combat|name=stranglin' algae}}
+
+==Non-combat Adventures==
+{{choice|name=In the Shade|image=strawhat2.gif
+|choice1name=Plant Some Seeds|choice1=Get a sea fruit or vegetable with a [[glob of green slime]] and a [[soggy seed packet]] in inventory.  Else, nothing.
+|choice2name=Plant Some Wild Oats|choice2=Skip adventure
+|note1=Must have a [[straw hat]] equipped and a [[soggy seed packet]] or a [[glob of green slime]] in inventory for this adventure to occur.}}
+
+{{Adventure|name=Sunken, Buried|image=slimychest2.gif
+|drops=[[slimy chest]]
+|note1=Will only occur with an [[octopus's spade]] equipped.}}
+
+==Notes==
+*This is an underwater zone. It features all the restrictions and special mechanics of [[underwater adventuring]].  Amongst other things, this means this zone has a <font color=red>-100%</font> penalty to [[Meat from Monsters|meat drops]] and [[Items from Monsters|item drops]].
+*If the player is wearing the equipment that allows either or both of the non-combats to appear, they will appear as normal non-combat adventures at a frequency of 5%. As normal non-combats, they can be affected by [[Combat Frequency]] modifiers.
+
+==References==
+*"[[Wikipedia:Octopus's Garden|Octopus's Garden]]" was a [[Wikipedia:The Beatles|Beatles]] song written by [[Wikipedia:Ringo Starr|Ringo Starr]].
+
+[[Category:Locations|Octopus's Garden, An]]

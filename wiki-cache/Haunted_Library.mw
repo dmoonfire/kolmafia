@@ -1,0 +1,81 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+The Haunted Library is located in [[Spookyraven Manor]], an area that takes the place of [[The Haunted Pantry]] on the [[Right Side of the Tracks]]
+
+If you try to try to enter before unlocking it, you will get the message:
+
+:You try to enter the Haunted Library, but the door is locked. I guess this particular information doesn't want to be free.
+
+To unlock the library, you must first [[Minnesota Incorporeals|find]] the [[Spookyraven library key]].  Once you have entered, be sure to browse the stacks - the library has books catering to every... taste.
+
+If your main stat isn't high enough, you will see the following message:
+
+:As you get near the library, you start thinking about all of the times you've been hurt because of libraries. Like the time that librarian broke your knees because you couldn't pay your overdue book fines, and the time that you tripped over a drawer that had been left open in the card catalog and got a black eye.
+
+:Maybe you should come back when you're a little tougher, so that you don't get hurt again.
+
+:(You must have at least 40 <Stat> to adventure here.)
+==Combat Adventures==
+{{Combat|name=banshee librarian}}
+
+{{Combat|name=bookbat}}
+
+{{Combat|name=writing desk}}
+
+==Non-combat Adventures==
+{{Choice|name=Take a Look, it's in a Book! (Rise)|image=bookshelf.gif
+|choice1name=Read [[History is Fun! (The Rise of the House of Spookyraven)|"The Rise of the House of Spookyraven"]]
+|choice1=<br />
+**'''Chapter 1:''' Lord Spookyraven arrives in town...
+**'''Chapter 2:''' Spookyraven Manor is built...
+**'''Chapter 3:''' Lord Spookyraven in the library...
+|choice2name=Read "The Better Haunted Homes and Conservatories Cookbook"
+|choice2=Get a random [[cooking]] recipe.
+|choice3name=Read [[Naughty, Naughty...|"Ancient Forbidden Unspeakable Evil, a Love Story"]]
+|choice3=<br />
+**'''Chapter 1:''' You gain 14-75 {{Mysticality}}.
+**'''Chapter 2:''' You gain 18-75 {{Moxie}}.
+**'''Chapter 3:''' You lose 10-15 HP {{element|spooky}}
+***'''If [[Pastamancer]] with [[English to A. F. U. E. Dictionary]]:''' Gain [[Fearful Fettucini]] skill.
+***'''If [[Sauceror]] with [[English to A. F. U. E. Dictionary]]:''' Gain [[Scarysauce (skill)|Scarysauce]] skill.
+|choice4name=Reading is for losers
+|choice4=Leave, no adventure loss.
+|note1=Clicking the third book from the left on the top shelf consumes one adventure.  If this is the first time this [[ascension]] you have done this, it will grant access to the [[Spookyraven Manor, Second Floor|second floor]].}}
+
+{{Choice|name=Take a Look, it's in a Book! (Fall)|image=bookshelf.gif
+|choice1name=Read [[History is Fun! (The Fall of the House of Spookyraven)|"The Fall of the House of Spookyraven"]]
+|choice1=<br />
+**'''Chapter 1:''' Things Get Weirder
+**'''Chapter 2:''' Stephen and Elizabeth
+***Unlocks the [[Polo Tombstone]] adventure.
+**'''Chapter 3:''' Last Days
+|choice2name=Read "To Serve Man... Delicious Cocktails"
+|choice2=Get a random [[cocktailcrafting]] recipe.
+|choice3name=Read "Ancient Forbidden Unspeakable Yoga, a Beginner's Guide":
+|choice3=You lose 10-15 HP ('''{{element|Spooky|}}''' damage) and gain 26-75 {{Muscle}}.
+|choice4name=Reading is for losers
+|choice4=Leave, no adventure loss.
+|note1=Clicking the third book from the left on the top shelf consumes one adventure.  If this is the first time this [[ascension]] you have done this, it will grant access to the [[Spookyraven Manor, Second Floor|second floor]].}}
+
+{{Choice|name=Melvil Dewey Would Be Ashamed|image=Ravendesk.gif
+|choice1name=Hork the gray-bound volume|choice1=[[Necrotelicomnicon]]
+|choice2name=Yoink the green-bound tome|choice2=[[Cookbook of the Damned]]
+|choice3name=Gaffle the purple-bound book|choice3=[[Sinful Desires]]
+|choice4name=Leave without taking anything|choice4=Leave, no adventure loss.}}
+
+{{Adventure|name=Like the Sunglasses, But Less Comfortable|drops=[[black eyedrops]]|image=ravendesk.gif|note1=Occurs [[Semi-Rare Adventures|semi-rarely]].}}
+
+{{Adventure|name=Dust to Dust|stat=29-107 {{Mysticality}}|image=bookshelf.gif|note1=This adventure is triggered whenever you adventure here with a [[ten-leaf clover]] in your inventory.}}
+
+{{Adventure|name=Alice, the Ghostly Librarian|image=banshee.gif|note1=A [[Ascension#One Time|one-time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest.}}
+
+{{Adventure|name=Alice, the Ghostly Librarian|image=banshee.gif|drops=[[boock of darck magicks]]|note1=A [[Ascension#One Time|one-time]] adventure.
+|note2=Occurs during the [[Going Postal]] quest, after obtaining the [[vial of ectoplasm]].}}
+
+{{Adventure|name=Back Off, Man. I'm a Scientist.|image=Banshee.gif|note1=Gives 10 turns of [[Freaked Out]].|note2=[[Bad Moon]] only.}}
+
+==References==
+*[[Wikipedia:Information wants to be free|Information wants to be free]] is something of a slogan used by many (sometimes opposed) groups, including parts of the free content movement, the technological elite, anarchists, crackers, and parts of the sci-fi subculture.
+
+[[Category:Locations|Haunted Library, The]]

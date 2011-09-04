@@ -1,0 +1,61 @@
+{{Data:{{PAGENAME}}|format=INFOBOX_Location}}
+
+[[Sonofa Beach]] is located in [[The Lighthouse]] area of [[The Mysterious Island of Mystery]]. It can be reached [[The Mysterious Island of Mystery (Wartime)|during]] and [[The Mysterious Island of Mystery (Peaceful)|after]] the [[Mysterious Island Quest]]. 
+
+__TOC__
+
+<div class="center">[[Combat Frequency|Chance of a combat encounter in this area]]: 10% base[[Statistics Notes|*]]<br>
+<b>NOTE:</b> This rate may be decreased if you complete the quest as a Hippy.<br>
+See Discussion.</div>
+{{clear}}
+
+==Combat Adventures==
+
+{{Combat|name=lobsterfrogman}}
+
+==Non-combat Adventures==
+
+{{Adventure|name=A Latter-Day Litter Letter|drops=[[empty Cloaca-Cola bottle]], or [[empty Cloaca-Cola bottle]] and [[tattered scrap of paper]], or [[empty Cloaca-Cola bottle]] and [[scroll of pasta summoning]]|image=sandbottle.gif}}
+
+{{Adventure|name=Anchors Weigh|stat=Gain 30 {{muscle}}|image=sandcrate.gif}}
+
+{{Adventure|name=Beach Blanket Yahtzee|stat=Gain 35 {{moxie}}|image=lobsterman.gif}}
+
+{{Adventure|name=Can't Beat the Evil Thing|drops=[[empty Cloaca-Cola bottle]]|image=sandbottle.gif}}
+
+{{Adventure|name=Dad-a-Chick|note1=Gives 5 turns of [[Missing Fingers]]|image=lobsterman.gif}}
+
+{{Adventure|name=Every Seashell Has a Story to Tell|stat=Gain 100 {{mysticality}}|note1=<font color=red>Lose</font> 50 HP|note2=If [[Lord Spookyraven's ear trumpet]] is equipped this adventure is replaced by Every Seashell Has a Story to Tell If You're Listening.|image=beach.gif}}
+
+{{Adventure|name=Every Seashell Has a Story to Tell If You're Listening|note1=Occurs in place of Every Seashell Has a Story to Tell when [[Lord Spookyraven's ear trumpet]] is equipped.|note2=Grants a demon name for [[Summoning Chamber|summoning]].|image=beach.gif}}
+
+{{Adventure|name=Forget It|stat=Gain 35 {{muscle}}|image=barrel.gif}}
+
+{{Adventure|name=Hippies Don't Surf|stat=Gain 30 {{moxie}}|image=fratboy.gif}}
+
+{{Adventure|name=Mystical Crap|stat=Gain 30 {{mysticality}}|image=lobsterman.gif}}
+
+{{Adventure|name=One Man's Treasure|drops=3 [[valuable trinket]]s|image=sandcrate.gif}}
+
+{{Adventure|name=Save the Texas Prairie Chicken|drops=[[wool hat]]|image=chest.gif}}
+
+{{Adventure|name=The Wake-Up Call of Kermithulhu|stat=Gain 35-45 {{mysticality}}|image=lobsterman.gif}}
+
+{{Adventure|name=The Walking-Stick Rebellion|drops=3 [[strawberry|strawberries]]|image=skelremains.gif}}
+
+{{Adventure|name=We Apologize To Our English Players For the Lameness of the Pun|drops=3 [[bottle of rum|bottles of rum]], 3 [[lemon]]s, 3 [[lime]]s|image=sandcrate.gif}}
+
+{{Adventure|name=What a Maroon|drops=[[goatskin umbrella]]|image=oldguy.gif}}
+
+{{Adventure|name=Zerg Rush|note1=<font color=red>Lose</font> 50% - 100% of max HP
+|image=lobsterman.gif}}
+
+{{Adventure|name=Crate Expectations|drops=3 {{plural|figurine of a sleek seal}}|image=sandcrate.gif|note1=Occurs only for [[Seal Clubber]]s.}}
+
+==Notes==
+*For a few days after the release of [[NS13]] you were able to access this zone by using [[Teleportitis]]. This was a bug reported fixed by Jick on [[History of Loathing (2007)#June 25, 2007|June 25, 2007]].
+
+==References==
+*The title of this location is a play on the expression "Son of a Bitch." There was also a short-lived TV series by the name "[[IMDB:tt0235137|Son Of The Beach]]", which was produced by shock-jock Howard Stern.
+<!-- References to Starcraft, the Dark Tower, or whatever else go on the adventure's page, NOT the location page. -->
+[[Category: Locations]]
